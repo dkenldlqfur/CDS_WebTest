@@ -42,6 +42,17 @@ jobs:
       - uses: actions/checkout@v6
       - name: Keep streamed packs outside the Pages artifact
         run: python3 -c "import json,pathlib; assert all(not (pathlib.Path('site') / name).exists() for name in json.load(open('release-parts/manifest.json'))['packs'])"
+      - name: Keep deferred video files outside the Pages artifact
+        run: |
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+          site = Path('site')
+          for item in json.loads((site / 'assets-manifest.json').read_text())['files']:
+              path = Path(item['url'])
+              if item['deferred'] and path.parent == Path('assets/videos') and path.suffix == '.ogv':
+                  (site / path).unlink()
+          PY
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v4
         with:

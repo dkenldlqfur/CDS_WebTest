@@ -6,5 +6,7 @@
   "pck_sha256": "da471c74dc3195a0dc39c85a4658ac071f1de4f390d38a0c091de81350eda7ad",
   "wasm_sha256": "ffe29692a7a458edb71e84b7bbf550a5e4a61b1c031979bdeea01266a17f7185",
   "pack_delivery": "repository-parts",
-  "pack_commit": "d311c4b48211706d2a4138c061e8c9e21e863da4"
+  "pack_commit": "d311c4b48211706d2a4138c061e8c9e21e863da4",
+  "video_delivery": "repository-deferred",
+  "video_commit": "0b913974528dc8b4f8c789c0f13b149073a54e89"
 }
