@@ -1,7 +1,6 @@
 # CDS95 웹 테스트
 
-비공개 웹 테스트 패키지는 Releases에 게시합니다.
-
-[웹 테스트](https://dkenldlqfur.github.io/CDS_WebTest/)
+[브라우저에서 웹 테스트 실행](https://dkenldlqfur.github.io/CDS_WebTest/)
 
 이번 빌드는 술집과 여관의 항해사 정보 버튼을 포함합니다.
+Pages는 웹 실행 파일과 게임 리소스를 게시합니다. 서비스 워커는 이 저장소의 고정 커밋에서 게임 패키지를 읽습니다.

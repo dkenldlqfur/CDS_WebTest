@@ -1268,8 +1268,8 @@
     },
     {
       "path": "build-version.json",
-      "size": 264,
-      "sha256": "6fc4ce95f6a008641accbe77aeb04b8c1d06a3ddad8ed90cb96ac96921f8a418"
+      "size": 296,
+      "sha256": "d5745b3e281e514ba9693d37ecd2d22b97955d8d7c1a4f60ffcbac9393dfb399"
     },
     {
       "path": "cds_native.web.wasm",
@@ -1328,8 +1328,8 @@
     },
     {
       "path": "isolation-sw.js",
-      "size": 2469,
-      "sha256": "3eecb53643a33a897456873037ca786e9340f853b98ed5c34173f4c0f645024f"
+      "size": 4032,
+      "sha256": "7904a254d1afa13344aa62527827780d8de0c0d2bc4b5b8a5db52ab5461fff6f"
     },
     {
       "path": "LICENSE.DroidSans.txt",
