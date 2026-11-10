@@ -19,7 +19,7 @@
     {
       "path": "assets-manifest.json",
       "size": 65374,
-      "sha256": "5d87d04e90fa0320b57a05e4e6ef325ce8989c4f687cdaa0fd6f7fcb179e1512"
+      "sha256": "9a4e429574e7e5f8f34c3646304cc9cbf05c586e1aed03e32e72ffb8522ffa3f"
     },
     {
       "path": "assets/bgm/Track02.mp3",
@@ -473,8 +473,8 @@
     },
     {
       "path": "assets/data/strings.ko.json",
-      "size": 1211887,
-      "sha256": "575af6c7d1f9a8291e798889bcc62a7141941cedcccdf2f428de06e5cc2f80bf"
+      "size": 1215414,
+      "sha256": "c580a931a1f060c5d1a2dd1bd0b1d734dd273fc96eb67e5895154a6a8650967a"
     },
     {
       "path": "assets/sfx/WAVES_00.mp3",
@@ -1279,22 +1279,22 @@
     {
       "path": "build-version.json",
       "size": 606,
-      "sha256": "fb972e8e4bcf30d4666d282fdb4758ff7c00d82327d3cedd23cdbe6d7863acba"
+      "sha256": "1159d1e8f06bde1ce0d14174142d1c94c0cb7ae55064cde8f243904c694c0d84"
     },
     {
       "path": "cds_native.web.wasm",
-      "size": 9628032,
-      "sha256": "b330c07e44e067d5c91a98283ed9a4a83e9eeb8468afa0adce727a3fcc70e7d0"
+      "size": 9630395,
+      "sha256": "89489795e651b0c9be379ed9897113592965dfdc949f9cb06028594b66ad5c3e"
     },
     {
       "path": "game-data.pck",
-      "size": 20316608,
-      "sha256": "ffa02dd848d009b1fa2faeddc1f56423712d8141c4e541fec72031ef13bedbd0"
+      "size": 20320144,
+      "sha256": "9428dd13dccdb4cdd0737ecfecf25e89f2d22606b9a5bf217c1ffbb2393615d7"
     },
     {
       "path": "gameplay.pck",
-      "size": 1464544,
-      "sha256": "4b6c2d7b423b09aebee29d3ab3c226625008fea2b274b505c8bb75b21ae61f2f"
+      "size": 1466560,
+      "sha256": "6b296f1f60480d7c1123725c0fcfc9a29970d4d0f03cdbd814c9df0d1b069a40"
     },
     {
       "path": "graphics.pck",
@@ -1318,8 +1318,8 @@
     },
     {
       "path": "index.html",
-      "size": 24702,
-      "sha256": "afc8880806a510fa2f945c7c47dd3d16838c3bf75ac67e0575861e455403878e"
+      "size": 26289,
+      "sha256": "bea5edfdbd0c8d9dbd9994f178bd1078c6a5c60378435750f8c63bcdf7d6e172"
     },
     {
       "path": "index.icon.png",
@@ -1334,7 +1334,7 @@
     {
       "path": "index.pck",
       "size": 11296968,
-      "sha256": "ba8b06daa457b8abc1812cd67b1556ffef6cb121d64a14dcfc7d8c12e4ba1508"
+      "sha256": "59102f2a6af79d5f163a111d0fa38143c625f739d1dff9df925edcf2b6f877f8"
     },
     {
       "path": "index.png",

@@ -22,6 +22,7 @@ button:disabled{opacity:.5}
 #tools{position:absolute;z-index:2;left:50%;top:50%;transform:translate(-50%,-50%);width:var(--display-width,640px);height:var(--display-height,480px);pointer-events:none}
 #tools .direction-controls{position:absolute;left:8px;bottom:8px;transform:scale(var(--controls-scale,1));transform-origin:bottom left}
 #tools[hidden]{display:none}
+#screen.typing #tools{visibility:hidden}
 .direction-pad{display:grid;grid-template-columns:repeat(3,44px);gap:3px}
 #action-keys{position:absolute;right:8px;bottom:8px;transform:scale(var(--controls-scale,1));transform-origin:bottom right;display:grid;grid-template-columns:repeat(3,52px);gap:3px}
 #tools button{pointer-events:auto;touch-action:none;min-width:0;min-height:44px;padding:3px;font-size:13px;line-height:1.15;background:rgba(20,34,45,.58);border-color:rgba(170,197,213,.65);text-shadow:0 1px 2px #000;user-select:none;-webkit-user-select:none}
@@ -107,7 +108,9 @@ function fit(){
  root.style.setProperty('--visual-left',`${viewport?.pageLeft??(window.scrollX+(viewport?.offsetLeft??0))}px`);
  root.style.setProperty('--visual-top',`${viewport?.pageTop??(window.scrollY+(viewport?.offsetTop??0))}px`);
  const width=canvas.width||640,height=canvas.height||480;
- const scale=Math.max(0,Math.min(screen.clientWidth/width,screen.clientHeight/height));
+ // Keep the centered editor readable on a tall canvas when the keyboard is open.
+ const visibleHeight=isKeyboardTarget(document.activeElement)?Math.min(height,320):height;
+ const scale=Math.max(0,Math.min(screen.clientWidth/width,screen.clientHeight/visibleHeight));
  const displayWidth=Math.floor(width*scale),displayHeight=Math.floor(height*scale);
  screen.style.setProperty('--display-width',`${displayWidth}px`);
  screen.style.setProperty('--display-height',`${displayHeight}px`);
@@ -116,8 +119,26 @@ function fit(){
 let fitFrame=0;
 function scheduleFit(){if(!fitFrame)fitFrame=requestAnimationFrame(()=>{fitFrame=0;fit();});}
 function isKeyboardTarget(element){return element?.matches('#screen > input, #screen > textarea');}
+const nameEncoder=new TextEncoder();
+let nameCapacity=0,nameInput=null;
+window.CDS95SetNameCapacity=capacity=>{nameCapacity=capacity;};
+function limitNameInput(event){
+ const field=event.target;
+ if(!nameCapacity||field!==nameInput?.field)return;
+ const bytes=nameEncoder.encode(field.value).length;
+ if(bytes<=nameCapacity||bytes<nameInput.bytes){
+  nameInput.value=field.value;nameInput.bytes=bytes;return;
+ }
+ if(event.isComposing){
+  // Leave the OS composition intact, but don't send an overlong draft to Godot.
+  event.stopPropagation();return;
+ }
+ const caret=Math.max(0,field.selectionStart-Math.max(0,field.value.length-nameInput.value.length));
+ field.value=nameInput.value;
+ field.setSelectionRange(caret,caret);
+ event.stopPropagation();
+}
 function requestGameExtent(){
- // Fit the canvas above the keyboard without resizing Godot's open popup.
  if(isKeyboardTarget(document.activeElement)||screen.clientWidth<=0||screen.clientHeight<=0)return;
  const inset=Math.max(0,Math.min(128,Number(window.CDS95MenuInset??32)));
  // Keep a pixel per CSS pixel when space permits. Smaller phone viewports
@@ -144,7 +165,27 @@ window.screen?.orientation?.addEventListener('change',settleFit);
 window.addEventListener('pageshow',settleFit);
 document.addEventListener('visibilitychange',()=>{if(!document.hidden)settleFit();});
 window.visualViewport?.addEventListener('resize',settleFit);window.visualViewport?.addEventListener('scroll',scheduleFit);
-screen.addEventListener('focusout',event=>{if(isKeyboardTarget(event.target))settleFit();});
+screen.addEventListener('focusin',event=>{
+ const field=event.target;
+ if(!isKeyboardTarget(field))return;
+ screen.classList.add('typing');
+ nameInput={field,value:field.value,bytes:nameEncoder.encode(field.value).length};
+ scheduleFit();
+});
+screen.addEventListener('input',limitNameInput,true);
+screen.addEventListener('compositionend',event=>{
+ const field=event.target;
+ if(nameCapacity&&field===nameInput?.field)queueMicrotask(()=>{
+  if(nameCapacity&&field===nameInput?.field&&field.value!==nameInput.value)
+   field.dispatchEvent(new Event('input',{bubbles:true}));
+ });
+});
+screen.addEventListener('focusout',event=>{
+ if(!isKeyboardTarget(event.target))return;
+ nameInput=null;
+ screen.classList.remove('typing');
+ settleFit();
+});
 document.addEventListener('fullscreenchange',settleFit);fit();
 function fail(error){status.textContent=ui("ui.382b44cd7657c850")||'Unable to start the game.';document.getElementById('error').textContent=String(error.message||error);start.disabled=true;startFullscreen.disabled=true;start.textContent=ui("ui.5a4ed11c0944265b");console.error(error);}
 async function prepareBrowser(){
