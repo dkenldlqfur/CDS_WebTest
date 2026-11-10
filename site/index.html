@@ -13,6 +13,8 @@ body{overflow:hidden}
 #app{position:absolute;left:var(--visual-left,0px);top:var(--visual-top,0px);width:var(--visual-width,100%);height:var(--visual-height,100dvh);display:flex;flex-direction:column;align-items:center;justify-content:center;padding:env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left)}
 #screen{position:relative;flex:1;min-width:0;min-height:0;width:100%;overflow:hidden}
 #canvas{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);width:var(--display-width,640px)!important;height:var(--display-height,480px)!important;display:block;max-width:none;max-height:none;outline:none;touch-action:none;image-rendering:pixelated}
+/* Godot inserts its keyboard targets next to the canvas. Keep them inside the visible game area. */
+#screen > :is(input,textarea){left:50%!important;top:50%!important;width:1px!important;height:20px!important;transform:translate(-50%,-50%);opacity:0;pointer-events:none;font-size:16px}
 button{font:inherit;color:inherit;background:#263b49;border:1px solid #5a7483;border-radius:7px;min-width:44px;min-height:44px;padding:8px 12px;touch-action:manipulation}
 button:active,button[aria-pressed=true]{background:#a77a30;color:#fff}
 button:disabled{opacity:.5}
@@ -100,8 +102,10 @@ function fit(){
  const viewport=window.visualViewport,root=document.documentElement;
  root.style.setProperty('--visual-width',`${viewport?.width||root.clientWidth}px`);
  root.style.setProperty('--visual-height',`${viewport?.height||window.innerHeight}px`);
- root.style.setProperty('--visual-left',`${viewport?.offsetLeft||0}px`);
- root.style.setProperty('--visual-top',`${viewport?.offsetTop||0}px`);
+ // The app is positioned in document coordinates. Keyboard focus can scroll
+ // the document as well as pan the visual viewport on iOS.
+ root.style.setProperty('--visual-left',`${viewport?.pageLeft??(window.scrollX+(viewport?.offsetLeft??0))}px`);
+ root.style.setProperty('--visual-top',`${viewport?.pageTop??(window.scrollY+(viewport?.offsetTop??0))}px`);
  const width=canvas.width||640,height=canvas.height||480;
  const scale=Math.max(0,Math.min(screen.clientWidth/width,screen.clientHeight/height));
  const displayWidth=Math.floor(width*scale),displayHeight=Math.floor(height*scale);
@@ -111,8 +115,10 @@ function fit(){
 }
 let fitFrame=0;
 function scheduleFit(){if(!fitFrame)fitFrame=requestAnimationFrame(()=>{fitFrame=0;fit();});}
+function isKeyboardTarget(element){return element?.matches('#screen > input, #screen > textarea');}
 function requestGameExtent(){
- if(screen.clientWidth<=0||screen.clientHeight<=0)return;
+ // Fit the canvas above the keyboard without resizing Godot's open popup.
+ if(isKeyboardTarget(document.activeElement)||screen.clientWidth<=0||screen.clientHeight<=0)return;
  const inset=Math.max(0,Math.min(128,Number(window.CDS95MenuInset??32)));
  // Keep a pixel per CSS pixel when space permits. Smaller phone viewports
  // fit the minimum native canvas; larger windows reveal additional content.
@@ -133,10 +139,12 @@ function settleFit(){
 new ResizeObserver(()=>{scheduleFit();requestGameExtent();}).observe(screen);
 new MutationObserver(()=>{scheduleFit();requestGameExtent();}).observe(canvas,{attributes:true,attributeFilter:['width','height']});
 window.addEventListener('resize',settleFit);window.addEventListener('orientationchange',settleFit);
+window.addEventListener('scroll',scheduleFit,{passive:true});
 window.screen?.orientation?.addEventListener('change',settleFit);
 window.addEventListener('pageshow',settleFit);
 document.addEventListener('visibilitychange',()=>{if(!document.hidden)settleFit();});
 window.visualViewport?.addEventListener('resize',settleFit);window.visualViewport?.addEventListener('scroll',scheduleFit);
+screen.addEventListener('focusout',event=>{if(isKeyboardTarget(event.target))settleFit();});
 document.addEventListener('fullscreenchange',settleFit);fit();
 function fail(error){status.textContent=ui("ui.382b44cd7657c850")||'Unable to start the game.';document.getElementById('error').textContent=String(error.message||error);start.disabled=true;startFullscreen.disabled=true;start.textContent=ui("ui.5a4ed11c0944265b");console.error(error);}
 async function prepareBrowser(){
