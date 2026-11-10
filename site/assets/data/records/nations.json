@@ -1,0 +1,707 @@
+{
+  "schema_version": 2,
+  "records": [
+    {
+      "id": 0,
+      "name_key": "exe.00537ab8",
+      "language": 1,
+      "capital_city": 0,
+      "religion_culture_group": 0,
+      "initial_existence_state": 1,
+      "initial_access_restriction": 0
+    },
+    {
+      "id": 1,
+      "name_key": "exe.00537aa8",
+      "language": 0,
+      "capital_city": 7,
+      "religion_culture_group": 0,
+      "initial_existence_state": 1,
+      "initial_access_restriction": 0
+    },
+    {
+      "id": 2,
+      "name_key": "exe.00537a90",
+      "language": 5,
+      "capital_city": 10,
+      "religion_culture_group": 3,
+      "initial_existence_state": 1,
+      "initial_access_restriction": 2
+    },
+    {
+      "id": 3,
+      "name_key": "exe.00537a84",
+      "language": 2,
+      "capital_city": 14,
+      "religion_culture_group": 0,
+      "initial_existence_state": 1,
+      "initial_access_restriction": 0
+    },
+    {
+      "id": 4,
+      "name_key": "exe.00537a78",
+      "language": 2,
+      "capital_city": 26,
+      "religion_culture_group": 0,
+      "initial_existence_state": 1,
+      "initial_access_restriction": 0
+    },
+    {
+      "id": 5,
+      "name_key": "exe.00537a6c",
+      "language": 2,
+      "capital_city": 27,
+      "religion_culture_group": 0,
+      "initial_existence_state": 1,
+      "initial_access_restriction": 0
+    },
+    {
+      "id": 6,
+      "name_key": "exe.00537a5c",
+      "language": 2,
+      "capital_city": 28,
+      "religion_culture_group": 0,
+      "initial_existence_state": 1,
+      "initial_access_restriction": 0
+    },
+    {
+      "id": 7,
+      "name_key": "exe.00537a4c",
+      "language": 2,
+      "capital_city": 30,
+      "religion_culture_group": 0,
+      "initial_existence_state": 1,
+      "initial_access_restriction": 0
+    },
+    {
+      "id": 8,
+      "name_key": "exe.00537a3c",
+      "language": 2,
+      "capital_city": 29,
+      "religion_culture_group": 0,
+      "initial_existence_state": 1,
+      "initial_access_restriction": 0
+    },
+    {
+      "id": 9,
+      "name_key": "exe.00537a34",
+      "language": 2,
+      "capital_city": 33,
+      "religion_culture_group": 0,
+      "initial_existence_state": 1,
+      "initial_access_restriction": 0
+    },
+    {
+      "id": 10,
+      "name_key": "exe.00537a28",
+      "language": 2,
+      "capital_city": 34,
+      "religion_culture_group": 0,
+      "initial_existence_state": 1,
+      "initial_access_restriction": 0
+    },
+    {
+      "id": 11,
+      "name_key": "exe.00537a18",
+      "language": 3,
+      "capital_city": 38,
+      "religion_culture_group": 0,
+      "initial_existence_state": 1,
+      "initial_access_restriction": 0
+    },
+    {
+      "id": 12,
+      "name_key": "exe.00537a08",
+      "language": 3,
+      "capital_city": 42,
+      "religion_culture_group": 0,
+      "initial_existence_state": 1,
+      "initial_access_restriction": 0
+    },
+    {
+      "id": 13,
+      "name_key": "exe.005379fc",
+      "language": 3,
+      "capital_city": 43,
+      "religion_culture_group": 0,
+      "initial_existence_state": 1,
+      "initial_access_restriction": 0
+    },
+    {
+      "id": 14,
+      "name_key": "exe.005379ec",
+      "language": 3,
+      "capital_city": 53,
+      "religion_culture_group": 0,
+      "initial_existence_state": 1,
+      "initial_access_restriction": 0
+    },
+    {
+      "id": 15,
+      "name_key": "exe.005379dc",
+      "language": 3,
+      "capital_city": 55,
+      "religion_culture_group": 0,
+      "initial_existence_state": 1,
+      "initial_access_restriction": 0
+    },
+    {
+      "id": 16,
+      "name_key": "exe.005379c0",
+      "language": 3,
+      "capital_city": 66,
+      "religion_culture_group": 0,
+      "initial_existence_state": 1,
+      "initial_access_restriction": 0
+    },
+    {
+      "id": 17,
+      "name_key": "exe.005379b4",
+      "language": 3,
+      "capital_city": 64,
+      "religion_culture_group": 0,
+      "initial_existence_state": 0,
+      "initial_access_restriction": 0
+    },
+    {
+      "id": 18,
+      "name_key": "exe.00537998",
+      "language": 4,
+      "capital_city": 62,
+      "religion_culture_group": 0,
+      "initial_existence_state": 1,
+      "initial_access_restriction": 0
+    },
+    {
+      "id": 19,
+      "name_key": "exe.00537988",
+      "language": 3,
+      "capital_city": 57,
+      "religion_culture_group": 0,
+      "initial_existence_state": 1,
+      "initial_access_restriction": 0
+    },
+    {
+      "id": 20,
+      "name_key": "exe.00537978",
+      "language": 3,
+      "capital_city": 57,
+      "religion_culture_group": 0,
+      "initial_existence_state": 0,
+      "initial_access_restriction": 0
+    },
+    {
+      "id": 21,
+      "name_key": "exe.0053796c",
+      "language": 4,
+      "capital_city": 63,
+      "religion_culture_group": 0,
+      "initial_existence_state": 1,
+      "initial_access_restriction": 0
+    },
+    {
+      "id": 22,
+      "name_key": "exe.0053795c",
+      "language": 4,
+      "capital_city": 77,
+      "religion_culture_group": 2,
+      "initial_existence_state": 1,
+      "initial_access_restriction": 0
+    },
+    {
+      "id": 23,
+      "name_key": "exe.0053794c",
+      "language": 4,
+      "capital_city": 75,
+      "religion_culture_group": 2,
+      "initial_existence_state": 1,
+      "initial_access_restriction": 0
+    },
+    {
+      "id": 24,
+      "name_key": "exe.0053793c",
+      "language": 4,
+      "capital_city": 60,
+      "religion_culture_group": 2,
+      "initial_existence_state": 1,
+      "initial_access_restriction": 0
+    },
+    {
+      "id": 25,
+      "name_key": "exe.00537928",
+      "language": 4,
+      "capital_city": 59,
+      "religion_culture_group": 2,
+      "initial_existence_state": 1,
+      "initial_access_restriction": 0
+    },
+    {
+      "id": 26,
+      "name_key": "exe.00537914",
+      "language": 5,
+      "capital_city": 79,
+      "religion_culture_group": 3,
+      "initial_existence_state": 1,
+      "initial_access_restriction": 1
+    },
+    {
+      "id": 27,
+      "name_key": "exe.00537908",
+      "language": 5,
+      "capital_city": 82,
+      "religion_culture_group": 3,
+      "initial_existence_state": 1,
+      "initial_access_restriction": 1
+    },
+    {
+      "id": 28,
+      "name_key": "exe.005378fc",
+      "language": 5,
+      "capital_city": 93,
+      "religion_culture_group": 3,
+      "initial_existence_state": 1,
+      "initial_access_restriction": 1
+    },
+    {
+      "id": 29,
+      "name_key": "exe.005378f0",
+      "language": 10,
+      "capital_city": 96,
+      "religion_culture_group": 3,
+      "initial_existence_state": 1,
+      "initial_access_restriction": 1
+    },
+    {
+      "id": 30,
+      "name_key": "exe.005378e4",
+      "language": 10,
+      "capital_city": 98,
+      "religion_culture_group": 10,
+      "initial_existence_state": 1,
+      "initial_access_restriction": 0
+    },
+    {
+      "id": 31,
+      "name_key": "exe.005378d8",
+      "language": 10,
+      "capital_city": 100,
+      "religion_culture_group": 10,
+      "initial_existence_state": 1,
+      "initial_access_restriction": 0
+    },
+    {
+      "id": 32,
+      "name_key": "exe.005378c8",
+      "language": 10,
+      "capital_city": 104,
+      "religion_culture_group": 9,
+      "initial_existence_state": 1,
+      "initial_access_restriction": 0
+    },
+    {
+      "id": 33,
+      "name_key": "exe.005378b8",
+      "language": 10,
+      "capital_city": 104,
+      "religion_culture_group": 3,
+      "initial_existence_state": 0,
+      "initial_access_restriction": 0
+    },
+    {
+      "id": 34,
+      "name_key": "exe.0053789c",
+      "language": 5,
+      "capital_city": 109,
+      "religion_culture_group": 3,
+      "initial_existence_state": 1,
+      "initial_access_restriction": 1
+    },
+    {
+      "id": 35,
+      "name_key": "exe.0053788c",
+      "language": 10,
+      "capital_city": 110,
+      "religion_culture_group": 11,
+      "initial_existence_state": 1,
+      "initial_access_restriction": 0
+    },
+    {
+      "id": 36,
+      "name_key": "exe.00537880",
+      "language": 5,
+      "capital_city": 111,
+      "religion_culture_group": 3,
+      "initial_existence_state": 1,
+      "initial_access_restriction": 1
+    },
+    {
+      "id": 37,
+      "name_key": "exe.0053786c",
+      "language": 5,
+      "capital_city": 112,
+      "religion_culture_group": 3,
+      "initial_existence_state": 1,
+      "initial_access_restriction": 2
+    },
+    {
+      "id": 38,
+      "name_key": "exe.00537864",
+      "language": 5,
+      "capital_city": 124,
+      "religion_culture_group": 3,
+      "initial_existence_state": 1,
+      "initial_access_restriction": 1
+    },
+    {
+      "id": 39,
+      "name_key": "exe.0053785c",
+      "language": 5,
+      "capital_city": 125,
+      "religion_culture_group": 3,
+      "initial_existence_state": 1,
+      "initial_access_restriction": 1
+    },
+    {
+      "id": 40,
+      "name_key": "exe.00537850",
+      "language": 5,
+      "capital_city": 132,
+      "religion_culture_group": 3,
+      "initial_existence_state": 1,
+      "initial_access_restriction": 1
+    },
+    {
+      "id": 41,
+      "name_key": "exe.0053783c",
+      "language": 6,
+      "capital_city": 130,
+      "religion_culture_group": 4,
+      "initial_existence_state": 0,
+      "initial_access_restriction": 1
+    },
+    {
+      "id": 42,
+      "name_key": "exe.0053782c",
+      "language": 5,
+      "capital_city": 140,
+      "religion_culture_group": 3,
+      "initial_existence_state": 1,
+      "initial_access_restriction": 0
+    },
+    {
+      "id": 43,
+      "name_key": "exe.0053781c",
+      "language": 5,
+      "capital_city": 132,
+      "religion_culture_group": 3,
+      "initial_existence_state": 0,
+      "initial_access_restriction": 1
+    },
+    {
+      "id": 44,
+      "name_key": "exe.00537810",
+      "language": 5,
+      "capital_city": 134,
+      "religion_culture_group": 3,
+      "initial_existence_state": 0,
+      "initial_access_restriction": 1
+    },
+    {
+      "id": 45,
+      "name_key": "exe.00537804",
+      "language": 9,
+      "capital_city": 141,
+      "religion_culture_group": 3,
+      "initial_existence_state": 1,
+      "initial_access_restriction": 0
+    },
+    {
+      "id": 46,
+      "name_key": "exe.005377f8",
+      "language": 9,
+      "capital_city": 142,
+      "religion_culture_group": 9,
+      "initial_existence_state": 1,
+      "initial_access_restriction": 0
+    },
+    {
+      "id": 47,
+      "name_key": "exe.005377ec",
+      "language": 8,
+      "capital_city": 145,
+      "religion_culture_group": 3,
+      "initial_existence_state": 1,
+      "initial_access_restriction": 0
+    },
+    {
+      "id": 48,
+      "name_key": "exe.005377e0",
+      "language": 8,
+      "capital_city": 145,
+      "religion_culture_group": 3,
+      "initial_existence_state": 0,
+      "initial_access_restriction": 0
+    },
+    {
+      "id": 49,
+      "name_key": "exe.005377d0",
+      "language": 8,
+      "capital_city": 147,
+      "religion_culture_group": 3,
+      "initial_existence_state": 1,
+      "initial_access_restriction": 0
+    },
+    {
+      "id": 50,
+      "name_key": "exe.005377c0",
+      "language": 8,
+      "capital_city": 149,
+      "religion_culture_group": 5,
+      "initial_existence_state": 1,
+      "initial_access_restriction": 0
+    },
+    {
+      "id": 51,
+      "name_key": "exe.005377ac",
+      "language": 8,
+      "capital_city": 153,
+      "religion_culture_group": 5,
+      "initial_existence_state": 1,
+      "initial_access_restriction": 0
+    },
+    {
+      "id": 52,
+      "name_key": "exe.005377a0",
+      "language": 8,
+      "capital_city": 156,
+      "religion_culture_group": 5,
+      "initial_existence_state": 1,
+      "initial_access_restriction": 0
+    },
+    {
+      "id": 53,
+      "name_key": "exe.00537798",
+      "language": 8,
+      "capital_city": 157,
+      "religion_culture_group": 3,
+      "initial_existence_state": 0,
+      "initial_access_restriction": 0
+    },
+    {
+      "id": 54,
+      "name_key": "exe.00537790",
+      "language": 8,
+      "capital_city": 155,
+      "religion_culture_group": 6,
+      "initial_existence_state": 1,
+      "initial_access_restriction": 0
+    },
+    {
+      "id": 55,
+      "name_key": "exe.00537780",
+      "language": 9,
+      "capital_city": 137,
+      "religion_culture_group": 3,
+      "initial_existence_state": 0,
+      "initial_access_restriction": 1
+    },
+    {
+      "id": 56,
+      "name_key": "exe.00537774",
+      "language": 9,
+      "capital_city": 143,
+      "religion_culture_group": 6,
+      "initial_existence_state": 1,
+      "initial_access_restriction": 0
+    },
+    {
+      "id": 57,
+      "name_key": "exe.0053776c",
+      "language": 9,
+      "capital_city": 144,
+      "religion_culture_group": 6,
+      "initial_existence_state": 1,
+      "initial_access_restriction": 0
+    },
+    {
+      "id": 58,
+      "name_key": "exe.00537764",
+      "language": 7,
+      "capital_city": 139,
+      "religion_culture_group": 6,
+      "initial_existence_state": 1,
+      "initial_access_restriction": 0
+    },
+    {
+      "id": 59,
+      "name_key": "exe.00537754",
+      "language": 7,
+      "capital_city": 158,
+      "religion_culture_group": 6,
+      "initial_existence_state": 1,
+      "initial_access_restriction": 0
+    },
+    {
+      "id": 60,
+      "name_key": "exe.00537744",
+      "language": 7,
+      "capital_city": 158,
+      "religion_culture_group": 6,
+      "initial_existence_state": 0,
+      "initial_access_restriction": 0
+    },
+    {
+      "id": 61,
+      "name_key": "exe.0053773c",
+      "language": 7,
+      "capital_city": 159,
+      "religion_culture_group": 6,
+      "initial_existence_state": 1,
+      "initial_access_restriction": 0
+    },
+    {
+      "id": 62,
+      "name_key": "exe.00537724",
+      "language": 7,
+      "capital_city": 162,
+      "religion_culture_group": 6,
+      "initial_existence_state": 1,
+      "initial_access_restriction": 0
+    },
+    {
+      "id": 63,
+      "name_key": "exe.00537718",
+      "language": 12,
+      "capital_city": 160,
+      "religion_culture_group": 3,
+      "initial_existence_state": 1,
+      "initial_access_restriction": 1
+    },
+    {
+      "id": 64,
+      "name_key": "exe.00537700",
+      "language": 12,
+      "capital_city": 163,
+      "religion_culture_group": 6,
+      "initial_existence_state": 1,
+      "initial_access_restriction": 0
+    },
+    {
+      "id": 65,
+      "name_key": "exe.005376f4",
+      "language": 7,
+      "capital_city": 165,
+      "religion_culture_group": 6,
+      "initial_existence_state": 1,
+      "initial_access_restriction": 0
+    },
+    {
+      "id": 66,
+      "name_key": "exe.005376e4",
+      "language": 12,
+      "capital_city": 169,
+      "religion_culture_group": 5,
+      "initial_existence_state": 1,
+      "initial_access_restriction": 0
+    },
+    {
+      "id": 67,
+      "name_key": "exe.005376d8",
+      "language": 12,
+      "capital_city": 169,
+      "religion_culture_group": 3,
+      "initial_existence_state": 0,
+      "initial_access_restriction": 0
+    },
+    {
+      "id": 68,
+      "name_key": "exe.005376c8",
+      "language": 12,
+      "capital_city": 171,
+      "religion_culture_group": 9,
+      "initial_existence_state": 1,
+      "initial_access_restriction": 0
+    },
+    {
+      "id": 69,
+      "name_key": "exe.005376c4",
+      "language": 7,
+      "capital_city": 188,
+      "religion_culture_group": 7,
+      "initial_existence_state": 1,
+      "initial_access_restriction": 1
+    },
+    {
+      "id": 70,
+      "name_key": "exe.005376b8",
+      "language": 13,
+      "capital_city": 190,
+      "religion_culture_group": 7,
+      "initial_existence_state": 1,
+      "initial_access_restriction": 0
+    },
+    {
+      "id": 71,
+      "name_key": "exe.005376b0",
+      "language": 13,
+      "capital_city": 193,
+      "religion_culture_group": 6,
+      "initial_existence_state": 1,
+      "initial_access_restriction": 0
+    },
+    {
+      "id": 72,
+      "name_key": "exe.005376a4",
+      "language": 11,
+      "capital_city": 200,
+      "religion_culture_group": 8,
+      "initial_existence_state": 1,
+      "initial_access_restriction": 0
+    },
+    {
+      "id": 73,
+      "name_key": "exe.00537690",
+      "language": 11,
+      "capital_city": 202,
+      "religion_culture_group": 8,
+      "initial_existence_state": 1,
+      "initial_access_restriction": 0
+    },
+    {
+      "id": 74,
+      "name_key": "exe.00537688",
+      "language": 11,
+      "capital_city": 206,
+      "religion_culture_group": 8,
+      "initial_existence_state": 1,
+      "initial_access_restriction": 0
+    },
+    {
+      "id": 75,
+      "name_key": "exe.00537680",
+      "language": 11,
+      "capital_city": 207,
+      "religion_culture_group": 8,
+      "initial_existence_state": 1,
+      "initial_access_restriction": 0
+    },
+    {
+      "id": 76,
+      "name_key": "exe.00537674",
+      "language": 11,
+      "capital_city": 218,
+      "religion_culture_group": 8,
+      "initial_existence_state": 1,
+      "initial_access_restriction": 0
+    },
+    {
+      "id": 77,
+      "name_key": "exe.00537668",
+      "language": 11,
+      "capital_city": 223,
+      "religion_culture_group": 8,
+      "initial_existence_state": 1,
+      "initial_access_restriction": 0
+    }
+  ]
+}

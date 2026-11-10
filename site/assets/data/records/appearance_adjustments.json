@@ -1,0 +1,2293 @@
+{
+  "schema_version": 2,
+  "records": [
+    {
+      "id": 0,
+      "attributes": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 0,
+      "personality_delta": 0
+    },
+    {
+      "id": 1,
+      "attributes": [
+        2,
+        -3,
+        -2,
+        5,
+        -2
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 1,
+      "personality_delta": 1
+    },
+    {
+      "id": 2,
+      "attributes": [
+        2,
+        -3,
+        2,
+        -3,
+        2
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 7,
+      "personality_delta": -1
+    },
+    {
+      "id": 3,
+      "attributes": [
+        -2,
+        3,
+        -2,
+        3,
+        -2
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 3,
+      "personality_delta": -1
+    },
+    {
+      "id": 4,
+      "attributes": [
+        -2,
+        -4,
+        5,
+        -1,
+        2
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 0,
+      "personality_delta": 1
+    },
+    {
+      "id": 5,
+      "attributes": [
+        -2,
+        4,
+        -3,
+        -1,
+        2
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 1,
+      "personality_delta": -1
+    },
+    {
+      "id": 6,
+      "attributes": [
+        -3,
+        2,
+        4,
+        -2,
+        -1
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 3,
+      "personality_delta": 1
+    },
+    {
+      "id": 7,
+      "attributes": [
+        2,
+        2,
+        2,
+        -5,
+        2
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 2,
+      "personality_delta": -1
+    },
+    {
+      "id": 8,
+      "attributes": [
+        -5,
+        -1,
+        -1,
+        4,
+        3
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 5,
+      "personality_delta": -1
+    },
+    {
+      "id": 9,
+      "attributes": [
+        5,
+        -4,
+        4,
+        1,
+        -5
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 4,
+      "personality_delta": 1
+    },
+    {
+      "id": 10,
+      "attributes": [
+        3,
+        5,
+        -3,
+        -3,
+        -1
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 2,
+      "personality_delta": 1
+    },
+    {
+      "id": 11,
+      "attributes": [
+        2,
+        0,
+        -2,
+        -3,
+        3
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 6,
+      "personality_delta": 1
+    },
+    {
+      "id": 12,
+      "attributes": [
+        4,
+        -2,
+        3,
+        -4,
+        0
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 7,
+      "personality_delta": 1
+    },
+    {
+      "id": 13,
+      "attributes": [
+        -3,
+        -1,
+        4,
+        -3,
+        3
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 4,
+      "personality_delta": -1
+    },
+    {
+      "id": 14,
+      "attributes": [
+        1,
+        -3,
+        -3,
+        0,
+        5
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 0,
+      "personality_delta": -1
+    },
+    {
+      "id": 15,
+      "attributes": [
+        2,
+        2,
+        2,
+        -3,
+        -3
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 5,
+      "personality_delta": 1
+    },
+    {
+      "id": 16,
+      "attributes": [
+        -2,
+        3,
+        3,
+        -2,
+        -2
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 6,
+      "personality_delta": 1
+    },
+    {
+      "id": 17,
+      "attributes": [
+        -2,
+        -2,
+        0,
+        2,
+        2
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 2,
+      "personality_delta": 1
+    },
+    {
+      "id": 18,
+      "attributes": [
+        -3,
+        -3,
+        5,
+        1,
+        0
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 1,
+      "personality_delta": -1
+    },
+    {
+      "id": 19,
+      "attributes": [
+        0,
+        4,
+        0,
+        0,
+        -4
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 4,
+      "personality_delta": -1
+    },
+    {
+      "id": 20,
+      "attributes": [
+        0,
+        -2,
+        4,
+        0,
+        2
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 1,
+      "personality_delta": 1
+    },
+    {
+      "id": 21,
+      "attributes": [
+        0,
+        3,
+        -2,
+        -4,
+        3
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 2,
+      "personality_delta": -1
+    },
+    {
+      "id": 22,
+      "attributes": [
+        -3,
+        3,
+        2,
+        0,
+        -2
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 7,
+      "personality_delta": -1
+    },
+    {
+      "id": 23,
+      "attributes": [
+        3,
+        -1,
+        -1,
+        -1,
+        0
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 5,
+      "personality_delta": 1
+    },
+    {
+      "id": 24,
+      "attributes": [
+        1,
+        0,
+        -3,
+        5,
+        -3
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 0,
+      "personality_delta": 0
+    },
+    {
+      "id": 25,
+      "attributes": [
+        1,
+        -2,
+        1,
+        3,
+        -3
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 3,
+      "personality_delta": 1
+    },
+    {
+      "id": 26,
+      "attributes": [
+        -3,
+        5,
+        -1,
+        -3,
+        2
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 3,
+      "personality_delta": -1
+    },
+    {
+      "id": 27,
+      "attributes": [
+        -5,
+        3,
+        0,
+        0,
+        2
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 7,
+      "personality_delta": 1
+    },
+    {
+      "id": 28,
+      "attributes": [
+        -1,
+        -1,
+        -1,
+        -1,
+        5
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 5,
+      "personality_delta": -1
+    },
+    {
+      "id": 29,
+      "attributes": [
+        -3,
+        -1,
+        4,
+        -3,
+        3
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 4,
+      "personality_delta": 1
+    },
+    {
+      "id": 30,
+      "attributes": [
+        5,
+        -4,
+        -5,
+        2,
+        2
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 6,
+      "personality_delta": -1
+    },
+    {
+      "id": 31,
+      "attributes": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 0,
+      "personality_delta": 1
+    },
+    {
+      "id": 32,
+      "attributes": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 0,
+      "personality_delta": 0
+    },
+    {
+      "id": 33,
+      "attributes": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 0,
+      "personality_delta": 0
+    },
+    {
+      "id": 34,
+      "attributes": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 0,
+      "personality_delta": 0
+    },
+    {
+      "id": 35,
+      "attributes": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 0,
+      "personality_delta": 0
+    },
+    {
+      "id": 36,
+      "attributes": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 0,
+      "personality_delta": 0
+    },
+    {
+      "id": 37,
+      "attributes": [
+        -1,
+        2,
+        -2,
+        4,
+        -3
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 3,
+      "personality_delta": 1
+    },
+    {
+      "id": 38,
+      "attributes": [
+        3,
+        -5,
+        5,
+        1,
+        -4
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 1,
+      "personality_delta": -1
+    },
+    {
+      "id": 39,
+      "attributes": [
+        -4,
+        1,
+        3,
+        -3,
+        4
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 4,
+      "personality_delta": -1
+    },
+    {
+      "id": 40,
+      "attributes": [
+        2,
+        -2,
+        -1,
+        2,
+        -1
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 4,
+      "personality_delta": 1
+    },
+    {
+      "id": 41,
+      "attributes": [
+        -1,
+        5,
+        4,
+        -5,
+        -3
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 7,
+      "personality_delta": 1
+    },
+    {
+      "id": 42,
+      "attributes": [
+        -4,
+        -3,
+        0,
+        3,
+        4
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 4,
+      "personality_delta": -1
+    },
+    {
+      "id": 43,
+      "attributes": [
+        5,
+        3,
+        -1,
+        -2,
+        -5
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 2,
+      "personality_delta": 1
+    },
+    {
+      "id": 44,
+      "attributes": [
+        -3,
+        -1,
+        0,
+        -1,
+        5
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 3,
+      "personality_delta": 1
+    },
+    {
+      "id": 45,
+      "attributes": [
+        -1,
+        -2,
+        3,
+        4,
+        -4
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 6,
+      "personality_delta": 1
+    },
+    {
+      "id": 46,
+      "attributes": [
+        -4,
+        4,
+        -4,
+        2,
+        4
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 1,
+      "personality_delta": -1
+    },
+    {
+      "id": 47,
+      "attributes": [
+        0,
+        -3,
+        1,
+        -2,
+        4
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 3,
+      "personality_delta": -1
+    },
+    {
+      "id": 48,
+      "attributes": [
+        0,
+        2,
+        -2,
+        -1,
+        1
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 4,
+      "personality_delta": 1
+    },
+    {
+      "id": 49,
+      "attributes": [
+        0,
+        2,
+        -3,
+        1,
+        1
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 6,
+      "personality_delta": -1
+    },
+    {
+      "id": 50,
+      "attributes": [
+        -4,
+        -4,
+        4,
+        2,
+        3
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 5,
+      "personality_delta": -1
+    },
+    {
+      "id": 51,
+      "attributes": [
+        -5,
+        5,
+        3,
+        1,
+        -3
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 2,
+      "personality_delta": -1
+    },
+    {
+      "id": 52,
+      "attributes": [
+        -4,
+        2,
+        4,
+        -1,
+        0
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 6,
+      "personality_delta": -1
+    },
+    {
+      "id": 53,
+      "attributes": [
+        0,
+        -5,
+        -1,
+        4,
+        3
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 4,
+      "personality_delta": -1
+    },
+    {
+      "id": 54,
+      "attributes": [
+        -3,
+        4,
+        0,
+        -3,
+        3
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 6,
+      "personality_delta": 1
+    },
+    {
+      "id": 55,
+      "attributes": [
+        2,
+        0,
+        -3,
+        0,
+        1
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 1,
+      "personality_delta": 1
+    },
+    {
+      "id": 56,
+      "attributes": [
+        -3,
+        -1,
+        4,
+        -2,
+        3
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 0,
+      "personality_delta": 0
+    },
+    {
+      "id": 57,
+      "attributes": [
+        3,
+        2,
+        4,
+        -4,
+        -5
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 3,
+      "personality_delta": 1
+    },
+    {
+      "id": 58,
+      "attributes": [
+        -2,
+        1,
+        -4,
+        1,
+        4
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 3,
+      "personality_delta": 1
+    },
+    {
+      "id": 59,
+      "attributes": [
+        -4,
+        -4,
+        2,
+        3,
+        3
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 1,
+      "personality_delta": 1
+    },
+    {
+      "id": 60,
+      "attributes": [
+        1,
+        1,
+        -2,
+        1,
+        -1
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 0,
+      "personality_delta": 1
+    },
+    {
+      "id": 61,
+      "attributes": [
+        3,
+        -3,
+        -5,
+        3,
+        2
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 2,
+      "personality_delta": -1
+    },
+    {
+      "id": 62,
+      "attributes": [
+        -2,
+        3,
+        -5,
+        2,
+        2
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 3,
+      "personality_delta": 1
+    },
+    {
+      "id": 63,
+      "attributes": [
+        5,
+        -2,
+        3,
+        -1,
+        -5
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 0,
+      "personality_delta": -1
+    },
+    {
+      "id": 64,
+      "attributes": [
+        1,
+        -4,
+        4,
+        2,
+        -3
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 1,
+      "personality_delta": 1
+    },
+    {
+      "id": 65,
+      "attributes": [
+        3,
+        1,
+        4,
+        -4,
+        -4
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 6,
+      "personality_delta": -1
+    },
+    {
+      "id": 66,
+      "attributes": [
+        0,
+        -5,
+        -2,
+        2,
+        5
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 2,
+      "personality_delta": -1
+    },
+    {
+      "id": 67,
+      "attributes": [
+        4,
+        2,
+        2,
+        -4,
+        -4
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 3,
+      "personality_delta": -1
+    },
+    {
+      "id": 68,
+      "attributes": [
+        3,
+        -2,
+        -1,
+        1,
+        -1
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 6,
+      "personality_delta": -1
+    },
+    {
+      "id": 69,
+      "attributes": [
+        0,
+        -5,
+        3,
+        -1,
+        3
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 6,
+      "personality_delta": -1
+    },
+    {
+      "id": 70,
+      "attributes": [
+        0,
+        4,
+        0,
+        -1,
+        -3
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 2,
+      "personality_delta": 1
+    },
+    {
+      "id": 71,
+      "attributes": [
+        -3,
+        3,
+        -5,
+        1,
+        4
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 4,
+      "personality_delta": 1
+    },
+    {
+      "id": 72,
+      "attributes": [
+        -3,
+        -5,
+        0,
+        4,
+        4
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 2,
+      "personality_delta": -1
+    },
+    {
+      "id": 73,
+      "attributes": [
+        -1,
+        0,
+        -4,
+        4,
+        1
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 4,
+      "personality_delta": 1
+    },
+    {
+      "id": 74,
+      "attributes": [
+        -4,
+        4,
+        3,
+        0,
+        -3
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 4,
+      "personality_delta": 1
+    },
+    {
+      "id": 75,
+      "attributes": [
+        -2,
+        -5,
+        4,
+        4,
+        -1
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 3,
+      "personality_delta": 1
+    },
+    {
+      "id": 76,
+      "attributes": [
+        5,
+        -2,
+        -3,
+        0,
+        1
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 2,
+      "personality_delta": -1
+    },
+    {
+      "id": 77,
+      "attributes": [
+        -2,
+        -1,
+        0,
+        2,
+        2
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 5,
+      "personality_delta": 1
+    },
+    {
+      "id": 78,
+      "attributes": [
+        -3,
+        -1,
+        4,
+        5,
+        -5
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 4,
+      "personality_delta": 1
+    },
+    {
+      "id": 79,
+      "attributes": [
+        -3,
+        -1,
+        4,
+        -3,
+        3
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 6,
+      "personality_delta": 1
+    },
+    {
+      "id": 80,
+      "attributes": [
+        1,
+        -2,
+        4,
+        -2,
+        -1
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 4,
+      "personality_delta": -1
+    },
+    {
+      "id": 81,
+      "attributes": [
+        -3,
+        4,
+        -1,
+        0,
+        1
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 7,
+      "personality_delta": 1
+    },
+    {
+      "id": 82,
+      "attributes": [
+        -4,
+        3,
+        3,
+        3,
+        -4
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 7,
+      "personality_delta": 1
+    },
+    {
+      "id": 83,
+      "attributes": [
+        -1,
+        1,
+        -2,
+        4,
+        0
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 3,
+      "personality_delta": 1
+    },
+    {
+      "id": 84,
+      "attributes": [
+        -3,
+        1,
+        3,
+        3,
+        -4
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 4,
+      "personality_delta": -1
+    },
+    {
+      "id": 85,
+      "attributes": [
+        1,
+        -2,
+        1,
+        2,
+        -1
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 3,
+      "personality_delta": 1
+    },
+    {
+      "id": 86,
+      "attributes": [
+        1,
+        4,
+        -3,
+        1,
+        -3
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 4,
+      "personality_delta": 1
+    },
+    {
+      "id": 87,
+      "attributes": [
+        -2,
+        1,
+        2,
+        1,
+        -1
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 4,
+      "personality_delta": -1
+    },
+    {
+      "id": 88,
+      "attributes": [
+        -1,
+        1,
+        -2,
+        0,
+        2
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 5,
+      "personality_delta": 1
+    },
+    {
+      "id": 89,
+      "attributes": [
+        -4,
+        2,
+        2,
+        -4,
+        5
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 0,
+      "personality_delta": -1
+    },
+    {
+      "id": 90,
+      "attributes": [
+        -3,
+        -3,
+        0,
+        4,
+        3
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 6,
+      "personality_delta": -1
+    },
+    {
+      "id": 91,
+      "attributes": [
+        0,
+        4,
+        2,
+        -2,
+        -3
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 1,
+      "personality_delta": 1
+    },
+    {
+      "id": 92,
+      "attributes": [
+        -1,
+        3,
+        -2,
+        0,
+        1
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 3,
+      "personality_delta": 1
+    },
+    {
+      "id": 93,
+      "attributes": [
+        4,
+        1,
+        -4,
+        -3,
+        2
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 2,
+      "personality_delta": -1
+    },
+    {
+      "id": 94,
+      "attributes": [
+        3,
+        -1,
+        1,
+        -2,
+        0
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 1,
+      "personality_delta": -1
+    },
+    {
+      "id": 95,
+      "attributes": [
+        1,
+        -4,
+        4,
+        -4,
+        3
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 3,
+      "personality_delta": 1
+    },
+    {
+      "id": 96,
+      "attributes": [
+        -3,
+        1,
+        4,
+        -4,
+        2
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 5,
+      "personality_delta": 1
+    },
+    {
+      "id": 97,
+      "attributes": [
+        2,
+        0,
+        0,
+        -2,
+        0
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 5,
+      "personality_delta": -1
+    },
+    {
+      "id": 98,
+      "attributes": [
+        1,
+        0,
+        1,
+        -4,
+        2
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 5,
+      "personality_delta": 1
+    },
+    {
+      "id": 99,
+      "attributes": [
+        0,
+        -1,
+        2,
+        -1,
+        0
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 4,
+      "personality_delta": -1
+    },
+    {
+      "id": 100,
+      "attributes": [
+        3,
+        -1,
+        3,
+        -2,
+        -3
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 7,
+      "personality_delta": -1
+    },
+    {
+      "id": 101,
+      "attributes": [
+        0,
+        3,
+        -3,
+        -1,
+        1
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 2,
+      "personality_delta": 1
+    },
+    {
+      "id": 102,
+      "attributes": [
+        2,
+        -3,
+        4,
+        -1,
+        -1
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 6,
+      "personality_delta": -1
+    },
+    {
+      "id": 103,
+      "attributes": [
+        1,
+        -2,
+        -1,
+        5,
+        -2
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 4,
+      "personality_delta": 1
+    },
+    {
+      "id": 104,
+      "attributes": [
+        5,
+        -5,
+        4,
+        -1,
+        -1
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 2,
+      "personality_delta": -1
+    },
+    {
+      "id": 105,
+      "attributes": [
+        1,
+        1,
+        3,
+        -2,
+        -2
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 3,
+      "personality_delta": -1
+    },
+    {
+      "id": 106,
+      "attributes": [
+        -2,
+        1,
+        -4,
+        4,
+        4
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 1,
+      "personality_delta": -1
+    },
+    {
+      "id": 107,
+      "attributes": [
+        1,
+        -1,
+        5,
+        4,
+        -4
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 3,
+      "personality_delta": 1
+    },
+    {
+      "id": 108,
+      "attributes": [
+        -5,
+        -1,
+        2,
+        3,
+        3
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 6,
+      "personality_delta": 1
+    },
+    {
+      "id": 109,
+      "attributes": [
+        4,
+        5,
+        1,
+        -4,
+        -2
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 0,
+      "personality_delta": 1
+    },
+    {
+      "id": 110,
+      "attributes": [
+        5,
+        -3,
+        -1,
+        4,
+        -2
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 6,
+      "personality_delta": -1
+    },
+    {
+      "id": 111,
+      "attributes": [
+        3,
+        3,
+        2,
+        -3,
+        -3
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 5,
+      "personality_delta": -1
+    },
+    {
+      "id": 112,
+      "attributes": [
+        -3,
+        2,
+        -3,
+        2,
+        4
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 7,
+      "personality_delta": -1
+    },
+    {
+      "id": 113,
+      "attributes": [
+        0,
+        4,
+        -2,
+        -5,
+        4
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 1,
+      "personality_delta": 1
+    },
+    {
+      "id": 114,
+      "attributes": [
+        -1,
+        3,
+        -3,
+        0,
+        2
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 4,
+      "personality_delta": 1
+    },
+    {
+      "id": 115,
+      "attributes": [
+        4,
+        -4,
+        -4,
+        2,
+        3
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 5,
+      "personality_delta": -1
+    },
+    {
+      "id": 116,
+      "attributes": [
+        -3,
+        -3,
+        2,
+        3,
+        2
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 4,
+      "personality_delta": 1
+    },
+    {
+      "id": 117,
+      "attributes": [
+        5,
+        2,
+        -3,
+        0,
+        -2
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 2,
+      "personality_delta": -1
+    },
+    {
+      "id": 118,
+      "attributes": [
+        -5,
+        -2,
+        3,
+        4,
+        1
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 7,
+      "personality_delta": -1
+    },
+    {
+      "id": 119,
+      "attributes": [
+        5,
+        1,
+        -3,
+        1,
+        -2
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 6,
+      "personality_delta": 1
+    },
+    {
+      "id": 120,
+      "attributes": [
+        2,
+        -4,
+        5,
+        -4,
+        2
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 6,
+      "personality_delta": -1
+    },
+    {
+      "id": 121,
+      "attributes": [
+        4,
+        -4,
+        -1,
+        0,
+        3
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 5,
+      "personality_delta": 1
+    },
+    {
+      "id": 122,
+      "attributes": [
+        0,
+        3,
+        3,
+        -1,
+        -4
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 1,
+      "personality_delta": 1
+    },
+    {
+      "id": 123,
+      "attributes": [
+        -3,
+        3,
+        -4,
+        0,
+        5
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 2,
+      "personality_delta": 1
+    },
+    {
+      "id": 124,
+      "attributes": [
+        5,
+        4,
+        -4,
+        -4,
+        0
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 2,
+      "personality_delta": -1
+    },
+    {
+      "id": 125,
+      "attributes": [
+        0,
+        -3,
+        -2,
+        4,
+        1
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 2,
+      "personality_delta": 1
+    },
+    {
+      "id": 126,
+      "attributes": [
+        -4,
+        -1,
+        -2,
+        5,
+        4
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 0,
+      "personality_delta": 1
+    },
+    {
+      "id": 127,
+      "attributes": [
+        4,
+        -1,
+        -4,
+        0,
+        2
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 6,
+      "personality_delta": -1
+    },
+    {
+      "id": 128,
+      "attributes": [
+        3,
+        -1,
+        -4,
+        -2,
+        4
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 4,
+      "personality_delta": -1
+    },
+    {
+      "id": 129,
+      "attributes": [
+        -3,
+        -1,
+        2,
+        0,
+        3
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 1,
+      "personality_delta": 1
+    },
+    {
+      "id": 130,
+      "attributes": [
+        2,
+        3,
+        -2,
+        1,
+        -3
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 5,
+      "personality_delta": -1
+    },
+    {
+      "id": 131,
+      "attributes": [
+        2,
+        -4,
+        3,
+        -2,
+        3
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 5,
+      "personality_delta": -1
+    },
+    {
+      "id": 132,
+      "attributes": [
+        1,
+        -4,
+        0,
+        1,
+        4
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 1,
+      "personality_delta": 1
+    },
+    {
+      "id": 133,
+      "attributes": [
+        -1,
+        4,
+        1,
+        2,
+        -5
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 5,
+      "personality_delta": 1
+    },
+    {
+      "id": 134,
+      "attributes": [
+        0,
+        3,
+        -3,
+        0,
+        1
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 3,
+      "personality_delta": -1
+    },
+    {
+      "id": 135,
+      "attributes": [
+        3,
+        0,
+        2,
+        -1,
+        -3
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 5,
+      "personality_delta": 1
+    },
+    {
+      "id": 136,
+      "attributes": [
+        -4,
+        2,
+        4,
+        0,
+        -1
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 2,
+      "personality_delta": -1
+    },
+    {
+      "id": 137,
+      "attributes": [
+        2,
+        0,
+        -1,
+        -2,
+        4
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 2,
+      "personality_delta": -1
+    },
+    {
+      "id": 138,
+      "attributes": [
+        2,
+        -4,
+        3,
+        0,
+        -1
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 4,
+      "personality_delta": 1
+    },
+    {
+      "id": 139,
+      "attributes": [
+        -2,
+        4,
+        -4,
+        2,
+        3
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 4,
+      "personality_delta": -1
+    },
+    {
+      "id": 140,
+      "attributes": [
+        4,
+        -5,
+        4,
+        -1,
+        3
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 4,
+      "personality_delta": 1
+    },
+    {
+      "id": 141,
+      "attributes": [
+        -2,
+        2,
+        1,
+        -2,
+        2
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 1,
+      "personality_delta": -1
+    },
+    {
+      "id": 142,
+      "attributes": [
+        0,
+        5,
+        -1,
+        0,
+        -2
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 4,
+      "personality_delta": 1
+    },
+    {
+      "id": 143,
+      "attributes": [
+        0,
+        2,
+        0,
+        2,
+        0
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 7,
+      "personality_delta": 1
+    },
+    {
+      "id": 144,
+      "attributes": [
+        1,
+        -1,
+        3,
+        1,
+        0
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 3,
+      "personality_delta": 1
+    },
+    {
+      "id": 145,
+      "attributes": [
+        3,
+        5,
+        2,
+        -2,
+        -5
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 2,
+      "personality_delta": 1
+    },
+    {
+      "id": 146,
+      "attributes": [
+        2,
+        4,
+        1,
+        -1,
+        -4
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 0,
+      "personality_delta": -1
+    },
+    {
+      "id": 147,
+      "attributes": [
+        -2,
+        4,
+        -2,
+        -1,
+        2
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 2,
+      "personality_delta": -1
+    },
+    {
+      "id": 148,
+      "attributes": [
+        -1,
+        4,
+        -3,
+        0,
+        3
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 1,
+      "personality_delta": 1
+    },
+    {
+      "id": 149,
+      "attributes": [
+        5,
+        -1,
+        0,
+        3,
+        -2
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 6,
+      "personality_delta": 1
+    },
+    {
+      "id": 150,
+      "attributes": [
+        2,
+        0,
+        -2,
+        3,
+        -2
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 7,
+      "personality_delta": 1
+    },
+    {
+      "id": 151,
+      "attributes": [
+        0,
+        -1,
+        -3,
+        1,
+        4
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 0,
+      "personality_delta": -1
+    },
+    {
+      "id": 152,
+      "attributes": [
+        4,
+        3,
+        -2,
+        -2,
+        -1
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 0,
+      "personality_delta": 1
+    },
+    {
+      "id": 153,
+      "attributes": [
+        -4,
+        -3,
+        3,
+        2,
+        5
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 3,
+      "personality_delta": 1
+    },
+    {
+      "id": 154,
+      "attributes": [
+        -1,
+        0,
+        4,
+        1,
+        -1
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 7,
+      "personality_delta": -1
+    },
+    {
+      "id": 155,
+      "attributes": [
+        5,
+        4,
+        -2,
+        -4,
+        -1
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 6,
+      "personality_delta": -1
+    },
+    {
+      "id": 156,
+      "attributes": [
+        -2,
+        4,
+        4,
+        -1,
+        -2
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 7,
+      "personality_delta": 1
+    },
+    {
+      "id": 157,
+      "attributes": [
+        -4,
+        3,
+        -2,
+        3,
+        1
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 7,
+      "personality_delta": -1
+    },
+    {
+      "id": 158,
+      "attributes": [
+        5,
+        3,
+        -2,
+        -4,
+        3
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 5,
+      "personality_delta": 1
+    },
+    {
+      "id": 159,
+      "attributes": [
+        0,
+        4,
+        -3,
+        2,
+        3
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 6,
+      "personality_delta": -1
+    },
+    {
+      "id": 160,
+      "attributes": [
+        2,
+        1,
+        1,
+        -1,
+        4
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 0,
+      "personality_delta": -1
+    },
+    {
+      "id": 161,
+      "attributes": [
+        5,
+        -4,
+        3,
+        1,
+        -3
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 7,
+      "personality_delta": 1
+    },
+    {
+      "id": 162,
+      "attributes": [
+        3,
+        -3,
+        2,
+        2,
+        -2
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 5,
+      "personality_delta": -1
+    },
+    {
+      "id": 163,
+      "attributes": [
+        2,
+        -3,
+        1,
+        4,
+        -2
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 3,
+      "personality_delta": 1
+    },
+    {
+      "id": 164,
+      "attributes": [
+        2,
+        3,
+        -2,
+        -4,
+        2
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 6,
+      "personality_delta": -1
+    },
+    {
+      "id": 165,
+      "attributes": [
+        4,
+        -1,
+        4,
+        -2,
+        -2
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 3,
+      "personality_delta": 1
+    },
+    {
+      "id": 166,
+      "attributes": [
+        5,
+        -2,
+        1,
+        4,
+        -3
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 5,
+      "personality_delta": 1
+    },
+    {
+      "id": 167,
+      "attributes": [
+        2,
+        5,
+        -5,
+        5,
+        -3
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 4,
+      "personality_delta": -1
+    },
+    {
+      "id": 168,
+      "attributes": [
+        -2,
+        0,
+        -4,
+        2,
+        5
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 5,
+      "personality_delta": -1
+    },
+    {
+      "id": 169,
+      "attributes": [
+        1,
+        4,
+        2,
+        -2,
+        -3
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 6,
+      "personality_delta": 1
+    },
+    {
+      "id": 170,
+      "attributes": [
+        4,
+        -5,
+        5,
+        0,
+        -4
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 0,
+      "personality_delta": 1
+    },
+    {
+      "id": 171,
+      "attributes": [
+        2,
+        2,
+        0,
+        -4,
+        4
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 5,
+      "personality_delta": 1
+    },
+    {
+      "id": 172,
+      "attributes": [
+        0,
+        -4,
+        4,
+        4,
+        0
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 6,
+      "personality_delta": -1
+    },
+    {
+      "id": 173,
+      "attributes": [
+        0,
+        4,
+        -1,
+        3,
+        -4
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 0,
+      "personality_delta": 1
+    },
+    {
+      "id": 174,
+      "attributes": [
+        -1,
+        3,
+        -3,
+        -1,
+        4
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 1,
+      "personality_delta": -1
+    },
+    {
+      "id": 175,
+      "attributes": [
+        -3,
+        4,
+        -1,
+        3,
+        -1
+      ],
+      "faith_adjustment": 0,
+      "personality_axis": 6,
+      "personality_delta": 1
+    }
+  ]
+}

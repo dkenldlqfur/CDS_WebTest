@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "records": [
+    {
+      "id": 0,
+      "portrait_ids": [
+        393,
+        396,
+        395
+      ]
+    },
+    {
+      "id": 1,
+      "portrait_ids": [
+        394,
+        397,
+        395
+      ]
+    },
+    {
+      "id": 2,
+      "portrait_ids": [
+        139,
+        141,
+        143
+      ]
+    },
+    {
+      "id": 3,
+      "portrait_ids": [
+        140,
+        142,
+        143
+      ]
+    }
+  ]
+}

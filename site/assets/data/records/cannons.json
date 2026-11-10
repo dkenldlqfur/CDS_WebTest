@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "records": [
+    {
+      "id": 0,
+      "price": 250,
+      "weight": 15,
+      "range": 3,
+      "attack": 3,
+      "minimum_level": 0
+    },
+    {
+      "id": 1,
+      "price": 1600,
+      "weight": 20,
+      "range": 4,
+      "attack": 4,
+      "minimum_level": 3
+    },
+    {
+      "id": 2,
+      "price": 2100,
+      "weight": 25,
+      "range": 3,
+      "attack": 5,
+      "minimum_level": 4
+    },
+    {
+      "id": 3,
+      "price": 2500,
+      "weight": 30,
+      "range": 2,
+      "attack": 8,
+      "minimum_level": 0
+    },
+    {
+      "id": 4,
+      "name_key": "cannon.carronade.name",
+      "description_key": "cannon.carronade.description",
+      "price": 5000,
+      "weight": 50,
+      "range": 5,
+      "attack": 7,
+      "minimum_level": 7
+    }
+  ]
+}

@@ -1,0 +1,2895 @@
+{
+  "schema_version": 2,
+  "records": [
+    {
+      "id": 0,
+      "name_key": "exe.00558b60",
+      "image": 39,
+      "buy_price": 20000,
+      "sell_price": 10000,
+      "effect": 0,
+      "category": 0,
+      "hint_id": -1
+    },
+    {
+      "id": 1,
+      "name_key": "exe.00558b58",
+      "image": 40,
+      "buy_price": 25000,
+      "sell_price": 12000,
+      "effect": 1,
+      "category": 0,
+      "hint_id": -1
+    },
+    {
+      "id": 2,
+      "name_key": "exe.00558b50",
+      "image": 41,
+      "buy_price": 30000,
+      "sell_price": 15000,
+      "effect": 2,
+      "category": 0,
+      "hint_id": -1
+    },
+    {
+      "id": 3,
+      "name_key": "exe.00558b44",
+      "image": 42,
+      "buy_price": 2,
+      "sell_price": 1,
+      "effect": 3,
+      "category": 0,
+      "hint_id": -1
+    },
+    {
+      "id": 4,
+      "name_key": "exe.00558b34",
+      "image": 43,
+      "buy_price": 175000,
+      "sell_price": 100000,
+      "effect": 4,
+      "category": 0,
+      "hint_id": -1
+    },
+    {
+      "id": 5,
+      "name_key": "exe.00558b28",
+      "image": 63,
+      "buy_price": 5000,
+      "sell_price": 3500,
+      "effect": 3,
+      "category": 1,
+      "hint_id": -1
+    },
+    {
+      "id": 6,
+      "name_key": "exe.00558b1c",
+      "image": 64,
+      "buy_price": 9000,
+      "sell_price": 6000,
+      "effect": 5,
+      "category": 1,
+      "hint_id": -1
+    },
+    {
+      "id": 7,
+      "name_key": "exe.00558b08",
+      "image": 65,
+      "buy_price": 6000,
+      "sell_price": 4000,
+      "effect": 3,
+      "category": 1,
+      "hint_id": -1
+    },
+    {
+      "id": 8,
+      "name_key": "exe.00558afc",
+      "image": 66,
+      "buy_price": 50000,
+      "sell_price": 35000,
+      "effect": 25,
+      "category": 1,
+      "hint_id": -1
+    },
+    {
+      "id": 9,
+      "name_key": "exe.00558af4",
+      "image": 67,
+      "buy_price": 7500,
+      "sell_price": 5000,
+      "effect": 4,
+      "category": 1,
+      "hint_id": -1
+    },
+    {
+      "id": 10,
+      "name_key": "exe.00558ae8",
+      "image": 68,
+      "buy_price": 4500,
+      "sell_price": 3000,
+      "effect": 3,
+      "category": 1,
+      "hint_id": -1
+    },
+    {
+      "id": 11,
+      "name_key": "exe.00558adc",
+      "image": 69,
+      "buy_price": 15000,
+      "sell_price": 10000,
+      "effect": 10,
+      "category": 1,
+      "hint_id": -1
+    },
+    {
+      "id": 12,
+      "name_key": "exe.00558ac8",
+      "image": 70,
+      "buy_price": 8000,
+      "sell_price": 5400,
+      "effect": 4,
+      "category": 1,
+      "hint_id": -1
+    },
+    {
+      "id": 13,
+      "name_key": "exe.00558ab8",
+      "image": 71,
+      "buy_price": 25000,
+      "sell_price": 17000,
+      "effect": 15,
+      "category": 1,
+      "hint_id": -1
+    },
+    {
+      "id": 14,
+      "name_key": "exe.00558aac",
+      "image": 72,
+      "buy_price": 36000,
+      "sell_price": 24000,
+      "effect": 20,
+      "category": 1,
+      "hint_id": -1
+    },
+    {
+      "id": 15,
+      "name_key": "exe.00558aa0",
+      "image": 73,
+      "buy_price": 80000,
+      "sell_price": 55000,
+      "effect": 30,
+      "category": 1,
+      "hint_id": -1
+    },
+    {
+      "id": 16,
+      "name_key": "exe.00558a90",
+      "image": 74,
+      "buy_price": 24000,
+      "sell_price": 16000,
+      "effect": 15,
+      "category": 1,
+      "hint_id": -1
+    },
+    {
+      "id": 17,
+      "name_key": "exe.00558a84",
+      "image": 75,
+      "buy_price": 20000,
+      "sell_price": 13000,
+      "effect": 13,
+      "category": 1,
+      "hint_id": -1
+    },
+    {
+      "id": 18,
+      "name_key": "exe.00558a74",
+      "image": 76,
+      "buy_price": 8500,
+      "sell_price": 5600,
+      "effect": 5,
+      "category": 1,
+      "hint_id": -1
+    },
+    {
+      "id": 19,
+      "name_key": "exe.00558a68",
+      "image": 77,
+      "buy_price": 3000,
+      "sell_price": 2000,
+      "effect": 2,
+      "category": 1,
+      "hint_id": -1
+    },
+    {
+      "id": 20,
+      "name_key": "exe.00558a58",
+      "image": 78,
+      "buy_price": 5500,
+      "sell_price": 3600,
+      "effect": 3,
+      "category": 1,
+      "hint_id": -1
+    },
+    {
+      "id": 21,
+      "name_key": "exe.00558a48",
+      "image": 79,
+      "buy_price": 12000,
+      "sell_price": 8000,
+      "effect": 6,
+      "category": 1,
+      "hint_id": -1
+    },
+    {
+      "id": 22,
+      "name_key": "exe.00558a3c",
+      "image": 80,
+      "buy_price": 64000,
+      "sell_price": 42000,
+      "effect": 28,
+      "category": 1,
+      "hint_id": -1
+    },
+    {
+      "id": 23,
+      "name_key": "exe.00558a30",
+      "image": 81,
+      "buy_price": 60000,
+      "sell_price": 40000,
+      "effect": 27,
+      "category": 1,
+      "hint_id": -1
+    },
+    {
+      "id": 24,
+      "name_key": "exe.00558a24",
+      "image": 82,
+      "buy_price": 56000,
+      "sell_price": 37000,
+      "effect": 26,
+      "category": 1,
+      "hint_id": -1
+    },
+    {
+      "id": 25,
+      "name_key": "exe.00558a1c",
+      "image": 83,
+      "buy_price": 48000,
+      "sell_price": 32000,
+      "effect": 24,
+      "category": 1,
+      "hint_id": -1
+    },
+    {
+      "id": 26,
+      "name_key": "exe.00558a0c",
+      "image": 84,
+      "buy_price": 45000,
+      "sell_price": 30000,
+      "effect": 23,
+      "category": 1,
+      "hint_id": -1
+    },
+    {
+      "id": 27,
+      "name_key": "exe.00558a00",
+      "image": 85,
+      "buy_price": 100000,
+      "sell_price": 65000,
+      "effect": 34,
+      "category": 1,
+      "hint_id": -1
+    },
+    {
+      "id": 28,
+      "name_key": "exe.005589f4",
+      "image": 86,
+      "buy_price": 72000,
+      "sell_price": 48000,
+      "effect": 29,
+      "category": 1,
+      "hint_id": -1
+    },
+    {
+      "id": 29,
+      "name_key": "exe.005589e8",
+      "image": 87,
+      "buy_price": 27000,
+      "sell_price": 18000,
+      "effect": 16,
+      "category": 1,
+      "hint_id": -1
+    },
+    {
+      "id": 30,
+      "name_key": "exe.005589dc",
+      "image": 88,
+      "buy_price": 40000,
+      "sell_price": 27000,
+      "effect": 22,
+      "category": 1,
+      "hint_id": -1
+    },
+    {
+      "id": 31,
+      "name_key": "exe.005589cc",
+      "image": 89,
+      "buy_price": 7200,
+      "sell_price": 4800,
+      "effect": 4,
+      "category": 1,
+      "hint_id": -1
+    },
+    {
+      "id": 32,
+      "name_key": "exe.005589bc",
+      "image": 90,
+      "buy_price": 90000,
+      "sell_price": 60000,
+      "effect": 32,
+      "category": 1,
+      "hint_id": -1
+    },
+    {
+      "id": 33,
+      "name_key": "exe.005589b4",
+      "image": 36,
+      "buy_price": 10000,
+      "sell_price": 5000,
+      "effect": 0,
+      "category": 2,
+      "hint_id": -1
+    },
+    {
+      "id": 34,
+      "name_key": "exe.005589ac",
+      "image": 37,
+      "buy_price": 2500,
+      "sell_price": 1250,
+      "effect": 1,
+      "category": 2,
+      "hint_id": -1
+    },
+    {
+      "id": 35,
+      "name_key": "exe.005589a4",
+      "image": 38,
+      "buy_price": 8000,
+      "sell_price": 4000,
+      "effect": 2,
+      "category": 2,
+      "hint_id": -1
+    },
+    {
+      "id": 36,
+      "name_key": "exe.0055899c",
+      "image": 204,
+      "buy_price": 100,
+      "sell_price": 50,
+      "effect": 4,
+      "category": 2,
+      "hint_id": -1
+    },
+    {
+      "id": 37,
+      "name_key": "exe.00558990",
+      "image": 94,
+      "buy_price": 300,
+      "sell_price": 100,
+      "effect": 22,
+      "category": 3,
+      "hint_id": -1
+    },
+    {
+      "id": 38,
+      "name_key": "exe.00558988",
+      "image": 92,
+      "buy_price": 1200,
+      "sell_price": 500,
+      "effect": 28,
+      "category": 3,
+      "hint_id": -1
+    },
+    {
+      "id": 39,
+      "name_key": "exe.0055897c",
+      "image": 95,
+      "buy_price": 2400,
+      "sell_price": 1050,
+      "effect": 34,
+      "category": 3,
+      "hint_id": -1
+    },
+    {
+      "id": 40,
+      "name_key": "exe.00558970",
+      "image": 100,
+      "buy_price": 5500,
+      "sell_price": 2600,
+      "effect": 38,
+      "category": 3,
+      "hint_id": -1
+    },
+    {
+      "id": 41,
+      "name_key": "exe.00558968",
+      "image": 98,
+      "buy_price": 8800,
+      "sell_price": 4200,
+      "effect": 43,
+      "category": 3,
+      "hint_id": -1
+    },
+    {
+      "id": 42,
+      "name_key": "exe.00558958",
+      "image": 96,
+      "buy_price": 12000,
+      "sell_price": 6000,
+      "effect": 48,
+      "category": 3,
+      "hint_id": -1
+    },
+    {
+      "id": 43,
+      "name_key": "exe.0055894c",
+      "image": 101,
+      "buy_price": 17500,
+      "sell_price": 9500,
+      "effect": 52,
+      "category": 3,
+      "hint_id": -1
+    },
+    {
+      "id": 44,
+      "name_key": "exe.00558940",
+      "image": 107,
+      "buy_price": 25500,
+      "sell_price": 13500,
+      "effect": 56,
+      "category": 3,
+      "hint_id": -1
+    },
+    {
+      "id": 45,
+      "name_key": "exe.00558934",
+      "image": 97,
+      "buy_price": 34000,
+      "sell_price": 17500,
+      "effect": 60,
+      "category": 3,
+      "hint_id": -1
+    },
+    {
+      "id": 46,
+      "name_key": "exe.00558928",
+      "image": 99,
+      "buy_price": 47000,
+      "sell_price": 25000,
+      "effect": 65,
+      "category": 3,
+      "hint_id": -1
+    },
+    {
+      "id": 47,
+      "name_key": "exe.00558918",
+      "image": 119,
+      "buy_price": 150000,
+      "sell_price": 80000,
+      "effect": 75,
+      "category": 3,
+      "hint_id": -1
+    },
+    {
+      "id": 48,
+      "name_key": "exe.00558908",
+      "image": 115,
+      "buy_price": 450000,
+      "sell_price": 320000,
+      "effect": 95,
+      "category": 3,
+      "hint_id": -1
+    },
+    {
+      "id": 49,
+      "name_key": "exe.005588f8",
+      "image": 114,
+      "buy_price": 240000,
+      "sell_price": 160000,
+      "effect": 85,
+      "category": 3,
+      "hint_id": -1
+    },
+    {
+      "id": 50,
+      "name_key": "exe.005588e4",
+      "image": 117,
+      "buy_price": 10000,
+      "sell_price": 5000,
+      "effect": 3,
+      "category": 3,
+      "hint_id": -1
+    },
+    {
+      "id": 51,
+      "name_key": "exe.005588dc",
+      "image": 102,
+      "buy_price": 12500,
+      "sell_price": 6000,
+      "effect": 48,
+      "category": 3,
+      "hint_id": -1
+    },
+    {
+      "id": 52,
+      "name_key": "exe.005588d4",
+      "image": 93,
+      "buy_price": 2300,
+      "sell_price": 1000,
+      "effect": 30,
+      "category": 3,
+      "hint_id": -1
+    },
+    {
+      "id": 53,
+      "name_key": "exe.005588cc",
+      "image": 103,
+      "buy_price": 10000,
+      "sell_price": 4800,
+      "effect": 45,
+      "category": 3,
+      "hint_id": -1
+    },
+    {
+      "id": 54,
+      "name_key": "exe.005588c4",
+      "image": 105,
+      "buy_price": 22000,
+      "sell_price": 12000,
+      "effect": 55,
+      "category": 3,
+      "hint_id": -1
+    },
+    {
+      "id": 55,
+      "name_key": "exe.005588bc",
+      "image": 104,
+      "buy_price": 44000,
+      "sell_price": 23000,
+      "effect": 65,
+      "category": 3,
+      "hint_id": -1
+    },
+    {
+      "id": 56,
+      "name_key": "exe.005588b4",
+      "image": 106,
+      "buy_price": 81000,
+      "sell_price": 43000,
+      "effect": 70,
+      "category": 3,
+      "hint_id": -1
+    },
+    {
+      "id": 57,
+      "name_key": "exe.005588ac",
+      "image": 111,
+      "buy_price": 7600,
+      "sell_price": 3800,
+      "effect": 40,
+      "category": 3,
+      "hint_id": -1
+    },
+    {
+      "id": 58,
+      "name_key": "exe.005588a4",
+      "image": 112,
+      "buy_price": 60000,
+      "sell_price": 35000,
+      "effect": 68,
+      "category": 3,
+      "hint_id": -1
+    },
+    {
+      "id": 59,
+      "name_key": "exe.0055889c",
+      "image": 110,
+      "buy_price": 17000,
+      "sell_price": 8800,
+      "effect": 52,
+      "category": 3,
+      "hint_id": -1
+    },
+    {
+      "id": 60,
+      "name_key": "exe.00558890",
+      "image": 108,
+      "buy_price": 84000,
+      "sell_price": 45000,
+      "effect": 67,
+      "category": 3,
+      "hint_id": -1
+    },
+    {
+      "id": 61,
+      "name_key": "exe.00558880",
+      "image": 109,
+      "buy_price": 380000,
+      "sell_price": 280000,
+      "effect": 90,
+      "category": 3,
+      "hint_id": -1
+    },
+    {
+      "id": 62,
+      "name_key": "exe.00558870",
+      "image": 118,
+      "buy_price": 1200,
+      "sell_price": 500,
+      "effect": 7,
+      "category": 3,
+      "hint_id": -1
+    },
+    {
+      "id": 63,
+      "name_key": "exe.00558860",
+      "image": 116,
+      "buy_price": 2000,
+      "sell_price": 1000,
+      "effect": 5,
+      "category": 3,
+      "hint_id": -1
+    },
+    {
+      "id": 64,
+      "name_key": "exe.0055885c",
+      "image": 113,
+      "buy_price": 2000,
+      "sell_price": 600,
+      "effect": 25,
+      "category": 3,
+      "hint_id": -1
+    },
+    {
+      "id": 65,
+      "name_key": "exe.00558854",
+      "image": 91,
+      "buy_price": 16000,
+      "sell_price": 8000,
+      "effect": 50,
+      "category": 3,
+      "hint_id": -1
+    },
+    {
+      "id": 66,
+      "name_key": "exe.00558848",
+      "image": 121,
+      "buy_price": 400,
+      "sell_price": 150,
+      "effect": 15,
+      "category": 4,
+      "hint_id": -1
+    },
+    {
+      "id": 67,
+      "name_key": "exe.0055883c",
+      "image": 122,
+      "buy_price": 3000,
+      "sell_price": 1200,
+      "effect": 25,
+      "category": 4,
+      "hint_id": -1
+    },
+    {
+      "id": 68,
+      "name_key": "exe.00558834",
+      "image": 123,
+      "buy_price": 12000,
+      "sell_price": 5000,
+      "effect": 35,
+      "category": 4,
+      "hint_id": -1
+    },
+    {
+      "id": 69,
+      "name_key": "exe.00558824",
+      "image": 124,
+      "buy_price": 35000,
+      "sell_price": 18000,
+      "effect": 50,
+      "category": 4,
+      "hint_id": -1
+    },
+    {
+      "id": 70,
+      "name_key": "exe.00558818",
+      "image": 130,
+      "buy_price": 6000,
+      "sell_price": 2400,
+      "effect": 28,
+      "category": 4,
+      "hint_id": -1
+    },
+    {
+      "id": 71,
+      "name_key": "exe.00558808",
+      "image": 132,
+      "buy_price": 10000,
+      "sell_price": 4000,
+      "effect": 33,
+      "category": 4,
+      "hint_id": -1
+    },
+    {
+      "id": 72,
+      "name_key": "exe.005587fc",
+      "image": 128,
+      "buy_price": 18000,
+      "sell_price": 8000,
+      "effect": 40,
+      "category": 4,
+      "hint_id": -1
+    },
+    {
+      "id": 73,
+      "name_key": "exe.005587f0",
+      "image": 133,
+      "buy_price": 25500,
+      "sell_price": 13000,
+      "effect": 45,
+      "category": 4,
+      "hint_id": -1
+    },
+    {
+      "id": 74,
+      "name_key": "exe.005587e8",
+      "image": 131,
+      "buy_price": 2500,
+      "sell_price": 1000,
+      "effect": 22,
+      "category": 4,
+      "hint_id": -1
+    },
+    {
+      "id": 75,
+      "name_key": "exe.005587dc",
+      "image": 125,
+      "buy_price": 14000,
+      "sell_price": 6000,
+      "effect": 37,
+      "category": 4,
+      "hint_id": -1
+    },
+    {
+      "id": 76,
+      "name_key": "exe.005587d0",
+      "image": 126,
+      "buy_price": 21000,
+      "sell_price": 10000,
+      "effect": 42,
+      "category": 4,
+      "hint_id": -1
+    },
+    {
+      "id": 77,
+      "name_key": "exe.005587c8",
+      "image": 129,
+      "buy_price": 42000,
+      "sell_price": 22000,
+      "effect": 52,
+      "category": 4,
+      "hint_id": -1
+    },
+    {
+      "id": 78,
+      "name_key": "exe.005587b8",
+      "image": 127,
+      "buy_price": 74000,
+      "sell_price": 40000,
+      "effect": 60,
+      "category": 4,
+      "hint_id": -1
+    },
+    {
+      "id": 79,
+      "name_key": "exe.005587a8",
+      "image": 209,
+      "buy_price": 50000,
+      "sell_price": 20000,
+      "effect": 30,
+      "category": 4,
+      "hint_id": -1
+    },
+    {
+      "id": 80,
+      "name_key": "exe.0055879c",
+      "image": 210,
+      "buy_price": 56000,
+      "sell_price": 25000,
+      "effect": 28,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 81,
+      "name_key": "exe.00543b54",
+      "image": 211,
+      "buy_price": 72000,
+      "sell_price": 29000,
+      "effect": 32,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 82,
+      "name_key": "exe.00558788",
+      "image": 212,
+      "buy_price": 150000,
+      "sell_price": 60000,
+      "effect": 45,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 83,
+      "name_key": "exe.0055877c",
+      "image": 213,
+      "buy_price": 6000,
+      "sell_price": 3000,
+      "effect": 20,
+      "category": 7,
+      "hint_id": 30
+    },
+    {
+      "id": 84,
+      "name_key": "exe.0055876c",
+      "image": 214,
+      "buy_price": 30000,
+      "sell_price": 10000,
+      "effect": 16,
+      "category": 0,
+      "hint_id": -1
+    },
+    {
+      "id": 85,
+      "name_key": "exe.0055875c",
+      "image": 215,
+      "buy_price": 16000,
+      "sell_price": 8000,
+      "effect": 22,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 86,
+      "name_key": "exe.00543b0c",
+      "image": 216,
+      "buy_price": 160000,
+      "sell_price": 75000,
+      "effect": 40,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 87,
+      "name_key": "exe.00558754",
+      "image": 217,
+      "buy_price": 67000,
+      "sell_price": 34000,
+      "effect": 30,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 88,
+      "name_key": "exe.00543af4",
+      "image": 218,
+      "buy_price": 66000,
+      "sell_price": 33000,
+      "effect": 29,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 89,
+      "name_key": "exe.00543ae8",
+      "image": 219,
+      "buy_price": 75000,
+      "sell_price": 40000,
+      "effect": 33,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 90,
+      "name_key": "exe.00558748",
+      "image": 220,
+      "buy_price": 150000,
+      "sell_price": 70000,
+      "effect": 38,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 91,
+      "name_key": "exe.00558740",
+      "image": 221,
+      "buy_price": 30000,
+      "sell_price": 12000,
+      "effect": 20,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 92,
+      "name_key": "exe.00543ad0",
+      "image": 222,
+      "buy_price": 160000,
+      "sell_price": 78000,
+      "effect": 45,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 93,
+      "name_key": "exe.00558734",
+      "image": 223,
+      "buy_price": 40000,
+      "sell_price": 20000,
+      "effect": 22,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 94,
+      "name_key": "exe.00558728",
+      "image": 224,
+      "buy_price": 170000,
+      "sell_price": 72000,
+      "effect": 40,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 95,
+      "name_key": "exe.00543aa8",
+      "image": 225,
+      "buy_price": 120000,
+      "sell_price": 55000,
+      "effect": 36,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 96,
+      "name_key": "exe.00543a9c",
+      "image": 226,
+      "buy_price": 100000,
+      "sell_price": 48000,
+      "effect": 34,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 97,
+      "name_key": "exe.0055871c",
+      "image": 227,
+      "buy_price": 3500,
+      "sell_price": 1700,
+      "effect": 25,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 98,
+      "name_key": "exe.0055870c",
+      "image": 228,
+      "buy_price": 140000,
+      "sell_price": 67000,
+      "effect": 35,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 99,
+      "name_key": "exe.00558704",
+      "image": 229,
+      "buy_price": 5000,
+      "sell_price": 2000,
+      "effect": 40,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 100,
+      "name_key": "exe.00543a80",
+      "image": 230,
+      "buy_price": 150000,
+      "sell_price": 70000,
+      "effect": 35,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 101,
+      "name_key": "exe.005586ec",
+      "image": 231,
+      "buy_price": 190000,
+      "sell_price": 85000,
+      "effect": 1,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 102,
+      "name_key": "exe.00543a60",
+      "image": 232,
+      "buy_price": 160000,
+      "sell_price": 75000,
+      "effect": 4,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 103,
+      "name_key": "exe.00543a50",
+      "image": 233,
+      "buy_price": 180000,
+      "sell_price": 76000,
+      "effect": 9,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 104,
+      "name_key": "exe.005586dc",
+      "image": 234,
+      "buy_price": 96000,
+      "sell_price": 60000,
+      "effect": 24,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 105,
+      "name_key": "exe.00543a2c",
+      "image": 235,
+      "buy_price": 110000,
+      "sell_price": 52000,
+      "effect": 27,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 106,
+      "name_key": "exe.00543a20",
+      "image": 236,
+      "buy_price": 2500,
+      "sell_price": 1200,
+      "effect": 38,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 107,
+      "name_key": "exe.005586c8",
+      "image": 237,
+      "buy_price": 180000,
+      "sell_price": 80000,
+      "effect": 19,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 108,
+      "name_key": "exe.005586bc",
+      "image": 44,
+      "buy_price": 3400,
+      "sell_price": 1200,
+      "effect": 17,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 109,
+      "name_key": "exe.005586b0",
+      "image": 45,
+      "buy_price": 4500,
+      "sell_price": 2500,
+      "effect": 11,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 110,
+      "name_key": "exe.005586a4",
+      "image": 53,
+      "buy_price": 1000,
+      "sell_price": 500,
+      "effect": 0,
+      "category": 7,
+      "hint_id": 82
+    },
+    {
+      "id": 111,
+      "name_key": "exe.00558694",
+      "image": 47,
+      "buy_price": 120000,
+      "sell_price": 60000,
+      "effect": 35,
+      "category": 1,
+      "hint_id": -1
+    },
+    {
+      "id": 112,
+      "name_key": "exe.00558684",
+      "image": 48,
+      "buy_price": 400,
+      "sell_price": 150,
+      "effect": 15,
+      "category": 7,
+      "hint_id": 59
+    },
+    {
+      "id": 113,
+      "name_key": "exe.0055867c",
+      "image": 49,
+      "buy_price": 300,
+      "sell_price": 100,
+      "effect": 10,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 114,
+      "name_key": "exe.0055866c",
+      "image": 57,
+      "buy_price": 50000,
+      "sell_price": 28000,
+      "effect": 25,
+      "category": 1,
+      "hint_id": -1
+    },
+    {
+      "id": 115,
+      "name_key": "exe.00558660",
+      "image": 52,
+      "buy_price": 10000,
+      "sell_price": 5500,
+      "effect": 10,
+      "category": 1,
+      "hint_id": -1
+    },
+    {
+      "id": 116,
+      "name_key": "exe.00558654",
+      "image": 59,
+      "buy_price": 7000,
+      "sell_price": 3200,
+      "effect": 15,
+      "category": 1,
+      "hint_id": -1
+    },
+    {
+      "id": 117,
+      "name_key": "exe.00558648",
+      "image": 59,
+      "buy_price": 3200,
+      "sell_price": 1500,
+      "effect": 3,
+      "category": 1,
+      "hint_id": -1
+    },
+    {
+      "id": 118,
+      "name_key": "exe.00558634",
+      "image": 59,
+      "buy_price": 4500,
+      "sell_price": 2200,
+      "effect": 7,
+      "category": 1,
+      "hint_id": -1
+    },
+    {
+      "id": 119,
+      "name_key": "exe.00558628",
+      "image": 51,
+      "buy_price": 120,
+      "sell_price": 50,
+      "effect": 12,
+      "category": 1,
+      "hint_id": -1
+    },
+    {
+      "id": 120,
+      "name_key": "exe.0055861c",
+      "image": 54,
+      "buy_price": 9000,
+      "sell_price": 5000,
+      "effect": 28,
+      "category": 7,
+      "hint_id": 174
+    },
+    {
+      "id": 121,
+      "name_key": "exe.0055860c",
+      "image": 60,
+      "buy_price": 65000,
+      "sell_price": 33000,
+      "effect": 58,
+      "category": 4,
+      "hint_id": -1
+    },
+    {
+      "id": 122,
+      "name_key": "exe.005585fc",
+      "image": 56,
+      "buy_price": 5000,
+      "sell_price": 1500,
+      "effect": 35,
+      "category": 7,
+      "hint_id": 72
+    },
+    {
+      "id": 123,
+      "name_key": "exe.005585ec",
+      "image": 56,
+      "buy_price": 3000,
+      "sell_price": 800,
+      "effect": 30,
+      "category": 7,
+      "hint_id": 73
+    },
+    {
+      "id": 124,
+      "name_key": "exe.005585d8",
+      "image": 56,
+      "buy_price": 3000,
+      "sell_price": 800,
+      "effect": 31,
+      "category": 7,
+      "hint_id": 154
+    },
+    {
+      "id": 125,
+      "name_key": "exe.005585c0",
+      "image": 50,
+      "buy_price": 15000,
+      "sell_price": 5000,
+      "effect": 50,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 126,
+      "name_key": "exe.005585b4",
+      "image": 61,
+      "buy_price": 500,
+      "sell_price": 200,
+      "effect": 10,
+      "category": 7,
+      "hint_id": 45
+    },
+    {
+      "id": 127,
+      "name_key": "exe.005585a8",
+      "image": 46,
+      "buy_price": 15000,
+      "sell_price": 6000,
+      "effect": 15,
+      "category": 1,
+      "hint_id": -1
+    },
+    {
+      "id": 128,
+      "name_key": "item.name.128",
+      "image": -1,
+      "buy_price": 45000,
+      "sell_price": 12500,
+      "effect": 12,
+      "category": 8,
+      "hint_id": -1
+    },
+    {
+      "id": 129,
+      "name_key": "item.name.129",
+      "image": -1,
+      "buy_price": 70000,
+      "sell_price": 15000,
+      "effect": 25,
+      "category": 8,
+      "hint_id": -1
+    },
+    {
+      "id": 130,
+      "name_key": "item.name.130",
+      "image": -1,
+      "buy_price": 40000,
+      "sell_price": 10000,
+      "effect": 10,
+      "category": 8,
+      "hint_id": -1
+    },
+    {
+      "id": 131,
+      "name_key": "item.name.131",
+      "image": -1,
+      "buy_price": 75000,
+      "sell_price": 14000,
+      "effect": 24,
+      "category": 8,
+      "hint_id": -1
+    },
+    {
+      "id": 132,
+      "name_key": "item.name.132",
+      "image": -1,
+      "buy_price": 40000,
+      "sell_price": 8000,
+      "effect": 40,
+      "category": 8,
+      "hint_id": -1
+    },
+    {
+      "id": 133,
+      "name_key": "item.name.133",
+      "image": -1,
+      "buy_price": 4000,
+      "sell_price": 1200,
+      "effect": 17,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 134,
+      "name_key": "item.name.134",
+      "image": -1,
+      "buy_price": 6000,
+      "sell_price": 2500,
+      "effect": 15,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 135,
+      "name_key": "exe.00558568",
+      "image": -1,
+      "buy_price": 10000,
+      "sell_price": 2000,
+      "effect": 21,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 136,
+      "name_key": "exe.0055855c",
+      "image": -1,
+      "buy_price": 10000,
+      "sell_price": 1800,
+      "effect": 20,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 137,
+      "name_key": "item.name.137",
+      "image": -1,
+      "buy_price": 16000,
+      "sell_price": 10000,
+      "effect": 30,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 138,
+      "name_key": "exe.00558548",
+      "image": -1,
+      "buy_price": 11000,
+      "sell_price": 9000,
+      "effect": 36,
+      "category": 8,
+      "hint_id": -1
+    },
+    {
+      "id": 139,
+      "name_key": "exe.00558540",
+      "image": -1,
+      "buy_price": 32000,
+      "sell_price": 16000,
+      "effect": 32,
+      "category": 8,
+      "hint_id": -1
+    },
+    {
+      "id": 140,
+      "name_key": "exe.00558530",
+      "image": -1,
+      "buy_price": 7000,
+      "sell_price": 3000,
+      "effect": 6,
+      "category": 8,
+      "hint_id": -1
+    },
+    {
+      "id": 141,
+      "name_key": "exe.00558524",
+      "image": -1,
+      "buy_price": 15000,
+      "sell_price": 8000,
+      "effect": 32,
+      "category": 8,
+      "hint_id": -1
+    },
+    {
+      "id": 142,
+      "name_key": "exe.00543930",
+      "image": -1,
+      "buy_price": 4000,
+      "sell_price": 2000,
+      "effect": 10,
+      "category": 8,
+      "hint_id": -1
+    },
+    {
+      "id": 143,
+      "name_key": "exe.0055851c",
+      "image": -1,
+      "buy_price": 40000,
+      "sell_price": 25000,
+      "effect": 35,
+      "category": 8,
+      "hint_id": -1
+    },
+    {
+      "id": 144,
+      "name_key": "exe.0054391c",
+      "image": -1,
+      "buy_price": 35000,
+      "sell_price": 20000,
+      "effect": 25,
+      "category": 8,
+      "hint_id": -1
+    },
+    {
+      "id": 145,
+      "name_key": "exe.00558510",
+      "image": -1,
+      "buy_price": 7000,
+      "sell_price": 35000,
+      "effect": 60,
+      "category": 8,
+      "hint_id": -1
+    },
+    {
+      "id": 146,
+      "name_key": "exe.0054390c",
+      "image": -1,
+      "buy_price": 65000,
+      "sell_price": 30000,
+      "effect": 50,
+      "category": 8,
+      "hint_id": -1
+    },
+    {
+      "id": 147,
+      "name_key": "exe.00558508",
+      "image": -1,
+      "buy_price": 50000,
+      "sell_price": 25000,
+      "effect": 40,
+      "category": 8,
+      "hint_id": -1
+    },
+    {
+      "id": 148,
+      "name_key": "exe.00558500",
+      "image": -1,
+      "buy_price": 45000,
+      "sell_price": 24000,
+      "effect": 38,
+      "category": 8,
+      "hint_id": -1
+    },
+    {
+      "id": 149,
+      "name_key": "exe.005584f8",
+      "image": -1,
+      "buy_price": 40000,
+      "sell_price": 21000,
+      "effect": 36,
+      "category": 8,
+      "hint_id": -1
+    },
+    {
+      "id": 150,
+      "name_key": "item.name.150",
+      "image": -1,
+      "buy_price": 15000,
+      "sell_price": 9500,
+      "effect": 20,
+      "category": 8,
+      "hint_id": -1
+    },
+    {
+      "id": 151,
+      "name_key": "exe.005584e0",
+      "image": -1,
+      "buy_price": 35000,
+      "sell_price": 25000,
+      "effect": 35,
+      "category": 8,
+      "hint_id": -1
+    },
+    {
+      "id": 152,
+      "name_key": "exe.005584d4",
+      "image": -1,
+      "buy_price": 27000,
+      "sell_price": 13500,
+      "effect": 30,
+      "category": 8,
+      "hint_id": -1
+    },
+    {
+      "id": 153,
+      "name_key": "exe.005584cc",
+      "image": -1,
+      "buy_price": 26000,
+      "sell_price": 14000,
+      "effect": 28,
+      "category": 8,
+      "hint_id": -1
+    },
+    {
+      "id": 154,
+      "name_key": "exe.005584c4",
+      "image": -1,
+      "buy_price": 16000,
+      "sell_price": 8000,
+      "effect": 24,
+      "category": 8,
+      "hint_id": -1
+    },
+    {
+      "id": 155,
+      "name_key": "exe.005584b8",
+      "image": -1,
+      "buy_price": 22000,
+      "sell_price": 12000,
+      "effect": 32,
+      "category": 8,
+      "hint_id": -1
+    },
+    {
+      "id": 156,
+      "name_key": "exe.005584b0",
+      "image": -1,
+      "buy_price": 8000,
+      "sell_price": 15000,
+      "effect": 28,
+      "category": 8,
+      "hint_id": -1
+    },
+    {
+      "id": 157,
+      "name_key": "exe.005584a4",
+      "image": -1,
+      "buy_price": 10000,
+      "sell_price": 6000,
+      "effect": 25,
+      "category": 8,
+      "hint_id": -1
+    },
+    {
+      "id": 158,
+      "name_key": "exe.005438a4",
+      "image": -1,
+      "buy_price": 3000,
+      "sell_price": 1500,
+      "effect": 8,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 159,
+      "name_key": "exe.00558494",
+      "image": -1,
+      "buy_price": 1500,
+      "sell_price": 800,
+      "effect": 20,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 160,
+      "name_key": "exe.0055848c",
+      "image": -1,
+      "buy_price": 1500,
+      "sell_price": 1000,
+      "effect": 5,
+      "category": 1,
+      "hint_id": -1
+    },
+    {
+      "id": 161,
+      "name_key": "exe.00558480",
+      "image": -1,
+      "buy_price": 5000,
+      "sell_price": 1500,
+      "effect": 25,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 162,
+      "name_key": "exe.00558474",
+      "image": -1,
+      "buy_price": 1400,
+      "sell_price": 500,
+      "effect": 15,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 163,
+      "name_key": "exe.00558464",
+      "image": -1,
+      "buy_price": 1300,
+      "sell_price": 350,
+      "effect": 12,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 164,
+      "name_key": "exe.00558454",
+      "image": -1,
+      "buy_price": 1200,
+      "sell_price": 150,
+      "effect": 15,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 165,
+      "name_key": "exe.00558444",
+      "image": 113,
+      "buy_price": 2500,
+      "sell_price": 1500,
+      "effect": 20,
+      "category": 3,
+      "hint_id": -1
+    },
+    {
+      "id": 166,
+      "name_key": "exe.00558434",
+      "image": 62,
+      "buy_price": 24000,
+      "sell_price": 9000,
+      "effect": 33,
+      "category": 1,
+      "hint_id": -1
+    },
+    {
+      "id": 167,
+      "name_key": "item.name.167",
+      "image": -1,
+      "buy_price": 180000,
+      "sell_price": 40000,
+      "effect": 35,
+      "category": 8,
+      "hint_id": -1
+    },
+    {
+      "id": 168,
+      "name_key": "exe.00558424",
+      "image": 120,
+      "buy_price": 120000,
+      "sell_price": 35000,
+      "effect": 40,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 169,
+      "name_key": "exe.00558414",
+      "image": -1,
+      "buy_price": 50000,
+      "sell_price": 2000,
+      "effect": 20,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 170,
+      "name_key": "item.name.170",
+      "image": -1,
+      "buy_price": 100000,
+      "sell_price": 25000,
+      "effect": 50,
+      "category": 8,
+      "hint_id": -1
+    },
+    {
+      "id": 171,
+      "name_key": "exe.005437ac",
+      "image": -1,
+      "buy_price": 60000,
+      "sell_price": 11000,
+      "effect": 24,
+      "category": 8,
+      "hint_id": -1
+    },
+    {
+      "id": 172,
+      "name_key": "exe.005583fc",
+      "image": 58,
+      "buy_price": 50000,
+      "sell_price": 8000,
+      "effect": 20,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 173,
+      "name_key": "exe.005583f0",
+      "image": 58,
+      "buy_price": 200000,
+      "sell_price": 30000,
+      "effect": 40,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 174,
+      "name_key": "exe.005583e4",
+      "image": 58,
+      "buy_price": 200000,
+      "sell_price": 30000,
+      "effect": 40,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 175,
+      "name_key": "exe.005583d0",
+      "image": 58,
+      "buy_price": 100000,
+      "sell_price": 15000,
+      "effect": 20,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 176,
+      "name_key": "exe.005583c0",
+      "image": 58,
+      "buy_price": 150000,
+      "sell_price": 28000,
+      "effect": 30,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 177,
+      "name_key": "exe.005583b4",
+      "image": 58,
+      "buy_price": 120000,
+      "sell_price": 27000,
+      "effect": 20,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 178,
+      "name_key": "exe.005583a0",
+      "image": 58,
+      "buy_price": 160000,
+      "sell_price": 30000,
+      "effect": 30,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 179,
+      "name_key": "exe.00558390",
+      "image": 58,
+      "buy_price": 250000,
+      "sell_price": 50000,
+      "effect": 60,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 180,
+      "name_key": "exe.00558384",
+      "image": 58,
+      "buy_price": 150000,
+      "sell_price": 24000,
+      "effect": 40,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 181,
+      "name_key": "exe.00558374",
+      "image": 58,
+      "buy_price": 100000,
+      "sell_price": 19000,
+      "effect": 35,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 182,
+      "name_key": "exe.00558364",
+      "image": 58,
+      "buy_price": 60000,
+      "sell_price": 9000,
+      "effect": 30,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 183,
+      "name_key": "exe.00558354",
+      "image": 58,
+      "buy_price": 80000,
+      "sell_price": 14000,
+      "effect": 35,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 184,
+      "name_key": "exe.00558348",
+      "image": 55,
+      "buy_price": 35000,
+      "sell_price": 9000,
+      "effect": 27,
+      "category": 7,
+      "hint_id": 60
+    },
+    {
+      "id": 185,
+      "name_key": "exe.00558338",
+      "image": 59,
+      "buy_price": 15000,
+      "sell_price": 5000,
+      "effect": 17,
+      "category": 1,
+      "hint_id": -1
+    },
+    {
+      "id": 186,
+      "name_key": "exe.00558330",
+      "image": 135,
+      "buy_price": 300,
+      "sell_price": 50,
+      "effect": 10,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 187,
+      "name_key": "exe.00558324",
+      "image": 136,
+      "buy_price": 500,
+      "sell_price": 100,
+      "effect": 15,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 188,
+      "name_key": "exe.0055831c",
+      "image": 137,
+      "buy_price": 400,
+      "sell_price": 80,
+      "effect": 12,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 189,
+      "name_key": "exe.00558310",
+      "image": 157,
+      "buy_price": 140,
+      "sell_price": 50,
+      "effect": 45,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 190,
+      "name_key": "exe.00558304",
+      "image": 158,
+      "buy_price": 160,
+      "sell_price": 55,
+      "effect": 50,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 191,
+      "name_key": "exe.005582f8",
+      "image": 160,
+      "buy_price": 130,
+      "sell_price": 45,
+      "effect": 42,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 192,
+      "name_key": "exe.005582ec",
+      "image": 161,
+      "buy_price": 90,
+      "sell_price": 30,
+      "effect": 36,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 193,
+      "name_key": "exe.005582e0",
+      "image": 163,
+      "buy_price": 300,
+      "sell_price": 90,
+      "effect": 25,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 194,
+      "name_key": "exe.005582d8",
+      "image": 164,
+      "buy_price": 50,
+      "sell_price": 10,
+      "effect": 24,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 195,
+      "name_key": "exe.005582cc",
+      "image": 165,
+      "buy_price": 100,
+      "sell_price": 40,
+      "effect": 22,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 196,
+      "name_key": "exe.005582c4",
+      "image": 166,
+      "buy_price": 60,
+      "sell_price": 12,
+      "effect": 27,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 197,
+      "name_key": "exe.005582b8",
+      "image": 169,
+      "buy_price": 150,
+      "sell_price": 50,
+      "effect": 40,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 198,
+      "name_key": "exe.005582a8",
+      "image": 181,
+      "buy_price": 600,
+      "sell_price": 1000,
+      "effect": 28,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 199,
+      "name_key": "exe.0055829c",
+      "image": 182,
+      "buy_price": 500,
+      "sell_price": 600,
+      "effect": 30,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 200,
+      "name_key": "exe.00558290",
+      "image": 183,
+      "buy_price": 200,
+      "sell_price": 300,
+      "effect": 21,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 201,
+      "name_key": "exe.00558284",
+      "image": 185,
+      "buy_price": 400,
+      "sell_price": 950,
+      "effect": 22,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 202,
+      "name_key": "exe.00558278",
+      "image": 186,
+      "buy_price": 300,
+      "sell_price": 1000,
+      "effect": 24,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 203,
+      "name_key": "exe.0055826c",
+      "image": 187,
+      "buy_price": 350,
+      "sell_price": 850,
+      "effect": 20,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 204,
+      "name_key": "exe.00558260",
+      "image": 188,
+      "buy_price": 250,
+      "sell_price": 200,
+      "effect": 12,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 205,
+      "name_key": "exe.00558254",
+      "image": 190,
+      "buy_price": 110000,
+      "sell_price": 30000,
+      "effect": 27,
+      "category": 1,
+      "hint_id": -1
+    },
+    {
+      "id": 206,
+      "name_key": "exe.00558248",
+      "image": 191,
+      "buy_price": 25000,
+      "sell_price": 9000,
+      "effect": 17,
+      "category": 1,
+      "hint_id": -1
+    },
+    {
+      "id": 207,
+      "name_key": "exe.0055823c",
+      "image": 192,
+      "buy_price": 380,
+      "sell_price": 480,
+      "effect": 5,
+      "category": 1,
+      "hint_id": -1
+    },
+    {
+      "id": 208,
+      "name_key": "exe.005436c0",
+      "image": 193,
+      "buy_price": 350,
+      "sell_price": 700,
+      "effect": 7,
+      "category": 1,
+      "hint_id": -1
+    },
+    {
+      "id": 209,
+      "name_key": "exe.00558234",
+      "image": 194,
+      "buy_price": 40000,
+      "sell_price": 11000,
+      "effect": 21,
+      "category": 1,
+      "hint_id": -1
+    },
+    {
+      "id": 210,
+      "name_key": "exe.00558228",
+      "image": 195,
+      "buy_price": 300,
+      "sell_price": 600,
+      "effect": 6,
+      "category": 1,
+      "hint_id": -1
+    },
+    {
+      "id": 211,
+      "name_key": "exe.0055821c",
+      "image": 201,
+      "buy_price": 250,
+      "sell_price": 350,
+      "effect": 30,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 212,
+      "name_key": "exe.0055820c",
+      "image": -1,
+      "buy_price": 30000,
+      "sell_price": 10000,
+      "effect": 35,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 213,
+      "name_key": "exe.00558200",
+      "image": 0,
+      "buy_price": 1200,
+      "sell_price": 400,
+      "effect": 0,
+      "category": 6,
+      "hint_id": -1
+    },
+    {
+      "id": 214,
+      "name_key": "exe.005581f8",
+      "image": 1,
+      "buy_price": 1250,
+      "sell_price": 420,
+      "effect": 1,
+      "category": 6,
+      "hint_id": -1
+    },
+    {
+      "id": 215,
+      "name_key": "exe.005581f0",
+      "image": 2,
+      "buy_price": 1300,
+      "sell_price": 440,
+      "effect": 2,
+      "category": 6,
+      "hint_id": -1
+    },
+    {
+      "id": 216,
+      "name_key": "exe.005581e8",
+      "image": 3,
+      "buy_price": 1350,
+      "sell_price": 460,
+      "effect": 3,
+      "category": 6,
+      "hint_id": -1
+    },
+    {
+      "id": 217,
+      "name_key": "exe.005581e0",
+      "image": 4,
+      "buy_price": 1400,
+      "sell_price": 480,
+      "effect": 4,
+      "category": 6,
+      "hint_id": -1
+    },
+    {
+      "id": 218,
+      "name_key": "exe.005581d8",
+      "image": 5,
+      "buy_price": 1450,
+      "sell_price": 500,
+      "effect": 5,
+      "category": 6,
+      "hint_id": -1
+    },
+    {
+      "id": 219,
+      "name_key": "exe.005581d0",
+      "image": 6,
+      "buy_price": 1500,
+      "sell_price": 520,
+      "effect": 6,
+      "category": 6,
+      "hint_id": -1
+    },
+    {
+      "id": 220,
+      "name_key": "exe.005581c8",
+      "image": 7,
+      "buy_price": 1600,
+      "sell_price": 550,
+      "effect": 7,
+      "category": 6,
+      "hint_id": -1
+    },
+    {
+      "id": 221,
+      "name_key": "exe.005581bc",
+      "image": 8,
+      "buy_price": 5000,
+      "sell_price": 2100,
+      "effect": 8,
+      "category": 6,
+      "hint_id": -1
+    },
+    {
+      "id": 222,
+      "name_key": "exe.005581b0",
+      "image": 9,
+      "buy_price": 5500,
+      "sell_price": 2200,
+      "effect": 9,
+      "category": 6,
+      "hint_id": -1
+    },
+    {
+      "id": 223,
+      "name_key": "exe.005581a8",
+      "image": 10,
+      "buy_price": 6000,
+      "sell_price": 2300,
+      "effect": 10,
+      "category": 6,
+      "hint_id": -1
+    },
+    {
+      "id": 224,
+      "name_key": "exe.005581a0",
+      "image": 11,
+      "buy_price": 6500,
+      "sell_price": 2400,
+      "effect": 11,
+      "category": 6,
+      "hint_id": -1
+    },
+    {
+      "id": 225,
+      "name_key": "exe.00558198",
+      "image": 12,
+      "buy_price": 7000,
+      "sell_price": 2500,
+      "effect": 12,
+      "category": 6,
+      "hint_id": -1
+    },
+    {
+      "id": 226,
+      "name_key": "exe.0055818c",
+      "image": 13,
+      "buy_price": 23500,
+      "sell_price": 7950,
+      "effect": 13,
+      "category": 6,
+      "hint_id": -1
+    },
+    {
+      "id": 227,
+      "name_key": "exe.00558184",
+      "image": 14,
+      "buy_price": 24000,
+      "sell_price": 8000,
+      "effect": 14,
+      "category": 6,
+      "hint_id": -1
+    },
+    {
+      "id": 228,
+      "name_key": "exe.0055817c",
+      "image": 15,
+      "buy_price": 24500,
+      "sell_price": 8100,
+      "effect": 15,
+      "category": 6,
+      "hint_id": -1
+    },
+    {
+      "id": 229,
+      "name_key": "exe.00558174",
+      "image": 16,
+      "buy_price": 25000,
+      "sell_price": 8200,
+      "effect": 16,
+      "category": 6,
+      "hint_id": -1
+    },
+    {
+      "id": 230,
+      "name_key": "exe.0055816c",
+      "image": 17,
+      "buy_price": 25500,
+      "sell_price": 8400,
+      "effect": 17,
+      "category": 6,
+      "hint_id": -1
+    },
+    {
+      "id": 231,
+      "name_key": "exe.00558164",
+      "image": 18,
+      "buy_price": 26000,
+      "sell_price": 8500,
+      "effect": 18,
+      "category": 6,
+      "hint_id": -1
+    },
+    {
+      "id": 232,
+      "name_key": "exe.00558158",
+      "image": 19,
+      "buy_price": 26500,
+      "sell_price": 8700,
+      "effect": 19,
+      "category": 6,
+      "hint_id": -1
+    },
+    {
+      "id": 233,
+      "name_key": "exe.00558150",
+      "image": 20,
+      "buy_price": 27000,
+      "sell_price": 8850,
+      "effect": 20,
+      "category": 6,
+      "hint_id": -1
+    },
+    {
+      "id": 234,
+      "name_key": "exe.00558148",
+      "image": 21,
+      "buy_price": 27500,
+      "sell_price": 9000,
+      "effect": 21,
+      "category": 6,
+      "hint_id": -1
+    },
+    {
+      "id": 235,
+      "name_key": "exe.00558140",
+      "image": 22,
+      "buy_price": 28000,
+      "sell_price": 9150,
+      "effect": 22,
+      "category": 6,
+      "hint_id": -1
+    },
+    {
+      "id": 236,
+      "name_key": "exe.00558138",
+      "image": 23,
+      "buy_price": 28500,
+      "sell_price": 9300,
+      "effect": 23,
+      "category": 6,
+      "hint_id": -1
+    },
+    {
+      "id": 237,
+      "name_key": "exe.00558128",
+      "image": 24,
+      "buy_price": 29000,
+      "sell_price": 9500,
+      "effect": 24,
+      "category": 6,
+      "hint_id": -1
+    },
+    {
+      "id": 238,
+      "name_key": "exe.00558120",
+      "image": 25,
+      "buy_price": 30000,
+      "sell_price": 9700,
+      "effect": 25,
+      "category": 6,
+      "hint_id": -1
+    },
+    {
+      "id": 239,
+      "name_key": "exe.00558118",
+      "image": 26,
+      "buy_price": 240000,
+      "sell_price": 140000,
+      "effect": 26,
+      "category": 6,
+      "hint_id": -1
+    },
+    {
+      "id": 240,
+      "name_key": "exe.00558110",
+      "image": 27,
+      "buy_price": 210000,
+      "sell_price": 125000,
+      "effect": 27,
+      "category": 6,
+      "hint_id": -1
+    },
+    {
+      "id": 241,
+      "name_key": "exe.00558108",
+      "image": 28,
+      "buy_price": 200000,
+      "sell_price": 120000,
+      "effect": 28,
+      "category": 6,
+      "hint_id": -1
+    },
+    {
+      "id": 242,
+      "name_key": "exe.005580fc",
+      "image": 29,
+      "buy_price": 230000,
+      "sell_price": 135000,
+      "effect": 29,
+      "category": 6,
+      "hint_id": -1
+    },
+    {
+      "id": 243,
+      "name_key": "exe.005580f4",
+      "image": 30,
+      "buy_price": 220000,
+      "sell_price": 130000,
+      "effect": 30,
+      "category": 6,
+      "hint_id": -1
+    },
+    {
+      "id": 244,
+      "name_key": "exe.005580ec",
+      "image": 31,
+      "buy_price": 210000,
+      "sell_price": 125000,
+      "effect": 31,
+      "category": 6,
+      "hint_id": -1
+    },
+    {
+      "id": 245,
+      "name_key": "exe.005580e0",
+      "image": 32,
+      "buy_price": 230000,
+      "sell_price": 135000,
+      "effect": 32,
+      "category": 6,
+      "hint_id": -1
+    },
+    {
+      "id": 246,
+      "name_key": "exe.005580d8",
+      "image": 33,
+      "buy_price": 235000,
+      "sell_price": 138000,
+      "effect": 33,
+      "category": 6,
+      "hint_id": -1
+    },
+    {
+      "id": 247,
+      "name_key": "exe.005580d0",
+      "image": 34,
+      "buy_price": 280000,
+      "sell_price": 200000,
+      "effect": 34,
+      "category": 6,
+      "hint_id": -1
+    },
+    {
+      "id": 248,
+      "name_key": "exe.005580c8",
+      "image": 35,
+      "buy_price": 320000,
+      "sell_price": 230000,
+      "effect": 35,
+      "category": 6,
+      "hint_id": -1
+    },
+    {
+      "id": 249,
+      "name_key": "exe.005580bc",
+      "image": 238,
+      "buy_price": 160,
+      "sell_price": 50,
+      "effect": 0,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 250,
+      "name_key": "exe.005580b0",
+      "image": 239,
+      "buy_price": 900,
+      "sell_price": 400,
+      "effect": 0,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 251,
+      "name_key": "exe.005580a0",
+      "image": 240,
+      "buy_price": 480,
+      "sell_price": 200,
+      "effect": 0,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 252,
+      "name_key": "exe.00558094",
+      "image": 241,
+      "buy_price": 300,
+      "sell_price": 100,
+      "effect": 0,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 253,
+      "name_key": "exe.00558088",
+      "image": 242,
+      "buy_price": 560,
+      "sell_price": 200,
+      "effect": 0,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 254,
+      "name_key": "exe.0055807c",
+      "image": 243,
+      "buy_price": 600,
+      "sell_price": 120,
+      "effect": 0,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 255,
+      "name_key": "exe.0055806c",
+      "image": 244,
+      "buy_price": 125,
+      "sell_price": 25,
+      "effect": 0,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 256,
+      "name_key": "exe.00558060",
+      "image": 245,
+      "buy_price": 210,
+      "sell_price": 100,
+      "effect": 0,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 257,
+      "name_key": "exe.00558054",
+      "image": 246,
+      "buy_price": 700,
+      "sell_price": 200,
+      "effect": 0,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 258,
+      "name_key": "exe.00558048",
+      "image": 247,
+      "buy_price": 360,
+      "sell_price": 100,
+      "effect": 0,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 259,
+      "name_key": "exe.00558040",
+      "image": 248,
+      "buy_price": 250,
+      "sell_price": 100,
+      "effect": 0,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 260,
+      "name_key": "exe.00558034",
+      "image": 249,
+      "buy_price": 80,
+      "sell_price": 30,
+      "effect": 0,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 261,
+      "name_key": "exe.00558028",
+      "image": 250,
+      "buy_price": 560,
+      "sell_price": 200,
+      "effect": 0,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 262,
+      "name_key": "exe.0055801c",
+      "image": 251,
+      "buy_price": 640,
+      "sell_price": 250,
+      "effect": 0,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 263,
+      "name_key": "exe.0055800c",
+      "image": 252,
+      "buy_price": 120,
+      "sell_price": 50,
+      "effect": 0,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 264,
+      "name_key": "exe.00558000",
+      "image": 253,
+      "buy_price": 580,
+      "sell_price": 200,
+      "effect": 0,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 265,
+      "name_key": "exe.00557ff4",
+      "image": 254,
+      "buy_price": 460,
+      "sell_price": 150,
+      "effect": 0,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 266,
+      "name_key": "exe.00557fe4",
+      "image": 255,
+      "buy_price": 20,
+      "sell_price": 5,
+      "effect": 0,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 267,
+      "name_key": "exe.00557fd8",
+      "image": 256,
+      "buy_price": 480,
+      "sell_price": 200,
+      "effect": 0,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 268,
+      "name_key": "exe.00557fd0",
+      "image": 257,
+      "buy_price": 320,
+      "sell_price": 100,
+      "effect": 0,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 269,
+      "name_key": "exe.00557fc4",
+      "image": 258,
+      "buy_price": 800,
+      "sell_price": 300,
+      "effect": 0,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 270,
+      "name_key": "exe.00557fb0",
+      "image": 259,
+      "buy_price": 350,
+      "sell_price": 120,
+      "effect": 0,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 271,
+      "name_key": "exe.00557fa4",
+      "image": 260,
+      "buy_price": 150,
+      "sell_price": 50,
+      "effect": 0,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 272,
+      "name_key": "exe.00557f9c",
+      "image": 261,
+      "buy_price": 1000,
+      "sell_price": 350,
+      "effect": 2,
+      "category": 1,
+      "hint_id": -1
+    },
+    {
+      "id": 273,
+      "name_key": "exe.00557f90",
+      "image": 262,
+      "buy_price": 1500,
+      "sell_price": 700,
+      "effect": 4,
+      "category": 1,
+      "hint_id": -1
+    },
+    {
+      "id": 274,
+      "name_key": "exe.00557f80",
+      "image": 263,
+      "buy_price": 200,
+      "sell_price": 50,
+      "effect": 1,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 275,
+      "name_key": "exe.00557f70",
+      "image": 264,
+      "buy_price": 160,
+      "sell_price": 45,
+      "effect": 0,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 276,
+      "name_key": "exe.00557f5c",
+      "image": 265,
+      "buy_price": 500,
+      "sell_price": 190,
+      "effect": 0,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 277,
+      "name_key": "exe.00557f48",
+      "image": 53,
+      "buy_price": 100,
+      "sell_price": 500,
+      "effect": 1,
+      "category": 7,
+      "hint_id": -1
+    },
+    {
+      "id": 278,
+      "name_key": "exe.00557f34",
+      "image": 53,
+      "buy_price": 200,
+      "sell_price": 500,
+      "effect": 1,
+      "category": 7,
+      "hint_id": -1
+    },
+    {
+      "id": 279,
+      "name_key": "exe.00557f20",
+      "image": 53,
+      "buy_price": 250,
+      "sell_price": 500,
+      "effect": 1,
+      "category": 7,
+      "hint_id": -1
+    },
+    {
+      "id": 280,
+      "name_key": "exe.00557f0c",
+      "image": 53,
+      "buy_price": 300,
+      "sell_price": 500,
+      "effect": 1,
+      "category": 7,
+      "hint_id": -1
+    },
+    {
+      "id": 281,
+      "name_key": "exe.00557ef8",
+      "image": 53,
+      "buy_price": 1500,
+      "sell_price": 500,
+      "effect": 1,
+      "category": 7,
+      "hint_id": -1
+    },
+    {
+      "id": 282,
+      "name_key": "exe.00557ee4",
+      "image": 53,
+      "buy_price": 2000,
+      "sell_price": 500,
+      "effect": 1,
+      "category": 7,
+      "hint_id": -1
+    },
+    {
+      "id": 283,
+      "name_key": "exe.00557ed0",
+      "image": 53,
+      "buy_price": 1000,
+      "sell_price": 500,
+      "effect": 1,
+      "category": 7,
+      "hint_id": -1
+    },
+    {
+      "id": 284,
+      "name_key": "exe.00557ebc",
+      "image": 53,
+      "buy_price": 500,
+      "sell_price": 500,
+      "effect": 1,
+      "category": 7,
+      "hint_id": -1
+    },
+    {
+      "id": 285,
+      "name_key": "exe.00557eb0",
+      "image": 205,
+      "buy_price": 150000,
+      "sell_price": 60000,
+      "effect": 35,
+      "category": 5,
+      "hint_id": -1
+    },
+    {
+      "id": 286,
+      "name_key": "item.holy_oil.name",
+      "image": 207,
+      "buy_price": 1000,
+      "sell_price": 500,
+      "effect": -1,
+      "category": 0,
+      "hint_id": -1
+    },
+    {
+      "id": 287,
+      "name_key": "item.lime_juice.name",
+      "image": 208,
+      "buy_price": 1000,
+      "sell_price": 500,
+      "effect": -1,
+      "category": 0,
+      "hint_id": -1
+    },
+    {
+      "id": 288,
+      "name_key": "item.cat.name",
+      "image": 206,
+      "buy_price": 1000,
+      "sell_price": 500,
+      "effect": -1,
+      "category": 0,
+      "hint_id": -1
+    }
+  ]
+}

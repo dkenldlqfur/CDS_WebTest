@@ -1,0 +1,51 @@
+name: Publish game to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v6
+      - name: Reconstruct verified resource package
+        run: python3 tools/assemble_site.py
+      - name: Verify published files without starting the game
+        run: python3 tools/verify_site.py
+      - name: Check JavaScript syntax only
+        run: |
+          node --check site/index.js
+          node --check site/isolation-sw.js
+
+  deploy:
+    # Public Pages hosting was authorized by the repository owner.
+    if: ${{ !github.event.repository.private }}
+    needs: verify
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v6
+      - name: Reconstruct verified resource package
+        run: python3 tools/assemble_site.py
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: site
+      - name: Publish
+        id: deployment
+        uses: actions/deploy-pages@v4

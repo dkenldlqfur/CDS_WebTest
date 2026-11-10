@@ -1,0 +1,9047 @@
+{
+  "schema_version": 2,
+  "records": [
+    {
+      "id": 0,
+      "position": [
+        1185,
+        355
+      ],
+      "radius": 3,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 126,
+      "region": 0,
+      "culture": 0,
+      "nation": 0,
+      "level": 4,
+      "price_scale": 100,
+      "special_good": 22,
+      "special_price": 155,
+      "stock_size": 1,
+      "market_items": [
+        33,
+        34,
+        37,
+        66,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 63487,
+      "initial_status_flags": 9,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 1,
+      "position": [
+        1189,
+        338
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 126,
+      "region": 0,
+      "culture": 0,
+      "nation": 0,
+      "level": 1,
+      "price_scale": 100,
+      "special_good": 5,
+      "special_price": 10,
+      "stock_size": 3,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 62587,
+      "initial_status_flags": 9,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 2,
+      "position": [
+        1190,
+        323
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 126,
+      "region": 0,
+      "culture": 0,
+      "nation": 1,
+      "level": 1,
+      "price_scale": 100,
+      "special_good": 43,
+      "special_price": 70,
+      "stock_size": 2,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1147,
+      "initial_status_flags": 9,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 3,
+      "position": [
+        1229,
+        323
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 126,
+      "region": 0,
+      "culture": 0,
+      "nation": 1,
+      "level": 1,
+      "price_scale": 100,
+      "special_good": 41,
+      "special_price": 60,
+      "stock_size": 2,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1147,
+      "initial_status_flags": 9,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 4,
+      "position": [
+        1219,
+        346
+      ],
+      "radius": 3,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 126,
+      "region": 0,
+      "culture": 0,
+      "nation": 1,
+      "level": 4,
+      "price_scale": 100,
+      "special_good": 22,
+      "special_price": 160,
+      "stock_size": 2,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 62776,
+      "initial_status_flags": 9,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 5,
+      "position": [
+        1241,
+        335
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 126,
+      "region": 0,
+      "culture": 0,
+      "nation": 1,
+      "level": 2,
+      "price_scale": 100,
+      "special_good": 33,
+      "special_price": 25,
+      "stock_size": 2,
+      "market_items": [
+        53,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1208,
+      "initial_status_flags": 9,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 6,
+      "position": [
+        1215,
+        360
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 126,
+      "region": 0,
+      "culture": 0,
+      "nation": 1,
+      "level": 2,
+      "price_scale": 100,
+      "special_good": 19,
+      "special_price": 40,
+      "stock_size": 3,
+      "market_items": [
+        53,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1208,
+      "initial_status_flags": 9,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 7,
+      "position": [
+        1205,
+        367
+      ],
+      "radius": 3,
+      "neighbors": [
+        4,
+        -1
+      ],
+      "fleet_mask": 126,
+      "region": 0,
+      "culture": 0,
+      "nation": 1,
+      "level": 4,
+      "price_scale": 100,
+      "special_good": 6,
+      "special_price": 20,
+      "stock_size": 3,
+      "market_items": [
+        33,
+        34,
+        37,
+        66,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 63487,
+      "initial_status_flags": 9,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 8,
+      "position": [
+        1206,
+        371
+      ],
+      "radius": 2,
+      "neighbors": [
+        6,
+        -1
+      ],
+      "fleet_mask": 126,
+      "region": 0,
+      "culture": 0,
+      "nation": 1,
+      "level": 1,
+      "price_scale": 100,
+      "special_good": -1,
+      "special_price": 0,
+      "stock_size": 0,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1147,
+      "initial_status_flags": 9,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 9,
+      "position": [
+        1218,
+        369
+      ],
+      "radius": 2,
+      "neighbors": [
+        10,
+        -1
+      ],
+      "fleet_mask": 128,
+      "region": 0,
+      "culture": 4,
+      "nation": 2,
+      "level": 1,
+      "price_scale": 100,
+      "special_good": 20,
+      "special_price": 95,
+      "stock_size": 1,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1147,
+      "initial_status_flags": 9,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 10,
+      "position": [
+        1225,
+        366
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 128,
+      "region": 0,
+      "culture": 4,
+      "nation": 2,
+      "level": 3,
+      "price_scale": 100,
+      "special_good": 20,
+      "special_price": 95,
+      "stock_size": 2,
+      "market_items": [
+        36,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1468,
+      "initial_status_flags": 9,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 11,
+      "position": [
+        1246,
+        351
+      ],
+      "radius": 2,
+      "neighbors": [
+        5,
+        -1
+      ],
+      "fleet_mask": 126,
+      "region": 0,
+      "culture": 0,
+      "nation": 1,
+      "level": 2,
+      "price_scale": 100,
+      "special_good": 33,
+      "special_price": 25,
+      "stock_size": 3,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1147,
+      "initial_status_flags": 9,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 12,
+      "position": [
+        1266,
+        335
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 126,
+      "region": 0,
+      "culture": 0,
+      "nation": 1,
+      "level": 2,
+      "price_scale": 100,
+      "special_good": 37,
+      "special_price": 35,
+      "stock_size": 3,
+      "market_items": [
+        9,
+        34,
+        286,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 30203,
+      "initial_status_flags": 9,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 13,
+      "position": [
+        1268,
+        350
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 126,
+      "region": 0,
+      "culture": 0,
+      "nation": 1,
+      "level": 1,
+      "price_scale": 100,
+      "special_good": -1,
+      "special_price": 0,
+      "stock_size": 0,
+      "market_items": [
+        70,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1209,
+      "initial_status_flags": 9,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 14,
+      "position": [
+        1267,
+        286
+      ],
+      "radius": 3,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 9,
+      "region": 1,
+      "culture": 1,
+      "nation": 3,
+      "level": 5,
+      "price_scale": 100,
+      "special_good": 22,
+      "special_price": 160,
+      "stock_size": 1,
+      "market_items": [
+        46,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1468,
+      "initial_status_flags": 9,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 15,
+      "position": [
+        1254,
+        278
+      ],
+      "radius": 2,
+      "neighbors": [
+        14,
+        -1
+      ],
+      "fleet_mask": 9,
+      "region": 1,
+      "culture": 1,
+      "nation": 3,
+      "level": 3,
+      "price_scale": 100,
+      "special_good": 65,
+      "special_price": 40,
+      "stock_size": 3,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1147,
+      "initial_status_flags": 9,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 16,
+      "position": [
+        1255,
+        295
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 9,
+      "region": 1,
+      "culture": 1,
+      "nation": 3,
+      "level": 1,
+      "price_scale": 100,
+      "special_good": 39,
+      "special_price": 130,
+      "stock_size": 1,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1080,
+      "initial_status_flags": 9,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 17,
+      "position": [
+        1232,
+        296
+      ],
+      "radius": 2,
+      "neighbors": [
+        16,
+        -1
+      ],
+      "fleet_mask": 9,
+      "region": 1,
+      "culture": 1,
+      "nation": 3,
+      "level": 1,
+      "price_scale": 100,
+      "special_good": 33,
+      "special_price": 25,
+      "stock_size": 2,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1147,
+      "initial_status_flags": 9,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 18,
+      "position": [
+        1242,
+        311
+      ],
+      "radius": 2,
+      "neighbors": [
+        19,
+        -1
+      ],
+      "fleet_mask": 9,
+      "region": 1,
+      "culture": 1,
+      "nation": 3,
+      "level": 2,
+      "price_scale": 100,
+      "special_good": 13,
+      "special_price": 30,
+      "stock_size": 5,
+      "market_items": [
+        38,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1787,
+      "initial_status_flags": 9,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 19,
+      "position": [
+        1259,
+        320
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 9,
+      "region": 1,
+      "culture": 1,
+      "nation": 3,
+      "level": 2,
+      "price_scale": 100,
+      "special_good": 7,
+      "special_price": 18,
+      "stock_size": 2,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1080,
+      "initial_status_flags": 9,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 20,
+      "position": [
+        1283,
+        306
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 9,
+      "region": 1,
+      "culture": 1,
+      "nation": 3,
+      "level": 3,
+      "price_scale": 100,
+      "special_good": 33,
+      "special_price": 25,
+      "stock_size": 2,
+      "market_items": [
+        17,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1208,
+      "initial_status_flags": 9,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 21,
+      "position": [
+        1288,
+        324
+      ],
+      "radius": 2,
+      "neighbors": [
+        20,
+        27
+      ],
+      "fleet_mask": 6,
+      "region": 1,
+      "culture": 2,
+      "nation": 3,
+      "level": 2,
+      "price_scale": 100,
+      "special_good": 10,
+      "special_price": 22,
+      "stock_size": 2,
+      "market_items": [
+        67,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1275,
+      "initial_status_flags": 9,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 22,
+      "position": [
+        1271,
+        268
+      ],
+      "radius": 2,
+      "neighbors": [
+        25,
+        -1
+      ],
+      "fleet_mask": 9,
+      "region": 2,
+      "culture": 1,
+      "nation": 1,
+      "level": 2,
+      "price_scale": 100,
+      "special_good": 40,
+      "special_price": 20,
+      "stock_size": 3,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1147,
+      "initial_status_flags": 11,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 23,
+      "position": [
+        1279,
+        263
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 9,
+      "region": 2,
+      "culture": 1,
+      "nation": 1,
+      "level": 3,
+      "price_scale": 100,
+      "special_good": 37,
+      "special_price": 40,
+      "stock_size": 4,
+      "market_items": [
+        67,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1787,
+      "initial_status_flags": 11,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 24,
+      "position": [
+        1282,
+        257
+      ],
+      "radius": 2,
+      "neighbors": [
+        49,
+        -1
+      ],
+      "fleet_mask": 9,
+      "region": 2,
+      "culture": 1,
+      "nation": 1,
+      "level": 2,
+      "price_scale": 100,
+      "special_good": 18,
+      "special_price": 45,
+      "stock_size": 2,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5499,
+      "initial_status_flags": 11,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 25,
+      "position": [
+        1280,
+        271
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 9,
+      "region": 2,
+      "culture": 1,
+      "nation": 1,
+      "level": 2,
+      "price_scale": 100,
+      "special_good": 45,
+      "special_price": 20,
+      "stock_size": 2,
+      "market_items": [
+        44,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1208,
+      "initial_status_flags": 11,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 26,
+      "position": [
+        1313,
+        311
+      ],
+      "radius": 3,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 6,
+      "region": 3,
+      "culture": 2,
+      "nation": 4,
+      "level": 4,
+      "price_scale": 100,
+      "special_good": 42,
+      "special_price": 65,
+      "stock_size": 3,
+      "market_items": [
+        38,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5564,
+      "initial_status_flags": 9,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 27,
+      "position": [
+        1306,
+        311
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 6,
+      "region": 3,
+      "culture": 2,
+      "nation": 5,
+      "level": 1,
+      "price_scale": 100,
+      "special_good": 38,
+      "special_price": 25,
+      "stock_size": 3,
+      "market_items": [
+        66,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1212,
+      "initial_status_flags": 9,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 28,
+      "position": [
+        1310,
+        315
+      ],
+      "radius": 2,
+      "neighbors": [
+        55,
+        26
+      ],
+      "fleet_mask": 6,
+      "region": 3,
+      "culture": 2,
+      "nation": 6,
+      "level": 3,
+      "price_scale": 100,
+      "special_good": 37,
+      "special_price": 35,
+      "stock_size": 4,
+      "market_items": [
+        37,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 6143,
+      "initial_status_flags": 9,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 29,
+      "position": [
+        1334,
+        309
+      ],
+      "radius": 3,
+      "neighbors": [
+        54,
+        -1
+      ],
+      "fleet_mask": 6,
+      "region": 3,
+      "culture": 2,
+      "nation": 8,
+      "level": 5,
+      "price_scale": 100,
+      "special_good": 18,
+      "special_price": 45,
+      "stock_size": 5,
+      "market_items": [
+        39,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 6143,
+      "initial_status_flags": 9,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 30,
+      "position": [
+        1327,
+        320
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 6,
+      "region": 3,
+      "culture": 2,
+      "nation": 7,
+      "level": 3,
+      "price_scale": 100,
+      "special_good": 39,
+      "special_price": 130,
+      "stock_size": 3,
+      "market_items": [
+        68,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5564,
+      "initial_status_flags": 9,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 31,
+      "position": [
+        1321,
+        320
+      ],
+      "radius": 2,
+      "neighbors": [
+        30,
+        -1
+      ],
+      "fleet_mask": 6,
+      "region": 3,
+      "culture": 2,
+      "nation": 7,
+      "level": 2,
+      "price_scale": 100,
+      "special_good": 37,
+      "special_price": 35,
+      "stock_size": 2,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1147,
+      "initial_status_flags": 9,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 32,
+      "position": [
+        1342,
+        321
+      ],
+      "radius": 2,
+      "neighbors": [
+        33,
+        -1
+      ],
+      "fleet_mask": 6,
+      "region": 3,
+      "culture": 2,
+      "nation": 9,
+      "level": 1,
+      "price_scale": 100,
+      "special_good": 46,
+      "special_price": 180,
+      "stock_size": 0,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1147,
+      "initial_status_flags": 9,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 33,
+      "position": [
+        1333,
+        331
+      ],
+      "radius": 3,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 6,
+      "region": 3,
+      "culture": 2,
+      "nation": 9,
+      "level": 4,
+      "price_scale": 100,
+      "special_good": 13,
+      "special_price": 30,
+      "stock_size": 3,
+      "market_items": [
+        40,
+        227,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 13756,
+      "initial_status_flags": 9,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 34,
+      "position": [
+        1348,
+        339
+      ],
+      "radius": 3,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 6,
+      "region": 3,
+      "culture": 2,
+      "nation": 10,
+      "level": 4,
+      "price_scale": 100,
+      "special_good": 18,
+      "special_price": 45,
+      "stock_size": 4,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1407,
+      "initial_status_flags": 9,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 35,
+      "position": [
+        1313,
+        352
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 6,
+      "region": 3,
+      "culture": 2,
+      "nation": 1,
+      "level": 1,
+      "price_scale": 100,
+      "special_good": 11,
+      "special_price": 18,
+      "stock_size": 2,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1147,
+      "initial_status_flags": 11,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 36,
+      "position": [
+        1341,
+        359
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 6,
+      "region": 3,
+      "culture": 2,
+      "nation": 1,
+      "level": 3,
+      "price_scale": 100,
+      "special_good": 0,
+      "special_price": 16,
+      "stock_size": 3,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1659,
+      "initial_status_flags": 11,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 37,
+      "position": [
+        1355,
+        367
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 6,
+      "region": 3,
+      "culture": 2,
+      "nation": 1,
+      "level": 1,
+      "price_scale": 100,
+      "special_good": 0,
+      "special_price": 16,
+      "stock_size": 2,
+      "market_items": [
+        70,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1275,
+      "initial_status_flags": 11,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 38,
+      "position": [
+        1254,
+        266
+      ],
+      "radius": 3,
+      "neighbors": [
+        41,
+        -1
+      ],
+      "fleet_mask": 9,
+      "region": 4,
+      "culture": 1,
+      "nation": 11,
+      "level": 5,
+      "price_scale": 100,
+      "special_good": 22,
+      "special_price": 160,
+      "stock_size": 1,
+      "market_items": [
+        42,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 2047,
+      "initial_status_flags": 9,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 39,
+      "position": [
+        1238,
+        270
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 9,
+      "region": 4,
+      "culture": 1,
+      "nation": 11,
+      "level": 1,
+      "price_scale": 100,
+      "special_good": 43,
+      "special_price": 70,
+      "stock_size": 1,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1147,
+      "initial_status_flags": 9,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 40,
+      "position": [
+        1227,
+        269
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 9,
+      "region": 4,
+      "culture": 1,
+      "nation": 11,
+      "level": 2,
+      "price_scale": 100,
+      "special_good": 43,
+      "special_price": 70,
+      "stock_size": 3,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1147,
+      "initial_status_flags": 9,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 41,
+      "position": [
+        1242,
+        249
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 9,
+      "region": 4,
+      "culture": 1,
+      "nation": 11,
+      "level": 2,
+      "price_scale": 100,
+      "special_good": 41,
+      "special_price": 60,
+      "stock_size": 3,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1080,
+      "initial_status_flags": 9,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 42,
+      "position": [
+        1230,
+        234
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 9,
+      "region": 4,
+      "culture": 1,
+      "nation": 12,
+      "level": 2,
+      "price_scale": 100,
+      "special_good": 45,
+      "special_price": 20,
+      "stock_size": 3,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1151,
+      "initial_status_flags": 9,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 43,
+      "position": [
+        1206,
+        251
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 9,
+      "region": 4,
+      "culture": 1,
+      "nation": 13,
+      "level": 2,
+      "price_scale": 100,
+      "special_good": -1,
+      "special_price": 0,
+      "stock_size": 0,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1151,
+      "initial_status_flags": 9,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 44,
+      "position": [
+        1316,
+        254
+      ],
+      "radius": 2,
+      "neighbors": [
+        50,
+        52
+      ],
+      "fleet_mask": 9,
+      "region": 5,
+      "culture": 1,
+      "nation": 14,
+      "level": 3,
+      "price_scale": 100,
+      "special_good": 5,
+      "special_price": 10,
+      "stock_size": 4,
+      "market_items": [
+        39,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 14075,
+      "initial_status_flags": 9,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 45,
+      "position": [
+        1323,
+        249
+      ],
+      "radius": 2,
+      "neighbors": [
+        51,
+        53
+      ],
+      "fleet_mask": 9,
+      "region": 5,
+      "culture": 1,
+      "nation": 14,
+      "level": 2,
+      "price_scale": 100,
+      "special_good": 0,
+      "special_price": 16,
+      "stock_size": 4,
+      "market_items": [
+        43,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5371,
+      "initial_status_flags": 9,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 46,
+      "position": [
+        1306,
+        255
+      ],
+      "radius": 2,
+      "neighbors": [
+        47,
+        48
+      ],
+      "fleet_mask": 9,
+      "region": 5,
+      "culture": 1,
+      "nation": 14,
+      "level": 2,
+      "price_scale": 100,
+      "special_good": 10,
+      "special_price": 22,
+      "stock_size": 2,
+      "market_items": [
+        67,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1275,
+      "initial_status_flags": 9,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 47,
+      "position": [
+        1293,
+        269
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 9,
+      "region": 5,
+      "culture": 1,
+      "nation": 14,
+      "level": 2,
+      "price_scale": 100,
+      "special_good": 40,
+      "special_price": 20,
+      "stock_size": 3,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 13368,
+      "initial_status_flags": 9,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 48,
+      "position": [
+        1305,
+        276
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 9,
+      "region": 5,
+      "culture": 1,
+      "nation": 14,
+      "level": 2,
+      "price_scale": 100,
+      "special_good": 13,
+      "special_price": 30,
+      "stock_size": 2,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1080,
+      "initial_status_flags": 9,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 49,
+      "position": [
+        1297,
+        287
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 9,
+      "region": 5,
+      "culture": 1,
+      "nation": 14,
+      "level": 3,
+      "price_scale": 100,
+      "special_good": 45,
+      "special_price": 20,
+      "stock_size": 3,
+      "market_items": [
+        41,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1208,
+      "initial_status_flags": 9,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 50,
+      "position": [
+        1331,
+        262
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 9,
+      "region": 5,
+      "culture": 1,
+      "nation": 14,
+      "level": 2,
+      "price_scale": 100,
+      "special_good": 68,
+      "special_price": 55,
+      "stock_size": 2,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5176,
+      "initial_status_flags": 9,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 51,
+      "position": [
+        1325,
+        280
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 9,
+      "region": 5,
+      "culture": 1,
+      "nation": 14,
+      "level": 2,
+      "price_scale": 100,
+      "special_good": 39,
+      "special_price": 130,
+      "stock_size": 1,
+      "market_items": [
+        19,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1208,
+      "initial_status_flags": 9,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 52,
+      "position": [
+        1324,
+        288
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 9,
+      "region": 5,
+      "culture": 1,
+      "nation": 14,
+      "level": 3,
+      "price_scale": 100,
+      "special_good": 42,
+      "special_price": 65,
+      "stock_size": 3,
+      "market_items": [
+        45,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 29880,
+      "initial_status_flags": 9,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 53,
+      "position": [
+        1351,
+        278
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 9,
+      "region": 5,
+      "culture": 1,
+      "nation": 14,
+      "level": 3,
+      "price_scale": 100,
+      "special_good": 17,
+      "special_price": 145,
+      "stock_size": 2,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1084,
+      "initial_status_flags": 9,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 54,
+      "position": [
+        1362,
+        293
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 9,
+      "region": 5,
+      "culture": 1,
+      "nation": 14,
+      "level": 3,
+      "price_scale": 100,
+      "special_good": 16,
+      "special_price": 310,
+      "stock_size": 1,
+      "market_items": [
+        42,
+        10,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1464,
+      "initial_status_flags": 9,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 55,
+      "position": [
+        1301,
+        302
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 9,
+      "region": 5,
+      "culture": 1,
+      "nation": 15,
+      "level": 1,
+      "price_scale": 100,
+      "special_good": 33,
+      "special_price": 25,
+      "stock_size": 2,
+      "market_items": [
+        42,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1212,
+      "initial_status_flags": 9,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 56,
+      "position": [
+        1379,
+        247
+      ],
+      "radius": 2,
+      "neighbors": [
+        62,
+        -1
+      ],
+      "fleet_mask": 9,
+      "region": 6,
+      "culture": 1,
+      "nation": 18,
+      "level": 2,
+      "price_scale": 100,
+      "special_good": 5,
+      "special_price": 10,
+      "stock_size": 3,
+      "market_items": [
+        69,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1275,
+      "initial_status_flags": 9,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 57,
+      "position": [
+        1387,
+        245
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 9,
+      "region": 6,
+      "culture": 1,
+      "nation": 19,
+      "level": 2,
+      "price_scale": 100,
+      "special_good": 62,
+      "special_price": 85,
+      "stock_size": 2,
+      "market_items": [
+        41,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1279,
+      "initial_status_flags": 9,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 58,
+      "position": [
+        1416,
+        228
+      ],
+      "radius": 2,
+      "neighbors": [
+        59,
+        60
+      ],
+      "fleet_mask": 9,
+      "region": 6,
+      "culture": 1,
+      "nation": 19,
+      "level": 1,
+      "price_scale": 100,
+      "special_good": 50,
+      "special_price": 70,
+      "stock_size": 2,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1659,
+      "initial_status_flags": 9,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 59,
+      "position": [
+        1466,
+        217
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 9,
+      "region": 6,
+      "culture": 1,
+      "nation": 25,
+      "level": 1,
+      "price_scale": 100,
+      "special_good": 9,
+      "special_price": 28,
+      "stock_size": 3,
+      "market_items": [
+        68,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1212,
+      "initial_status_flags": 9,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 60,
+      "position": [
+        1505,
+        234
+      ],
+      "radius": 3,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 9,
+      "region": 6,
+      "culture": 1,
+      "nation": 24,
+      "level": 4,
+      "price_scale": 100,
+      "special_good": 50,
+      "special_price": 70,
+      "stock_size": 2,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1084,
+      "initial_status_flags": 9,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 61,
+      "position": [
+        1462,
+        276
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 9,
+      "region": 6,
+      "culture": 1,
+      "nation": 18,
+      "level": 2,
+      "price_scale": 100,
+      "special_good": 0,
+      "special_price": 15,
+      "stock_size": 4,
+      "market_items": [
+        18,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1208,
+      "initial_status_flags": 9,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 62,
+      "position": [
+        1395,
+        262
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 9,
+      "region": 6,
+      "culture": 1,
+      "nation": 18,
+      "level": 3,
+      "price_scale": 100,
+      "special_good": 6,
+      "special_price": 20,
+      "stock_size": 3,
+      "market_items": [
+        66,
+        38,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5564,
+      "initial_status_flags": 9,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 63,
+      "position": [
+        1381,
+        295
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 9,
+      "region": 6,
+      "culture": 1,
+      "nation": 21,
+      "level": 3,
+      "price_scale": 100,
+      "special_good": 17,
+      "special_price": 145,
+      "stock_size": 2,
+      "market_items": [
+        53,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1212,
+      "initial_status_flags": 9,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 64,
+      "position": [
+        1378,
+        212
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 9,
+      "region": 7,
+      "culture": 1,
+      "nation": 16,
+      "level": 2,
+      "price_scale": 100,
+      "special_good": 42,
+      "special_price": 65,
+      "stock_size": 2,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1147,
+      "initial_status_flags": 9,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 65,
+      "position": [
+        1377,
+        223
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 9,
+      "region": 7,
+      "culture": 1,
+      "nation": 16,
+      "level": 2,
+      "price_scale": 100,
+      "special_good": -1,
+      "special_price": 0,
+      "stock_size": 0,
+      "market_items": [
+        7,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1275,
+      "initial_status_flags": 9,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 66,
+      "position": [
+        1335,
+        238
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 9,
+      "region": 7,
+      "culture": 1,
+      "nation": 16,
+      "level": 2,
+      "price_scale": 100,
+      "special_good": 6,
+      "special_price": 20,
+      "stock_size": 2,
+      "market_items": [
+        65,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1535,
+      "initial_status_flags": 9,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 67,
+      "position": [
+        1324,
+        212
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 9,
+      "region": 7,
+      "culture": 1,
+      "nation": 16,
+      "level": 1,
+      "price_scale": 100,
+      "special_good": 64,
+      "special_price": 35,
+      "stock_size": 3,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1147,
+      "initial_status_flags": 9,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 68,
+      "position": [
+        1284,
+        204
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 9,
+      "region": 7,
+      "culture": 1,
+      "nation": 16,
+      "level": 1,
+      "price_scale": 100,
+      "special_good": 5,
+      "special_price": 10,
+      "stock_size": 2,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1147,
+      "initial_status_flags": 9,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 69,
+      "position": [
+        1394,
+        315
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 6,
+      "region": 8,
+      "culture": 2,
+      "nation": 21,
+      "level": 2,
+      "price_scale": 100,
+      "special_good": 13,
+      "special_price": 30,
+      "stock_size": 2,
+      "market_items": [
+        53,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1208,
+      "initial_status_flags": 9,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 70,
+      "position": [
+        1432,
+        310
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 128,
+      "region": 8,
+      "culture": 4,
+      "nation": 37,
+      "level": 2,
+      "price_scale": 100,
+      "special_good": 7,
+      "special_price": 14,
+      "stock_size": 4,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5176,
+      "initial_status_flags": 11,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 71,
+      "position": [
+        1373,
+        327
+      ],
+      "radius": 2,
+      "neighbors": [
+        63,
+        -1
+      ],
+      "fleet_mask": 6,
+      "region": 8,
+      "culture": 2,
+      "nation": 8,
+      "level": 1,
+      "price_scale": 100,
+      "special_good": 65,
+      "special_price": 40,
+      "stock_size": 2,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1147,
+      "initial_status_flags": 11,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 72,
+      "position": [
+        1413,
+        361
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 128,
+      "region": 8,
+      "culture": 4,
+      "nation": 37,
+      "level": 2,
+      "price_scale": 100,
+      "special_good": 46,
+      "special_price": 130,
+      "stock_size": 1,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 13691,
+      "initial_status_flags": 11,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 73,
+      "position": [
+        1410,
+        343
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 128,
+      "region": 8,
+      "culture": 4,
+      "nation": 37,
+      "level": 1,
+      "price_scale": 100,
+      "special_good": 4,
+      "special_price": 12,
+      "stock_size": 3,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5243,
+      "initial_status_flags": 9,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 74,
+      "position": [
+        1426,
+        379
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 6,
+      "region": 8,
+      "culture": 2,
+      "nation": 8,
+      "level": 1,
+      "price_scale": 100,
+      "special_good": 11,
+      "special_price": 16,
+      "stock_size": 1,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1147,
+      "initial_status_flags": 11,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 75,
+      "position": [
+        1485,
+        379
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 6,
+      "region": 8,
+      "culture": 2,
+      "nation": 23,
+      "level": 1,
+      "price_scale": 100,
+      "special_good": 0,
+      "special_price": 14,
+      "stock_size": 2,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1151,
+      "initial_status_flags": 9,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 76,
+      "position": [
+        1452,
+        329
+      ],
+      "radius": 2,
+      "neighbors": [
+        69,
+        70
+      ],
+      "fleet_mask": 128,
+      "region": 8,
+      "culture": 4,
+      "nation": 37,
+      "level": 2,
+      "price_scale": 100,
+      "special_good": 42,
+      "special_price": 60,
+      "stock_size": 3,
+      "market_items": [
+        71,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1275,
+      "initial_status_flags": 9,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 77,
+      "position": [
+        1465,
+        318
+      ],
+      "radius": 2,
+      "neighbors": [
+        61,
+        -1
+      ],
+      "fleet_mask": 6,
+      "region": 8,
+      "culture": 2,
+      "nation": 22,
+      "level": 1,
+      "price_scale": 100,
+      "special_good": 0,
+      "special_price": 14,
+      "stock_size": 3,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1151,
+      "initial_status_flags": 9,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 78,
+      "position": [
+        1460,
+        406
+      ],
+      "radius": 2,
+      "neighbors": [
+        79,
+        111
+      ],
+      "fleet_mask": 128,
+      "region": 9,
+      "culture": 4,
+      "nation": 26,
+      "level": 3,
+      "price_scale": 100,
+      "special_good": 23,
+      "special_price": 140,
+      "stock_size": 2,
+      "market_items": [
+        70,
+        36,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 6131,
+      "initial_status_flags": 25,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 79,
+      "position": [
+        1463,
+        413
+      ],
+      "radius": 3,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 128,
+      "region": 9,
+      "culture": 4,
+      "nation": 26,
+      "level": 4,
+      "price_scale": 100,
+      "special_good": 0,
+      "special_price": 13,
+      "stock_size": 5,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5428,
+      "initial_status_flags": 25,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 80,
+      "position": [
+        1476,
+        457
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 128,
+      "region": 9,
+      "culture": 4,
+      "nation": 26,
+      "level": 1,
+      "price_scale": 100,
+      "special_good": -1,
+      "special_price": 0,
+      "stock_size": 0,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5168,
+      "initial_status_flags": 25,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 81,
+      "position": [
+        1341,
+        396
+      ],
+      "radius": 2,
+      "neighbors": [
+        92,
+        -1
+      ],
+      "fleet_mask": 128,
+      "region": 9,
+      "culture": 4,
+      "nation": 27,
+      "level": 1,
+      "price_scale": 100,
+      "special_good": -1,
+      "special_price": 0,
+      "stock_size": 0,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5235,
+      "initial_status_flags": 25,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 82,
+      "position": [
+        1321,
+        368
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 128,
+      "region": 9,
+      "culture": 4,
+      "nation": 27,
+      "level": 3,
+      "price_scale": 100,
+      "special_good": 65,
+      "special_price": 35,
+      "stock_size": 4,
+      "market_items": [
+        71,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5623,
+      "initial_status_flags": 25,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 83,
+      "position": [
+        1280,
+        368
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 128,
+      "region": 9,
+      "culture": 4,
+      "nation": 27,
+      "level": 1,
+      "price_scale": 100,
+      "special_good": 15,
+      "special_price": 40,
+      "stock_size": 2,
+      "market_items": [
+        52,
+        287,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5363,
+      "initial_status_flags": 25,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 84,
+      "position": [
+        1210,
+        377
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 128,
+      "region": 9,
+      "culture": 4,
+      "nation": 0,
+      "level": 0,
+      "price_scale": 100,
+      "special_good": -1,
+      "special_price": 0,
+      "stock_size": 0,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1145,
+      "initial_status_flags": 11,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 85,
+      "position": [
+        1194,
+        392
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 128,
+      "region": 9,
+      "culture": 4,
+      "nation": 27,
+      "level": 0,
+      "price_scale": 100,
+      "special_good": 53,
+      "special_price": 65,
+      "stock_size": 1,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5171,
+      "initial_status_flags": 25,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 86,
+      "position": [
+        1054,
+        358
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 10,
+      "culture": 3,
+      "nation": 0,
+      "level": 0,
+      "price_scale": 100,
+      "special_good": -1,
+      "special_price": 0,
+      "stock_size": 0,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1081,
+      "initial_status_flags": 11,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 87,
+      "position": [
+        1132,
+        397
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 10,
+      "culture": 3,
+      "nation": 0,
+      "level": 0,
+      "price_scale": 100,
+      "special_good": 8,
+      "special_price": 28,
+      "stock_size": 1,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1083,
+      "initial_status_flags": 11,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 88,
+      "position": [
+        1142,
+        429
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 10,
+      "culture": 3,
+      "nation": 1,
+      "level": 0,
+      "price_scale": 100,
+      "special_good": 12,
+      "special_price": 10,
+      "stock_size": 1,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5179,
+      "initial_status_flags": 11,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 89,
+      "position": [
+        1157,
+        433
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 10,
+      "culture": 3,
+      "nation": 0,
+      "level": 0,
+      "price_scale": 100,
+      "special_good": 10,
+      "special_price": 15,
+      "stock_size": 1,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1083,
+      "initial_status_flags": 11,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 90,
+      "position": [
+        1129,
+        521
+      ],
+      "radius": 2,
+      "neighbors": [
+        93,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 10,
+      "culture": 3,
+      "nation": 0,
+      "level": 0,
+      "price_scale": 100,
+      "special_good": 10,
+      "special_price": 15,
+      "stock_size": 1,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1083,
+      "initial_status_flags": 11,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 91,
+      "position": [
+        1157,
+        566
+      ],
+      "radius": 2,
+      "neighbors": [
+        95,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 10,
+      "culture": 3,
+      "nation": 0,
+      "level": 0,
+      "price_scale": 100,
+      "special_good": 69,
+      "special_price": 30,
+      "stock_size": 1,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1083,
+      "initial_status_flags": 11,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 92,
+      "position": [
+        1224,
+        439
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 10,
+      "culture": 3,
+      "nation": 28,
+      "level": 1,
+      "price_scale": 100,
+      "special_good": 10,
+      "special_price": 10,
+      "stock_size": 4,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5168,
+      "initial_status_flags": 16,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 93,
+      "position": [
+        1240,
+        489
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 10,
+      "culture": 3,
+      "nation": 28,
+      "level": 1,
+      "price_scale": 100,
+      "special_good": 55,
+      "special_price": 95,
+      "stock_size": 0,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5172,
+      "initial_status_flags": 16,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 94,
+      "position": [
+        1271,
+        506
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 10,
+      "culture": 3,
+      "nation": 28,
+      "level": 1,
+      "price_scale": 100,
+      "special_good": 59,
+      "special_price": 70,
+      "stock_size": 2,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5168,
+      "initial_status_flags": 16,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 95,
+      "position": [
+        1216,
+        516
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 10,
+      "culture": 3,
+      "nation": 28,
+      "level": 1,
+      "price_scale": 100,
+      "special_good": 16,
+      "special_price": 250,
+      "stock_size": 1,
+      "market_items": [
+        64,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5296,
+      "initial_status_flags": 16,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 96,
+      "position": [
+        1349,
+        526
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 10,
+      "culture": 3,
+      "nation": 29,
+      "level": 1,
+      "price_scale": 100,
+      "special_good": 59,
+      "special_price": 70,
+      "stock_size": 2,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5172,
+      "initial_status_flags": 17,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 97,
+      "position": [
+        1251,
+        584
+      ],
+      "radius": 2,
+      "neighbors": [
+        94,
+        96
+      ],
+      "fleet_mask": 0,
+      "region": 11,
+      "culture": 3,
+      "nation": 0,
+      "level": 1,
+      "price_scale": 100,
+      "special_good": 69,
+      "special_price": 10,
+      "stock_size": 3,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1659,
+      "initial_status_flags": 14,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 98,
+      "position": [
+        1273,
+        579
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 11,
+      "culture": 3,
+      "nation": 30,
+      "level": 1,
+      "price_scale": 100,
+      "special_good": 59,
+      "special_price": 75,
+      "stock_size": 1,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1079,
+      "initial_status_flags": 0,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 99,
+      "position": [
+        1294,
+        623
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 11,
+      "culture": 3,
+      "nation": 0,
+      "level": 0,
+      "price_scale": 100,
+      "special_good": 8,
+      "special_price": 25,
+      "stock_size": 2,
+      "market_items": [
+        37,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1211,
+      "initial_status_flags": 14,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 100,
+      "position": [
+        1342,
+        684
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 11,
+      "culture": 3,
+      "nation": 31,
+      "level": 1,
+      "price_scale": 100,
+      "special_good": 62,
+      "special_price": 60,
+      "stock_size": 1,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1079,
+      "initial_status_flags": 0,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 101,
+      "position": [
+        1377,
+        860
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 11,
+      "culture": 3,
+      "nation": 0,
+      "level": 0,
+      "price_scale": 100,
+      "special_good": -1,
+      "special_price": 0,
+      "stock_size": 0,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1081,
+      "initial_status_flags": 14,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 102,
+      "position": [
+        1491,
+        761
+      ],
+      "radius": 2,
+      "neighbors": [
+        104,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 12,
+      "culture": 3,
+      "nation": 34,
+      "level": 1,
+      "price_scale": 100,
+      "special_good": 69,
+      "special_price": 10,
+      "stock_size": 2,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5171,
+      "initial_status_flags": 2,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 103,
+      "position": [
+        1529,
+        733
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 12,
+      "culture": 3,
+      "nation": 34,
+      "level": 1,
+      "price_scale": 100,
+      "special_good": 60,
+      "special_price": 60,
+      "stock_size": 1,
+      "market_items": [
+        52,
+        36,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5363,
+      "initial_status_flags": 2,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 104,
+      "position": [
+        1458,
+        753
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 12,
+      "culture": 3,
+      "nation": 32,
+      "level": 1,
+      "price_scale": 100,
+      "special_good": 16,
+      "special_price": 250,
+      "stock_size": 0,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1076,
+      "initial_status_flags": 0,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 105,
+      "position": [
+        1523,
+        685
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 12,
+      "culture": 3,
+      "nation": 34,
+      "level": 0,
+      "price_scale": 100,
+      "special_good": 69,
+      "special_price": 10,
+      "stock_size": 2,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5171,
+      "initial_status_flags": 2,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 106,
+      "position": [
+        1526,
+        678
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 12,
+      "culture": 3,
+      "nation": 34,
+      "level": 0,
+      "price_scale": 100,
+      "special_good": 52,
+      "special_price": 50,
+      "stock_size": 1,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5171,
+      "initial_status_flags": 2,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 107,
+      "position": [
+        1524,
+        653
+      ],
+      "radius": 2,
+      "neighbors": [
+        110,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 12,
+      "culture": 3,
+      "nation": 34,
+      "level": 1,
+      "price_scale": 100,
+      "special_good": 58,
+      "special_price": 90,
+      "stock_size": 2,
+      "market_items": [
+        51,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5299,
+      "initial_status_flags": 2,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 108,
+      "position": [
+        1530,
+        641
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 12,
+      "culture": 3,
+      "nation": 34,
+      "level": 1,
+      "price_scale": 100,
+      "special_good": 58,
+      "special_price": 90,
+      "stock_size": 2,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5747,
+      "initial_status_flags": 18,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 109,
+      "position": [
+        1561,
+        611
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 12,
+      "culture": 3,
+      "nation": 34,
+      "level": 1,
+      "price_scale": 100,
+      "special_good": 16,
+      "special_price": 250,
+      "stock_size": 0,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5239,
+      "initial_status_flags": 18,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 110,
+      "position": [
+        1519,
+        567
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 12,
+      "culture": 3,
+      "nation": 35,
+      "level": 1,
+      "price_scale": 100,
+      "special_good": 52,
+      "special_price": 50,
+      "stock_size": 2,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1084,
+      "initial_status_flags": 0,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 111,
+      "position": [
+        1481,
+        516
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 12,
+      "culture": 3,
+      "nation": 36,
+      "level": 1,
+      "price_scale": 100,
+      "special_good": 50,
+      "special_price": 40,
+      "stock_size": 1,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5172,
+      "initial_status_flags": 16,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 112,
+      "position": [
+        1452,
+        340
+      ],
+      "radius": 3,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 128,
+      "region": 13,
+      "culture": 4,
+      "nation": 37,
+      "level": 5,
+      "price_scale": 100,
+      "special_good": 47,
+      "special_price": 105,
+      "stock_size": 0,
+      "market_items": [
+        73,
+        36,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 13823,
+      "initial_status_flags": 25,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 113,
+      "position": [
+        1496,
+        329
+      ],
+      "radius": 2,
+      "neighbors": [
+        141,
+        142
+      ],
+      "fleet_mask": 128,
+      "region": 13,
+      "culture": 4,
+      "nation": 37,
+      "level": 2,
+      "price_scale": 100,
+      "special_good": 41,
+      "special_price": 55,
+      "stock_size": 2,
+      "market_items": [
+        52,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5363,
+      "initial_status_flags": 10,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 114,
+      "position": [
+        1516,
+        317
+      ],
+      "radius": 2,
+      "neighbors": [
+        133,
+        140
+      ],
+      "fleet_mask": 128,
+      "region": 13,
+      "culture": 4,
+      "nation": 37,
+      "level": 1,
+      "price_scale": 100,
+      "special_good": 55,
+      "special_price": 150,
+      "stock_size": 0,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5235,
+      "initial_status_flags": 10,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 115,
+      "position": [
+        1489,
+        348
+      ],
+      "radius": 2,
+      "neighbors": [
+        117,
+        -1
+      ],
+      "fleet_mask": 128,
+      "region": 13,
+      "culture": 4,
+      "nation": 37,
+      "level": 1,
+      "price_scale": 100,
+      "special_good": -1,
+      "special_price": 0,
+      "stock_size": 0,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5171,
+      "initial_status_flags": 25,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 116,
+      "position": [
+        1516,
+        355
+      ],
+      "radius": 2,
+      "neighbors": [
+        131,
+        -1
+      ],
+      "fleet_mask": 128,
+      "region": 13,
+      "culture": 4,
+      "nation": 37,
+      "level": 2,
+      "price_scale": 100,
+      "special_good": 34,
+      "special_price": 15,
+      "stock_size": 3,
+      "market_items": [
+        72,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5883,
+      "initial_status_flags": 9,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 117,
+      "position": [
+        1475,
+        358
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 128,
+      "region": 14,
+      "culture": 4,
+      "nation": 37,
+      "level": 1,
+      "price_scale": 100,
+      "special_good": 0,
+      "special_price": 13,
+      "stock_size": 3,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5168,
+      "initial_status_flags": 25,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 118,
+      "position": [
+        1498,
+        372
+      ],
+      "radius": 2,
+      "neighbors": [
+        119,
+        -1
+      ],
+      "fleet_mask": 128,
+      "region": 14,
+      "culture": 4,
+      "nation": 26,
+      "level": 2,
+      "price_scale": 100,
+      "special_good": 26,
+      "special_price": 130,
+      "stock_size": 2,
+      "market_items": [
+        53,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5371,
+      "initial_status_flags": 1,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 119,
+      "position": [
+        1503,
+        387
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 128,
+      "region": 14,
+      "culture": 4,
+      "nation": 26,
+      "level": 2,
+      "price_scale": 100,
+      "special_good": 12,
+      "special_price": 10,
+      "stock_size": 3,
+      "market_items": [
+        71,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5552,
+      "initial_status_flags": 17,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 120,
+      "position": [
+        1493,
+        401
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 128,
+      "region": 14,
+      "culture": 4,
+      "nation": 26,
+      "level": 3,
+      "price_scale": 100,
+      "special_good": 47,
+      "special_price": 100,
+      "stock_size": 0,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5432,
+      "initial_status_flags": 1,
+      "events": [
+        215,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 121,
+      "position": [
+        1497,
+        386
+      ],
+      "radius": 2,
+      "neighbors": [
+        120,
+        122
+      ],
+      "fleet_mask": 128,
+      "region": 14,
+      "culture": 4,
+      "nation": 26,
+      "level": 1,
+      "price_scale": 100,
+      "special_good": 28,
+      "special_price": 40,
+      "stock_size": 2,
+      "market_items": [
+        55,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5875,
+      "initial_status_flags": 1,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 122,
+      "position": [
+        1521,
+        456
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 128,
+      "region": 15,
+      "culture": 4,
+      "nation": 26,
+      "level": 3,
+      "price_scale": 100,
+      "special_good": 62,
+      "special_price": 70,
+      "stock_size": 2,
+      "market_items": [
+        20,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5280,
+      "initial_status_flags": 16,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 123,
+      "position": [
+        1523,
+        479
+      ],
+      "radius": 3,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 128,
+      "region": 15,
+      "culture": 4,
+      "nation": 26,
+      "level": 4,
+      "price_scale": 100,
+      "special_good": 51,
+      "special_price": 50,
+      "stock_size": 1,
+      "market_items": [
+        72,
+        36,
+        288,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5536,
+      "initial_status_flags": 16,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 124,
+      "position": [
+        1563,
+        533
+      ],
+      "radius": 2,
+      "neighbors": [
+        123,
+        -1
+      ],
+      "fleet_mask": 128,
+      "region": 15,
+      "culture": 4,
+      "nation": 38,
+      "level": 2,
+      "price_scale": 100,
+      "special_good": 29,
+      "special_price": 45,
+      "stock_size": 4,
+      "market_items": [
+        55,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5367,
+      "initial_status_flags": 16,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 125,
+      "position": [
+        1656,
+        460
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 128,
+      "region": 15,
+      "culture": 4,
+      "nation": 39,
+      "level": 1,
+      "price_scale": 100,
+      "special_good": 5,
+      "special_price": 10,
+      "stock_size": 3,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5239,
+      "initial_status_flags": 16,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 126,
+      "position": [
+        1586,
+        416
+      ],
+      "radius": 2,
+      "neighbors": [
+        127,
+        129
+      ],
+      "fleet_mask": 128,
+      "region": 15,
+      "culture": 4,
+      "nation": 40,
+      "level": 2,
+      "price_scale": 100,
+      "special_good": 68,
+      "special_price": 40,
+      "stock_size": 4,
+      "market_items": [
+        65,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5363,
+      "initial_status_flags": 16,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 127,
+      "position": [
+        1561,
+        399
+      ],
+      "radius": 3,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 128,
+      "region": 15,
+      "culture": 4,
+      "nation": 40,
+      "level": 6,
+      "price_scale": 100,
+      "special_good": 9,
+      "special_price": 30,
+      "stock_size": 4,
+      "market_items": [
+        65,
+        36,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 13744,
+      "initial_status_flags": 16,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 128,
+      "position": [
+        1639,
+        436
+      ],
+      "radius": 2,
+      "neighbors": [
+        129,
+        132
+      ],
+      "fleet_mask": 128,
+      "region": 15,
+      "culture": 4,
+      "nation": 40,
+      "level": 1,
+      "price_scale": 100,
+      "special_good": 28,
+      "special_price": 30,
+      "stock_size": 3,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5747,
+      "initial_status_flags": 16,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 129,
+      "position": [
+        1614,
+        420
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 128,
+      "region": 15,
+      "culture": 4,
+      "nation": 40,
+      "level": 1,
+      "price_scale": 100,
+      "special_good": 48,
+      "special_price": 60,
+      "stock_size": 3,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5168,
+      "initial_status_flags": 16,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 130,
+      "position": [
+        1607,
+        400
+      ],
+      "radius": 3,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 128,
+      "region": 15,
+      "culture": 4,
+      "nation": 40,
+      "level": 4,
+      "price_scale": 100,
+      "special_good": 48,
+      "special_price": 60,
+      "stock_size": 4,
+      "market_items": [
+        55,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5552,
+      "initial_status_flags": 16,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 131,
+      "position": [
+        1551,
+        368
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 128,
+      "region": 15,
+      "culture": 4,
+      "nation": 40,
+      "level": 2,
+      "price_scale": 100,
+      "special_good": 18,
+      "special_price": 50,
+      "stock_size": 4,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5168,
+      "initial_status_flags": 16,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 132,
+      "position": [
+        1711,
+        352
+      ],
+      "radius": 3,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 16,
+      "culture": 7,
+      "nation": 40,
+      "level": 5,
+      "price_scale": 100,
+      "special_good": 6,
+      "special_price": 15,
+      "stock_size": 4,
+      "market_items": [
+        66,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5556,
+      "initial_status_flags": 16,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 133,
+      "position": [
+        1732,
+        341
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 16,
+      "culture": 7,
+      "nation": 40,
+      "level": 2,
+      "price_scale": 100,
+      "special_good": 42,
+      "special_price": 70,
+      "stock_size": 1,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5168,
+      "initial_status_flags": 16,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 134,
+      "position": [
+        1657,
+        342
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 16,
+      "culture": 7,
+      "nation": 40,
+      "level": 2,
+      "price_scale": 100,
+      "special_good": -1,
+      "special_price": 0,
+      "stock_size": 0,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5168,
+      "initial_status_flags": 16,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 135,
+      "position": [
+        1690,
+        391
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 16,
+      "culture": 7,
+      "nation": 40,
+      "level": 2,
+      "price_scale": 100,
+      "special_good": 33,
+      "special_price": 20,
+      "stock_size": 2,
+      "market_items": [
+        6,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5296,
+      "initial_status_flags": 16,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 136,
+      "position": [
+        1735,
+        390
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 16,
+      "culture": 7,
+      "nation": 40,
+      "level": 2,
+      "price_scale": 100,
+      "special_good": 7,
+      "special_price": 20,
+      "stock_size": 1,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5168,
+      "initial_status_flags": 16,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 137,
+      "position": [
+        1790,
+        352
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 16,
+      "culture": 7,
+      "nation": 40,
+      "level": 2,
+      "price_scale": 100,
+      "special_good": 51,
+      "special_price": 40,
+      "stock_size": 1,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5168,
+      "initial_status_flags": 18,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 138,
+      "position": [
+        1866,
+        322
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 16,
+      "culture": 7,
+      "nation": 40,
+      "level": 1,
+      "price_scale": 100,
+      "special_good": 63,
+      "special_price": 100,
+      "stock_size": 0,
+      "market_items": [
+        75,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5296,
+      "initial_status_flags": 18,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 139,
+      "position": [
+        1878,
+        400
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 16,
+      "culture": 7,
+      "nation": 58,
+      "level": 1,
+      "price_scale": 100,
+      "special_good": 57,
+      "special_price": 140,
+      "stock_size": 0,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5172,
+      "initial_status_flags": 16,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 140,
+      "position": [
+        1556,
+        317
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 16,
+      "culture": 7,
+      "nation": 42,
+      "level": 1,
+      "price_scale": 100,
+      "special_good": 34,
+      "special_price": 15,
+      "stock_size": 2,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5172,
+      "initial_status_flags": 16,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 141,
+      "position": [
+        1562,
+        235
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 16,
+      "culture": 7,
+      "nation": 45,
+      "level": 1,
+      "price_scale": 100,
+      "special_good": 68,
+      "special_price": 60,
+      "stock_size": 0,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1076,
+      "initial_status_flags": 16,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 142,
+      "position": [
+        1756,
+        228
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 16,
+      "culture": 7,
+      "nation": 46,
+      "level": 1,
+      "price_scale": 100,
+      "special_good": 64,
+      "special_price": 45,
+      "stock_size": 1,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1076,
+      "initial_status_flags": 16,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 143,
+      "position": [
+        1880,
+        283
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 16,
+      "culture": 7,
+      "nation": 56,
+      "level": 1,
+      "price_scale": 100,
+      "special_good": -1,
+      "special_price": 0,
+      "stock_size": 0,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5172,
+      "initial_status_flags": 16,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 144,
+      "position": [
+        1945,
+        282
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 16,
+      "culture": 7,
+      "nation": 57,
+      "level": 2,
+      "price_scale": 100,
+      "special_good": 68,
+      "special_price": 55,
+      "stock_size": 2,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5172,
+      "initial_status_flags": 16,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 145,
+      "position": [
+        1788,
+        426
+      ],
+      "radius": 3,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 17,
+      "culture": 5,
+      "nation": 47,
+      "level": 6,
+      "price_scale": 100,
+      "special_good": 65,
+      "special_price": 35,
+      "stock_size": 6,
+      "market_items": [
+        56,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 13748,
+      "initial_status_flags": 16,
+      "events": [
+        2,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 146,
+      "position": [
+        1762,
+        406
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 17,
+      "culture": 5,
+      "nation": 47,
+      "level": 3,
+      "price_scale": 100,
+      "special_good": -1,
+      "special_price": 0,
+      "stock_size": 0,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5168,
+      "initial_status_flags": 16,
+      "events": [
+        2,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 147,
+      "position": [
+        1752,
+        465
+      ],
+      "radius": 3,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 17,
+      "culture": 5,
+      "nation": 49,
+      "level": 4,
+      "price_scale": 100,
+      "special_good": 8,
+      "special_price": 35,
+      "stock_size": 3,
+      "market_items": [
+        12,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5300,
+      "initial_status_flags": 0,
+      "events": [
+        2,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 148,
+      "position": [
+        1743,
+        479
+      ],
+      "radius": 2,
+      "neighbors": [
+        135,
+        147
+      ],
+      "fleet_mask": 0,
+      "region": 17,
+      "culture": 5,
+      "nation": 49,
+      "level": 1,
+      "price_scale": 100,
+      "special_good": 53,
+      "special_price": 65,
+      "stock_size": 2,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5235,
+      "initial_status_flags": 0,
+      "events": [
+        2,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 149,
+      "position": [
+        1777,
+        507
+      ],
+      "radius": 3,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 17,
+      "culture": 5,
+      "nation": 50,
+      "level": 4,
+      "price_scale": 100,
+      "special_good": 54,
+      "special_price": 55,
+      "stock_size": 2,
+      "market_items": [
+        54,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5300,
+      "initial_status_flags": 0,
+      "events": [
+        2,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 150,
+      "position": [
+        1762,
+        517
+      ],
+      "radius": 2,
+      "neighbors": [
+        149,
+        156
+      ],
+      "fleet_mask": 0,
+      "region": 17,
+      "culture": 5,
+      "nation": 50,
+      "level": 3,
+      "price_scale": 100,
+      "special_good": 28,
+      "special_price": 25,
+      "stock_size": 4,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5235,
+      "initial_status_flags": 0,
+      "events": [
+        2,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 151,
+      "position": [
+        1771,
+        540
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 17,
+      "culture": 5,
+      "nation": 50,
+      "level": 1,
+      "price_scale": 100,
+      "special_good": 5,
+      "special_price": 10,
+      "stock_size": 5,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5171,
+      "initial_status_flags": 0,
+      "events": [
+        2,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 152,
+      "position": [
+        1775,
+        545
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 17,
+      "culture": 5,
+      "nation": 50,
+      "level": 3,
+      "price_scale": 100,
+      "special_good": 23,
+      "special_price": 30,
+      "stock_size": 5,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5747,
+      "initial_status_flags": 16,
+      "events": [
+        2,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 153,
+      "position": [
+        1783,
+        517
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 17,
+      "culture": 5,
+      "nation": 51,
+      "level": 3,
+      "price_scale": 100,
+      "special_good": 55,
+      "special_price": 120,
+      "stock_size": 0,
+      "market_items": [
+        54,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5300,
+      "initial_status_flags": 0,
+      "events": [
+        2,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 154,
+      "position": [
+        1778,
+        553
+      ],
+      "radius": 2,
+      "neighbors": [
+        153,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 17,
+      "culture": 5,
+      "nation": 51,
+      "level": 2,
+      "price_scale": 100,
+      "special_good": 26,
+      "special_price": 30,
+      "stock_size": 3,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5235,
+      "initial_status_flags": 0,
+      "events": [
+        2,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 155,
+      "position": [
+        1803,
+        572
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 17,
+      "culture": 5,
+      "nation": 54,
+      "level": 2,
+      "price_scale": 100,
+      "special_good": 26,
+      "special_price": 30,
+      "stock_size": 4,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5239,
+      "initial_status_flags": 0,
+      "events": [
+        2,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 156,
+      "position": [
+        1794,
+        503
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 17,
+      "culture": 5,
+      "nation": 52,
+      "level": 2,
+      "price_scale": 100,
+      "special_good": 55,
+      "special_price": 120,
+      "stock_size": 1,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5172,
+      "initial_status_flags": 0,
+      "events": [
+        2,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 157,
+      "position": [
+        1864,
+        473
+      ],
+      "radius": 2,
+      "neighbors": [
+        145,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 17,
+      "culture": 5,
+      "nation": 47,
+      "level": 1,
+      "price_scale": 100,
+      "special_good": 1,
+      "special_price": 16,
+      "stock_size": 5,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5171,
+      "initial_status_flags": 0,
+      "events": [
+        2,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 158,
+      "position": [
+        1913,
+        475
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 18,
+      "culture": 8,
+      "nation": 59,
+      "level": 2,
+      "price_scale": 100,
+      "special_good": 61,
+      "special_price": 40,
+      "stock_size": 3,
+      "market_items": [
+        56,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 13492,
+      "initial_status_flags": 0,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 159,
+      "name_key": "exe.0053773c",
+      "position": [
+        1917,
+        508
+      ],
+      "radius": 2,
+      "neighbors": [
+        158,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 18,
+      "culture": 8,
+      "nation": 61,
+      "level": 2,
+      "price_scale": 100,
+      "special_good": 57,
+      "special_price": 135,
+      "stock_size": 1,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5175,
+      "initial_status_flags": 0,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 160,
+      "position": [
+        1970,
+        613
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 18,
+      "culture": 8,
+      "nation": 63,
+      "level": 2,
+      "price_scale": 100,
+      "special_good": 43,
+      "special_price": 35,
+      "stock_size": 3,
+      "market_items": [
+        73,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5815,
+      "initial_status_flags": 80,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 161,
+      "position": [
+        1943,
+        564
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 18,
+      "culture": 8,
+      "nation": 62,
+      "level": 1,
+      "price_scale": 100,
+      "special_good": 67,
+      "special_price": 40,
+      "stock_size": 2,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5171,
+      "initial_status_flags": 64,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 162,
+      "position": [
+        1947,
+        530
+      ],
+      "radius": 2,
+      "neighbors": [
+        163,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 18,
+      "culture": 8,
+      "nation": 62,
+      "level": 3,
+      "price_scale": 100,
+      "special_good": 34,
+      "special_price": 10,
+      "stock_size": 3,
+      "market_items": [
+        54,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5303,
+      "initial_status_flags": 64,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 163,
+      "position": [
+        1980,
+        548
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 18,
+      "culture": 8,
+      "nation": 64,
+      "level": 2,
+      "price_scale": 100,
+      "special_good": 43,
+      "special_price": 35,
+      "stock_size": 3,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5172,
+      "initial_status_flags": 0,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 164,
+      "position": [
+        1994,
+        508
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 18,
+      "culture": 8,
+      "nation": 65,
+      "level": 2,
+      "price_scale": 100,
+      "special_good": 60,
+      "special_price": 50,
+      "stock_size": 1,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5171,
+      "initial_status_flags": 64,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 165,
+      "position": [
+        1988,
+        482
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 18,
+      "culture": 8,
+      "nation": 65,
+      "level": 2,
+      "price_scale": 100,
+      "special_good": 56,
+      "special_price": 60,
+      "stock_size": 2,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5175,
+      "initial_status_flags": 64,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 166,
+      "position": [
+        1912,
+        586
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 19,
+      "culture": 8,
+      "nation": 66,
+      "level": 1,
+      "price_scale": 100,
+      "special_good": 29,
+      "special_price": 25,
+      "stock_size": 3,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5171,
+      "initial_status_flags": 64,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 167,
+      "position": [
+        1979,
+        642
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 19,
+      "culture": 8,
+      "nation": 66,
+      "level": 2,
+      "price_scale": 100,
+      "special_good": 43,
+      "special_price": 35,
+      "stock_size": 2,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5171,
+      "initial_status_flags": 64,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 168,
+      "position": [
+        1986,
+        666
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 19,
+      "culture": 8,
+      "nation": 66,
+      "level": 1,
+      "price_scale": 100,
+      "special_good": 54,
+      "special_price": 50,
+      "stock_size": 2,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5171,
+      "initial_status_flags": 64,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 169,
+      "position": [
+        2032,
+        676
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 19,
+      "culture": 8,
+      "nation": 66,
+      "level": 2,
+      "price_scale": 100,
+      "special_good": 60,
+      "special_price": 45,
+      "stock_size": 1,
+      "market_items": [
+        26,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5303,
+      "initial_status_flags": 64,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 170,
+      "position": [
+        2047,
+        590
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 19,
+      "culture": 8,
+      "nation": 66,
+      "level": 1,
+      "price_scale": 100,
+      "special_good": 67,
+      "special_price": 40,
+      "stock_size": 2,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5171,
+      "initial_status_flags": 64,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 171,
+      "position": [
+        2133,
+        619
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 19,
+      "culture": 8,
+      "nation": 68,
+      "level": 1,
+      "price_scale": 100,
+      "special_good": 23,
+      "special_price": 20,
+      "stock_size": 5,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1079,
+      "initial_status_flags": 64,
+      "events": [
+        4,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 172,
+      "position": [
+        2138,
+        650
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 19,
+      "culture": 8,
+      "nation": 68,
+      "level": 1,
+      "price_scale": 100,
+      "special_good": 24,
+      "special_price": 15,
+      "stock_size": 4,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1075,
+      "initial_status_flags": 64,
+      "events": [
+        4,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 173,
+      "position": [
+        2035,
+        470
+      ],
+      "radius": 2,
+      "neighbors": [
+        181,
+        182
+      ],
+      "fleet_mask": 0,
+      "region": 20,
+      "culture": 6,
+      "nation": 0,
+      "level": 1,
+      "price_scale": 100,
+      "special_good": -1,
+      "special_price": 0,
+      "stock_size": 0,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1595,
+      "initial_status_flags": 14,
+      "events": [
+        5,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 174,
+      "position": [
+        2039,
+        466
+      ],
+      "radius": 3,
+      "neighbors": [
+        139,
+        180
+      ],
+      "fleet_mask": 0,
+      "region": 20,
+      "culture": 6,
+      "nation": 69,
+      "level": 4,
+      "price_scale": 100,
+      "special_good": 17,
+      "special_price": 100,
+      "stock_size": 4,
+      "market_items": [
+        74,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5619,
+      "initial_status_flags": 0,
+      "events": [
+        5,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 175,
+      "position": [
+        2074,
+        451
+      ],
+      "radius": 3,
+      "neighbors": [
+        144,
+        179
+      ],
+      "fleet_mask": 0,
+      "region": 20,
+      "culture": 6,
+      "nation": 69,
+      "level": 4,
+      "price_scale": 100,
+      "special_good": 56,
+      "special_price": 60,
+      "stock_size": 3,
+      "market_items": [
+        57,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5299,
+      "initial_status_flags": 0,
+      "events": [
+        5,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 176,
+      "position": [
+        2081,
+        441
+      ],
+      "radius": 2,
+      "neighbors": [
+        137,
+        138
+      ],
+      "fleet_mask": 0,
+      "region": 20,
+      "culture": 6,
+      "nation": 69,
+      "level": 3,
+      "price_scale": 100,
+      "special_good": 42,
+      "special_price": 60,
+      "stock_size": 4,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5171,
+      "initial_status_flags": 0,
+      "events": [
+        5,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 177,
+      "position": [
+        2085,
+        414
+      ],
+      "radius": 3,
+      "neighbors": [
+        185,
+        186
+      ],
+      "fleet_mask": 0,
+      "region": 20,
+      "culture": 6,
+      "nation": 69,
+      "level": 5,
+      "price_scale": 100,
+      "special_good": 38,
+      "special_price": 30,
+      "stock_size": 5,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5491,
+      "initial_status_flags": 0,
+      "events": [
+        5,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 178,
+      "position": [
+        2094,
+        405
+      ],
+      "radius": 3,
+      "neighbors": [
+        183,
+        184
+      ],
+      "fleet_mask": 0,
+      "region": 20,
+      "culture": 6,
+      "nation": 69,
+      "level": 6,
+      "price_scale": 100,
+      "special_good": 8,
+      "special_price": 45,
+      "stock_size": 5,
+      "market_items": [
+        74,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5555,
+      "initial_status_flags": 0,
+      "events": [
+        5,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 179,
+      "position": [
+        2041,
+        415
+      ],
+      "radius": 3,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 20,
+      "culture": 6,
+      "nation": 69,
+      "level": 4,
+      "price_scale": 100,
+      "special_good": 41,
+      "special_price": 50,
+      "stock_size": 4,
+      "market_items": [
+        32,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5296,
+      "initial_status_flags": 0,
+      "events": [
+        5,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 180,
+      "position": [
+        2008,
+        445
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 20,
+      "culture": 6,
+      "nation": 69,
+      "level": 3,
+      "price_scale": 100,
+      "special_good": 43,
+      "special_price": 40,
+      "stock_size": 5,
+      "market_items": [
+        57,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5296,
+      "initial_status_flags": 0,
+      "events": [
+        5,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 181,
+      "position": [
+        1961,
+        456
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 20,
+      "culture": 6,
+      "nation": 69,
+      "level": 2,
+      "price_scale": 100,
+      "special_good": 67,
+      "special_price": 45,
+      "stock_size": 2,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5168,
+      "initial_status_flags": 0,
+      "events": [
+        5,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 182,
+      "position": [
+        1967,
+        419
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 20,
+      "culture": 6,
+      "nation": 69,
+      "level": 3,
+      "price_scale": 100,
+      "special_good": 38,
+      "special_price": 40,
+      "stock_size": 4,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5424,
+      "initial_status_flags": 0,
+      "events": [
+        5,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 183,
+      "position": [
+        1936,
+        351
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 21,
+      "culture": 6,
+      "nation": 69,
+      "level": 2,
+      "price_scale": 100,
+      "special_good": 51,
+      "special_price": 35,
+      "stock_size": 2,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5168,
+      "initial_status_flags": 0,
+      "events": [
+        5,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 184,
+      "position": [
+        2008,
+        389
+      ],
+      "radius": 3,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 21,
+      "culture": 6,
+      "nation": 69,
+      "level": 5,
+      "price_scale": 100,
+      "special_good": 16,
+      "special_price": 300,
+      "stock_size": 2,
+      "market_items": [
+        58,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5560,
+      "initial_status_flags": 0,
+      "events": [
+        5,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 185,
+      "position": [
+        2047,
+        387
+      ],
+      "radius": 3,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 21,
+      "culture": 6,
+      "nation": 69,
+      "level": 5,
+      "price_scale": 100,
+      "special_good": 57,
+      "special_price": 160,
+      "stock_size": 0,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5424,
+      "initial_status_flags": 0,
+      "events": [
+        5,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 186,
+      "position": [
+        2066,
+        367
+      ],
+      "radius": 3,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 21,
+      "culture": 6,
+      "nation": 69,
+      "level": 4,
+      "price_scale": 100,
+      "special_good": 10,
+      "special_price": 20,
+      "stock_size": 5,
+      "market_items": [
+        75,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5296,
+      "initial_status_flags": 0,
+      "events": [
+        5,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 187,
+      "position": [
+        2030,
+        360
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 21,
+      "culture": 6,
+      "nation": 69,
+      "level": 2,
+      "price_scale": 100,
+      "special_good": 45,
+      "special_price": 10,
+      "stock_size": 4,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5168,
+      "initial_status_flags": 0,
+      "events": [
+        5,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 188,
+      "position": [
+        2056,
+        344
+      ],
+      "radius": 3,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 21,
+      "culture": 6,
+      "nation": 69,
+      "level": 7,
+      "price_scale": 100,
+      "special_good": 4,
+      "special_price": 14,
+      "stock_size": 7,
+      "market_items": [
+        58,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5556,
+      "initial_status_flags": 0,
+      "events": [
+        5,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 189,
+      "position": [
+        2092,
+        339
+      ],
+      "radius": 2,
+      "neighbors": [
+        187,
+        188
+      ],
+      "fleet_mask": 0,
+      "region": 21,
+      "culture": 6,
+      "nation": 69,
+      "level": 2,
+      "price_scale": 100,
+      "special_good": 41,
+      "special_price": 50,
+      "stock_size": 4,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5171,
+      "initial_status_flags": 0,
+      "events": [
+        5,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 190,
+      "position": [
+        2127,
+        362
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 21,
+      "culture": 6,
+      "nation": 70,
+      "level": 3,
+      "price_scale": 100,
+      "special_good": 67,
+      "special_price": 50,
+      "stock_size": 3,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5431,
+      "initial_status_flags": 64,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 191,
+      "position": [
+        2149,
+        397
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 22,
+      "culture": 9,
+      "nation": 71,
+      "level": 2,
+      "price_scale": 100,
+      "special_good": 17,
+      "special_price": 90,
+      "stock_size": 3,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5235,
+      "initial_status_flags": 64,
+      "events": [
+        8,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 192,
+      "position": [
+        2189,
+        386
+      ],
+      "radius": 2,
+      "neighbors": [
+        193,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 22,
+      "culture": 9,
+      "nation": 71,
+      "level": 3,
+      "price_scale": 100,
+      "special_good": -1,
+      "special_price": 0,
+      "stock_size": 0,
+      "market_items": [
+        76,
+        60,
+        3,
+        5,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5811,
+      "initial_status_flags": 64,
+      "events": [
+        8,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 193,
+      "position": [
+        2191,
+        381
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 22,
+      "culture": 9,
+      "nation": 71,
+      "level": 2,
+      "price_scale": 100,
+      "special_good": 42,
+      "special_price": 60,
+      "stock_size": 2,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5428,
+      "initial_status_flags": 64,
+      "events": [
+        8,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 194,
+      "position": [
+        765,
+        495
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 23,
+      "culture": 10,
+      "nation": 1,
+      "level": 0,
+      "price_scale": 100,
+      "special_good": 8,
+      "special_price": 18,
+      "stock_size": 3,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5691,
+      "initial_status_flags": 78,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 195,
+      "position": [
+        721,
+        485
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 23,
+      "culture": 10,
+      "nation": 1,
+      "level": 0,
+      "price_scale": 100,
+      "special_good": 26,
+      "special_price": 60,
+      "stock_size": 2,
+      "market_items": [
+        35,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1211,
+      "initial_status_flags": 78,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 196,
+      "position": [
+        676,
+        464
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 23,
+      "culture": 10,
+      "nation": 1,
+      "level": 0,
+      "price_scale": 100,
+      "special_good": 8,
+      "special_price": 18,
+      "stock_size": 3,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5243,
+      "initial_status_flags": 78,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 197,
+      "position": [
+        715,
+        499
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 23,
+      "culture": 10,
+      "nation": 1,
+      "level": 0,
+      "price_scale": 100,
+      "special_good": 28,
+      "special_price": 16,
+      "stock_size": 3,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1083,
+      "initial_status_flags": 78,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 198,
+      "position": [
+        791,
+        496
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 23,
+      "culture": 10,
+      "nation": 1,
+      "level": 0,
+      "price_scale": 100,
+      "special_good": 60,
+      "special_price": 50,
+      "stock_size": 1,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1083,
+      "initial_status_flags": 78,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 199,
+      "position": [
+        582,
+        492
+      ],
+      "radius": 2,
+      "neighbors": [
+        200,
+        201
+      ],
+      "fleet_mask": 0,
+      "region": 24,
+      "culture": 10,
+      "nation": 1,
+      "level": 0,
+      "price_scale": 100,
+      "special_good": 27,
+      "special_price": 35,
+      "stock_size": 3,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1659,
+      "initial_status_flags": 78,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 200,
+      "position": [
+        556,
+        489
+      ],
+      "radius": 3,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 24,
+      "culture": 10,
+      "nation": 72,
+      "level": 5,
+      "price_scale": 100,
+      "special_good": 16,
+      "special_price": 200,
+      "stock_size": 1,
+      "market_items": [
+        28,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5556,
+      "initial_status_flags": 64,
+      "events": [
+        192,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 201,
+      "position": [
+        554,
+        489
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 24,
+      "culture": 10,
+      "nation": 1,
+      "level": 3,
+      "price_scale": 100,
+      "special_good": 16,
+      "special_price": 200,
+      "stock_size": 1,
+      "market_items": [
+        28,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 5560,
+      "initial_status_flags": 78,
+      "events": [
+        192,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 202,
+      "position": [
+        566,
+        490
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 24,
+      "culture": 10,
+      "nation": 73,
+      "level": 3,
+      "price_scale": 100,
+      "special_good": 19,
+      "special_price": 35,
+      "stock_size": 3,
+      "market_items": [
+        64,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1204,
+      "initial_status_flags": 64,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 203,
+      "position": [
+        565,
+        500
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 24,
+      "culture": 10,
+      "nation": 72,
+      "level": 2,
+      "price_scale": 100,
+      "special_good": 27,
+      "special_price": 35,
+      "stock_size": 3,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1072,
+      "initial_status_flags": 64,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 204,
+      "position": [
+        584,
+        504
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 24,
+      "culture": 10,
+      "nation": 72,
+      "level": 2,
+      "price_scale": 100,
+      "special_good": 17,
+      "special_price": 90,
+      "stock_size": 2,
+      "market_items": [
+        11,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1200,
+      "initial_status_flags": 64,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 205,
+      "position": [
+        554,
+        506
+      ],
+      "radius": 2,
+      "neighbors": [
+        202,
+        203
+      ],
+      "fleet_mask": 0,
+      "region": 24,
+      "culture": 10,
+      "nation": 1,
+      "level": 0,
+      "price_scale": 100,
+      "special_good": 27,
+      "special_price": 35,
+      "stock_size": 3,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1147,
+      "initial_status_flags": 78,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 206,
+      "position": [
+        632,
+        476
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 24,
+      "culture": 10,
+      "nation": 74,
+      "level": 1,
+      "price_scale": 100,
+      "special_good": 57,
+      "special_price": 100,
+      "stock_size": 0,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1079,
+      "initial_status_flags": 64,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 207,
+      "position": [
+        622,
+        524
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 24,
+      "culture": 10,
+      "nation": 75,
+      "level": 1,
+      "price_scale": 100,
+      "special_good": 2,
+      "special_price": 12,
+      "stock_size": 4,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1076,
+      "initial_status_flags": 64,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 208,
+      "position": [
+        651,
+        514
+      ],
+      "radius": 2,
+      "neighbors": [
+        204,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 24,
+      "culture": 10,
+      "nation": 1,
+      "level": 0,
+      "price_scale": 100,
+      "special_good": 2,
+      "special_price": 12,
+      "stock_size": 3,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1083,
+      "initial_status_flags": 78,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 209,
+      "name_key": "exe.0053c648",
+      "position": [
+        653,
+        548
+      ],
+      "radius": 2,
+      "neighbors": [
+        207,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 24,
+      "culture": 10,
+      "nation": 1,
+      "level": 0,
+      "price_scale": 100,
+      "special_good": -1,
+      "special_price": 0,
+      "stock_size": 0,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1083,
+      "initial_status_flags": 78,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 210,
+      "position": [
+        699,
+        561
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 24,
+      "culture": 10,
+      "nation": 1,
+      "level": 0,
+      "price_scale": 100,
+      "special_good": -1,
+      "special_price": 0,
+      "stock_size": 0,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 13947,
+      "initial_status_flags": 78,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 211,
+      "position": [
+        734,
+        546
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 25,
+      "culture": 10,
+      "nation": 1,
+      "level": 0,
+      "price_scale": 100,
+      "special_good": 31,
+      "special_price": 30,
+      "stock_size": 3,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1083,
+      "initial_status_flags": 78,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 212,
+      "position": [
+        761,
+        542
+      ],
+      "radius": 2,
+      "neighbors": [
+        218,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 25,
+      "culture": 10,
+      "nation": 1,
+      "level": 0,
+      "price_scale": 100,
+      "special_good": 56,
+      "special_price": 75,
+      "stock_size": 1,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1083,
+      "initial_status_flags": 78,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 213,
+      "position": [
+        802,
+        551
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 25,
+      "culture": 10,
+      "nation": 1,
+      "level": 0,
+      "price_scale": 100,
+      "special_good": 32,
+      "special_price": 25,
+      "stock_size": 3,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1083,
+      "initial_status_flags": 78,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 214,
+      "position": [
+        1007,
+        680
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 25,
+      "culture": 10,
+      "nation": 0,
+      "level": 0,
+      "price_scale": 100,
+      "special_good": 65,
+      "special_price": 25,
+      "stock_size": 3,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1083,
+      "initial_status_flags": 78,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 215,
+      "position": [
+        981,
+        714
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 25,
+      "culture": 10,
+      "nation": 0,
+      "level": 0,
+      "price_scale": 100,
+      "special_good": 8,
+      "special_price": 18,
+      "stock_size": 3,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1083,
+      "initial_status_flags": 78,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 216,
+      "position": [
+        942,
+        785
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 25,
+      "culture": 10,
+      "nation": 0,
+      "level": 0,
+      "price_scale": 100,
+      "special_good": 16,
+      "special_price": 240,
+      "stock_size": 1,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1147,
+      "initial_status_flags": 78,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 217,
+      "position": [
+        843,
+        865
+      ],
+      "radius": 2,
+      "neighbors": [
+        225,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 25,
+      "culture": 10,
+      "nation": 1,
+      "level": 0,
+      "price_scale": 100,
+      "special_good": 67,
+      "special_price": 35,
+      "stock_size": 2,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1083,
+      "initial_status_flags": 78,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 218,
+      "position": [
+        739,
+        584
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 26,
+      "culture": 10,
+      "nation": 76,
+      "level": 1,
+      "price_scale": 100,
+      "special_good": 16,
+      "special_price": 200,
+      "stock_size": 1,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1076,
+      "initial_status_flags": 0,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 219,
+      "position": [
+        703,
+        627
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 26,
+      "culture": 10,
+      "nation": 77,
+      "level": 2,
+      "price_scale": 100,
+      "special_good": 3,
+      "special_price": 10,
+      "stock_size": 3,
+      "market_items": [
+        64,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1200,
+      "initial_status_flags": 0,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 220,
+      "position": [
+        693,
+        648
+      ],
+      "radius": 2,
+      "neighbors": [
+        219,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 26,
+      "culture": 10,
+      "nation": 77,
+      "level": 1,
+      "price_scale": 100,
+      "special_good": 8,
+      "special_price": 18,
+      "stock_size": 4,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1075,
+      "initial_status_flags": 64,
+      "events": [
+        264,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 221,
+      "position": [
+        692,
+        669
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 26,
+      "culture": 10,
+      "nation": 77,
+      "level": 2,
+      "price_scale": 100,
+      "special_good": -1,
+      "special_price": 0,
+      "stock_size": 0,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1077,
+      "initial_status_flags": 64,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 222,
+      "position": [
+        717,
+        711
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 26,
+      "culture": 10,
+      "nation": 1,
+      "level": 1,
+      "price_scale": 100,
+      "special_good": 44,
+      "special_price": 40,
+      "stock_size": 3,
+      "market_items": [
+        69,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1211,
+      "initial_status_flags": 14,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 223,
+      "position": [
+        754,
+        716
+      ],
+      "radius": 3,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 26,
+      "culture": 10,
+      "nation": 77,
+      "level": 5,
+      "price_scale": 100,
+      "special_good": 16,
+      "special_price": 200,
+      "stock_size": 1,
+      "market_items": [
+        14,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1204,
+      "initial_status_flags": 0,
+      "events": [
+        193,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 224,
+      "position": [
+        727,
+        730
+      ],
+      "radius": 2,
+      "neighbors": [
+        222,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 26,
+      "culture": 10,
+      "nation": 77,
+      "level": 2,
+      "price_scale": 100,
+      "special_good": 42,
+      "special_price": 35,
+      "stock_size": 3,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1075,
+      "initial_status_flags": 0,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 225,
+      "position": [
+        794,
+        758
+      ],
+      "radius": 2,
+      "neighbors": [
+        -1,
+        -1
+      ],
+      "fleet_mask": 0,
+      "region": 26,
+      "culture": 10,
+      "nation": 77,
+      "level": 1,
+      "price_scale": 100,
+      "special_good": 17,
+      "special_price": 45,
+      "stock_size": 5,
+      "market_items": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "initial_city_state": 0,
+      "flags": 1072,
+      "initial_status_flags": 0,
+      "events": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    }
+  ]
+}

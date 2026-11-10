@@ -1,0 +1,946 @@
+{
+  "schema_version": 2,
+  "records": [
+    {
+      "id": 0,
+      "initial_value": 65000,
+      "initially_available": 1
+    },
+    {
+      "id": 1,
+      "initial_value": 90000,
+      "initially_available": 1
+    },
+    {
+      "id": 2,
+      "initial_value": 100000,
+      "initially_available": 1
+    },
+    {
+      "id": 3,
+      "initial_value": 70000,
+      "initially_available": 1
+    },
+    {
+      "id": 4,
+      "initial_value": 85000,
+      "initially_available": 1
+    },
+    {
+      "id": 5,
+      "initial_value": 75000,
+      "initially_available": 1
+    },
+    {
+      "id": 6,
+      "initial_value": 90000,
+      "initially_available": 1
+    },
+    {
+      "id": 7,
+      "initial_value": 300000,
+      "initially_available": 1
+    },
+    {
+      "id": 8,
+      "initial_value": 95000,
+      "initially_available": 1
+    },
+    {
+      "id": 9,
+      "initial_value": 110000,
+      "initially_available": 1
+    },
+    {
+      "id": 10,
+      "initial_value": 100000,
+      "initially_available": 1
+    },
+    {
+      "id": 11,
+      "initial_value": 140000,
+      "initially_available": 1
+    },
+    {
+      "id": 12,
+      "initial_value": 140000,
+      "initially_available": 1
+    },
+    {
+      "id": 13,
+      "initial_value": 13000,
+      "initially_available": 1
+    },
+    {
+      "id": 14,
+      "initial_value": 80000,
+      "initially_available": 1
+    },
+    {
+      "id": 15,
+      "initial_value": 90000,
+      "initially_available": 1
+    },
+    {
+      "id": 16,
+      "initial_value": 100000,
+      "initially_available": 1
+    },
+    {
+      "id": 17,
+      "initial_value": 85000,
+      "initially_available": 1
+    },
+    {
+      "id": 18,
+      "initial_value": 50000,
+      "initially_available": 1
+    },
+    {
+      "id": 19,
+      "initial_value": 70000,
+      "initially_available": 1
+    },
+    {
+      "id": 20,
+      "initial_value": 6000,
+      "initially_available": 1
+    },
+    {
+      "id": 21,
+      "initial_value": 7000,
+      "initially_available": 1
+    },
+    {
+      "id": 22,
+      "initial_value": 14000,
+      "initially_available": 1
+    },
+    {
+      "id": 23,
+      "initial_value": 12000,
+      "initially_available": 1
+    },
+    {
+      "id": 24,
+      "initial_value": 13000,
+      "initially_available": 1
+    },
+    {
+      "id": 25,
+      "initial_value": 14000,
+      "initially_available": 1
+    },
+    {
+      "id": 26,
+      "initial_value": 25000,
+      "initially_available": 1
+    },
+    {
+      "id": 27,
+      "initial_value": 25000,
+      "initially_available": 1
+    },
+    {
+      "id": 28,
+      "initial_value": 9000,
+      "initially_available": 1
+    },
+    {
+      "id": 29,
+      "initial_value": 24000,
+      "initially_available": 1
+    },
+    {
+      "id": 30,
+      "initial_value": 35000,
+      "initially_available": 1
+    },
+    {
+      "id": 31,
+      "initial_value": 24000,
+      "initially_available": 1
+    },
+    {
+      "id": 32,
+      "initial_value": 65000,
+      "initially_available": 1
+    },
+    {
+      "id": 33,
+      "initial_value": 60000,
+      "initially_available": 1
+    },
+    {
+      "id": 34,
+      "initial_value": 70000,
+      "initially_available": 1
+    },
+    {
+      "id": 35,
+      "initial_value": 60000,
+      "initially_available": 1
+    },
+    {
+      "id": 36,
+      "initial_value": 80000,
+      "initially_available": 1
+    },
+    {
+      "id": 37,
+      "initial_value": 88000,
+      "initially_available": 1
+    },
+    {
+      "id": 38,
+      "initial_value": 75000,
+      "initially_available": 1
+    },
+    {
+      "id": 39,
+      "initial_value": 84000,
+      "initially_available": 1
+    },
+    {
+      "id": 40,
+      "initial_value": 65000,
+      "initially_available": 1
+    },
+    {
+      "id": 41,
+      "initial_value": 72000,
+      "initially_available": 1
+    },
+    {
+      "id": 42,
+      "initial_value": 80000,
+      "initially_available": 1
+    },
+    {
+      "id": 43,
+      "initial_value": 40000,
+      "initially_available": 1
+    },
+    {
+      "id": 44,
+      "initial_value": 75000,
+      "initially_available": 1
+    },
+    {
+      "id": 45,
+      "initial_value": 65000,
+      "initially_available": 1
+    },
+    {
+      "id": 46,
+      "initial_value": 8000,
+      "initially_available": 1
+    },
+    {
+      "id": 47,
+      "initial_value": 6000,
+      "initially_available": 1
+    },
+    {
+      "id": 48,
+      "initial_value": 10000,
+      "initially_available": 1
+    },
+    {
+      "id": 49,
+      "initial_value": 30000,
+      "initially_available": 1
+    },
+    {
+      "id": 50,
+      "initial_value": 28000,
+      "initially_available": 1
+    },
+    {
+      "id": 51,
+      "initial_value": 56000,
+      "initially_available": 1
+    },
+    {
+      "id": 52,
+      "initial_value": 40000,
+      "initially_available": 1
+    },
+    {
+      "id": 53,
+      "initial_value": 35000,
+      "initially_available": 1
+    },
+    {
+      "id": 54,
+      "initial_value": 45000,
+      "initially_available": 1
+    },
+    {
+      "id": 55,
+      "initial_value": 50000,
+      "initially_available": 1
+    },
+    {
+      "id": 56,
+      "initial_value": 53000,
+      "initially_available": 1
+    },
+    {
+      "id": 57,
+      "initial_value": 45000,
+      "initially_available": 1
+    },
+    {
+      "id": 58,
+      "initial_value": 50000,
+      "initially_available": 1
+    },
+    {
+      "id": 59,
+      "initial_value": 200000,
+      "initially_available": 1
+    },
+    {
+      "id": 60,
+      "initial_value": 240000,
+      "initially_available": 1
+    },
+    {
+      "id": 61,
+      "initial_value": 55000,
+      "initially_available": 1
+    },
+    {
+      "id": 62,
+      "initial_value": 45000,
+      "initially_available": 1
+    },
+    {
+      "id": 63,
+      "initial_value": 72000,
+      "initially_available": 1
+    },
+    {
+      "id": 64,
+      "initial_value": 48000,
+      "initially_available": 1
+    },
+    {
+      "id": 65,
+      "initial_value": 65000,
+      "initially_available": 1
+    },
+    {
+      "id": 66,
+      "initial_value": 36000,
+      "initially_available": 1
+    },
+    {
+      "id": 67,
+      "initial_value": 120000,
+      "initially_available": 1
+    },
+    {
+      "id": 68,
+      "initial_value": 82000,
+      "initially_available": 1
+    },
+    {
+      "id": 69,
+      "initial_value": 90000,
+      "initially_available": 1
+    },
+    {
+      "id": 70,
+      "initial_value": 60000,
+      "initially_available": 1
+    },
+    {
+      "id": 71,
+      "initial_value": 56000,
+      "initially_available": 1
+    },
+    {
+      "id": 72,
+      "initial_value": 180000,
+      "initially_available": 1
+    },
+    {
+      "id": 73,
+      "initial_value": 270000,
+      "initially_available": 1
+    },
+    {
+      "id": 74,
+      "initial_value": 55000,
+      "initially_available": 1
+    },
+    {
+      "id": 75,
+      "initial_value": 6000,
+      "initially_available": 1
+    },
+    {
+      "id": 76,
+      "initial_value": 27000,
+      "initially_available": 1
+    },
+    {
+      "id": 77,
+      "initial_value": 63000,
+      "initially_available": 1
+    },
+    {
+      "id": 78,
+      "initial_value": 68500,
+      "initially_available": 1
+    },
+    {
+      "id": 79,
+      "initial_value": 15000,
+      "initially_available": 1
+    },
+    {
+      "id": 80,
+      "initial_value": 18000,
+      "initially_available": 1
+    },
+    {
+      "id": 81,
+      "initial_value": 22000,
+      "initially_available": 1
+    },
+    {
+      "id": 82,
+      "initial_value": 55000,
+      "initially_available": 1
+    },
+    {
+      "id": 83,
+      "initial_value": 5000,
+      "initially_available": 1
+    },
+    {
+      "id": 84,
+      "initial_value": 35000,
+      "initially_available": 1
+    },
+    {
+      "id": 85,
+      "initial_value": 55000,
+      "initially_available": 1
+    },
+    {
+      "id": 86,
+      "initial_value": 40000,
+      "initially_available": 1
+    },
+    {
+      "id": 87,
+      "initial_value": 45000,
+      "initially_available": 1
+    },
+    {
+      "id": 88,
+      "initial_value": 56000,
+      "initially_available": 1
+    },
+    {
+      "id": 89,
+      "initial_value": 65000,
+      "initially_available": 1
+    },
+    {
+      "id": 90,
+      "initial_value": 87000,
+      "initially_available": 1
+    },
+    {
+      "id": 91,
+      "initial_value": 68000,
+      "initially_available": 1
+    },
+    {
+      "id": 92,
+      "initial_value": 76000,
+      "initially_available": 1
+    },
+    {
+      "id": 93,
+      "initial_value": 74000,
+      "initially_available": 1
+    },
+    {
+      "id": 94,
+      "initial_value": 79000,
+      "initially_available": 1
+    },
+    {
+      "id": 95,
+      "initial_value": 82000,
+      "initially_available": 1
+    },
+    {
+      "id": 96,
+      "initial_value": 70000,
+      "initially_available": 1
+    },
+    {
+      "id": 97,
+      "initial_value": 98000,
+      "initially_available": 1
+    },
+    {
+      "id": 98,
+      "initial_value": 63000,
+      "initially_available": 1
+    },
+    {
+      "id": 99,
+      "initial_value": 62000,
+      "initially_available": 1
+    },
+    {
+      "id": 100,
+      "initial_value": 43000,
+      "initially_available": 1
+    },
+    {
+      "id": 101,
+      "initial_value": 39000,
+      "initially_available": 1
+    },
+    {
+      "id": 102,
+      "initial_value": 12000,
+      "initially_available": 1
+    },
+    {
+      "id": 103,
+      "initial_value": 32000,
+      "initially_available": 1
+    },
+    {
+      "id": 104,
+      "initial_value": 20000,
+      "initially_available": 1
+    },
+    {
+      "id": 105,
+      "initial_value": 24000,
+      "initially_available": 1
+    },
+    {
+      "id": 106,
+      "initial_value": 45000,
+      "initially_available": 1
+    },
+    {
+      "id": 107,
+      "initial_value": 44000,
+      "initially_available": 1
+    },
+    {
+      "id": 108,
+      "initial_value": 96000,
+      "initially_available": 1
+    },
+    {
+      "id": 109,
+      "initial_value": 32000,
+      "initially_available": 1
+    },
+    {
+      "id": 110,
+      "name_key": "hint.name.110",
+      "initial_value": 24000,
+      "initially_available": 1
+    },
+    {
+      "id": 111,
+      "name_key": "hint.name.111",
+      "initial_value": 28000,
+      "initially_available": 1
+    },
+    {
+      "id": 112,
+      "name_key": "hint.name.112",
+      "initial_value": 26000,
+      "initially_available": 1
+    },
+    {
+      "id": 113,
+      "name_key": "hint.name.113",
+      "initial_value": 35000,
+      "initially_available": 1
+    },
+    {
+      "id": 114,
+      "name_key": "hint.name.114",
+      "initial_value": 43000,
+      "initially_available": 1
+    },
+    {
+      "id": 115,
+      "name_key": "hint.name.115",
+      "initial_value": 23000,
+      "initially_available": 1
+    },
+    {
+      "id": 116,
+      "initial_value": 42000,
+      "initially_available": 1
+    },
+    {
+      "id": 117,
+      "name_key": "hint.name.117",
+      "initial_value": 50000,
+      "initially_available": 1
+    },
+    {
+      "id": 118,
+      "initial_value": 95000,
+      "initially_available": 1
+    },
+    {
+      "id": 119,
+      "initial_value": 24000,
+      "initially_available": 1
+    },
+    {
+      "id": 120,
+      "initial_value": 50000,
+      "initially_available": 1
+    },
+    {
+      "id": 121,
+      "initial_value": 18000,
+      "initially_available": 1
+    },
+    {
+      "id": 122,
+      "initial_value": 120000,
+      "initially_available": 1
+    },
+    {
+      "id": 123,
+      "initial_value": 78000,
+      "initially_available": 1
+    },
+    {
+      "id": 124,
+      "initial_value": 130000,
+      "initially_available": 1
+    },
+    {
+      "id": 125,
+      "initial_value": 92000,
+      "initially_available": 1
+    },
+    {
+      "id": 126,
+      "initial_value": 85000,
+      "initially_available": 1
+    },
+    {
+      "id": 127,
+      "name_key": "hint.name.127",
+      "initial_value": 70000,
+      "initially_available": 1
+    },
+    {
+      "id": 128,
+      "initial_value": 92000,
+      "initially_available": 1
+    },
+    {
+      "id": 129,
+      "initial_value": 69000,
+      "initially_available": 1
+    },
+    {
+      "id": 130,
+      "initial_value": 38000,
+      "initially_available": 1
+    },
+    {
+      "id": 131,
+      "initial_value": 45000,
+      "initially_available": 1
+    },
+    {
+      "id": 132,
+      "initial_value": 44000,
+      "initially_available": 1
+    },
+    {
+      "id": 133,
+      "initial_value": 66000,
+      "initially_available": 1
+    },
+    {
+      "id": 134,
+      "initial_value": 14000,
+      "initially_available": 1
+    },
+    {
+      "id": 135,
+      "initial_value": 66000,
+      "initially_available": 1
+    },
+    {
+      "id": 136,
+      "name_key": "hint.name.136",
+      "initial_value": 35500,
+      "initially_available": 1
+    },
+    {
+      "id": 137,
+      "initial_value": 44000,
+      "initially_available": 1
+    },
+    {
+      "id": 138,
+      "initial_value": 64000,
+      "initially_available": 1
+    },
+    {
+      "id": 139,
+      "initial_value": 70500,
+      "initially_available": 1
+    },
+    {
+      "id": 140,
+      "initial_value": 50000,
+      "initially_available": 1
+    },
+    {
+      "id": 141,
+      "initial_value": 25000,
+      "initially_available": 1
+    },
+    {
+      "id": 142,
+      "initial_value": 90000,
+      "initially_available": 1
+    },
+    {
+      "id": 143,
+      "initial_value": 88000,
+      "initially_available": 1
+    },
+    {
+      "id": 144,
+      "name_key": "hint.name.144",
+      "initial_value": 55000,
+      "initially_available": 1
+    },
+    {
+      "id": 145,
+      "initial_value": 90000,
+      "initially_available": 1
+    },
+    {
+      "id": 146,
+      "initial_value": 95000,
+      "initially_available": 1
+    },
+    {
+      "id": 147,
+      "initial_value": 36000,
+      "initially_available": 1
+    },
+    {
+      "id": 148,
+      "initial_value": 40000,
+      "initially_available": 1
+    },
+    {
+      "id": 149,
+      "initial_value": 100000,
+      "initially_available": 1
+    },
+    {
+      "id": 150,
+      "initial_value": 70000,
+      "initially_available": 1
+    },
+    {
+      "id": 151,
+      "name_key": "hint.name.151",
+      "initial_value": 85000,
+      "initially_available": 1
+    },
+    {
+      "id": 152,
+      "initial_value": 90000,
+      "initially_available": 1
+    },
+    {
+      "id": 153,
+      "initial_value": 27000,
+      "initially_available": 1
+    },
+    {
+      "id": 154,
+      "initial_value": 140000,
+      "initially_available": 1
+    },
+    {
+      "id": 155,
+      "initial_value": 160000,
+      "initially_available": 1
+    },
+    {
+      "id": 156,
+      "initial_value": 62000,
+      "initially_available": 1
+    },
+    {
+      "id": 157,
+      "initial_value": 87000,
+      "initially_available": 1
+    },
+    {
+      "id": 158,
+      "initial_value": 36000,
+      "initially_available": 1
+    },
+    {
+      "id": 159,
+      "initial_value": 40000,
+      "initially_available": 1
+    },
+    {
+      "id": 160,
+      "initial_value": 35000,
+      "initially_available": 1
+    },
+    {
+      "id": 161,
+      "initial_value": 100000,
+      "initially_available": 1
+    },
+    {
+      "id": 162,
+      "initial_value": 115000,
+      "initially_available": 1
+    },
+    {
+      "id": 163,
+      "initial_value": 90000,
+      "initially_available": 1
+    },
+    {
+      "id": 164,
+      "initial_value": 58000,
+      "initially_available": 1
+    },
+    {
+      "id": 165,
+      "initial_value": 40000,
+      "initially_available": 1
+    },
+    {
+      "id": 166,
+      "initial_value": 60000,
+      "initially_available": 1
+    },
+    {
+      "id": 167,
+      "initial_value": 56000,
+      "initially_available": 1
+    },
+    {
+      "id": 168,
+      "initial_value": 32000,
+      "initially_available": 1
+    },
+    {
+      "id": 169,
+      "initial_value": 105000,
+      "initially_available": 1
+    },
+    {
+      "id": 170,
+      "initial_value": 25000,
+      "initially_available": 1
+    },
+    {
+      "id": 171,
+      "initial_value": 50000,
+      "initially_available": 1
+    },
+    {
+      "id": 172,
+      "initial_value": 40000,
+      "initially_available": 1
+    },
+    {
+      "id": 173,
+      "initial_value": 42000,
+      "initially_available": 1
+    },
+    {
+      "id": 174,
+      "initial_value": 32000,
+      "initially_available": 1
+    },
+    {
+      "id": 175,
+      "initial_value": 18000,
+      "initially_available": 1
+    },
+    {
+      "id": 176,
+      "initial_value": 20000,
+      "initially_available": 1
+    },
+    {
+      "id": 177,
+      "initial_value": 50000,
+      "initially_available": 1
+    },
+    {
+      "id": 178,
+      "initial_value": 35000,
+      "initially_available": 1
+    },
+    {
+      "id": 179,
+      "initial_value": 45000,
+      "initially_available": 1
+    },
+    {
+      "id": 180,
+      "initial_value": 44000,
+      "initially_available": 1
+    },
+    {
+      "id": 181,
+      "initial_value": 48000,
+      "initially_available": 1
+    },
+    {
+      "id": 182,
+      "initial_value": 24000,
+      "initially_available": 1
+    },
+    {
+      "id": 183,
+      "initial_value": 55000,
+      "initially_available": 1
+    },
+    {
+      "id": 184,
+      "initial_value": 50000,
+      "initially_available": 1
+    },
+    {
+      "id": 185,
+      "initial_value": 84000,
+      "initially_available": 1
+    }
+  ]
+}

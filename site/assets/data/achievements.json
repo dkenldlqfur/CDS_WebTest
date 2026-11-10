@@ -1,0 +1,1969 @@
+{
+  "schema_version": 1,
+  "categories": [
+    {
+      "id": "discovery",
+      "name_key": "achievement.category.discovery.name"
+    },
+    {
+      "id": "exploration",
+      "name_key": "achievement.category.exploration.name"
+    },
+    {
+      "id": "navigation",
+      "name_key": "achievement.category.navigation.name"
+    },
+    {
+      "id": "fleet",
+      "name_key": "achievement.category.fleet.name"
+    },
+    {
+      "id": "trade",
+      "name_key": "achievement.category.trade.name"
+    },
+    {
+      "id": "combat",
+      "name_key": "achievement.category.combat.name"
+    },
+    {
+      "id": "people",
+      "name_key": "achievement.category.people.name"
+    },
+    {
+      "id": "items",
+      "name_key": "achievement.category.items.name"
+    },
+    {
+      "id": "completion",
+      "name_key": "achievement.category.completion.name"
+    }
+  ],
+  "policies": {
+    "visibility": {
+      "locked_rows_visible": true,
+      "locked_titles_visible": false,
+      "locked_descriptions_visible": false,
+      "locked_buttons_enabled": false,
+      "locked_title_key": "ui.achievements.locked",
+      "unlocked_titles_visible": true,
+      "unlocked_description_on_select": true
+    },
+    "progress": {
+      "scope": "playthrough",
+      "storage": "save",
+      "playthrough_id": "stable_across_load_and_generation_succession",
+      "new_game": "new_playthrough_reset_progress",
+      "save_load": "restore_saved_snapshot",
+      "merge_across_playthroughs": false,
+      "sum_across_save_slots": false,
+      "generation_succession": "inherit_all",
+      "evaluate_restored_progress": true
+    },
+    "unlocks": {
+      "scope": "global",
+      "storage": "separate_from_saves",
+      "unlock_once": true,
+      "retain_on_new_game": true,
+      "retain_on_save_load": true,
+      "retain_on_generation_succession": true,
+      "path": "user://achievements.json",
+      "format": {
+        "schema_version": 1,
+        "id_list_field": "unlocked_ids",
+        "blocked_playthrough_id_list_field": "blocked_playthrough_ids"
+      }
+    },
+    "editing": {
+      "block_all_new_unlocks": true,
+      "block_trigger": "in_play_realtime_edit_applied",
+      "view_only_blocks": false,
+      "cancelled_edits_block": false,
+      "main_menu_initial_value_edits_block": false,
+      "main_menu_game_constant_edits_block": false,
+      "block_identity": "playthrough_id",
+      "block_storage": "outside_rewindable_save_snapshot",
+      "block_survives_loading_pre_edit_save": true,
+      "block_survives_generation_succession": true,
+      "revoke_existing_global_unlocks": false
+    },
+    "legacy_saves": {
+      "recognize_verifiable_existing_state": true,
+      "infer_missing_event_history": false,
+      "respect_edit_block": true,
+      "playthrough_import": "independent_per_legacy_file",
+      "playthrough_id_seed": [
+        "canonical_file_path",
+        "complete_file_bytes"
+      ],
+      "repeat_import_reuses_id": true
+    },
+    "discovery": {
+      "collection_id": "all_discoveries",
+      "require_player_registration": true,
+      "count_npc_discovery_records": false,
+      "count_fake_or_substitute_items": false,
+      "targets": "fixed_id_collections",
+      "originally_unregistrable_targets": "exclude_from_fixed_collections",
+      "competition_rule": "original",
+      "allow_rediscovery_after_npc_claim": false,
+      "remove_npc_claimed_targets": false,
+      "deduplicate_by": "catalog_id"
+    },
+    "trade": {
+      "session": "trading_post_facility_visit",
+      "settle_on": "trading_post_visit_ended",
+      "reopening_trade_dialog_starts_new_visit": false,
+      "new_visit_after_facility_reentry": true,
+      "settle_once_per_visit": true,
+      "profit": "sale_proceeds_minus_cost_of_sold_lots",
+      "include_unsold_purchase_spending_in_realized_profit": false,
+      "cost_basis": "fifo",
+      "free_acquired_goods_unit_cost": 0,
+      "free_acquisition_without_sale_counts_as_profit": false,
+      "legacy_unknown_cost": "origin_current_buy_quote_at_first_ledger_creation",
+      "retain_estimated_cost_after_market_change_or_reload": true,
+      "record_estimated_cost_flag": true,
+      "new_purchases_use_actual_paid_cost": true,
+      "cargo_transfer_preserves_cost_and_acquisition_order": true,
+      "positive_cumulative_contribution": "max_visit_sales_profit_or_zero",
+      "negative_visits_reduce_cumulative_profit": false,
+      "count_cash_gifts_or_contract_payments_as_trade_profit": false,
+      "ledger_and_pending_visit_storage": "playthrough_save"
+    },
+    "distance": {
+      "unit": "world_motion_coordinate",
+      "world_width": 40000,
+      "segment_metric": "euclidean",
+      "wrap_horizontal_delta": true,
+      "preserve_fractional_distance": true,
+      "source": "committed_world_movement",
+      "include_manual_movement": true,
+      "include_automatic_movement": true,
+      "exclude": [
+        "position_restoration",
+        "scene_position_placement",
+        "port_entry_or_exit_placement",
+        "landing_or_fleet_return_placement",
+        "save_load",
+        "render_interpolation"
+      ]
+    }
+  },
+  "collections": {
+    "geography": {
+      "kind": "catalog",
+      "catalog_category_id": 0,
+      "ids": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ]
+    },
+    "history": {
+      "kind": "catalog",
+      "catalog_category_id": 1,
+      "ids": [
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        74,
+        75,
+        76,
+        77,
+        88,
+        89,
+        94
+      ]
+    },
+    "treasure": {
+      "kind": "catalog",
+      "catalog_category_id": 2,
+      "ids": [
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        131
+      ]
+    },
+    "religion": {
+      "kind": "catalog",
+      "catalog_category_id": 3,
+      "ids": [
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        78,
+        79,
+        93,
+        96,
+        97,
+        127,
+        128,
+        129,
+        190,
+        194
+      ]
+    },
+    "trade_discoveries": {
+      "kind": "catalog",
+      "catalog_category_id": 4,
+      "ids": [
+        203,
+        204,
+        205,
+        206,
+        207,
+        208,
+        209,
+        210,
+        211,
+        212,
+        213,
+        214,
+        215,
+        216,
+        217,
+        218,
+        219,
+        220,
+        221,
+        222,
+        223,
+        224,
+        225,
+        226,
+        227,
+        228,
+        229
+      ]
+    },
+    "myth": {
+      "kind": "catalog",
+      "catalog_category_id": 5,
+      "ids": [
+        92,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        178,
+        187,
+        188,
+        191,
+        195,
+        196,
+        197,
+        198
+      ]
+    },
+    "biology": {
+      "kind": "catalog",
+      "catalog_category_id": 6,
+      "ids": [
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164,
+        165,
+        166,
+        167,
+        168,
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        189,
+        199,
+        200,
+        201,
+        202
+      ]
+    },
+    "ethnology": {
+      "kind": "catalog",
+      "catalog_category_id": 7,
+      "ids": [
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        90,
+        91,
+        95,
+        98,
+        99,
+        100,
+        101,
+        102,
+        130,
+        179,
+        180,
+        181,
+        182,
+        183,
+        184,
+        185,
+        186,
+        192,
+        193,
+        273
+      ]
+    },
+    "all_discoveries": {
+      "kind": "union",
+      "collection_ids": [
+        "geography",
+        "history",
+        "treasure",
+        "religion",
+        "trade_discoveries",
+        "myth",
+        "biology",
+        "ethnology"
+      ]
+    },
+    "ports": {
+      "kind": "city",
+      "ids": [
+        0,
+        1,
+        2,
+        3,
+        7,
+        8,
+        9,
+        11,
+        12,
+        13,
+        15,
+        17,
+        18,
+        21,
+        22,
+        23,
+        24,
+        28,
+        29,
+        31,
+        32,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        42,
+        43,
+        44,
+        45,
+        46,
+        56,
+        57,
+        58,
+        64,
+        65,
+        66,
+        67,
+        68,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        105,
+        106,
+        107,
+        108,
+        109,
+        112,
+        113,
+        114,
+        115,
+        116,
+        118,
+        121,
+        124,
+        125,
+        126,
+        128,
+        148,
+        150,
+        151,
+        152,
+        154,
+        155,
+        157,
+        159,
+        160,
+        161,
+        162,
+        164,
+        165,
+        166,
+        167,
+        168,
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        189,
+        190,
+        191,
+        192,
+        194,
+        195,
+        196,
+        197,
+        198,
+        199,
+        205,
+        206,
+        208,
+        209,
+        210,
+        211,
+        212,
+        213,
+        214,
+        215,
+        216,
+        217,
+        220,
+        221,
+        222,
+        224
+      ],
+      "include_starting_port": true,
+      "include_future_ports": true,
+      "remove_temporarily_inaccessible_targets": false
+    },
+    "sea_encounters": {
+      "kind": "encounter",
+      "members": [
+        {
+          "id": "dolphin",
+          "script_file": "DISEV.CDS",
+          "script_part": 258,
+          "effect_kind": 1,
+          "name_key": "ui.d0da9740a11cb24f"
+        },
+        {
+          "id": "aurora",
+          "script_file": "DISEV.CDS",
+          "script_part": 200,
+          "effect_kind": 2,
+          "name_key": "ui.55b14f4c9674728a"
+        },
+        {
+          "id": "ghost_ship",
+          "script_file": "DISEV.CDS",
+          "script_part": 195,
+          "effect_kind": 3,
+          "name_key": "ui.b962a3498d7bbf0c"
+        }
+      ]
+    },
+    "sea_monsters": {
+      "kind": "sea_monster",
+      "members": [
+        {
+          "id": "sea_serpent",
+          "catalog_id": 196,
+          "opponent_person_id": 272,
+          "name_key": "ui.d51b854deecb1150"
+        },
+        {
+          "id": "kraken",
+          "catalog_id": 197,
+          "opponent_person_id": 271,
+          "name_key": "ui.c162a6e3ea84035a"
+        },
+        {
+          "id": "manta",
+          "catalog_id": 198,
+          "opponent_person_id": 274,
+          "name_key": "ui.af5bb96d93d57f26"
+        },
+        {
+          "id": "man_eating_shark",
+          "catalog_id": 199,
+          "opponent_person_id": 273,
+          "name_key": "ui.6aa409d0819755f1"
+        }
+      ]
+    },
+    "crew_roles": {
+      "kind": "crew_role",
+      "members": [
+        {
+          "id": "deputy",
+          "slot": 0,
+          "name_key": "exe.00560778"
+        },
+        {
+          "id": "navigator",
+          "slot": 1,
+          "name_key": "exe.00560770"
+        },
+        {
+          "id": "surveyor",
+          "slot": 2,
+          "name_key": "exe.00560768"
+        },
+        {
+          "id": "interpreter",
+          "slot": 3,
+          "name_key": "exe.00560760"
+        },
+        {
+          "id": "advisor",
+          "slot": 4,
+          "name_key": "role.advisor"
+        }
+      ]
+    },
+    "navigation_equipment": {
+      "kind": "item",
+      "ids": [
+        33,
+        34,
+        35
+      ]
+    },
+    "mediterranean_seduction_books": {
+      "kind": "item",
+      "ids": [
+        277,
+        278,
+        279,
+        280,
+        281,
+        282,
+        283,
+        284
+      ]
+    },
+    "counterfeit_discoveries": {
+      "kind": "discovery",
+      "ids": [
+        230,
+        231,
+        232,
+        233,
+        234,
+        235,
+        236,
+        237,
+        238,
+        239,
+        240,
+        241,
+        242,
+        243,
+        244,
+        245,
+        246,
+        247,
+        248,
+        249,
+        250,
+        251,
+        252,
+        253,
+        254,
+        255,
+        256,
+        257
+      ]
+    }
+  },
+  "records": [
+    {
+      "id": "discovery_first",
+      "number": 1,
+      "category": "discovery",
+      "enabled": true,
+      "hidden": true,
+      "progress_scope": "playthrough",
+      "condition": {
+        "type": "discovery_count",
+        "events": [
+          "catalog_registered"
+        ],
+        "parameters": {
+          "collection_id": "all_discoveries",
+          "minimum": 1
+        }
+      },
+      "title_key": "achievement.discovery_first.title",
+      "description_key": "achievement.discovery_first.description"
+    },
+    {
+      "id": "discovery_count",
+      "number": 2,
+      "category": "discovery",
+      "enabled": true,
+      "hidden": true,
+      "progress_scope": "playthrough",
+      "condition": {
+        "type": "discovery_count",
+        "events": [
+          "catalog_registered"
+        ],
+        "parameters": {
+          "collection_id": "all_discoveries",
+          "minimum": 100
+        }
+      },
+      "title_key": "achievement.discovery_count.title",
+      "description_key": "achievement.discovery_count.description"
+    },
+    {
+      "id": "encyclopedia_history",
+      "number": 3,
+      "category": "discovery",
+      "enabled": true,
+      "hidden": true,
+      "progress_scope": "playthrough",
+      "condition": {
+        "type": "discovery_collection_complete",
+        "events": [
+          "catalog_registered"
+        ],
+        "parameters": {
+          "collection_id": "history"
+        }
+      },
+      "title_key": "achievement.encyclopedia_history.title",
+      "description_key": "achievement.encyclopedia_history.description"
+    },
+    {
+      "id": "encyclopedia_biology",
+      "number": 4,
+      "category": "discovery",
+      "enabled": true,
+      "hidden": true,
+      "progress_scope": "playthrough",
+      "condition": {
+        "type": "discovery_collection_complete",
+        "events": [
+          "catalog_registered"
+        ],
+        "parameters": {
+          "collection_id": "biology"
+        }
+      },
+      "title_key": "achievement.encyclopedia_biology.title",
+      "description_key": "achievement.encyclopedia_biology.description"
+    },
+    {
+      "id": "encyclopedia_treasure",
+      "number": 5,
+      "category": "discovery",
+      "enabled": true,
+      "hidden": true,
+      "progress_scope": "playthrough",
+      "condition": {
+        "type": "discovery_collection_complete",
+        "events": [
+          "catalog_registered"
+        ],
+        "parameters": {
+          "collection_id": "treasure"
+        }
+      },
+      "title_key": "achievement.encyclopedia_treasure.title",
+      "description_key": "achievement.encyclopedia_treasure.description"
+    },
+    {
+      "id": "encyclopedia_geography",
+      "number": 6,
+      "category": "discovery",
+      "enabled": true,
+      "hidden": true,
+      "progress_scope": "playthrough",
+      "condition": {
+        "type": "discovery_collection_complete",
+        "events": [
+          "catalog_registered"
+        ],
+        "parameters": {
+          "collection_id": "geography"
+        }
+      },
+      "title_key": "achievement.encyclopedia_geography.title",
+      "description_key": "achievement.encyclopedia_geography.description"
+    },
+    {
+      "id": "encyclopedia_religion",
+      "number": 7,
+      "category": "discovery",
+      "enabled": true,
+      "hidden": true,
+      "progress_scope": "playthrough",
+      "condition": {
+        "type": "discovery_collection_complete",
+        "events": [
+          "catalog_registered"
+        ],
+        "parameters": {
+          "collection_id": "religion"
+        }
+      },
+      "title_key": "achievement.encyclopedia_religion.title",
+      "description_key": "achievement.encyclopedia_religion.description"
+    },
+    {
+      "id": "encyclopedia_trade_discoveries",
+      "number": 8,
+      "category": "discovery",
+      "enabled": true,
+      "hidden": true,
+      "progress_scope": "playthrough",
+      "condition": {
+        "type": "discovery_collection_complete",
+        "events": [
+          "catalog_registered"
+        ],
+        "parameters": {
+          "collection_id": "trade_discoveries"
+        }
+      },
+      "title_key": "achievement.encyclopedia_trade_discoveries.title",
+      "description_key": "achievement.encyclopedia_trade_discoveries.description"
+    },
+    {
+      "id": "encyclopedia_myth",
+      "number": 9,
+      "category": "discovery",
+      "enabled": true,
+      "hidden": true,
+      "progress_scope": "playthrough",
+      "condition": {
+        "type": "discovery_collection_complete",
+        "events": [
+          "catalog_registered"
+        ],
+        "parameters": {
+          "collection_id": "myth"
+        }
+      },
+      "title_key": "achievement.encyclopedia_myth.title",
+      "description_key": "achievement.encyclopedia_myth.description"
+    },
+    {
+      "id": "encyclopedia_ethnology",
+      "number": 10,
+      "category": "discovery",
+      "enabled": true,
+      "hidden": true,
+      "progress_scope": "playthrough",
+      "condition": {
+        "type": "discovery_collection_complete",
+        "events": [
+          "catalog_registered"
+        ],
+        "parameters": {
+          "collection_id": "ethnology"
+        }
+      },
+      "title_key": "achievement.encyclopedia_ethnology.title",
+      "description_key": "achievement.encyclopedia_ethnology.description"
+    },
+    {
+      "id": "discovery_report_first",
+      "number": 11,
+      "category": "discovery",
+      "enabled": true,
+      "hidden": true,
+      "progress_scope": "playthrough",
+      "condition": {
+        "type": "accepted_discovery_report",
+        "events": [
+          "discovery_report_accepted"
+        ],
+        "parameters": {
+          "minimum": 1,
+          "reporter": "player",
+          "recipient": "sponsor",
+          "require_record_commit": true
+        }
+      },
+      "title_key": "achievement.discovery_report_first.title",
+      "description_key": "achievement.discovery_report_first.description"
+    },
+    {
+      "id": "counterfeits_all",
+      "number": 12,
+      "category": "discovery",
+      "enabled": true,
+      "hidden": true,
+      "progress_scope": "playthrough",
+      "condition": {
+        "type": "counterfeit_collection_complete",
+        "events": [
+          "catalog_registered",
+          "verified_state"
+        ],
+        "parameters": {
+          "collection_id": "counterfeit_discoveries"
+        }
+      },
+      "title_key": "achievement.counterfeits_all.title",
+      "description_key": "achievement.counterfeits_all.description"
+    },
+    {
+      "id": "mixed_discovery_report",
+      "number": 13,
+      "category": "discovery",
+      "enabled": true,
+      "hidden": true,
+      "progress_scope": "playthrough",
+      "condition": {
+        "type": "mixed_discovery_report",
+        "events": [
+          "discovery_report_completed"
+        ],
+        "parameters": {
+          "counterfeit_collection_id": "counterfeit_discoveries",
+          "require_same_report": true,
+          "require_accepted_report": true
+        }
+      },
+      "title_key": "achievement.mixed_discovery_report.title",
+      "description_key": "achievement.mixed_discovery_report.description"
+    },
+    {
+      "id": "library_clue_discovery",
+      "number": 14,
+      "category": "exploration",
+      "enabled": true,
+      "hidden": true,
+      "progress_scope": "playthrough",
+      "condition": {
+        "type": "discovery_from_library_clue",
+        "events": [
+          "library_clue_acquired",
+          "catalog_registered"
+        ],
+        "parameters": {
+          "collection_id": "all_discoveries",
+          "clue_source": "library",
+          "require_new_clue_at_reading": true,
+          "require_read_before_discovery": true,
+          "require_linked_discovery": true
+        }
+      },
+      "title_key": "achievement.library_clue_discovery.title",
+      "description_key": "achievement.library_clue_discovery.description"
+    },
+    {
+      "id": "landing_three_discoveries",
+      "number": 15,
+      "category": "exploration",
+      "enabled": true,
+      "hidden": true,
+      "progress_scope": "playthrough",
+      "condition": {
+        "type": "landing_discovery_count",
+        "events": [
+          "landing_started",
+          "catalog_registered",
+          "fleet_return_completed"
+        ],
+        "parameters": {
+          "collection_id": "all_discoveries",
+          "minimum": 5,
+          "require_new_discoveries": true,
+          "deduplicate_by": "catalog_id",
+          "evaluate_on": "fleet_return_completed",
+          "require_same_landing": true
+        }
+      },
+      "title_key": "achievement.landing_three_discoveries.title",
+      "description_key": "achievement.landing_three_discoveries.description"
+    },
+    {
+      "id": "sea_encounters_all",
+      "number": 16,
+      "category": "exploration",
+      "enabled": true,
+      "hidden": true,
+      "progress_scope": "playthrough",
+      "condition": {
+        "type": "encounter_collection_complete",
+        "events": [
+          "special_encounter_occurred"
+        ],
+        "parameters": {
+          "collection_id": "sea_encounters",
+          "require_effect_enabled": false,
+          "require_cinematic_completed": false
+        }
+      },
+      "title_key": "achievement.sea_encounters_all.title",
+      "description_key": "achievement.sea_encounters_all.description"
+    },
+    {
+      "id": "minigame_manual_first",
+      "number": 17,
+      "category": "exploration",
+      "enabled": true,
+      "hidden": true,
+      "progress_scope": "playthrough",
+      "condition": {
+        "type": "manual_minigame_success",
+        "events": [
+          "minigame_finished"
+        ],
+        "parameters": {
+          "require_success": true,
+          "require_manual_play": true,
+          "main_menu_allowed": false
+        }
+      },
+      "title_key": "achievement.minigame_manual_first.title",
+      "description_key": "achievement.minigame_manual_first.description"
+    },
+    {
+      "id": "distance_land",
+      "number": 18,
+      "category": "exploration",
+      "enabled": true,
+      "hidden": true,
+      "progress_scope": "playthrough",
+      "condition": {
+        "type": "movement_distance",
+        "events": [
+          "world_movement_committed"
+        ],
+        "parameters": {
+          "travel_mode": "land",
+          "minimum": 40000,
+          "accumulate_across_landings": true
+        }
+      },
+      "title_key": "achievement.distance_land.title",
+      "description_key": "achievement.distance_land.description"
+    },
+    {
+      "id": "departure_first",
+      "number": 19,
+      "category": "navigation",
+      "enabled": true,
+      "hidden": true,
+      "progress_scope": "playthrough",
+      "condition": {
+        "type": "completed_departure",
+        "events": [
+          "port_departure_completed"
+        ],
+        "parameters": {
+          "minimum": 1,
+          "require_at_sea": true
+        }
+      },
+      "title_key": "achievement.departure_first.title",
+      "description_key": "achievement.departure_first.description"
+    },
+    {
+      "id": "ports_all",
+      "number": 20,
+      "category": "navigation",
+      "enabled": true,
+      "hidden": true,
+      "progress_scope": "playthrough",
+      "condition": {
+        "type": "visited_port_collection_complete",
+        "events": [
+          "playthrough_started",
+          "city_entry_completed"
+        ],
+        "parameters": {
+          "collection_id": "ports",
+          "deduplicate_by": "city_id"
+        }
+      },
+      "title_key": "achievement.ports_all.title",
+      "description_key": "achievement.ports_all.description"
+    },
+    {
+      "id": "auto_navigation_arrival",
+      "number": 21,
+      "category": "navigation",
+      "enabled": true,
+      "hidden": true,
+      "progress_scope": "playthrough",
+      "condition": {
+        "type": "automatic_port_entry",
+        "events": [
+          "automatic_navigation_started",
+          "automatic_navigation_arrived",
+          "city_entry_completed"
+        ],
+        "parameters": {
+          "required_role": "surveyor",
+          "minimum_surveying_skill": 1,
+          "require_entry_accepted": true,
+          "require_target_city_match": true
+        }
+      },
+      "title_key": "achievement.auto_navigation_arrival.title",
+      "description_key": "achievement.auto_navigation_arrival.description"
+    },
+    {
+      "id": "holy_oil_prevention",
+      "number": 22,
+      "category": "navigation",
+      "enabled": true,
+      "hidden": true,
+      "progress_scope": "playthrough",
+      "condition": {
+        "type": "advisor_item_prevention",
+        "events": [
+          "hazard_prevented"
+        ],
+        "parameters": {
+          "hazard": "storm",
+          "item_id": 286,
+          "required_role": "advisor",
+          "require_at_sea": true,
+          "inventory": "carried",
+          "require_item_consumed": true
+        }
+      },
+      "title_key": "achievement.holy_oil_prevention.title",
+      "description_key": "achievement.holy_oil_prevention.description"
+    },
+    {
+      "id": "lime_juice_prevention",
+      "number": 23,
+      "category": "navigation",
+      "enabled": true,
+      "hidden": true,
+      "progress_scope": "playthrough",
+      "condition": {
+        "type": "advisor_item_prevention",
+        "events": [
+          "hazard_prevented"
+        ],
+        "parameters": {
+          "hazard": "scurvy",
+          "item_id": 287,
+          "required_role": "advisor",
+          "require_at_sea": true,
+          "inventory": "carried",
+          "require_item_consumed": true
+        }
+      },
+      "title_key": "achievement.lime_juice_prevention.title",
+      "description_key": "achievement.lime_juice_prevention.description"
+    },
+    {
+      "id": "waterless_return",
+      "number": 24,
+      "category": "navigation",
+      "enabled": true,
+      "hidden": true,
+      "progress_scope": "playthrough",
+      "condition": {
+        "type": "water_depletion_port_supply",
+        "events": [
+          "water_depleted",
+          "water_replenished",
+          "port_departure_completed",
+          "ship_lost",
+          "crew_lost",
+          "city_entry_completed",
+          "port_water_supply_completed"
+        ],
+        "parameters": {
+          "require_zero_water_until_entry": true,
+          "require_positive_water_supplied_at_port": true,
+          "fail_on_water_replenishment_before_entry": true,
+          "failed_crew_loss_causes": [
+            "water_shortage"
+          ],
+          "other_crew_loss_causes_fail": false,
+          "use_loss_events_not_net_crew_count": true
+        }
+      },
+      "title_key": "achievement.waterless_return.title",
+      "description_key": "achievement.waterless_return.description"
+    },
+    {
+      "id": "port_cultures",
+      "number": 25,
+      "category": "navigation",
+      "enabled": true,
+      "hidden": true,
+      "progress_scope": "playthrough",
+      "condition": {
+        "type": "visited_port_culture_count",
+        "events": [
+          "playthrough_started",
+          "city_entry_completed"
+        ],
+        "parameters": {
+          "collection_id": "ports",
+          "minimum": 5,
+          "deduplicate_by": "culture_id",
+          "include_starting_port_culture": true
+        }
+      },
+      "title_key": "achievement.port_cultures.title",
+      "description_key": "achievement.port_cultures.description"
+    },
+    {
+      "id": "distance_sea",
+      "number": 26,
+      "category": "navigation",
+      "enabled": true,
+      "hidden": true,
+      "progress_scope": "playthrough",
+      "condition": {
+        "type": "movement_distance",
+        "events": [
+          "world_movement_committed"
+        ],
+        "parameters": {
+          "travel_mode": "sea",
+          "minimum_world_width_multiple": 12,
+          "require_actual_circumnavigation": false
+        }
+      },
+      "title_key": "achievement.distance_sea.title",
+      "description_key": "achievement.distance_sea.description"
+    },
+    {
+      "id": "flagship_refits",
+      "number": 27,
+      "category": "fleet",
+      "enabled": true,
+      "hidden": true,
+      "progress_scope": "playthrough",
+      "condition": {
+        "type": "flagship_component_changes",
+        "events": [
+          "ship_customization_committed"
+        ],
+        "parameters": {
+          "components": [
+            "mast_type",
+            "cannon_type",
+            "figurehead"
+          ],
+          "require_same_ship": true,
+          "initial_equipment_counts": false,
+          "reverting_preserves_change_history": true,
+          "require_all_current_components_different_from_initial": false
+        }
+      },
+      "title_key": "achievement.flagship_refits.title",
+      "description_key": "achievement.flagship_refits.description"
+    },
+    {
+      "id": "figurehead_curse_lifted",
+      "number": 28,
+      "category": "fleet",
+      "enabled": true,
+      "hidden": true,
+      "progress_scope": "playthrough",
+      "condition": {
+        "type": "figurehead_replacement",
+        "events": [
+          "figurehead_replacement_committed"
+        ],
+        "parameters": {
+          "before_figurehead_ids": [
+            34,
+            35
+          ],
+          "after_figurehead_ids": [
+            20,
+            26
+          ]
+        }
+      },
+      "title_key": "achievement.figurehead_curse_lifted.title",
+      "description_key": "achievement.figurehead_curse_lifted.description"
+    },
+    {
+      "id": "flagship_full_repair",
+      "number": 29,
+      "category": "fleet",
+      "enabled": true,
+      "hidden": true,
+      "progress_scope": "playthrough",
+      "condition": {
+        "type": "flagship_single_full_repair",
+        "events": [
+          "ship_repair_committed"
+        ],
+        "parameters": {
+          "before_durability_fraction_at_most": {
+            "numerator": 1,
+            "denominator": 4
+          },
+          "after_durability": "maximum",
+          "single_repair_transaction": true,
+          "require_payment_and_completion": true
+        }
+      },
+      "title_key": "achievement.flagship_full_repair.title",
+      "description_key": "achievement.flagship_full_repair.description"
+    },
+    {
+      "id": "full_fleet_departure",
+      "number": 30,
+      "category": "fleet",
+      "enabled": true,
+      "hidden": true,
+      "progress_scope": "playthrough",
+      "condition": {
+        "type": "full_fleet_departure",
+        "events": [
+          "port_departure_completed"
+        ],
+        "parameters": {
+          "required_valid_ship_count": 8,
+          "require_all_slots_filled": true
+        }
+      },
+      "title_key": "achievement.full_fleet_departure.title",
+      "description_key": "achievement.full_fleet_departure.description"
+    },
+    {
+      "id": "trade_profit_first",
+      "number": 31,
+      "category": "trade",
+      "enabled": true,
+      "hidden": true,
+      "progress_scope": "playthrough",
+      "condition": {
+        "type": "trade_visit_profit",
+        "events": [
+          "trading_post_visit_ended"
+        ],
+        "parameters": {
+          "minimum": 1
+        }
+      },
+      "title_key": "achievement.trade_profit_first.title",
+      "description_key": "achievement.trade_profit_first.description"
+    },
+    {
+      "id": "trade_visit_profit",
+      "number": 32,
+      "category": "trade",
+      "enabled": true,
+      "hidden": true,
+      "progress_scope": "playthrough",
+      "condition": {
+        "type": "trade_visit_profit",
+        "events": [
+          "trading_post_visit_ended"
+        ],
+        "parameters": {
+          "minimum": 30000
+        }
+      },
+      "title_key": "achievement.trade_visit_profit.title",
+      "description_key": "achievement.trade_visit_profit.description"
+    },
+    {
+      "id": "trade_cumulative_profit",
+      "number": 33,
+      "category": "trade",
+      "enabled": true,
+      "hidden": true,
+      "progress_scope": "playthrough",
+      "condition": {
+        "type": "trade_positive_visit_profit_total",
+        "events": [
+          "trading_post_visit_ended"
+        ],
+        "parameters": {
+          "minimum": 1000000,
+          "contribution": "max_visit_sales_profit_or_zero"
+        }
+      },
+      "title_key": "achievement.trade_cumulative_profit.title",
+      "description_key": "achievement.trade_cumulative_profit.description"
+    },
+    {
+      "id": "trade_single_commodity_profit",
+      "number": 34,
+      "category": "trade",
+      "enabled": true,
+      "hidden": true,
+      "progress_scope": "playthrough",
+      "condition": {
+        "type": "trade_visit_profit",
+        "events": [
+          "trading_post_visit_ended"
+        ],
+        "parameters": {
+          "minimum": 30000,
+          "required_distinct_sold_commodity_count": 1,
+          "deduplicate_sales_by": "commodity_id"
+        }
+      },
+      "title_key": "achievement.trade_single_commodity_profit.title",
+      "description_key": "achievement.trade_single_commodity_profit.description"
+    },
+    {
+      "id": "bargain_trade_first",
+      "number": 35,
+      "category": "trade",
+      "enabled": true,
+      "hidden": true,
+      "progress_scope": "playthrough",
+      "condition": {
+        "type": "bargained_trade_completed",
+        "events": [
+          "trade_transaction_committed"
+        ],
+        "parameters": {
+          "minimum": 1,
+          "require_bargain_success": true,
+          "require_discounted_transaction_committed": true
+        }
+      },
+      "title_key": "achievement.bargain_trade_first.title",
+      "description_key": "achievement.bargain_trade_first.description"
+    },
+    {
+      "id": "sea_victory_first",
+      "number": 36,
+      "category": "combat",
+      "enabled": true,
+      "hidden": true,
+      "progress_scope": "playthrough",
+      "condition": {
+        "type": "battle_victory_count",
+        "events": [
+          "sea_battle_finished"
+        ],
+        "parameters": {
+          "battle_kind": "sea",
+          "minimum": 1,
+          "require_actual_participation": true
+        }
+      },
+      "title_key": "achievement.sea_victory_first.title",
+      "description_key": "achievement.sea_victory_first.description"
+    },
+    {
+      "id": "land_victory_first",
+      "number": 37,
+      "category": "combat",
+      "enabled": true,
+      "hidden": true,
+      "progress_scope": "playthrough",
+      "condition": {
+        "type": "battle_victory_count",
+        "events": [
+          "land_battle_finished"
+        ],
+        "parameters": {
+          "battle_kind": "land",
+          "minimum": 1,
+          "require_final_victory_including_reinforcements": true
+        }
+      },
+      "title_key": "achievement.land_victory_first.title",
+      "description_key": "achievement.land_victory_first.description"
+    },
+    {
+      "id": "duel_victory_first",
+      "number": 38,
+      "category": "combat",
+      "enabled": true,
+      "hidden": true,
+      "progress_scope": "playthrough",
+      "condition": {
+        "type": "battle_victory_count",
+        "events": [
+          "duel_finished"
+        ],
+        "parameters": {
+          "battle_kind": "duel",
+          "minimum": 1,
+          "require_actual_participation": true
+        }
+      },
+      "title_key": "achievement.duel_victory_first.title",
+      "description_key": "achievement.duel_victory_first.description"
+    },
+    {
+      "id": "sea_victory_no_ship_loss",
+      "number": 39,
+      "category": "combat",
+      "enabled": true,
+      "hidden": true,
+      "progress_scope": "playthrough",
+      "condition": {
+        "type": "sea_victory_without_ship_loss",
+        "events": [
+          "sea_battle_started",
+          "sea_battle_finished"
+        ],
+        "parameters": {
+          "require_all_starting_ship_identities_survive": true,
+          "use_total_ship_count_only": false,
+          "captured_ships_offset_losses": false
+        }
+      },
+      "title_key": "achievement.sea_victory_no_ship_loss.title",
+      "description_key": "achievement.sea_victory_no_ship_loss.description"
+    },
+    {
+      "id": "sea_victory_outnumbered",
+      "number": 40,
+      "category": "combat",
+      "enabled": true,
+      "hidden": true,
+      "progress_scope": "playthrough",
+      "condition": {
+        "type": "outnumbered_sea_victory",
+        "events": [
+          "sea_battle_started",
+          "sea_battle_finished"
+        ],
+        "parameters": {
+          "ship_count_basis": "actual_participants_at_battle_start",
+          "required_relation": "player_less_than_enemy"
+        }
+      },
+      "title_key": "achievement.sea_victory_outnumbered.title",
+      "description_key": "achievement.sea_victory_outnumbered.description"
+    },
+    {
+      "id": "damaged_flagship_return",
+      "number": 41,
+      "category": "combat",
+      "enabled": true,
+      "hidden": true,
+      "progress_scope": "playthrough",
+      "condition": {
+        "type": "critical_flagship_victory_return",
+        "events": [
+          "sea_battle_started",
+          "ship_durability_changed",
+          "sea_battle_finished",
+          "city_entry_completed"
+        ],
+        "parameters": {
+          "maximum_durability_fraction": {
+            "numerator": 1,
+            "denominator": 10
+          },
+          "checkpoints": [
+            "during_won_battle",
+            "port_entry"
+          ],
+          "require_same_flagship": true,
+          "require_victory": true
+        }
+      },
+      "title_key": "achievement.damaged_flagship_return.title",
+      "description_key": "achievement.damaged_flagship_return.description"
+    },
+    {
+      "id": "duel_low_body_part_health",
+      "number": 42,
+      "category": "combat",
+      "enabled": true,
+      "hidden": true,
+      "progress_scope": "playthrough",
+      "condition": {
+        "type": "low_body_part_health_duel_victory",
+        "events": [
+          "duel_started",
+          "duel_finished"
+        ],
+        "parameters": {
+          "side": "player",
+          "health_source": "active_fighter_duel_body_parts",
+          "body_part_match": "any",
+          "maximum_remaining_fraction": {
+            "numerator": 1,
+            "denominator": 4
+          },
+          "baseline": "same_body_part_at_battle_start",
+          "evaluate_at": "victory_before_postbattle_health_adjustment",
+          "use_person_health_attribute": false
+        }
+      },
+      "title_key": "achievement.duel_low_body_part_health.title",
+      "description_key": "achievement.duel_low_body_part_health.description"
+    },
+    {
+      "id": "sea_monsters_all",
+      "number": 43,
+      "category": "combat",
+      "enabled": true,
+      "hidden": true,
+      "progress_scope": "playthrough",
+      "condition": {
+        "type": "sea_monster_victory_collection",
+        "events": [
+          "sea_battle_finished"
+        ],
+        "parameters": {
+          "collection_id": "sea_monsters",
+          "require_actual_victory": true,
+          "count_retreat_as_kill": false,
+          "count_reencounter_as_kill": false
+        }
+      },
+      "title_key": "achievement.sea_monsters_all.title",
+      "description_key": "achievement.sea_monsters_all.description"
+    },
+    {
+      "id": "crew_hire_first",
+      "number": 44,
+      "category": "people",
+      "enabled": true,
+      "hidden": true,
+      "progress_scope": "playthrough",
+      "condition": {
+        "type": "new_companion_hired",
+        "events": [
+          "companion_hire_completed"
+        ],
+        "parameters": {
+          "minimum": 1,
+          "assigned_role": "any",
+          "role_reassignment_counts": false,
+          "collection_id": "crew_roles",
+          "allowed_sources": [
+            "tavern",
+            "inn",
+            "event"
+          ]
+        }
+      },
+      "title_key": "achievement.crew_hire_first.title",
+      "description_key": "achievement.crew_hire_first.description"
+    },
+    {
+      "id": "crew_roles_all",
+      "number": 45,
+      "category": "people",
+      "enabled": true,
+      "hidden": true,
+      "progress_scope": "playthrough",
+      "condition": {
+        "type": "simultaneous_crew_role_collection",
+        "events": [
+          "crew_roles_changed",
+          "companion_employment_changed"
+        ],
+        "parameters": {
+          "collection_id": "crew_roles",
+          "require_valid_employed_occupants": true
+        }
+      },
+      "title_key": "achievement.crew_roles_all.title",
+      "description_key": "achievement.crew_roles_all.description"
+    },
+    {
+      "id": "sponsor_contract_first",
+      "number": 46,
+      "category": "people",
+      "enabled": true,
+      "hidden": true,
+      "progress_scope": "playthrough",
+      "condition": {
+        "type": "sponsor_contract_completed",
+        "events": [
+          "sponsor_contract_completed"
+        ],
+        "parameters": {
+          "minimum": 1,
+          "require_contract_state_committed": true
+        }
+      },
+      "title_key": "achievement.sponsor_contract_first.title",
+      "description_key": "achievement.sponsor_contract_first.description"
+    },
+    {
+      "id": "inspector_bribe_first",
+      "number": 47,
+      "category": "people",
+      "enabled": true,
+      "hidden": true,
+      "progress_scope": "playthrough",
+      "condition": {
+        "type": "inspector_bribe_completed",
+        "events": [
+          "inspector_bribe_completed"
+        ],
+        "parameters": {
+          "minimum": 1,
+          "require_payment_committed": true
+        }
+      },
+      "title_key": "achievement.inspector_bribe_first.title",
+      "description_key": "achievement.inspector_bribe_first.description"
+    },
+    {
+      "id": "crew_long_service",
+      "number": 48,
+      "category": "people",
+      "enabled": true,
+      "hidden": true,
+      "progress_scope": "playthrough",
+      "condition": {
+        "type": "continuous_companion_employment",
+        "events": [
+          "game_date_changed",
+          "companion_hire_completed",
+          "companion_employment_changed",
+          "generation_succession_completed"
+        ],
+        "parameters": {
+          "years": 5,
+          "calendar": "game_calendar",
+          "track_by": "person_id",
+          "continuity_breaks": [
+            "dismissed",
+            "left",
+            "died"
+          ],
+          "generation_succession_breaks_continuity": false
+        }
+      },
+      "title_key": "achievement.crew_long_service.title",
+      "description_key": "achievement.crew_long_service.description"
+    },
+    {
+      "id": "barmaid_affection_max",
+      "number": 49,
+      "category": "people",
+      "enabled": true,
+      "hidden": true,
+      "progress_scope": "playthrough",
+      "condition": {
+        "type": "single_barmaid_affection",
+        "events": [
+          "barmaid_affection_changed"
+        ],
+        "parameters": {
+          "minimum": 100,
+          "aggregate_across_barmaids": false
+        }
+      },
+      "title_key": "achievement.barmaid_affection_max.title",
+      "description_key": "achievement.barmaid_affection_max.description"
+    },
+    {
+      "id": "child_birth",
+      "number": 50,
+      "category": "people",
+      "enabled": true,
+      "hidden": true,
+      "progress_scope": "playthrough",
+      "condition": {
+        "type": "player_child_birth",
+        "events": [
+          "game_date_changed",
+          "player_child_born"
+        ],
+        "parameters": {
+          "minimum": 1,
+          "require_actual_birth_date_reached": true,
+          "conception_counts": false
+        }
+      },
+      "title_key": "achievement.child_birth.title",
+      "description_key": "achievement.child_birth.description"
+    },
+    {
+      "id": "item_clue_first",
+      "number": 51,
+      "category": "items",
+      "enabled": true,
+      "hidden": true,
+      "progress_scope": "playthrough",
+      "condition": {
+        "type": "new_clue_from_item_inspection",
+        "events": [
+          "item_inspection_clue_acquired"
+        ],
+        "parameters": {
+          "minimum": 1,
+          "require_new_clue": true,
+          "existing_clue_redisplay_counts": false
+        }
+      },
+      "title_key": "achievement.item_clue_first.title",
+      "description_key": "achievement.item_clue_first.description"
+    },
+    {
+      "id": "mediterranean_seduction_all",
+      "number": 52,
+      "category": "items",
+      "enabled": true,
+      "hidden": true,
+      "progress_scope": "playthrough",
+      "condition": {
+        "type": "acquired_item_collection",
+        "events": [
+          "carried_inventory_changed",
+          "verified_state"
+        ],
+        "parameters": {
+          "collection_id": "mediterranean_seduction_books",
+          "require_simultaneous_possession": false
+        }
+      },
+      "title_key": "achievement.mediterranean_seduction_all.title",
+      "description_key": "achievement.mediterranean_seduction_all.description"
+    },
+    {
+      "id": "navigation_equipment_all",
+      "number": 53,
+      "category": "items",
+      "enabled": true,
+      "hidden": true,
+      "progress_scope": "playthrough",
+      "condition": {
+        "type": "simultaneous_carried_item_collection",
+        "events": [
+          "carried_inventory_changed"
+        ],
+        "parameters": {
+          "collection_id": "navigation_equipment",
+          "include_home_storage": false
+        }
+      },
+      "title_key": "achievement.navigation_equipment_all.title",
+      "description_key": "achievement.navigation_equipment_all.description"
+    },
+    {
+      "id": "achievements_all",
+      "number": 54,
+      "category": "completion",
+      "enabled": true,
+      "hidden": true,
+      "progress_scope": "global",
+      "condition": {
+        "type": "all_achievements_unlocked",
+        "events": [
+          "global_achievement_unlocked",
+          "global_achievement_state_restored"
+        ],
+        "parameters": {
+          "achievement_ids": [
+            "discovery_first",
+            "discovery_count",
+            "encyclopedia_history",
+            "encyclopedia_biology",
+            "encyclopedia_treasure",
+            "encyclopedia_geography",
+            "encyclopedia_religion",
+            "encyclopedia_trade_discoveries",
+            "encyclopedia_myth",
+            "encyclopedia_ethnology",
+            "discovery_report_first",
+            "counterfeits_all",
+            "mixed_discovery_report",
+            "library_clue_discovery",
+            "landing_three_discoveries",
+            "sea_encounters_all",
+            "minigame_manual_first",
+            "distance_land",
+            "departure_first",
+            "ports_all",
+            "auto_navigation_arrival",
+            "holy_oil_prevention",
+            "lime_juice_prevention",
+            "waterless_return",
+            "port_cultures",
+            "distance_sea",
+            "flagship_refits",
+            "figurehead_curse_lifted",
+            "flagship_full_repair",
+            "full_fleet_departure",
+            "trade_profit_first",
+            "trade_visit_profit",
+            "trade_cumulative_profit",
+            "trade_single_commodity_profit",
+            "bargain_trade_first",
+            "sea_victory_first",
+            "land_victory_first",
+            "duel_victory_first",
+            "sea_victory_no_ship_loss",
+            "sea_victory_outnumbered",
+            "damaged_flagship_return",
+            "duel_low_body_part_health",
+            "sea_monsters_all",
+            "crew_hire_first",
+            "crew_roles_all",
+            "sponsor_contract_first",
+            "inspector_bribe_first",
+            "crew_long_service",
+            "barmaid_affection_max",
+            "child_birth",
+            "item_clue_first",
+            "mediterranean_seduction_all",
+            "navigation_equipment_all"
+          ],
+          "allow_unlocks_from_different_playthroughs": true
+        }
+      },
+      "title_key": "achievement.achievements_all.title",
+      "description_key": "achievement.achievements_all.description"
+    }
+  ]
+}

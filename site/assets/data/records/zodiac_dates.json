@@ -1,0 +1,65 @@
+{
+  "schema_version": 2,
+  "records": [
+    {
+      "id": 0,
+      "start_mmdd": 321,
+      "end_mmdd": 420
+    },
+    {
+      "id": 1,
+      "start_mmdd": 421,
+      "end_mmdd": 521
+    },
+    {
+      "id": 2,
+      "start_mmdd": 522,
+      "end_mmdd": 621
+    },
+    {
+      "id": 3,
+      "start_mmdd": 622,
+      "end_mmdd": 722
+    },
+    {
+      "id": 4,
+      "start_mmdd": 723,
+      "end_mmdd": 822
+    },
+    {
+      "id": 5,
+      "start_mmdd": 823,
+      "end_mmdd": 923
+    },
+    {
+      "id": 6,
+      "start_mmdd": 924,
+      "end_mmdd": 1023
+    },
+    {
+      "id": 7,
+      "start_mmdd": 1024,
+      "end_mmdd": 1122
+    },
+    {
+      "id": 8,
+      "start_mmdd": 1123,
+      "end_mmdd": 1221
+    },
+    {
+      "id": 9,
+      "start_mmdd": 1222,
+      "end_mmdd": 1320
+    },
+    {
+      "id": 10,
+      "start_mmdd": 1321,
+      "end_mmdd": 1418
+    },
+    {
+      "id": 11,
+      "start_mmdd": 1419,
+      "end_mmdd": 1520
+    }
+  ]
+}
