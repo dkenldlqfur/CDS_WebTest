@@ -1278,8 +1278,8 @@
     },
     {
       "path": "build-version.json",
-      "size": 515,
-      "sha256": "f553ccf9df4d6edfd7ea92c4f9f0f81bdfc72b5d799ba87dd2fb483b4d3d6604"
+      "size": 606,
+      "sha256": "fb972e8e4bcf30d4666d282fdb4758ff7c00d82327d3cedd23cdbe6d7863acba"
     },
     {
       "path": "cds_native.web.wasm",

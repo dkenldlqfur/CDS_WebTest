@@ -5,6 +5,7 @@
   "built_at": "2026-11-10T08:30:46.016793+00:00",
   "pck_sha256": "ba8b06daa457b8abc1812cd67b1556ffef6cb121d64a14dcfc7d8c12e4ba1508",
   "wasm_sha256": "b330c07e44e067d5c91a98283ed9a4a83e9eeb8468afa0adce727a3fcc70e7d0",
+  "web_shell_sha256": "afc8880806a510fa2f945c7c47dd3d16838c3bf75ac67e0575861e455403878e",
   "pack_delivery": "repository-parts",
   "pack_commit": "d311c4b48211706d2a4138c061e8c9e21e863da4",
   "video_delivery": "repository-deferred",
