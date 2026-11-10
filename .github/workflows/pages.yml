@@ -40,8 +40,8 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v6
-      - name: Reconstruct verified resource package
-        run: python3 tools/assemble_site.py
+      - name: Keep streamed packs outside the Pages artifact
+        run: python3 -c "import json,pathlib; assert all(not (pathlib.Path('site') / name).exists() for name in json.load(open('release-parts/manifest.json'))['packs'])"
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v4
         with:
