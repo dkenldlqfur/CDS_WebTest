@@ -1,4 +1,4 @@
-"""Store large PCK bytes in Git-sized parts; reconstruct them before Pages upload."""
+"""Store each large PCK in Git-sized parts and reconstruct it for Pages."""
 import argparse
 import hashlib
 import json
@@ -6,7 +6,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 PARTS = ROOT / 'release-parts'
-PACK = ROOT / 'site/index.pck'
+SITE = ROOT / 'site'
 CHUNK = 64 * 1024 * 1024
 
 
@@ -19,17 +19,28 @@ def sha(path):
 
 
 def split():
-    assert PACK.is_file()
     PARTS.mkdir(exist_ok=True)
-    records = []
-    with PACK.open('rb') as stream:
-        while data := stream.read(CHUNK):
-            name = 'index.pck.%03d' % len(records)
-            (PARTS / name).write_bytes(data)
-            records.append({'path': name, 'size': len(data), 'sha256': hashlib.sha256(data).hexdigest()})
-    manifest = {'size': PACK.stat().st_size, 'sha256': sha(PACK), 'parts': records}
+    assert (SITE / 'index.pck').is_file()
+    packs = {}
+    used = set()
+    for pack in sorted(SITE.glob('*.pck')):
+        size = pack.stat().st_size
+        if size <= CHUNK:
+            continue
+        records = []
+        with pack.open('rb') as stream:
+            while data := stream.read(CHUNK):
+                name = '%s.%03d' % (pack.name, len(records))
+                (PARTS / name).write_bytes(data)
+                used.add(name)
+                records.append({'path': name, 'size': len(data), 'sha256': hashlib.sha256(data).hexdigest()})
+        packs[pack.name] = {'size': size, 'sha256': sha(pack), 'parts': records}
+    for old in PARTS.glob('*.pck.[0-9][0-9][0-9]'):
+        if old.name not in used:
+            old.unlink()
+    manifest = {'packs': packs}
     (PARTS / 'manifest.json').write_text(json.dumps(manifest, indent=2) + '\n', encoding='utf-8')
-    print('Prepared %d pack parts; original package bytes preserved.' % len(records))
+    print('Prepared %d parts for %d packs.' % (len(used), len(packs)))
 
 
 def assemble():
@@ -37,18 +48,24 @@ def assemble():
     if not manifest_path.exists():
         return
     manifest = json.loads(manifest_path.read_text(encoding='utf-8'))
-    assert manifest['parts'] and 0 < manifest['size'] < 1024 ** 3
-    temporary = PACK.with_suffix('.pck.assembling')
-    with temporary.open('wb') as stream:
-        for index, record in enumerate(manifest['parts']):
-            assert record['path'] == 'index.pck.%03d' % index
-            part = PARTS / record['path']
-            assert 0 < record['size'] <= CHUNK
-            assert part.stat().st_size == record['size'] and sha(part) == record['sha256']
-            stream.write(part.read_bytes())
-    assert temporary.stat().st_size == manifest['size'] and sha(temporary) == manifest['sha256']
-    temporary.replace(PACK)
-    print('Reconstructed index.pck; SHA-256 matches the verified export.')
+    for name, record in manifest.get('packs', {'index.pck': manifest}).items():
+        assert Path(name).name == name and name.endswith('.pck') and '\\' not in name
+        assert record['parts'] and 0 < record['size'] < 1024 ** 3
+        pack = SITE / name
+        temporary = pack.with_suffix('.pck.assembling')
+        try:
+            with temporary.open('wb') as stream:
+                for index, part_record in enumerate(record['parts']):
+                    assert part_record['path'] == '%s.%03d' % (name, index)
+                    part = PARTS / part_record['path']
+                    assert 0 < part_record['size'] <= CHUNK
+                    assert part.stat().st_size == part_record['size'] and sha(part) == part_record['sha256']
+                    stream.write(part.read_bytes())
+            assert temporary.stat().st_size == record['size'] and sha(temporary) == record['sha256']
+            temporary.replace(pack)
+        finally:
+            temporary.unlink(missing_ok=True)
+        print(f'Reconstructed {name}; SHA-256 matches the verified export.')
 
 
 if __name__ == '__main__':

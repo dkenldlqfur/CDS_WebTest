@@ -40,8 +40,8 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v6
-      - name: Check that the game package is served from verified repository parts
-        run: test ! -e site/index.pck
+      - name: Reconstruct verified resource package
+        run: python3 tools/assemble_site.py
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v4
         with:

@@ -73,7 +73,7 @@ function ui(key,...args){
 }
 globalThis.CDS95WebText=ui;
 
-const config={"args":[],"canvasResizePolicy":1,"emscriptenPoolSize":8,"ensureCrossOriginIsolationHeaders":true,"executable":"index","experimentalVK":true,"fileSizes":{"index.pck":341795448,"index.wasm":1713410},"focusCanvas":true,"gdextensionLibs":["cds_native.web.wasm"],"godotPoolSize":4};
+const config={"args":[],"canvasResizePolicy":1,"emscriptenPoolSize":8,"ensureCrossOriginIsolationHeaders":true,"executable":"index","experimentalVK":true,"fileSizes":{"index.pck":11296920,"index.wasm":1713410},"focusCanvas":true,"gdextensionLibs":["cds_native.web.wasm"],"godotPoolSize":4};
 const canvas=document.getElementById('canvas'),screen=document.getElementById('screen'),start=document.getElementById('start'),status=document.getElementById('status'),progress=document.getElementById('progress');
 const startFullscreen=document.getElementById('start-fullscreen'),app=document.getElementById('app');
 const canFullscreen=Boolean(document.fullscreenEnabled&&typeof app.requestFullscreen==='function');
@@ -171,6 +171,24 @@ async function prepareBrowser(){
  });
  sessionStorage.setItem(key,'1');location.reload();return false;
 }
+async function preloadPack(pack, destination){
+ packFromCache=false;
+ const response=await fetch(pack.url);
+ if(!response.ok)throw new Error(ui("ui.130893e0e99c7aa1",pack.url));
+ const data=new Uint8Array(pack.size);
+ const reader=response.body.getReader();
+ let loaded=0;
+ for(;;){
+  const {done,value}=await reader.read();
+  if(done)break;
+  if(value.byteLength>data.byteLength-loaded){await reader.cancel();throw new Error(ui("ui.2135a945695a9060",pack.url));}
+  data.set(value,loaded);loaded+=value.byteLength;config.onProgress(loaded,pack.size);
+ }
+ if(loaded!==data.byteLength)throw new Error(ui("ui.2135a945695a9060",pack.url));
+ const hash=Array.from(new Uint8Array(await crypto.subtle.digest('SHA-256',data)),n=>n.toString(16).padStart(2,'0')).join('');
+ if(hash!==pack.sha256)throw new Error(ui("ui.24bfc3d1de66e644",pack.url));
+ await engine.preloadFile(data.buffer,destination);
+}
 async function assets(){
  const catalogResponse=await fetch('assets/data/strings.ko.json');
  if(!catalogResponse.ok)throw new Error('Unable to load the game text catalog.');
@@ -203,7 +221,12 @@ async function assets(){
  }}
  await Promise.all([worker(),worker(),worker()]);
  enginePreparing=true;progress.value=0;status.textContent=ui("ui.873d7c8578a8e195");
- try{await Promise.all([engine.init(config.executable),engine.preloadFile(mainPack,mainPack)]);}
+ try{
+  await engine.init(config.executable);
+  for(const pack of manifest.packs){
+   await preloadPack(pack,pack.url===mainPack?mainPack:`/cds95-packs/${pack.url}`);
+  }
+ }
  finally{enginePreparing=false;}
  enginePrepared=true;progress.value=1;status.textContent=ui("ui.2ef1be5b25f68b4d");start.disabled=false;startFullscreen.disabled=false;start.textContent=ui("ui.3c2298cb72591555");
 }

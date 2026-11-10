@@ -1,8 +1,8 @@
 {
   "version": "1.1.9",
   "channel": "web-test",
-  "feature": "navigator-information",
-  "pck_sha256": "93f8e5ee9e5b96966464da7d740b9f38e2fb8da1f60630a58434ad282dddacbb",
-  "wasm_sha256": "a1502954ff213a41c85ba13c4de09dec56814418d5eec1c1b8f1b0a61c41461b",
-  "pack_delivery": "repository-parts"
+  "feature": "custom-portraits",
+  "built_at": "2026-11-10T05:11:23.964765+00:00",
+  "pck_sha256": "da471c74dc3195a0dc39c85a4658ac071f1de4f390d38a0c091de81350eda7ad",
+  "wasm_sha256": "ffe29692a7a458edb71e84b7bbf550a5e4a61b1c031979bdeea01266a17f7185"
 }

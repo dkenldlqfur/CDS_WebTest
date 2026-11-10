@@ -1,2 +1,2 @@
 * -text
-/release-parts/index.pck.* binary
+/release-parts/*.pck.* binary

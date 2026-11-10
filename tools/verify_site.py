@@ -14,6 +14,8 @@ def verify_achievement_preload(files):
 
 def main():
     manifest = json.loads((ROOT / 'site-manifest.json').read_text(encoding='utf-8'))
+    chunks = json.loads((ROOT / 'release-parts/manifest.json').read_text(encoding='utf-8'))
+    reassembled = chunks.get('packs', {'index.pck': chunks})
     expected = set()
     total = 0
     for item in manifest['files']:
@@ -23,8 +25,7 @@ def main():
         data = (SITE / item['path']).read_bytes()
         assert len(data) == item['size'], item['path']
         assert hashlib.sha256(data).hexdigest() == item['sha256'], item['path']
-        # index.pck is reconstructed from verified parts after checkout.
-        assert len(data) < 100 * 1024 * 1024 or item['path'] == 'index.pck', 'File exceeds GitHub repository limit'
+        assert len(data) < 100 * 1024 * 1024 or item['path'] in reassembled, 'File exceeds GitHub repository limit'
         assert not path.name.upper().startswith(('SAVEDATA', 'ACCDATA', 'UTF8-NAMES')), 'Personal save, name registry or backup file'
         total += len(data)
     actual = {path.relative_to(SITE).as_posix() for path in SITE.rglob('*') if path.is_file()}
@@ -36,7 +37,11 @@ def main():
     assert (SITE / 'index.wasm').read_bytes()[:4] == b'\0asm'
     assets = json.loads((SITE / 'assets-manifest.json').read_text(encoding='utf-8'))
     verify_achievement_preload(assets['files'])
-    for item in assets['files']:
+    packs = assets.get('packs', [])
+    if packs:
+        assert [item['url'] for item in packs] == [
+            'index.pck', 'gameplay.pck', 'interface.pck', 'game-data.pck', 'graphics.pck']
+    for item in assets['files'] + packs:
         data = (SITE / item['url']).read_bytes()
         assert len(data) == item['size'] and hashlib.sha256(data).hexdigest() == item['sha256']
     print(json.dumps({'verified_files': len(actual), 'site_bytes': total, 'gameplay_executed': False}, indent=2))
