@@ -59,5 +59,6 @@ self.addEventListener('fetch', event => {
     event.respondWith(pack.then(({response, cacheHit}) => isolated(response, cacheHit)));
     return;
   }
-  event.respondWith(fetch(request, {cache: 'no-cache'}).then(isolated));
+  const cache = request.cache === 'reload' ? 'reload' : 'no-cache';
+  event.respondWith(fetch(request, {cache}).then(isolated));
 });

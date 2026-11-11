@@ -248,13 +248,22 @@ async function installPack(pack,destination,onProgress){
  // preload queue does not retain every download buffer until start().
  engine.copyToFS(destination,buffer);
 }
-async function fetchStartupFile(url){
- try{return await fetch(url);}
- catch(error){throw new Error(`${url}: ${error.message||error}`);}
+async function fetchStartupFile(url,message=url){
+ const retryDelays=[0,350,900];
+ let failure;
+ for(const delay of retryDelays){
+  if(delay)await new Promise(resolve=>setTimeout(resolve,delay));
+  try{
+   const response=await fetch(url,{cache:delay?'reload':'default'});
+   if(response.ok)return response;
+   failure=`HTTP ${response.status}`;
+   await response.body?.cancel();
+  }catch(error){failure=error.message||error;}
+ }
+ throw new Error(`${message} (${failure})`);
 }
 async function assets(){
  const catalogResponse=await fetchStartupFile('assets/data/strings.ko.json');
- if(!catalogResponse.ok)throw new Error('Unable to load the game text catalog.');
  const catalog=await catalogResponse.arrayBuffer();
  const labels=JSON.parse(new TextDecoder().decode(catalog));
  for(const key in labels)if(key.startsWith('ui.'))webStrings[key]=labels[key];
@@ -274,11 +283,11 @@ async function assets(){
  }
 
  if(!await prepareBrowser())return;
- const response=await fetchStartupFile('assets-manifest.json');if(!response.ok)throw new Error(ui("ui.6062a2f7365d2a6b"));
+ const response=await fetchStartupFile('assets-manifest.json',ui("ui.6062a2f7365d2a6b"));
  const manifest=await response.json();globalThis.CDS95Assets={};for(const file of manifest.files){for(const path of [file.path,...(file.aliases||[])])globalThis.CDS95Assets[path]=file;}
  globalThis.CDS95DownloadStatus=text=>{const banner=document.getElementById('download');banner.textContent=text;banner.hidden=!text;};
  const initial=manifest.files.filter(file=>!file.deferred);let index=0,loaded=0;const total=initial.reduce((n,file)=>n+file.size,0);
- async function worker(){while(index<initial.length){const file=initial[index++];const response=file.path==='/cds95/data/strings.ko.json'?null:await fetchStartupFile(file.url);if(response&&!response.ok)throw new Error(ui("ui.130893e0e99c7aa1",file.url));const data=response?await response.arrayBuffer():catalog;if(data.byteLength!==file.size)throw new Error(ui("ui.2135a945695a9060",file.url));
+ async function worker(){while(index<initial.length){const file=initial[index++];const response=file.path==='/cds95/data/strings.ko.json'?null:await fetchStartupFile(file.url,ui("ui.130893e0e99c7aa1",file.url));const data=response?await response.arrayBuffer():catalog;if(data.byteLength!==file.size)throw new Error(ui("ui.2135a945695a9060",file.url));
   const hash=Array.from(new Uint8Array(await crypto.subtle.digest('SHA-256',data)),n=>n.toString(16).padStart(2,'0')).join('');if(hash!==file.sha256)throw new Error(ui("ui.24bfc3d1de66e644",file.url));
   await engine.preloadFile(data,file.path);for(const alias of file.aliases||[])await engine.preloadFile(data,alias);loaded+=file.size;progress.value=loaded/total;status.textContent=ui("ui.7e8418b0e34e6d82",Math.round(loaded/total*100));
  }}

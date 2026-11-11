@@ -1268,8 +1268,8 @@
     },
     {
       "path": "build-version.json",
-      "size": 2645,
-      "sha256": "24ae6517a801131a23c88510cb5bb8978d5d5ea0b5787b895d851068c547cb7d"
+      "size": 2799,
+      "sha256": "26456ef8accb06e51b8cca411ce47cdc4feb25c184992d33faea822bb8e37d6c"
     },
     {
       "path": "cds_native.web.wasm",
@@ -1358,8 +1358,8 @@
     },
     {
       "path": "index.html",
-      "size": 27222,
-      "sha256": "690850175774d8e043781bb6853c97fd1eb972bf3087436a4dfd126af44a7b8b"
+      "size": 27411,
+      "sha256": "9b4133d2184d85f6fdcfbc24bca312a94445b2f71e3d90f57dcd5d9e913734e8"
     },
     {
       "path": "index.icon.png",
@@ -1398,8 +1398,8 @@
     },
     {
       "path": "isolation-sw.js",
-      "size": 2821,
-      "sha256": "6c9e322b5a976d4134c6d88c7ea5a8ce89ba3a24421413844c76cddc4a177463"
+      "size": 2877,
+      "sha256": "685e154936f69d6cb13311bbb7b049a1875630ed93ad58779ef562c10cf7b58e"
     },
     {
       "path": "LICENSE.DroidSans.txt",
