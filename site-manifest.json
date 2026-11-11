@@ -1263,13 +1263,13 @@
     },
     {
       "path": "assets-manifest.json",
-      "size": 65127,
-      "sha256": "9bf555534da6469eac99baf5813bc4777914a991ae40a2b29eecc4865bcacb36"
+      "size": 66709,
+      "sha256": "824ef0051da796ce075113be63cf835fd40a8e324d378d8ea523daf4f72581f2"
     },
     {
       "path": "build-version.json",
-      "size": 1219,
-      "sha256": "64358f2e718b65d375a7653669cf9b40e4863cc9583f67c280302825737f1ea2"
+      "size": 2685,
+      "sha256": "108fb0cdc1641c5c9ee83c872988922441c1311a8a1d56c7ce524f0b80badcd0"
     },
     {
       "path": "cds_native.web.wasm",
@@ -1284,12 +1284,62 @@
     {
       "path": "gameplay.pck",
       "size": 1527028,
-      "sha256": "14fb383d5f05ea413fcb5dda55eecf752ace9abd3de6866416babd887b911d3d"
+      "sha256": "bcd18c454a44ddb8bf64695e6bfb1b55ed99d0e0cbb90bca91385f372d8424a9"
     },
     {
-      "path": "graphics.pck",
-      "size": 338185908,
-      "sha256": "06c5f13cd27783a0a4e52cc13ed9be7570bddefcdab80b290da91a8b6b93c7b4"
+      "path": "graphics-001.pck",
+      "size": 31775588,
+      "sha256": "bb9433cd8ba53cc7867ca59d90158c82dcaa6e0f277c918815b4a6526da87b67"
+    },
+    {
+      "path": "graphics-002.pck",
+      "size": 32820128,
+      "sha256": "8c51754a999fabe978cce978ece40d1e113958c7032ba771790546446adeab77"
+    },
+    {
+      "path": "graphics-003.pck",
+      "size": 33551376,
+      "sha256": "aabc8ad6753934d17bb05168b626e72a1876c8c572a008cff8999bb2158ece02"
+    },
+    {
+      "path": "graphics-004.pck",
+      "size": 33113428,
+      "sha256": "cbb016daee4200364b2ef64d788d4665e243d54c9bbe1cb6dcfe531d56acb948"
+    },
+    {
+      "path": "graphics-005.pck",
+      "size": 33499360,
+      "sha256": "1a6119a08f3d7c4913bb17a5ba978f471af5904de7bd8180a34103a5306d464b"
+    },
+    {
+      "path": "graphics-006.pck",
+      "size": 33535544,
+      "sha256": "2ec0fbaae0d854e891e5398acc8e730fde2902667ca7b5827bc9b05d00aaa942"
+    },
+    {
+      "path": "graphics-007.pck",
+      "size": 32624604,
+      "sha256": "c8c72cd94011c483eb6c320fdad9609975f9ff837aed4fd5248959b87584aced"
+    },
+    {
+      "path": "graphics-008.pck",
+      "size": 33539424,
+      "sha256": "58967c70c2bf253fce1c5f2ac6e113051bee43c6268012d8787f012d17c462fc"
+    },
+    {
+      "path": "graphics-009.pck",
+      "size": 33356948,
+      "sha256": "0747efe404fc3ed3139d75c9a4b2bdf9575e8af12c55019fb68daefd5a14f1f9"
+    },
+    {
+      "path": "graphics-010.pck",
+      "size": 32126368,
+      "sha256": "6e3301913dc216153f1fc2ae313200ea339e174c48111a2ba71eda6371ed5df9"
+    },
+    {
+      "path": "graphics-011.pck",
+      "size": 8244300,
+      "sha256": "3cdfb687b09fd6720dac1be18cc47cc444719b48717014d54c4df0fd94ffbb37"
     },
     {
       "path": "index.apple-touch-icon.png",
@@ -1308,8 +1358,8 @@
     },
     {
       "path": "index.html",
-      "size": 26559,
-      "sha256": "d0598b9cb41780fa5fbcf1e302875083582d8edc661963dee3aa0e3e482d1db3"
+      "size": 27222,
+      "sha256": "e4fe85ca89dc538f84f64de43605c948a6fcca44809a28b78ccbac02e60de2ce"
     },
     {
       "path": "index.icon.png",
@@ -1323,8 +1373,8 @@
     },
     {
       "path": "index.pck",
-      "size": 11301128,
-      "sha256": "7998b37652201104997dcd84ed891b9dee3c40673bc9a2b9bb88d5399133723b"
+      "size": 11301304,
+      "sha256": "0905425382161a5c0bc48619086832cad08d988e49fe012a1db4cda090e05f75"
     },
     {
       "path": "index.png",
@@ -1348,8 +1398,8 @@
     },
     {
       "path": "isolation-sw.js",
-      "size": 5566,
-      "sha256": "9b3348d8c7b5c5cd0d43794758d9373aa10b526c6fc4112c9a82f6d8e6b59e79"
+      "size": 3362,
+      "sha256": "47f6adf8b870546d587b655258e1299a515b2fca10c55aefab523291fe9c60da"
     },
     {
       "path": "LICENSE.DroidSans.txt",

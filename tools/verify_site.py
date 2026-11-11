@@ -37,10 +37,13 @@ def main():
     assert (SITE / 'index.wasm').read_bytes()[:4] == b'\0asm'
     assets = json.loads((SITE / 'assets-manifest.json').read_text(encoding='utf-8'))
     verify_achievement_preload(assets['files'])
-    packs = assets.get('packs', [])
-    if packs:
-        assert [item['url'] for item in packs] == [
-            'index.pck', 'gameplay.pck', 'interface.pck', 'game-data.pck', 'graphics.pck']
+    packs = assets['packs']
+    shared = ['index.pck', 'gameplay.pck', 'interface.pck', 'game-data.pck']
+    graphics = packs[len(shared):]
+    assert graphics and [item['url'] for item in packs] == [
+        *shared, *(f'graphics-{index:03d}.pck' for index in range(1, len(graphics) + 1))]
+    assert all(0 < item['size'] <= 32 * 1024 * 1024 for item in graphics)
+    assert set(path for path in actual if path.endswith('.pck')) == {item['url'] for item in packs}
     for item in assets['files'] + packs:
         data = (SITE / item['url']).read_bytes()
         assert len(data) == item['size'] and hashlib.sha256(data).hexdigest() == item['sha256']

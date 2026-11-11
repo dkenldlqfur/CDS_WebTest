@@ -76,7 +76,7 @@ function ui(key,...args){
 }
 globalThis.CDS95WebText=ui;
 
-const config={"args":[],"canvasResizePolicy":1,"emscriptenPoolSize":8,"ensureCrossOriginIsolationHeaders":true,"executable":"index","experimentalVK":true,"fileSizes":{"index.pck":11301128,"index.wasm":1713410},"focusCanvas":true,"gdextensionLibs":["cds_native.web.wasm"],"godotPoolSize":4};
+const config={"args":[],"canvasResizePolicy":1,"emscriptenPoolSize":8,"ensureCrossOriginIsolationHeaders":true,"executable":"index","experimentalVK":true,"fileSizes":{"index.pck":11301304,"index.wasm":1713410},"focusCanvas":true,"gdextensionLibs":["cds_native.web.wasm"],"godotPoolSize":4};
 const canvas=document.getElementById('canvas'),screen=document.getElementById('screen'),start=document.getElementById('start'),status=document.getElementById('status'),progress=document.getElementById('progress');
 const startFullscreen=document.getElementById('start-fullscreen'),app=document.getElementById('app');
 const canFullscreen=Boolean(document.fullscreenEnabled&&typeof app.requestFullscreen==='function');
@@ -216,24 +216,37 @@ async function prepareBrowser(){
  });
  sessionStorage.setItem(key,'1');location.reload();return false;
 }
-async function preloadPack(pack, destination){
- const response=await fetch(pack.url);
+async function downloadPack(pack, cache, onProgress){
+ const response=await fetch(pack.url,{cache});
  if(!response.ok)throw new Error(ui("ui.130893e0e99c7aa1",pack.url));
  const packFromCache=response.headers.get('X-CDS95-Pack-Cache')==='hit';
- config.onProgress(0,pack.size,packFromCache);
+ onProgress(0,packFromCache);
  const data=new Uint8Array(pack.size);
  const reader=response.body.getReader();
  let loaded=0;
- for(;;){
-  const {done,value}=await reader.read();
-  if(done)break;
-  if(value.byteLength>data.byteLength-loaded){await reader.cancel();throw new Error(ui("ui.2135a945695a9060",pack.url));}
-  data.set(value,loaded);loaded+=value.byteLength;config.onProgress(loaded,pack.size,packFromCache);
- }
+ try{
+  for(;;){
+   const {done,value}=await reader.read();
+   if(done)break;
+   if(value.byteLength>data.byteLength-loaded){await reader.cancel();throw new Error(ui("ui.2135a945695a9060",pack.url));}
+   data.set(value,loaded);loaded+=value.byteLength;onProgress(loaded,packFromCache);
+  }
+ }finally{reader.releaseLock();}
  if(loaded!==data.byteLength)throw new Error(ui("ui.2135a945695a9060",pack.url));
  const hash=Array.from(new Uint8Array(await crypto.subtle.digest('SHA-256',data)),n=>n.toString(16).padStart(2,'0')).join('');
  if(hash!==pack.sha256)throw new Error(ui("ui.24bfc3d1de66e644",pack.url));
- await engine.preloadFile(data.buffer,destination);
+ return data.buffer;
+}
+async function installPack(pack,destination,onProgress){
+ let buffer;
+ try{buffer=await downloadPack(pack,'default',onProgress);}
+ catch(error){
+  console.warn(pack.url,'Retrying pack download',error);
+  buffer=await downloadPack(pack,'reload',onProgress);
+ }
+ // init() has opened the filesystem. Write each pack now so the engine's
+ // preload queue does not retain every download buffer until start().
+ engine.copyToFS(destination,buffer);
 }
 async function fetchStartupFile(url){
  try{return await fetch(url);}
@@ -274,9 +287,13 @@ async function assets(){
  try{
   try{await engine.init(config.executable);}
   catch(error){throw new Error(`${config.executable}.wasm: ${error.message||error}`);}
+  const packBytes=manifest.packs.reduce((sum,pack)=>sum+pack.size,0);
+  let completedBytes=0;
   for(const pack of manifest.packs){
-   try{await preloadPack(pack,pack.url===mainPack?mainPack:`/cds95-packs/${pack.url}`);}
+   try{await installPack(pack,pack.url===mainPack?mainPack:`/cds95-packs/${pack.url}`,
+    (current,cached)=>config.onProgress(completedBytes+current,packBytes,cached));}
    catch(error){throw new Error(`${pack.url}: ${error.message||error}`);}
+   completedBytes+=pack.size;
   }
  }
  finally{enginePreparing=false;}
