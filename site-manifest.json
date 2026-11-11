@@ -1278,8 +1278,8 @@
     },
     {
       "path": "build-version.json",
-      "size": 431,
-      "sha256": "2297528ad14b87a636d1192303d6168605648b71eab0900e9e00556bfa5c3698"
+      "size": 493,
+      "sha256": "79e4fa2520c357d6c325754325ae00461e6f8b485beafaf9e6a43cd3c96714fe"
     },
     {
       "path": "cds_native.web.wasm",
@@ -1318,8 +1318,8 @@
     },
     {
       "path": "index.html",
-      "size": 26211,
-      "sha256": "89e224282018a674fef5c1b840fa75e7e44f64e06732affafa6b920c34fc48c1"
+      "size": 26204,
+      "sha256": "a3989f0a14fd075f76822b879396c19aaddf99e39c28fa93ab02e8b76fd7ac41"
     },
     {
       "path": "index.icon.png",
@@ -1358,8 +1358,8 @@
     },
     {
       "path": "isolation-sw.js",
-      "size": 2460,
-      "sha256": "65437f9e523b23fe46ff1fd8658791c4811eda1cc132edad078800291fc201e5"
+      "size": 5566,
+      "sha256": "9b3348d8c7b5c5cd0d43794758d9373aa10b526c6fc4112c9a82f6d8e6b59e79"
     }
   ]
 }

@@ -235,8 +235,12 @@ async function preloadPack(pack, destination){
  if(hash!==pack.sha256)throw new Error(ui("ui.24bfc3d1de66e644",pack.url));
  await engine.preloadFile(data.buffer,destination);
 }
+async function fetchStartupFile(url){
+ try{return await fetch(url);}
+ catch(error){throw new Error(`${url}: ${error.message||error}`);}
+}
 async function assets(){
- const catalogResponse=await fetch('assets/data/strings.ko.json');
+ const catalogResponse=await fetchStartupFile('assets/data/strings.ko.json');
  if(!catalogResponse.ok)throw new Error('Unable to load the game text catalog.');
  const catalog=await catalogResponse.arrayBuffer();
  const labels=JSON.parse(new TextDecoder().decode(catalog));
@@ -257,20 +261,22 @@ async function assets(){
  }
 
  if(!await prepareBrowser())return;
- const response=await fetch('assets-manifest.json');if(!response.ok)throw new Error(ui("ui.6062a2f7365d2a6b"));
+ const response=await fetchStartupFile('assets-manifest.json');if(!response.ok)throw new Error(ui("ui.6062a2f7365d2a6b"));
  const manifest=await response.json();globalThis.CDS95Assets={};for(const file of manifest.files){for(const path of [file.path,...(file.aliases||[])])globalThis.CDS95Assets[path]=file;}
  globalThis.CDS95DownloadStatus=text=>{const banner=document.getElementById('download');banner.textContent=text;banner.hidden=!text;};
  const initial=manifest.files.filter(file=>!file.deferred);let index=0,loaded=0;const total=initial.reduce((n,file)=>n+file.size,0);
- async function worker(){while(index<initial.length){const file=initial[index++];const response=file.path==='/cds95/data/strings.ko.json'?null:await fetch(file.url);if(response&&!response.ok)throw new Error(ui("ui.130893e0e99c7aa1",file.url));const data=response?await response.arrayBuffer():catalog;if(data.byteLength!==file.size)throw new Error(ui("ui.2135a945695a9060",file.url));
+ async function worker(){while(index<initial.length){const file=initial[index++];const response=file.path==='/cds95/data/strings.ko.json'?null:await fetchStartupFile(file.url);if(response&&!response.ok)throw new Error(ui("ui.130893e0e99c7aa1",file.url));const data=response?await response.arrayBuffer():catalog;if(data.byteLength!==file.size)throw new Error(ui("ui.2135a945695a9060",file.url));
   const hash=Array.from(new Uint8Array(await crypto.subtle.digest('SHA-256',data)),n=>n.toString(16).padStart(2,'0')).join('');if(hash!==file.sha256)throw new Error(ui("ui.24bfc3d1de66e644",file.url));
   await engine.preloadFile(data,file.path);for(const alias of file.aliases||[])await engine.preloadFile(data,alias);loaded+=file.size;progress.value=loaded/total;status.textContent=ui("ui.7e8418b0e34e6d82",Math.round(loaded/total*100));
  }}
  await Promise.all([worker(),worker(),worker()]);
  enginePreparing=true;progress.value=0;status.textContent=ui("ui.873d7c8578a8e195");
  try{
-  await engine.init(config.executable);
+  try{await engine.init(config.executable);}
+  catch(error){throw new Error(`${config.executable}.wasm: ${error.message||error}`);}
   for(const pack of manifest.packs){
-   await preloadPack(pack,pack.url===mainPack?mainPack:`/cds95-packs/${pack.url}`);
+   try{await preloadPack(pack,pack.url===mainPack?mainPack:`/cds95-packs/${pack.url}`);}
+   catch(error){throw new Error(`${pack.url}: ${error.message||error}`);}
   }
  }
  finally{enginePreparing=false;}
