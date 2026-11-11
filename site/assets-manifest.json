@@ -2019,12 +2019,12 @@
     {
       "url": "index.pck",
       "size": 11875688,
-      "sha256": "0e7e85b08cac1d36ad5160f4be1164af383142c71f77ca28090fec65a25a7708"
+      "sha256": "f6db4c28bf63054d97813c71772b4fd51df42a8a8e0ab870ad84477b1a052c94"
     },
     {
       "url": "gameplay.pck",
       "size": 1550912,
-      "sha256": "ad081afc36f162a9cbc22873d1746c49a4c607fd9693167afb416db5b0f91d71"
+      "sha256": "3f41ee2537129fa4d2b99b311073f1ff5cbc3a0c50d1ea5bddd3798a1a47bc9f"
     },
     {
       "url": "interface.pck",
