@@ -1278,11 +1278,6 @@
     },
     {
       "path": "build-version.json",
-      "size": 1063,
-      "sha256": "15bbcb10906e742a3e8d7ecbc6702c840c80d2b961a37af36c14c7dec6ed523a"
-    },
-    {
-      "path": "build-version.json",
       "size": 431,
       "sha256": "2297528ad14b87a636d1192303d6168605648b71eab0900e9e00556bfa5c3698"
     },
