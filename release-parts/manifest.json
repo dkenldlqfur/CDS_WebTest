@@ -1,13 +1,13 @@
 {
   "packs": {
     "graphics.pck": {
-      "size": 295866532,
-      "sha256": "637f8a40e6efcfa1308aeaadd87c50a208c3937ca105363adf3a6bd7bf27d30c",
+      "size": 338185908,
+      "sha256": "06c5f13cd27783a0a4e52cc13ed9be7570bddefcdab80b290da91a8b6b93c7b4",
       "parts": [
         {
           "path": "graphics.pck.000",
           "size": 67108864,
-          "sha256": "2c256b8947e2127cd48b0bb9a02d93606c2e298c1d251a8b36f9669fc8ad1a86"
+          "sha256": "864d2f787ad838ecf683c73c518ca2d5b29cfdc578c79dcc2eb6896067bfe765"
         },
         {
           "path": "graphics.pck.001",
@@ -17,17 +17,22 @@
         {
           "path": "graphics.pck.002",
           "size": 67108864,
-          "sha256": "8a34f1448b7c6afacf227ced6db2f1e856e0f334643e3ef62fe871b746bc66da"
+          "sha256": "f1fafa24c94162e950a968ca07d1f77522e2d1ba6046499657c097f91427d637"
         },
         {
           "path": "graphics.pck.003",
           "size": 67108864,
-          "sha256": "654709930bd9b6c16b8f613097b2ef7336b1812e8b60c06ba322d05f04c1e6a8"
+          "sha256": "a9ead69bd05ec99841eb45631179513c757020a87a325037e98c569252d718da"
         },
         {
           "path": "graphics.pck.004",
-          "size": 27431076,
-          "sha256": "c7ab9dfa10ecfe59a8d7c1ebe74418c448725c2402944bef39bd5ba8159888f5"
+          "size": 67108864,
+          "sha256": "e651cee0240c0dee7d486e456dc920818274432d23ca268b5fca6d79e1180064"
+        },
+        {
+          "path": "graphics.pck.005",
+          "size": 2641588,
+          "sha256": "6f8e8b3694783f597dc227f74b1d8140ca6f92a49c2c13e2115ea3340073cf69"
         }
       ]
     }

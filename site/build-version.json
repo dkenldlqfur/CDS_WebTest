@@ -1,13 +1,10 @@
 {
-  "version": "1.1.9",
+  "version": "1.2.1",
   "channel": "web-test",
-  "feature": "utf8-runtime",
-  "built_at": "2026-11-10T09:36:43.951073+00:00",
-  "pck_sha256": "59102f2a6af79d5f163a111d0fa38143c625f739d1dff9df925edcf2b6f877f8",
-  "wasm_sha256": "89489795e651b0c9be379ed9897113592965dfdc949f9cb06028594b66ad5c3e",
-  "web_shell_sha256": "bea5edfdbd0c8d9dbd9994f178bd1078c6a5c60378435750f8c63bcdf7d6e172",
-  "pack_delivery": "repository-parts",
-  "pack_commit": "d311c4b48211706d2a4138c061e8c9e21e863da4",
-  "video_delivery": "repository-deferred",
-  "video_commit": "0b913974528dc8b4f8c789c0f13b149073a54e89"
+  "feature": "pack-cache-status",
+  "built_at": "2026-11-11T02:49:28.726057+00:00",
+  "pck_sha256": "d9c1f47b3c6ce8ddb8bb2951a18aae68953cce163523399828133b60463ca6f8",
+  "wasm_sha256": "37bfce8abfa24fd99dc64e6f26d7a1b894dd2c6d8392e49ffbabc646b5b912d2",
+  "web_shell_sha256": "89e224282018a674fef5c1b840fa75e7e44f64e06732affafa6b920c34fc48c1",
+  "pack_delivery": "pages"
 }

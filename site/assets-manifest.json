@@ -18,14 +18,6 @@
       "deferred": false
     },
     {
-      "url": "assets/core/DSTILL.CDS",
-      "path": "/cds95/DSTILL.CDS",
-      "size": 5592628,
-      "sha256": "d7c901a5d3b1dafe49125264b5c657145ad442c29147c1ea313d8a271375ca3f",
-      "aliases": [],
-      "deferred": false
-    },
-    {
       "url": "assets/core/ECQ.CDS",
       "path": "/cds95/ECQ.CDS",
       "size": 9360,
@@ -289,8 +281,8 @@
     {
       "url": "assets/data/strings.ko.json",
       "path": "/cds95/data/strings.ko.json",
-      "size": 1215414,
-      "sha256": "c580a931a1f060c5d1a2dd1bd0b1d734dd273fc96eb67e5895154a6a8650967a",
+      "size": 1154744,
+      "sha256": "917aa5a34dc882039b82e8b377763f0767bcbec6c830cfd4723dd667473fdd72",
       "aliases": [],
       "deferred": false
     },
@@ -417,8 +409,8 @@
     {
       "url": "assets/data/records/items.json",
       "path": "/cds95/data/records/items.json",
-      "size": 59390,
-      "sha256": "04fda9c0a8dcb5b02218d283e1b421b7f3ac3846e1dbdd6b0691528fd6c05023",
+      "size": 66326,
+      "sha256": "71a8ff5aaced5e57464e5029cd53986286aff1ddb708c0af0b28ee6672645278",
       "aliases": [],
       "deferred": false
     },
@@ -449,8 +441,8 @@
     {
       "url": "assets/data/records/people.json",
       "path": "/cds95/data/records/people.json",
-      "size": 284908,
-      "sha256": "a78b86d59aec31828c681d9a23f5b15e2a147f095fed13a52425d6a731972fb0",
+      "size": 291652,
+      "sha256": "420b4387e6da343d603a4fc6220d9837a57c531772121dd69cbd5e844788d765",
       "aliases": [],
       "deferred": false
     },
@@ -2026,13 +2018,13 @@
   "packs": [
     {
       "url": "index.pck",
-      "size": 11296968,
-      "sha256": "59102f2a6af79d5f163a111d0fa38143c625f739d1dff9df925edcf2b6f877f8"
+      "size": 11301128,
+      "sha256": "d9c1f47b3c6ce8ddb8bb2951a18aae68953cce163523399828133b60463ca6f8"
     },
     {
       "url": "gameplay.pck",
-      "size": 1466560,
-      "sha256": "6b296f1f60480d7c1123725c0fcfc9a29970d4d0f03cdbd814c9df0d1b069a40"
+      "size": 1521396,
+      "sha256": "6b9f559f9597340c48c1fd6e65ce5cc4974dbab06305dff2a21917902de5deac"
     },
     {
       "url": "interface.pck",
@@ -2041,13 +2033,13 @@
     },
     {
       "url": "game-data.pck",
-      "size": 20320144,
-      "sha256": "9428dd13dccdb4cdd0737ecfecf25e89f2d22606b9a5bf217c1ffbb2393615d7"
+      "size": 20256528,
+      "sha256": "89fb67250753128c56534f44face45ffc8b41b5f02b09579b68d88fb4c568a5d"
     },
     {
       "url": "graphics.pck",
-      "size": 295866532,
-      "sha256": "637f8a40e6efcfa1308aeaadd87c50a208c3937ca105363adf3a6bd7bf27d30c"
+      "size": 338185908,
+      "sha256": "06c5f13cd27783a0a4e52cc13ed9be7570bddefcdab80b290da91a8b6b93c7b4"
     }
   ]
 }

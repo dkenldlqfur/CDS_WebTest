@@ -76,19 +76,15 @@ function ui(key,...args){
 }
 globalThis.CDS95WebText=ui;
 
-const config={"args":[],"canvasResizePolicy":1,"emscriptenPoolSize":8,"ensureCrossOriginIsolationHeaders":true,"executable":"index","experimentalVK":true,"fileSizes":{"index.pck":11296968,"index.wasm":1713410},"focusCanvas":true,"gdextensionLibs":["cds_native.web.wasm"],"godotPoolSize":4};
+const config={"args":[],"canvasResizePolicy":1,"emscriptenPoolSize":8,"ensureCrossOriginIsolationHeaders":true,"executable":"index","experimentalVK":true,"fileSizes":{"index.pck":11301128,"index.wasm":1713410},"focusCanvas":true,"gdextensionLibs":["cds_native.web.wasm"],"godotPoolSize":4};
 const canvas=document.getElementById('canvas'),screen=document.getElementById('screen'),start=document.getElementById('start'),status=document.getElementById('status'),progress=document.getElementById('progress');
 const startFullscreen=document.getElementById('start-fullscreen'),app=document.getElementById('app');
 const canFullscreen=Boolean(document.fullscreenEnabled&&typeof app.requestFullscreen==='function');
 startFullscreen.hidden=!canFullscreen;
 config.canvas=canvas;config.canvasResizePolicy=1;config.focusCanvas=true;
 let enginePreparing=false,enginePrepared=false;
-let packFromCache=false;
-navigator.serviceWorker?.addEventListener('message',event=>{
- if(event.source===navigator.serviceWorker.controller&&event.data?.type==='cds95-pack-cache-hit')packFromCache=true;
-});
 const mainPack=config.mainPack||`${config.executable}.pck`;
-config.onProgress=(current,total)=>{
+config.onProgress=(current,total,packFromCache=false)=>{
  if(total){
   progress.value=current/total;
   if(enginePreparing){
@@ -221,9 +217,10 @@ async function prepareBrowser(){
  sessionStorage.setItem(key,'1');location.reload();return false;
 }
 async function preloadPack(pack, destination){
- packFromCache=false;
  const response=await fetch(pack.url);
  if(!response.ok)throw new Error(ui("ui.130893e0e99c7aa1",pack.url));
+ const packFromCache=response.headers.get('X-CDS95-Pack-Cache')==='hit';
+ config.onProgress(0,pack.size,packFromCache);
  const data=new Uint8Array(pack.size);
  const reader=response.body.getReader();
  let loaded=0;
@@ -231,7 +228,7 @@ async function preloadPack(pack, destination){
   const {done,value}=await reader.read();
   if(done)break;
   if(value.byteLength>data.byteLength-loaded){await reader.cancel();throw new Error(ui("ui.2135a945695a9060",pack.url));}
-  data.set(value,loaded);loaded+=value.byteLength;config.onProgress(loaded,pack.size);
+  data.set(value,loaded);loaded+=value.byteLength;config.onProgress(loaded,pack.size,packFromCache);
  }
  if(loaded!==data.byteLength)throw new Error(ui("ui.2135a945695a9060",pack.url));
  const hash=Array.from(new Uint8Array(await crypto.subtle.digest('SHA-256',data)),n=>n.toString(16).padStart(2,'0')).join('');
