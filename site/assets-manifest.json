@@ -281,8 +281,8 @@
     {
       "url": "assets/data/strings.ko.json",
       "path": "/cds95/data/strings.ko.json",
-      "size": 1154744,
-      "sha256": "917aa5a34dc882039b82e8b377763f0767bcbec6c830cfd4723dd667473fdd72",
+      "size": 1155246,
+      "sha256": "fb8361d126ea47529ba55aec91a93f706a8e4d109d4ba743315782b523832911",
       "aliases": [],
       "deferred": false
     },
@@ -2019,12 +2019,12 @@
     {
       "url": "index.pck",
       "size": 11301128,
-      "sha256": "d9c1f47b3c6ce8ddb8bb2951a18aae68953cce163523399828133b60463ca6f8"
+      "sha256": "7998b37652201104997dcd84ed891b9dee3c40673bc9a2b9bb88d5399133723b"
     },
     {
       "url": "gameplay.pck",
-      "size": 1521396,
-      "sha256": "6b9f559f9597340c48c1fd6e65ce5cc4974dbab06305dff2a21917902de5deac"
+      "size": 1527028,
+      "sha256": "14fb383d5f05ea413fcb5dda55eecf752ace9abd3de6866416babd887b911d3d"
     },
     {
       "url": "interface.pck",
@@ -2033,8 +2033,8 @@
     },
     {
       "url": "game-data.pck",
-      "size": 20256528,
-      "sha256": "89fb67250753128c56534f44face45ffc8b41b5f02b09579b68d88fb4c568a5d"
+      "size": 20257024,
+      "sha256": "676e316115e943de0af40b8f74a06d48620c5f5b3aaccac26fc721b14f612295"
     },
     {
       "url": "graphics.pck",
