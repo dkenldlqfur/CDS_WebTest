@@ -2018,13 +2018,13 @@
   "packs": [
     {
       "url": "index.pck",
-      "size": 11301896,
-      "sha256": "5c257a182618417ebf92255e600fa77eb9a9bccc2083e83b418056befc5b4e72"
+      "size": 11875688,
+      "sha256": "0e7e85b08cac1d36ad5160f4be1164af383142c71f77ca28090fec65a25a7708"
     },
     {
       "url": "gameplay.pck",
       "size": 1550912,
-      "sha256": "db5d5763f58c291036a2f937a9d3d137e4b3bc926df2bf708b4eabb0408d02fb"
+      "sha256": "ad081afc36f162a9cbc22873d1746c49a4c607fd9693167afb416db5b0f91d71"
     },
     {
       "url": "interface.pck",
