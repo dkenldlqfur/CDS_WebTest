@@ -95,6 +95,62 @@ config.onProgress=(current,total,packFromCache=false)=>{
 };
 config.onExit=()=>{document.getElementById('cover').hidden=false;document.getElementById('cover').style.display='flex';status.textContent=ui("ui.570268534efebada");start.hidden=true;startFullscreen.hidden=true;};
 const engine=new Engine(config);
+if(new URLSearchParams(location.search).get('motion_debug')==='1'){
+ const probe=document.createElement('button');
+ probe.type='button';probe.textContent='육상 이동 측정';
+ probe.style.cssText='position:fixed;right:8px;top:8px;z-index:10000';
+ document.body.appendChild(probe);
+ const filter=document.createElement('button');
+ filter.type='button';filter.textContent='픽셀 보간 비교';
+ filter.setAttribute('aria-pressed','false');
+ filter.style.cssText='position:fixed;right:8px;top:36px;z-index:10000';
+ probe.after(filter);
+ let capture=null;
+ filter.addEventListener('click',()=>{
+  if(capture)return;
+  const linear=filter.getAttribute('aria-pressed')!=='true';
+  filter.setAttribute('aria-pressed',String(linear));
+  canvas.style.imageRendering=linear?'auto':'';
+  canvas.focus();
+ });
+ window.CDS95MotionFrame=(shown,submitted)=>{
+  if(capture)capture.draw.push([performance.now()-capture.start,shown,submitted]);
+ };
+ // Older test builds can still compare browser cadence and indexed uploads.
+ for(const method of ['texImage2D','texSubImage2D']){
+  const prototype=globalThis.WebGL2RenderingContext?.prototype,original=prototype?.[method];
+  if(!original)continue;
+  prototype[method]=function(...args){
+   const result=original.apply(this,args);
+   const full=method==='texImage2D';
+   const width=args[full?3:4],height=args[full?4:5];
+   if(capture&&this.canvas===canvas&&args[6]===this.RED&&args[7]===this.UNSIGNED_BYTE&&width>=640&&height>=400)
+    capture.uploads.push([performance.now()-capture.start,width,height]);
+   return result;
+  };
+ }
+ probe.addEventListener('click',()=>{
+  if(capture)return;
+  const rect=canvas.getBoundingClientRect(),dpr=devicePixelRatio;
+  const sample={start:performance.now(),logical:[canvas.width,canvas.height],
+   css:[rect.width,rect.height],dpr,filter:getComputedStyle(canvas).imageRendering,draw:[],uploads:[],raf:[]};
+  capture=sample;probe.textContent='8초 측정 중';canvas.focus();
+  function frame(time){
+   if(capture!==sample)return;
+   sample.raf.push(time-sample.start);
+   if(performance.now()-sample.start<8000){requestAnimationFrame(frame);return;}
+   capture=null;probe.textContent='육상 이동 측정';
+   const report=document.createElement('textarea');
+   report.readOnly=true;report.value=JSON.stringify(sample);
+   report.setAttribute('aria-label','육상 이동 측정 결과');
+   report.style.cssText='position:fixed;right:8px;top:66px;width:min(32em,90vw);height:10em;z-index:10000';
+   document.getElementById('motion-report')?.remove();
+   report.id='motion-report';filter.after(report);
+   report.addEventListener('click',()=>report.select());
+  }
+  requestAnimationFrame(frame);
+ });
+}
 function fit(){
  const viewport=window.visualViewport,root=document.documentElement;
  root.style.setProperty('--visual-width',`${viewport?.width||root.clientWidth}px`);
