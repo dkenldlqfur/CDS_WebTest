@@ -1,7 +1,6 @@
 // GitHub Pages bootstrap: apply the same isolation headers as Godot's
 // official PWA worker. Keep one copy of each pack and revalidate its ETag.
 'use strict';
-const deferredVideoRoot = "https://raw.githubusercontent.com/dkenldlqfur/CDS_WebTest/4d59560ba2610286292913faa025938d6d45843b/site/";
 const packCacheName = 'cds95-main-pack-v1';
 const packName = /^(?:index|gameplay|interface|game-data|graphics-[0-9]{3})\.pck$/;
 
@@ -58,12 +57,6 @@ self.addEventListener('fetch', event => {
     const pack = fetchPack(request);
     event.waitUntil(pack.then(({write}) => write).catch(() => {}));
     event.respondWith(pack.then(({response, cacheHit}) => isolated(response, cacheHit)));
-    return;
-  }
-  const videos = new URL('assets/videos/', self.registration.scope);
-  if (request.method === 'GET' && url.pathname.startsWith(videos.pathname) && /^[A-Za-z0-9_.-]+\.ogv$/.test(url.pathname.slice(videos.pathname.length))) {
-    const relative = 'assets/videos/' + url.pathname.slice(videos.pathname.length);
-    event.respondWith(fetch(new URL(relative, deferredVideoRoot)).then(isolated));
     return;
   }
   event.respondWith(fetch(request, {cache: 'no-cache'}).then(isolated));

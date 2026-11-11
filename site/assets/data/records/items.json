@@ -4,6 +4,7 @@
     {
       "id": 0,
       "user_added": 0,
+      "description_key": "exe.00557e78",
       "name_key": "exe.00558b60",
       "image": 39,
       "buy_price": 20000,
@@ -15,6 +16,7 @@
     {
       "id": 1,
       "user_added": 0,
+      "description_key": "exe.00557e38",
       "name_key": "exe.00558b58",
       "image": 40,
       "buy_price": 25000,
@@ -26,6 +28,7 @@
     {
       "id": 2,
       "user_added": 0,
+      "description_key": "exe.00557df4",
       "name_key": "exe.00558b50",
       "image": 41,
       "buy_price": 30000,
@@ -37,6 +40,7 @@
     {
       "id": 3,
       "user_added": 0,
+      "description_key": "exe.00557da8",
       "name_key": "exe.00558b44",
       "image": 42,
       "buy_price": 2,
@@ -48,8 +52,9 @@
     {
       "id": 4,
       "user_added": 0,
+      "description_key": "exe.00557d54",
       "name_key": "exe.00558b34",
-      "image": 43,
+      "image": 272,
       "buy_price": 175000,
       "sell_price": 100000,
       "effect": 4,
@@ -59,6 +64,7 @@
     {
       "id": 5,
       "user_added": 0,
+      "description_key": "exe.00557d10",
       "name_key": "exe.00558b28",
       "image": 63,
       "buy_price": 5000,
@@ -70,6 +76,7 @@
     {
       "id": 6,
       "user_added": 0,
+      "description_key": "exe.00557cd0",
       "name_key": "exe.00558b1c",
       "image": 64,
       "buy_price": 9000,
@@ -81,6 +88,7 @@
     {
       "id": 7,
       "user_added": 0,
+      "description_key": "exe.00557c90",
       "name_key": "exe.00558b08",
       "image": 65,
       "buy_price": 6000,
@@ -92,6 +100,7 @@
     {
       "id": 8,
       "user_added": 0,
+      "description_key": "exe.00557c18",
       "name_key": "exe.00558afc",
       "image": 66,
       "buy_price": 50000,
@@ -103,6 +112,7 @@
     {
       "id": 9,
       "user_added": 0,
+      "description_key": "exe.00557b7c",
       "name_key": "exe.00558af4",
       "image": 67,
       "buy_price": 7500,
@@ -114,6 +124,7 @@
     {
       "id": 10,
       "user_added": 0,
+      "description_key": "exe.00557b28",
       "name_key": "exe.00558ae8",
       "image": 68,
       "buy_price": 4500,
@@ -125,6 +136,7 @@
     {
       "id": 11,
       "user_added": 0,
+      "description_key": "exe.00557ad0",
       "name_key": "exe.00558adc",
       "image": 69,
       "buy_price": 15000,
@@ -136,6 +148,7 @@
     {
       "id": 12,
       "user_added": 0,
+      "description_key": "exe.00557a74",
       "name_key": "exe.00558ac8",
       "image": 70,
       "buy_price": 8000,
@@ -147,6 +160,7 @@
     {
       "id": 13,
       "user_added": 0,
+      "description_key": "exe.00557a1c",
       "name_key": "exe.00558ab8",
       "image": 71,
       "buy_price": 25000,
@@ -158,6 +172,7 @@
     {
       "id": 14,
       "user_added": 0,
+      "description_key": "exe.005579fc",
       "name_key": "exe.00558aac",
       "image": 72,
       "buy_price": 36000,
@@ -169,6 +184,7 @@
     {
       "id": 15,
       "user_added": 0,
+      "description_key": "exe.0055799c",
       "name_key": "exe.00558aa0",
       "image": 73,
       "buy_price": 80000,
@@ -180,6 +196,7 @@
     {
       "id": 16,
       "user_added": 0,
+      "description_key": "exe.0055793c",
       "name_key": "exe.00558a90",
       "image": 74,
       "buy_price": 24000,
@@ -191,6 +208,7 @@
     {
       "id": 17,
       "user_added": 0,
+      "description_key": "exe.005578dc",
       "name_key": "exe.00558a84",
       "image": 75,
       "buy_price": 20000,
@@ -202,6 +220,7 @@
     {
       "id": 18,
       "user_added": 0,
+      "description_key": "exe.00557894",
       "name_key": "exe.00558a74",
       "image": 76,
       "buy_price": 8500,
@@ -213,6 +232,7 @@
     {
       "id": 19,
       "user_added": 0,
+      "description_key": "exe.00557850",
       "name_key": "exe.00558a68",
       "image": 77,
       "buy_price": 3000,
@@ -224,6 +244,7 @@
     {
       "id": 20,
       "user_added": 0,
+      "description_key": "exe.00557808",
       "name_key": "exe.00558a58",
       "image": 78,
       "buy_price": 5500,
@@ -235,6 +256,7 @@
     {
       "id": 21,
       "user_added": 0,
+      "description_key": "exe.005577c4",
       "name_key": "exe.00558a48",
       "image": 79,
       "buy_price": 12000,
@@ -246,6 +268,7 @@
     {
       "id": 22,
       "user_added": 0,
+      "description_key": "exe.00557770",
       "name_key": "exe.00558a3c",
       "image": 80,
       "buy_price": 64000,
@@ -257,6 +280,7 @@
     {
       "id": 23,
       "user_added": 0,
+      "description_key": "exe.00557720",
       "name_key": "exe.00558a30",
       "image": 81,
       "buy_price": 60000,
@@ -268,6 +292,7 @@
     {
       "id": 24,
       "user_added": 0,
+      "description_key": "exe.00557688",
       "name_key": "exe.00558a24",
       "image": 82,
       "buy_price": 56000,
@@ -279,6 +304,7 @@
     {
       "id": 25,
       "user_added": 0,
+      "description_key": "exe.00557640",
       "name_key": "exe.00558a1c",
       "image": 83,
       "buy_price": 48000,
@@ -290,6 +316,7 @@
     {
       "id": 26,
       "user_added": 0,
+      "description_key": "exe.005575e0",
       "name_key": "exe.00558a0c",
       "image": 84,
       "buy_price": 45000,
@@ -301,6 +328,7 @@
     {
       "id": 27,
       "user_added": 0,
+      "description_key": "exe.0055758c",
       "name_key": "exe.00558a00",
       "image": 85,
       "buy_price": 100000,
@@ -312,6 +340,7 @@
     {
       "id": 28,
       "user_added": 0,
+      "description_key": "exe.00557544",
       "name_key": "exe.005589f4",
       "image": 86,
       "buy_price": 72000,
@@ -323,6 +352,7 @@
     {
       "id": 29,
       "user_added": 0,
+      "description_key": "exe.00557510",
       "name_key": "exe.005589e8",
       "image": 87,
       "buy_price": 27000,
@@ -334,6 +364,7 @@
     {
       "id": 30,
       "user_added": 0,
+      "description_key": "exe.005574cc",
       "name_key": "exe.005589dc",
       "image": 88,
       "buy_price": 40000,
@@ -345,6 +376,7 @@
     {
       "id": 31,
       "user_added": 0,
+      "description_key": "exe.00557478",
       "name_key": "exe.005589cc",
       "image": 89,
       "buy_price": 7200,
@@ -356,6 +388,7 @@
     {
       "id": 32,
       "user_added": 0,
+      "description_key": "exe.00557434",
       "name_key": "exe.005589bc",
       "image": 90,
       "buy_price": 90000,
@@ -367,6 +400,7 @@
     {
       "id": 33,
       "user_added": 0,
+      "description_key": "exe.005573e8",
       "name_key": "exe.005589b4",
       "image": 36,
       "buy_price": 10000,
@@ -378,6 +412,7 @@
     {
       "id": 34,
       "user_added": 0,
+      "description_key": "exe.005573b4",
       "name_key": "exe.005589ac",
       "image": 37,
       "buy_price": 2500,
@@ -389,6 +424,7 @@
     {
       "id": 35,
       "user_added": 0,
+      "description_key": "exe.00557354",
       "name_key": "exe.005589a4",
       "image": 38,
       "buy_price": 8000,
@@ -400,6 +436,7 @@
     {
       "id": 36,
       "user_added": 0,
+      "description_key": "exe.0055732c",
       "name_key": "exe.0055899c",
       "image": 204,
       "buy_price": 100,
@@ -411,6 +448,7 @@
     {
       "id": 37,
       "user_added": 0,
+      "description_key": "exe.0055727c",
       "name_key": "exe.00558990",
       "image": 94,
       "buy_price": 300,
@@ -422,6 +460,7 @@
     {
       "id": 38,
       "user_added": 0,
+      "description_key": "exe.00557238",
       "name_key": "exe.00558988",
       "image": 92,
       "buy_price": 1200,
@@ -433,6 +472,7 @@
     {
       "id": 39,
       "user_added": 0,
+      "description_key": "exe.005571ec",
       "name_key": "exe.0055897c",
       "image": 95,
       "buy_price": 2400,
@@ -444,6 +484,7 @@
     {
       "id": 40,
       "user_added": 0,
+      "description_key": "exe.00557180",
       "name_key": "exe.00558970",
       "image": 100,
       "buy_price": 5500,
@@ -455,6 +496,7 @@
     {
       "id": 41,
       "user_added": 0,
+      "description_key": "exe.00557104",
       "name_key": "exe.00558968",
       "image": 98,
       "buy_price": 8800,
@@ -466,6 +508,7 @@
     {
       "id": 42,
       "user_added": 0,
+      "description_key": "exe.00557080",
       "name_key": "exe.00558958",
       "image": 96,
       "buy_price": 12000,
@@ -477,6 +520,7 @@
     {
       "id": 43,
       "user_added": 0,
+      "description_key": "exe.00557004",
       "name_key": "exe.0055894c",
       "image": 101,
       "buy_price": 17500,
@@ -488,6 +532,7 @@
     {
       "id": 44,
       "user_added": 0,
+      "description_key": "exe.00556f7c",
       "name_key": "exe.00558940",
       "image": 107,
       "buy_price": 25500,
@@ -499,6 +544,7 @@
     {
       "id": 45,
       "user_added": 0,
+      "description_key": "exe.00556f20",
       "name_key": "exe.00558934",
       "image": 97,
       "buy_price": 34000,
@@ -510,6 +556,7 @@
     {
       "id": 46,
       "user_added": 0,
+      "description_key": "exe.00556e8c",
       "name_key": "exe.00558928",
       "image": 99,
       "buy_price": 47000,
@@ -521,6 +568,7 @@
     {
       "id": 47,
       "user_added": 0,
+      "description_key": "exe.00556dd0",
       "name_key": "exe.00558918",
       "image": 119,
       "buy_price": 150000,
@@ -532,6 +580,7 @@
     {
       "id": 48,
       "user_added": 0,
+      "description_key": "exe.00556d7c",
       "name_key": "exe.00558908",
       "image": 115,
       "buy_price": 450000,
@@ -543,6 +592,7 @@
     {
       "id": 49,
       "user_added": 0,
+      "description_key": "exe.00556d0c",
       "name_key": "exe.005588f8",
       "image": 114,
       "buy_price": 240000,
@@ -554,6 +604,7 @@
     {
       "id": 50,
       "user_added": 0,
+      "description_key": "exe.00556c88",
       "name_key": "exe.005588e4",
       "image": 117,
       "buy_price": 10000,
@@ -565,6 +616,7 @@
     {
       "id": 51,
       "user_added": 0,
+      "description_key": "exe.00556c14",
       "name_key": "exe.005588dc",
       "image": 102,
       "buy_price": 12500,
@@ -576,6 +628,7 @@
     {
       "id": 52,
       "user_added": 0,
+      "description_key": "exe.00556b80",
       "name_key": "exe.005588d4",
       "image": 93,
       "buy_price": 2300,
@@ -587,6 +640,7 @@
     {
       "id": 53,
       "user_added": 0,
+      "description_key": "exe.00556b1c",
       "name_key": "exe.005588cc",
       "image": 103,
       "buy_price": 10000,
@@ -598,6 +652,7 @@
     {
       "id": 54,
       "user_added": 0,
+      "description_key": "exe.00556a98",
       "name_key": "exe.005588c4",
       "image": 105,
       "buy_price": 22000,
@@ -609,6 +664,7 @@
     {
       "id": 55,
       "user_added": 0,
+      "description_key": "exe.005569f4",
       "name_key": "exe.005588bc",
       "image": 104,
       "buy_price": 44000,
@@ -620,6 +676,7 @@
     {
       "id": 56,
       "user_added": 0,
+      "description_key": "exe.00556940",
       "name_key": "exe.005588b4",
       "image": 106,
       "buy_price": 81000,
@@ -631,6 +688,7 @@
     {
       "id": 57,
       "user_added": 0,
+      "description_key": "exe.005568b0",
       "name_key": "exe.005588ac",
       "image": 111,
       "buy_price": 7600,
@@ -642,6 +700,7 @@
     {
       "id": 58,
       "user_added": 0,
+      "description_key": "exe.00556878",
       "name_key": "exe.005588a4",
       "image": 112,
       "buy_price": 60000,
@@ -653,6 +712,7 @@
     {
       "id": 59,
       "user_added": 0,
+      "description_key": "exe.005567d0",
       "name_key": "exe.0055889c",
       "image": 110,
       "buy_price": 17000,
@@ -664,6 +724,7 @@
     {
       "id": 60,
       "user_added": 0,
+      "description_key": "exe.0055675c",
       "name_key": "exe.00558890",
       "image": 108,
       "buy_price": 84000,
@@ -675,6 +736,7 @@
     {
       "id": 61,
       "user_added": 0,
+      "description_key": "exe.00556704",
       "name_key": "exe.00558880",
       "image": 109,
       "buy_price": 380000,
@@ -686,6 +748,7 @@
     {
       "id": 62,
       "user_added": 0,
+      "description_key": "exe.00556658",
       "name_key": "exe.00558870",
       "image": 118,
       "buy_price": 1200,
@@ -697,6 +760,7 @@
     {
       "id": 63,
       "user_added": 0,
+      "description_key": "exe.005565d0",
       "name_key": "exe.00558860",
       "image": 116,
       "buy_price": 2000,
@@ -708,6 +772,7 @@
     {
       "id": 64,
       "user_added": 0,
+      "description_key": "exe.005565a4",
       "name_key": "exe.0055885c",
       "image": 113,
       "buy_price": 2000,
@@ -719,6 +784,7 @@
     {
       "id": 65,
       "user_added": 0,
+      "description_key": "exe.00556520",
       "name_key": "exe.00558854",
       "image": 91,
       "buy_price": 16000,
@@ -730,6 +796,7 @@
     {
       "id": 66,
       "user_added": 0,
+      "description_key": "exe.005564d4",
       "name_key": "exe.00558848",
       "image": 121,
       "buy_price": 400,
@@ -741,6 +808,7 @@
     {
       "id": 67,
       "user_added": 0,
+      "description_key": "exe.00556488",
       "name_key": "exe.0055883c",
       "image": 122,
       "buy_price": 3000,
@@ -752,6 +820,7 @@
     {
       "id": 68,
       "user_added": 0,
+      "description_key": "exe.00556454",
       "name_key": "exe.00558834",
       "image": 123,
       "buy_price": 12000,
@@ -763,6 +832,7 @@
     {
       "id": 69,
       "user_added": 0,
+      "description_key": "exe.005563f0",
       "name_key": "exe.00558824",
       "image": 124,
       "buy_price": 35000,
@@ -774,6 +844,7 @@
     {
       "id": 70,
       "user_added": 0,
+      "description_key": "exe.0055638c",
       "name_key": "exe.00558818",
       "image": 130,
       "buy_price": 6000,
@@ -785,6 +856,7 @@
     {
       "id": 71,
       "user_added": 0,
+      "description_key": "exe.00556358",
       "name_key": "exe.00558808",
       "image": 132,
       "buy_price": 10000,
@@ -796,6 +868,7 @@
     {
       "id": 72,
       "user_added": 0,
+      "description_key": "exe.005562d8",
       "name_key": "exe.005587fc",
       "image": 128,
       "buy_price": 18000,
@@ -807,6 +880,7 @@
     {
       "id": 73,
       "user_added": 0,
+      "description_key": "exe.00556294",
       "name_key": "exe.005587f0",
       "image": 133,
       "buy_price": 25500,
@@ -818,6 +892,7 @@
     {
       "id": 74,
       "user_added": 0,
+      "description_key": "exe.005561f8",
       "name_key": "exe.005587e8",
       "image": 131,
       "buy_price": 2500,
@@ -829,6 +904,7 @@
     {
       "id": 75,
       "user_added": 0,
+      "description_key": "exe.0055617c",
       "name_key": "exe.005587dc",
       "image": 125,
       "buy_price": 14000,
@@ -840,6 +916,7 @@
     {
       "id": 76,
       "user_added": 0,
+      "description_key": "exe.00556118",
       "name_key": "exe.005587d0",
       "image": 126,
       "buy_price": 21000,
@@ -851,6 +928,7 @@
     {
       "id": 77,
       "user_added": 0,
+      "description_key": "exe.005560c4",
       "name_key": "exe.005587c8",
       "image": 129,
       "buy_price": 42000,
@@ -862,6 +940,7 @@
     {
       "id": 78,
       "user_added": 0,
+      "description_key": "exe.0055600c",
       "name_key": "exe.005587b8",
       "image": 127,
       "buy_price": 74000,
@@ -873,6 +952,7 @@
     {
       "id": 79,
       "user_added": 0,
+      "description_key": "exe.00555fb0",
       "name_key": "exe.005587a8",
       "image": 209,
       "buy_price": 50000,
@@ -884,6 +964,7 @@
     {
       "id": 80,
       "user_added": 0,
+      "description_key": "exe.00555f5c",
       "name_key": "exe.0055879c",
       "image": 210,
       "buy_price": 56000,
@@ -895,6 +976,7 @@
     {
       "id": 81,
       "user_added": 0,
+      "description_key": "exe.00555f24",
       "name_key": "exe.00543b54",
       "image": 211,
       "buy_price": 72000,
@@ -906,6 +988,7 @@
     {
       "id": 82,
       "user_added": 0,
+      "description_key": "exe.00555eec",
       "name_key": "exe.00558788",
       "image": 212,
       "buy_price": 150000,
@@ -917,6 +1000,7 @@
     {
       "id": 83,
       "user_added": 0,
+      "description_key": "exe.00555e70",
       "name_key": "exe.0055877c",
       "image": 213,
       "buy_price": 6000,
@@ -928,6 +1012,7 @@
     {
       "id": 84,
       "user_added": 0,
+      "description_key": "exe.00555e38",
       "name_key": "exe.0055876c",
       "image": 214,
       "buy_price": 30000,
@@ -939,6 +1024,7 @@
     {
       "id": 85,
       "user_added": 0,
+      "description_key": "exe.00555df4",
       "name_key": "exe.0055875c",
       "image": 215,
       "buy_price": 16000,
@@ -950,6 +1036,7 @@
     {
       "id": 86,
       "user_added": 0,
+      "description_key": "exe.00555db4",
       "name_key": "exe.00543b0c",
       "image": 216,
       "buy_price": 160000,
@@ -961,6 +1048,7 @@
     {
       "id": 87,
       "user_added": 0,
+      "description_key": "exe.00555d54",
       "name_key": "exe.00558754",
       "image": 217,
       "buy_price": 67000,
@@ -972,6 +1060,7 @@
     {
       "id": 88,
       "user_added": 0,
+      "description_key": "exe.00555cc8",
       "name_key": "exe.00543af4",
       "image": 218,
       "buy_price": 66000,
@@ -983,6 +1072,7 @@
     {
       "id": 89,
       "user_added": 0,
+      "description_key": "exe.00555c7c",
       "name_key": "exe.00543ae8",
       "image": 219,
       "buy_price": 75000,
@@ -994,6 +1084,7 @@
     {
       "id": 90,
       "user_added": 0,
+      "description_key": "exe.00555c24",
       "name_key": "exe.00558748",
       "image": 220,
       "buy_price": 150000,
@@ -1005,6 +1096,7 @@
     {
       "id": 91,
       "user_added": 0,
+      "description_key": "exe.00555b94",
       "name_key": "exe.00558740",
       "image": 221,
       "buy_price": 30000,
@@ -1016,6 +1108,7 @@
     {
       "id": 92,
       "user_added": 0,
+      "description_key": "exe.00555b40",
       "name_key": "exe.00543ad0",
       "image": 222,
       "buy_price": 160000,
@@ -1027,6 +1120,7 @@
     {
       "id": 93,
       "user_added": 0,
+      "description_key": "exe.00555af8",
       "name_key": "exe.00558734",
       "image": 223,
       "buy_price": 40000,
@@ -1038,6 +1132,7 @@
     {
       "id": 94,
       "user_added": 0,
+      "description_key": "exe.00555aa0",
       "name_key": "exe.00558728",
       "image": 224,
       "buy_price": 170000,
@@ -1049,6 +1144,7 @@
     {
       "id": 95,
       "user_added": 0,
+      "description_key": "exe.00555a08",
       "name_key": "exe.00543aa8",
       "image": 225,
       "buy_price": 120000,
@@ -1060,6 +1156,7 @@
     {
       "id": 96,
       "user_added": 0,
+      "description_key": "exe.005559c4",
       "name_key": "exe.00543a9c",
       "image": 226,
       "buy_price": 100000,
@@ -1071,6 +1168,7 @@
     {
       "id": 97,
       "user_added": 0,
+      "description_key": "exe.0055598c",
       "name_key": "exe.0055871c",
       "image": 227,
       "buy_price": 3500,
@@ -1082,6 +1180,7 @@
     {
       "id": 98,
       "user_added": 0,
+      "description_key": "exe.0055594c",
       "name_key": "exe.0055870c",
       "image": 228,
       "buy_price": 140000,
@@ -1093,6 +1192,7 @@
     {
       "id": 99,
       "user_added": 0,
+      "description_key": "exe.005558e8",
       "name_key": "exe.00558704",
       "image": 229,
       "buy_price": 5000,
@@ -1104,6 +1204,7 @@
     {
       "id": 100,
       "user_added": 0,
+      "description_key": "exe.005558a0",
       "name_key": "exe.00543a80",
       "image": 230,
       "buy_price": 150000,
@@ -1115,6 +1216,7 @@
     {
       "id": 101,
       "user_added": 0,
+      "description_key": "exe.00555860",
       "name_key": "exe.005586ec",
       "image": 231,
       "buy_price": 190000,
@@ -1126,6 +1228,7 @@
     {
       "id": 102,
       "user_added": 0,
+      "description_key": "exe.00555810",
       "name_key": "exe.00543a60",
       "image": 232,
       "buy_price": 160000,
@@ -1137,6 +1240,7 @@
     {
       "id": 103,
       "user_added": 0,
+      "description_key": "exe.005557c4",
       "name_key": "exe.00543a50",
       "image": 233,
       "buy_price": 180000,
@@ -1148,6 +1252,7 @@
     {
       "id": 104,
       "user_added": 0,
+      "description_key": "exe.0055579c",
       "name_key": "exe.005586dc",
       "image": 234,
       "buy_price": 96000,
@@ -1159,6 +1264,7 @@
     {
       "id": 105,
       "user_added": 0,
+      "description_key": "exe.005556f0",
       "name_key": "exe.00543a2c",
       "image": 235,
       "buy_price": 110000,
@@ -1170,6 +1276,7 @@
     {
       "id": 106,
       "user_added": 0,
+      "description_key": "exe.005556b4",
       "name_key": "exe.00543a20",
       "image": 236,
       "buy_price": 2500,
@@ -1181,6 +1288,7 @@
     {
       "id": 107,
       "user_added": 0,
+      "description_key": "exe.00555680",
       "name_key": "exe.005586c8",
       "image": 237,
       "buy_price": 180000,
@@ -1192,6 +1300,7 @@
     {
       "id": 108,
       "user_added": 0,
+      "description_key": "exe.0055562c",
       "name_key": "exe.005586bc",
       "image": 44,
       "buy_price": 3400,
@@ -1203,6 +1312,7 @@
     {
       "id": 109,
       "user_added": 0,
+      "description_key": "exe.005555c8",
       "name_key": "exe.005586b0",
       "image": 45,
       "buy_price": 4500,
@@ -1214,8 +1324,9 @@
     {
       "id": 110,
       "user_added": 0,
+      "description_key": "exe.00555550",
       "name_key": "exe.005586a4",
-      "image": 53,
+      "image": 266,
       "buy_price": 1000,
       "sell_price": 500,
       "effect": 0,
@@ -1225,6 +1336,7 @@
     {
       "id": 111,
       "user_added": 0,
+      "description_key": "exe.005554fc",
       "name_key": "exe.00558694",
       "image": 47,
       "buy_price": 120000,
@@ -1236,6 +1348,7 @@
     {
       "id": 112,
       "user_added": 0,
+      "description_key": "exe.005554d8",
       "name_key": "exe.00558684",
       "image": 48,
       "buy_price": 400,
@@ -1247,6 +1360,7 @@
     {
       "id": 113,
       "user_added": 0,
+      "description_key": "exe.00555460",
       "name_key": "exe.0055867c",
       "image": 49,
       "buy_price": 300,
@@ -1258,6 +1372,7 @@
     {
       "id": 114,
       "user_added": 0,
+      "description_key": "exe.00555410",
       "name_key": "exe.0055866c",
       "image": 57,
       "buy_price": 50000,
@@ -1269,6 +1384,7 @@
     {
       "id": 115,
       "user_added": 0,
+      "description_key": "exe.005553e4",
       "name_key": "exe.00558660",
       "image": 52,
       "buy_price": 10000,
@@ -1280,6 +1396,7 @@
     {
       "id": 116,
       "user_added": 0,
+      "description_key": "exe.005553b8",
       "name_key": "exe.00558654",
       "image": 59,
       "buy_price": 7000,
@@ -1291,8 +1408,9 @@
     {
       "id": 117,
       "user_added": 0,
+      "description_key": "exe.00555390",
       "name_key": "exe.00558648",
-      "image": 59,
+      "image": 269,
       "buy_price": 3200,
       "sell_price": 1500,
       "effect": 3,
@@ -1302,8 +1420,9 @@
     {
       "id": 118,
       "user_added": 0,
+      "description_key": "exe.00555330",
       "name_key": "exe.00558634",
-      "image": 59,
+      "image": 270,
       "buy_price": 4500,
       "sell_price": 2200,
       "effect": 7,
@@ -1313,6 +1432,7 @@
     {
       "id": 119,
       "user_added": 0,
+      "description_key": "exe.005552f4",
       "name_key": "exe.00558628",
       "image": 51,
       "buy_price": 120,
@@ -1324,8 +1444,9 @@
     {
       "id": 120,
       "user_added": 0,
+      "description_key": "exe.005552b4",
       "name_key": "exe.0055861c",
-      "image": 54,
+      "image": 274,
       "buy_price": 9000,
       "sell_price": 5000,
       "effect": 28,
@@ -1335,6 +1456,7 @@
     {
       "id": 121,
       "user_added": 0,
+      "description_key": "exe.0055522c",
       "name_key": "exe.0055860c",
       "image": 60,
       "buy_price": 65000,
@@ -1346,6 +1468,7 @@
     {
       "id": 122,
       "user_added": 0,
+      "description_key": "exe.00555204",
       "name_key": "exe.005585fc",
       "image": 56,
       "buy_price": 5000,
@@ -1357,8 +1480,9 @@
     {
       "id": 123,
       "user_added": 0,
+      "description_key": "exe.005551e4",
       "name_key": "exe.005585ec",
-      "image": 56,
+      "image": 267,
       "buy_price": 3000,
       "sell_price": 800,
       "effect": 30,
@@ -1368,8 +1492,9 @@
     {
       "id": 124,
       "user_added": 0,
+      "description_key": "exe.005551e4",
       "name_key": "exe.005585d8",
-      "image": 56,
+      "image": 268,
       "buy_price": 3000,
       "sell_price": 800,
       "effect": 31,
@@ -1379,6 +1504,7 @@
     {
       "id": 125,
       "user_added": 0,
+      "description_key": "exe.005551c4",
       "name_key": "exe.005585c0",
       "image": 50,
       "buy_price": 15000,
@@ -1390,6 +1516,7 @@
     {
       "id": 126,
       "user_added": 0,
+      "description_key": "exe.00555168",
       "name_key": "exe.005585b4",
       "image": 61,
       "buy_price": 500,
@@ -1401,6 +1528,7 @@
     {
       "id": 127,
       "user_added": 0,
+      "description_key": "exe.00555128",
       "name_key": "exe.005585a8",
       "image": 46,
       "buy_price": 15000,
@@ -1412,6 +1540,7 @@
     {
       "id": 128,
       "user_added": 0,
+      "description_key": "exe.005550b0",
       "name_key": "item.name.128",
       "image": -1,
       "buy_price": 45000,
@@ -1423,6 +1552,7 @@
     {
       "id": 129,
       "user_added": 0,
+      "description_key": "exe.00555008",
       "name_key": "item.name.129",
       "image": -1,
       "buy_price": 70000,
@@ -1434,6 +1564,7 @@
     {
       "id": 130,
       "user_added": 0,
+      "description_key": "exe.00554fa0",
       "name_key": "item.name.130",
       "image": -1,
       "buy_price": 40000,
@@ -1445,6 +1576,7 @@
     {
       "id": 131,
       "user_added": 0,
+      "description_key": "exe.00554f3c",
       "name_key": "item.name.131",
       "image": -1,
       "buy_price": 75000,
@@ -1456,6 +1588,7 @@
     {
       "id": 132,
       "user_added": 0,
+      "description_key": "exe.00554ed8",
       "name_key": "item.name.132",
       "image": -1,
       "buy_price": 40000,
@@ -1467,6 +1600,7 @@
     {
       "id": 133,
       "user_added": 0,
+      "description_key": "exe.00554ea0",
       "name_key": "item.name.133",
       "image": -1,
       "buy_price": 4000,
@@ -1478,6 +1612,7 @@
     {
       "id": 134,
       "user_added": 0,
+      "description_key": "exe.00554e14",
       "name_key": "item.name.134",
       "image": -1,
       "buy_price": 6000,
@@ -1489,6 +1624,7 @@
     {
       "id": 135,
       "user_added": 0,
+      "description_key": "exe.00554da0",
       "name_key": "exe.00558568",
       "image": -1,
       "buy_price": 10000,
@@ -1500,6 +1636,7 @@
     {
       "id": 136,
       "user_added": 0,
+      "description_key": "exe.00554d3c",
       "name_key": "exe.0055855c",
       "image": -1,
       "buy_price": 10000,
@@ -1511,6 +1648,7 @@
     {
       "id": 137,
       "user_added": 0,
+      "description_key": "exe.00554ca0",
       "name_key": "item.name.137",
       "image": -1,
       "buy_price": 16000,
@@ -1522,6 +1660,7 @@
     {
       "id": 138,
       "user_added": 0,
+      "description_key": "exe.00554c38",
       "name_key": "exe.00558548",
       "image": -1,
       "buy_price": 11000,
@@ -1533,6 +1672,7 @@
     {
       "id": 139,
       "user_added": 0,
+      "description_key": "exe.00554bd0",
       "name_key": "exe.00558540",
       "image": -1,
       "buy_price": 32000,
@@ -1544,6 +1684,7 @@
     {
       "id": 140,
       "user_added": 0,
+      "description_key": "exe.00554b6c",
       "name_key": "exe.00558530",
       "image": -1,
       "buy_price": 7000,
@@ -1555,6 +1696,7 @@
     {
       "id": 141,
       "user_added": 0,
+      "description_key": "exe.00554ad4",
       "name_key": "exe.00558524",
       "image": -1,
       "buy_price": 15000,
@@ -1566,6 +1708,7 @@
     {
       "id": 142,
       "user_added": 0,
+      "description_key": "exe.00554a58",
       "name_key": "exe.00543930",
       "image": -1,
       "buy_price": 4000,
@@ -1577,6 +1720,7 @@
     {
       "id": 143,
       "user_added": 0,
+      "description_key": "exe.005549d8",
       "name_key": "exe.0055851c",
       "image": -1,
       "buy_price": 40000,
@@ -1588,6 +1732,7 @@
     {
       "id": 144,
       "user_added": 0,
+      "description_key": "exe.00554930",
       "name_key": "exe.0054391c",
       "image": -1,
       "buy_price": 35000,
@@ -1599,6 +1744,7 @@
     {
       "id": 145,
       "user_added": 0,
+      "description_key": "exe.005548c4",
       "name_key": "exe.00558510",
       "image": -1,
       "buy_price": 7000,
@@ -1610,6 +1756,7 @@
     {
       "id": 146,
       "user_added": 0,
+      "description_key": "exe.0055484c",
       "name_key": "exe.0054390c",
       "image": -1,
       "buy_price": 65000,
@@ -1621,6 +1768,7 @@
     {
       "id": 147,
       "user_added": 0,
+      "description_key": "exe.005547f8",
       "name_key": "exe.00558508",
       "image": -1,
       "buy_price": 50000,
@@ -1632,6 +1780,7 @@
     {
       "id": 148,
       "user_added": 0,
+      "description_key": "exe.005547c8",
       "name_key": "exe.00558500",
       "image": -1,
       "buy_price": 45000,
@@ -1643,6 +1792,7 @@
     {
       "id": 149,
       "user_added": 0,
+      "description_key": "exe.00554794",
       "name_key": "exe.005584f8",
       "image": -1,
       "buy_price": 40000,
@@ -1654,6 +1804,7 @@
     {
       "id": 150,
       "user_added": 0,
+      "description_key": "exe.0055472c",
       "name_key": "item.name.150",
       "image": -1,
       "buy_price": 15000,
@@ -1665,6 +1816,7 @@
     {
       "id": 151,
       "user_added": 0,
+      "description_key": "exe.005546d8",
       "name_key": "exe.005584e0",
       "image": -1,
       "buy_price": 35000,
@@ -1676,6 +1828,7 @@
     {
       "id": 152,
       "user_added": 0,
+      "description_key": "exe.00554644",
       "name_key": "exe.005584d4",
       "image": -1,
       "buy_price": 27000,
@@ -1687,6 +1840,7 @@
     {
       "id": 153,
       "user_added": 0,
+      "description_key": "exe.005545d8",
       "name_key": "exe.005584cc",
       "image": -1,
       "buy_price": 26000,
@@ -1698,6 +1852,7 @@
     {
       "id": 154,
       "user_added": 0,
+      "description_key": "exe.00554558",
       "name_key": "exe.005584c4",
       "image": -1,
       "buy_price": 16000,
@@ -1709,6 +1864,7 @@
     {
       "id": 155,
       "user_added": 0,
+      "description_key": "exe.005544cc",
       "name_key": "exe.005584b8",
       "image": -1,
       "buy_price": 22000,
@@ -1720,6 +1876,7 @@
     {
       "id": 156,
       "user_added": 0,
+      "description_key": "exe.0055444c",
       "name_key": "exe.005584b0",
       "image": -1,
       "buy_price": 8000,
@@ -1731,6 +1888,7 @@
     {
       "id": 157,
       "user_added": 0,
+      "description_key": "exe.005543a4",
       "name_key": "exe.005584a4",
       "image": -1,
       "buy_price": 10000,
@@ -1742,6 +1900,7 @@
     {
       "id": 158,
       "user_added": 0,
+      "description_key": "exe.0055434c",
       "name_key": "exe.005438a4",
       "image": -1,
       "buy_price": 3000,
@@ -1753,6 +1912,7 @@
     {
       "id": 159,
       "user_added": 0,
+      "description_key": "exe.00554314",
       "name_key": "exe.00558494",
       "image": -1,
       "buy_price": 1500,
@@ -1764,6 +1924,7 @@
     {
       "id": 160,
       "user_added": 0,
+      "description_key": "exe.00554298",
       "name_key": "exe.0055848c",
       "image": -1,
       "buy_price": 1500,
@@ -1775,6 +1936,7 @@
     {
       "id": 161,
       "user_added": 0,
+      "description_key": "exe.00554214",
       "name_key": "exe.00558480",
       "image": -1,
       "buy_price": 5000,
@@ -1786,6 +1948,7 @@
     {
       "id": 162,
       "user_added": 0,
+      "description_key": "exe.005541b0",
       "name_key": "exe.00558474",
       "image": -1,
       "buy_price": 1400,
@@ -1797,6 +1960,7 @@
     {
       "id": 163,
       "user_added": 0,
+      "description_key": "exe.0055413c",
       "name_key": "exe.00558464",
       "image": -1,
       "buy_price": 1300,
@@ -1808,6 +1972,7 @@
     {
       "id": 164,
       "user_added": 0,
+      "description_key": "exe.00554110",
       "name_key": "exe.00558454",
       "image": -1,
       "buy_price": 1200,
@@ -1819,6 +1984,7 @@
     {
       "id": 165,
       "user_added": 0,
+      "description_key": "exe.005540dc",
       "name_key": "exe.00558444",
       "image": 113,
       "buy_price": 2500,
@@ -1830,6 +1996,7 @@
     {
       "id": 166,
       "user_added": 0,
+      "description_key": "exe.00554050",
       "name_key": "exe.00558434",
       "image": 62,
       "buy_price": 24000,
@@ -1841,6 +2008,7 @@
     {
       "id": 167,
       "user_added": 0,
+      "description_key": "exe.00553ffc",
       "name_key": "item.name.167",
       "image": -1,
       "buy_price": 180000,
@@ -1852,6 +2020,7 @@
     {
       "id": 168,
       "user_added": 0,
+      "description_key": "exe.00553fd8",
       "name_key": "exe.00558424",
       "image": 120,
       "buy_price": 120000,
@@ -1863,6 +2032,7 @@
     {
       "id": 169,
       "user_added": 0,
+      "description_key": "exe.00553fa0",
       "name_key": "exe.00558414",
       "image": -1,
       "buy_price": 50000,
@@ -1874,6 +2044,7 @@
     {
       "id": 170,
       "user_added": 0,
+      "description_key": "exe.00553f40",
       "name_key": "item.name.170",
       "image": -1,
       "buy_price": 100000,
@@ -1885,6 +2056,7 @@
     {
       "id": 171,
       "user_added": 0,
+      "description_key": "exe.00553eec",
       "name_key": "exe.005437ac",
       "image": -1,
       "buy_price": 60000,
@@ -1896,6 +2068,7 @@
     {
       "id": 172,
       "user_added": 0,
+      "description_key": "exe.00553ed4",
       "name_key": "exe.005583fc",
       "image": 58,
       "buy_price": 50000,
@@ -1907,6 +2080,7 @@
     {
       "id": 173,
       "user_added": 0,
+      "description_key": "exe.00553e9c",
       "name_key": "exe.005583f0",
       "image": 58,
       "buy_price": 200000,
@@ -1918,6 +2092,7 @@
     {
       "id": 174,
       "user_added": 0,
+      "description_key": "exe.00553e74",
       "name_key": "exe.005583e4",
       "image": 58,
       "buy_price": 200000,
@@ -1929,6 +2104,7 @@
     {
       "id": 175,
       "user_added": 0,
+      "description_key": "exe.00553e38",
       "name_key": "exe.005583d0",
       "image": 58,
       "buy_price": 100000,
@@ -1940,6 +2116,7 @@
     {
       "id": 176,
       "user_added": 0,
+      "description_key": "exe.00553e10",
       "name_key": "exe.005583c0",
       "image": 58,
       "buy_price": 150000,
@@ -1951,6 +2128,7 @@
     {
       "id": 177,
       "user_added": 0,
+      "description_key": "exe.00553df4",
       "name_key": "exe.005583b4",
       "image": 58,
       "buy_price": 120000,
@@ -1962,6 +2140,7 @@
     {
       "id": 178,
       "user_added": 0,
+      "description_key": "exe.00553dcc",
       "name_key": "exe.005583a0",
       "image": 58,
       "buy_price": 160000,
@@ -1973,6 +2152,7 @@
     {
       "id": 179,
       "user_added": 0,
+      "description_key": "exe.00553da4",
       "name_key": "exe.00558390",
       "image": 58,
       "buy_price": 250000,
@@ -1984,6 +2164,7 @@
     {
       "id": 180,
       "user_added": 0,
+      "description_key": "exe.00553d84",
       "name_key": "exe.00558384",
       "image": 58,
       "buy_price": 150000,
@@ -1995,6 +2176,7 @@
     {
       "id": 181,
       "user_added": 0,
+      "description_key": "exe.00553d54",
       "name_key": "exe.00558374",
       "image": 58,
       "buy_price": 100000,
@@ -2006,6 +2188,7 @@
     {
       "id": 182,
       "user_added": 0,
+      "description_key": "exe.00553d34",
       "name_key": "exe.00558364",
       "image": 58,
       "buy_price": 60000,
@@ -2017,6 +2200,7 @@
     {
       "id": 183,
       "user_added": 0,
+      "description_key": "exe.00553d00",
       "name_key": "exe.00558354",
       "image": 58,
       "buy_price": 80000,
@@ -2028,8 +2212,9 @@
     {
       "id": 184,
       "user_added": 0,
+      "description_key": "exe.00553c80",
       "name_key": "exe.00558348",
-      "image": 55,
+      "image": 275,
       "buy_price": 35000,
       "sell_price": 9000,
       "effect": 27,
@@ -2039,8 +2224,9 @@
     {
       "id": 185,
       "user_added": 0,
+      "description_key": "exe.00553c50",
       "name_key": "exe.00558338",
-      "image": 59,
+      "image": 271,
       "buy_price": 15000,
       "sell_price": 5000,
       "effect": 17,
@@ -2050,6 +2236,7 @@
     {
       "id": 186,
       "user_added": 0,
+      "description_key": "exe.00553c34",
       "name_key": "exe.00558330",
       "image": 135,
       "buy_price": 300,
@@ -2061,6 +2248,7 @@
     {
       "id": 187,
       "user_added": 0,
+      "description_key": "exe.00553c18",
       "name_key": "exe.00558324",
       "image": 136,
       "buy_price": 500,
@@ -2072,6 +2260,7 @@
     {
       "id": 188,
       "user_added": 0,
+      "description_key": "exe.00553c04",
       "name_key": "exe.0055831c",
       "image": 137,
       "buy_price": 400,
@@ -2083,6 +2272,7 @@
     {
       "id": 189,
       "user_added": 0,
+      "description_key": "exe.00553bc4",
       "name_key": "exe.00558310",
       "image": 157,
       "buy_price": 140,
@@ -2094,6 +2284,7 @@
     {
       "id": 190,
       "user_added": 0,
+      "description_key": "exe.00553b7c",
       "name_key": "exe.00558304",
       "image": 158,
       "buy_price": 160,
@@ -2105,6 +2296,7 @@
     {
       "id": 191,
       "user_added": 0,
+      "description_key": "exe.00553b20",
       "name_key": "exe.005582f8",
       "image": 160,
       "buy_price": 130,
@@ -2116,6 +2308,7 @@
     {
       "id": 192,
       "user_added": 0,
+      "description_key": "exe.00553af4",
       "name_key": "exe.005582ec",
       "image": 161,
       "buy_price": 90,
@@ -2127,6 +2320,7 @@
     {
       "id": 193,
       "user_added": 0,
+      "description_key": "exe.00553a9c",
       "name_key": "exe.005582e0",
       "image": 163,
       "buy_price": 300,
@@ -2138,6 +2332,7 @@
     {
       "id": 194,
       "user_added": 0,
+      "description_key": "exe.00553a30",
       "name_key": "exe.005582d8",
       "image": 164,
       "buy_price": 50,
@@ -2149,6 +2344,7 @@
     {
       "id": 195,
       "user_added": 0,
+      "description_key": "exe.005539e4",
       "name_key": "exe.005582cc",
       "image": 165,
       "buy_price": 100,
@@ -2160,6 +2356,7 @@
     {
       "id": 196,
       "user_added": 0,
+      "description_key": "exe.005539a4",
       "name_key": "exe.005582c4",
       "image": 166,
       "buy_price": 60,
@@ -2171,6 +2368,7 @@
     {
       "id": 197,
       "user_added": 0,
+      "description_key": "exe.0055394c",
       "name_key": "exe.005582b8",
       "image": 169,
       "buy_price": 150,
@@ -2182,6 +2380,7 @@
     {
       "id": 198,
       "user_added": 0,
+      "description_key": "exe.00553920",
       "name_key": "exe.005582a8",
       "image": 181,
       "buy_price": 600,
@@ -2193,6 +2392,7 @@
     {
       "id": 199,
       "user_added": 0,
+      "description_key": "exe.005538d8",
       "name_key": "exe.0055829c",
       "image": 182,
       "buy_price": 500,
@@ -2204,6 +2404,7 @@
     {
       "id": 200,
       "user_added": 0,
+      "description_key": "exe.00553888",
       "name_key": "exe.00558290",
       "image": 183,
       "buy_price": 200,
@@ -2215,6 +2416,7 @@
     {
       "id": 201,
       "user_added": 0,
+      "description_key": "exe.00553864",
       "name_key": "exe.00558284",
       "image": 185,
       "buy_price": 400,
@@ -2226,6 +2428,7 @@
     {
       "id": 202,
       "user_added": 0,
+      "description_key": "exe.00553824",
       "name_key": "exe.00558278",
       "image": 186,
       "buy_price": 300,
@@ -2237,6 +2440,7 @@
     {
       "id": 203,
       "user_added": 0,
+      "description_key": "exe.00553808",
       "name_key": "exe.0055826c",
       "image": 187,
       "buy_price": 350,
@@ -2248,6 +2452,7 @@
     {
       "id": 204,
       "user_added": 0,
+      "description_key": "exe.005537cc",
       "name_key": "exe.00558260",
       "image": 188,
       "buy_price": 250,
@@ -2259,6 +2464,7 @@
     {
       "id": 205,
       "user_added": 0,
+      "description_key": "exe.00553774",
       "name_key": "exe.00558254",
       "image": 190,
       "buy_price": 110000,
@@ -2270,6 +2476,7 @@
     {
       "id": 206,
       "user_added": 0,
+      "description_key": "exe.00553730",
       "name_key": "exe.00558248",
       "image": 191,
       "buy_price": 25000,
@@ -2281,6 +2488,7 @@
     {
       "id": 207,
       "user_added": 0,
+      "description_key": "exe.005536cc",
       "name_key": "exe.0055823c",
       "image": 192,
       "buy_price": 380,
@@ -2292,6 +2500,7 @@
     {
       "id": 208,
       "user_added": 0,
+      "description_key": "exe.00553694",
       "name_key": "exe.005436c0",
       "image": 193,
       "buy_price": 350,
@@ -2303,6 +2512,7 @@
     {
       "id": 209,
       "user_added": 0,
+      "description_key": "exe.0055366c",
       "name_key": "exe.00558234",
       "image": 194,
       "buy_price": 40000,
@@ -2314,6 +2524,7 @@
     {
       "id": 210,
       "user_added": 0,
+      "description_key": "exe.00553638",
       "name_key": "exe.00558228",
       "image": 195,
       "buy_price": 300,
@@ -2325,6 +2536,7 @@
     {
       "id": 211,
       "user_added": 0,
+      "description_key": "exe.00553614",
       "name_key": "exe.0055821c",
       "image": 201,
       "buy_price": 250,
@@ -2336,6 +2548,7 @@
     {
       "id": 212,
       "user_added": 0,
+      "description_key": "exe.005535f4",
       "name_key": "exe.0055820c",
       "image": -1,
       "buy_price": 30000,
@@ -2347,6 +2560,7 @@
     {
       "id": 213,
       "user_added": 0,
+      "description_key": "exe.005535d0",
       "name_key": "exe.00558200",
       "image": 0,
       "buy_price": 1200,
@@ -2358,6 +2572,7 @@
     {
       "id": 214,
       "user_added": 0,
+      "description_key": "exe.005535b4",
       "name_key": "exe.005581f8",
       "image": 1,
       "buy_price": 1250,
@@ -2369,6 +2584,7 @@
     {
       "id": 215,
       "user_added": 0,
+      "description_key": "exe.00553594",
       "name_key": "exe.005581f0",
       "image": 2,
       "buy_price": 1300,
@@ -2380,6 +2596,7 @@
     {
       "id": 216,
       "user_added": 0,
+      "description_key": "exe.0055357c",
       "name_key": "exe.005581e8",
       "image": 3,
       "buy_price": 1350,
@@ -2391,6 +2608,7 @@
     {
       "id": 217,
       "user_added": 0,
+      "description_key": "exe.00553558",
       "name_key": "exe.005581e0",
       "image": 4,
       "buy_price": 1400,
@@ -2402,6 +2620,7 @@
     {
       "id": 218,
       "user_added": 0,
+      "description_key": "exe.0055353c",
       "name_key": "exe.005581d8",
       "image": 5,
       "buy_price": 1450,
@@ -2413,6 +2632,7 @@
     {
       "id": 219,
       "user_added": 0,
+      "description_key": "exe.00553520",
       "name_key": "exe.005581d0",
       "image": 6,
       "buy_price": 1500,
@@ -2424,6 +2644,7 @@
     {
       "id": 220,
       "user_added": 0,
+      "description_key": "exe.00553500",
       "name_key": "exe.005581c8",
       "image": 7,
       "buy_price": 1600,
@@ -2435,6 +2656,7 @@
     {
       "id": 221,
       "user_added": 0,
+      "description_key": "exe.005534e4",
       "name_key": "exe.005581bc",
       "image": 8,
       "buy_price": 5000,
@@ -2446,6 +2668,7 @@
     {
       "id": 222,
       "user_added": 0,
+      "description_key": "exe.005534bc",
       "name_key": "exe.005581b0",
       "image": 9,
       "buy_price": 5500,
@@ -2457,6 +2680,7 @@
     {
       "id": 223,
       "user_added": 0,
+      "description_key": "exe.00553494",
       "name_key": "exe.005581a8",
       "image": 10,
       "buy_price": 6000,
@@ -2468,6 +2692,7 @@
     {
       "id": 224,
       "user_added": 0,
+      "description_key": "exe.00553478",
       "name_key": "exe.005581a0",
       "image": 11,
       "buy_price": 6500,
@@ -2479,6 +2704,7 @@
     {
       "id": 225,
       "user_added": 0,
+      "description_key": "exe.00553414",
       "name_key": "exe.00558198",
       "image": 12,
       "buy_price": 7000,
@@ -2490,6 +2716,7 @@
     {
       "id": 226,
       "user_added": 0,
+      "description_key": "exe.005533dc",
       "name_key": "exe.0055818c",
       "image": 13,
       "buy_price": 23500,
@@ -2501,6 +2728,7 @@
     {
       "id": 227,
       "user_added": 0,
+      "description_key": "exe.005533c0",
       "name_key": "exe.00558184",
       "image": 14,
       "buy_price": 24000,
@@ -2512,6 +2740,7 @@
     {
       "id": 228,
       "user_added": 0,
+      "description_key": "exe.005533a8",
       "name_key": "exe.0055817c",
       "image": 15,
       "buy_price": 24500,
@@ -2523,6 +2752,7 @@
     {
       "id": 229,
       "user_added": 0,
+      "description_key": "exe.0055338c",
       "name_key": "exe.00558174",
       "image": 16,
       "buy_price": 25000,
@@ -2534,6 +2764,7 @@
     {
       "id": 230,
       "user_added": 0,
+      "description_key": "exe.00553374",
       "name_key": "exe.0055816c",
       "image": 17,
       "buy_price": 25500,
@@ -2545,6 +2776,7 @@
     {
       "id": 231,
       "user_added": 0,
+      "description_key": "exe.00553348",
       "name_key": "exe.00558164",
       "image": 18,
       "buy_price": 26000,
@@ -2556,6 +2788,7 @@
     {
       "id": 232,
       "user_added": 0,
+      "description_key": "exe.0055332c",
       "name_key": "exe.00558158",
       "image": 19,
       "buy_price": 26500,
@@ -2567,6 +2800,7 @@
     {
       "id": 233,
       "user_added": 0,
+      "description_key": "exe.00553300",
       "name_key": "exe.00558150",
       "image": 20,
       "buy_price": 27000,
@@ -2578,6 +2812,7 @@
     {
       "id": 234,
       "user_added": 0,
+      "description_key": "exe.005532d8",
       "name_key": "exe.00558148",
       "image": 21,
       "buy_price": 27500,
@@ -2589,6 +2824,7 @@
     {
       "id": 235,
       "user_added": 0,
+      "description_key": "exe.005532c0",
       "name_key": "exe.00558140",
       "image": 22,
       "buy_price": 28000,
@@ -2600,6 +2836,7 @@
     {
       "id": 236,
       "user_added": 0,
+      "description_key": "exe.0055329c",
       "name_key": "exe.00558138",
       "image": 23,
       "buy_price": 28500,
@@ -2611,6 +2848,7 @@
     {
       "id": 237,
       "user_added": 0,
+      "description_key": "exe.00553278",
       "name_key": "exe.00558128",
       "image": 24,
       "buy_price": 29000,
@@ -2622,6 +2860,7 @@
     {
       "id": 238,
       "user_added": 0,
+      "description_key": "exe.0055325c",
       "name_key": "exe.00558120",
       "image": 25,
       "buy_price": 30000,
@@ -2633,6 +2872,7 @@
     {
       "id": 239,
       "user_added": 0,
+      "description_key": "exe.00553224",
       "name_key": "exe.00558118",
       "image": 26,
       "buy_price": 240000,
@@ -2644,6 +2884,7 @@
     {
       "id": 240,
       "user_added": 0,
+      "description_key": "exe.005531e0",
       "name_key": "exe.00558110",
       "image": 27,
       "buy_price": 210000,
@@ -2655,6 +2896,7 @@
     {
       "id": 241,
       "user_added": 0,
+      "description_key": "exe.005531a8",
       "name_key": "exe.00558108",
       "image": 28,
       "buy_price": 200000,
@@ -2666,6 +2908,7 @@
     {
       "id": 242,
       "user_added": 0,
+      "description_key": "exe.00553184",
       "name_key": "exe.005580fc",
       "image": 29,
       "buy_price": 230000,
@@ -2677,6 +2920,7 @@
     {
       "id": 243,
       "user_added": 0,
+      "description_key": "exe.00553154",
       "name_key": "exe.005580f4",
       "image": 30,
       "buy_price": 220000,
@@ -2688,6 +2932,7 @@
     {
       "id": 244,
       "user_added": 0,
+      "description_key": "exe.0055311c",
       "name_key": "exe.005580ec",
       "image": 31,
       "buy_price": 210000,
@@ -2699,6 +2944,7 @@
     {
       "id": 245,
       "user_added": 0,
+      "description_key": "exe.005530dc",
       "name_key": "exe.005580e0",
       "image": 32,
       "buy_price": 230000,
@@ -2710,6 +2956,7 @@
     {
       "id": 246,
       "user_added": 0,
+      "description_key": "exe.00553098",
       "name_key": "exe.005580d8",
       "image": 33,
       "buy_price": 235000,
@@ -2721,6 +2968,7 @@
     {
       "id": 247,
       "user_added": 0,
+      "description_key": "exe.0055305c",
       "name_key": "exe.005580d0",
       "image": 34,
       "buy_price": 280000,
@@ -2732,6 +2980,7 @@
     {
       "id": 248,
       "user_added": 0,
+      "description_key": "exe.0055300c",
       "name_key": "exe.005580c8",
       "image": 35,
       "buy_price": 320000,
@@ -2743,6 +2992,7 @@
     {
       "id": 249,
       "user_added": 0,
+      "description_key": "exe.00552fd0",
       "name_key": "exe.005580bc",
       "image": 238,
       "buy_price": 160,
@@ -2754,6 +3004,7 @@
     {
       "id": 250,
       "user_added": 0,
+      "description_key": "exe.00552fbc",
       "name_key": "exe.005580b0",
       "image": 239,
       "buy_price": 900,
@@ -2765,6 +3016,7 @@
     {
       "id": 251,
       "user_added": 0,
+      "description_key": "exe.00552f9c",
       "name_key": "exe.005580a0",
       "image": 240,
       "buy_price": 480,
@@ -2776,6 +3028,7 @@
     {
       "id": 252,
       "user_added": 0,
+      "description_key": "exe.00552f80",
       "name_key": "exe.00558094",
       "image": 241,
       "buy_price": 300,
@@ -2787,6 +3040,7 @@
     {
       "id": 253,
       "user_added": 0,
+      "description_key": "exe.00552f60",
       "name_key": "exe.00558088",
       "image": 242,
       "buy_price": 560,
@@ -2798,6 +3052,7 @@
     {
       "id": 254,
       "user_added": 0,
+      "description_key": "exe.00552f44",
       "name_key": "exe.0055807c",
       "image": 243,
       "buy_price": 600,
@@ -2809,6 +3064,7 @@
     {
       "id": 255,
       "user_added": 0,
+      "description_key": "exe.00552f30",
       "name_key": "exe.0055806c",
       "image": 244,
       "buy_price": 125,
@@ -2820,6 +3076,7 @@
     {
       "id": 256,
       "user_added": 0,
+      "description_key": "exe.00552f00",
       "name_key": "exe.00558060",
       "image": 245,
       "buy_price": 210,
@@ -2831,6 +3088,7 @@
     {
       "id": 257,
       "user_added": 0,
+      "description_key": "exe.00552ed4",
       "name_key": "exe.00558054",
       "image": 246,
       "buy_price": 700,
@@ -2842,6 +3100,7 @@
     {
       "id": 258,
       "user_added": 0,
+      "description_key": "exe.00552ec8",
       "name_key": "exe.00558048",
       "image": 247,
       "buy_price": 360,
@@ -2853,6 +3112,7 @@
     {
       "id": 259,
       "user_added": 0,
+      "description_key": "exe.00552ea0",
       "name_key": "exe.00558040",
       "image": 248,
       "buy_price": 250,
@@ -2864,6 +3124,7 @@
     {
       "id": 260,
       "user_added": 0,
+      "description_key": "exe.00552e6c",
       "name_key": "exe.00558034",
       "image": 249,
       "buy_price": 80,
@@ -2875,6 +3136,7 @@
     {
       "id": 261,
       "user_added": 0,
+      "description_key": "exe.00552e44",
       "name_key": "exe.00558028",
       "image": 250,
       "buy_price": 560,
@@ -2886,6 +3148,7 @@
     {
       "id": 262,
       "user_added": 0,
+      "description_key": "exe.00552e2c",
       "name_key": "exe.0055801c",
       "image": 251,
       "buy_price": 640,
@@ -2897,6 +3160,7 @@
     {
       "id": 263,
       "user_added": 0,
+      "description_key": "exe.00552dfc",
       "name_key": "exe.0055800c",
       "image": 252,
       "buy_price": 120,
@@ -2908,6 +3172,7 @@
     {
       "id": 264,
       "user_added": 0,
+      "description_key": "exe.00552de0",
       "name_key": "exe.00558000",
       "image": 253,
       "buy_price": 580,
@@ -2919,6 +3184,7 @@
     {
       "id": 265,
       "user_added": 0,
+      "description_key": "exe.00552dc8",
       "name_key": "exe.00557ff4",
       "image": 254,
       "buy_price": 460,
@@ -2930,6 +3196,7 @@
     {
       "id": 266,
       "user_added": 0,
+      "description_key": "exe.00552d98",
       "name_key": "exe.00557fe4",
       "image": 255,
       "buy_price": 20,
@@ -2941,6 +3208,7 @@
     {
       "id": 267,
       "user_added": 0,
+      "description_key": "exe.00552d74",
       "name_key": "exe.00557fd8",
       "image": 256,
       "buy_price": 480,
@@ -2952,6 +3220,7 @@
     {
       "id": 268,
       "user_added": 0,
+      "description_key": "exe.00552d34",
       "name_key": "exe.00557fd0",
       "image": 257,
       "buy_price": 320,
@@ -2963,6 +3232,7 @@
     {
       "id": 269,
       "user_added": 0,
+      "description_key": "exe.00552d10",
       "name_key": "exe.00557fc4",
       "image": 258,
       "buy_price": 800,
@@ -2974,6 +3244,7 @@
     {
       "id": 270,
       "user_added": 0,
+      "description_key": "exe.00552cf4",
       "name_key": "exe.00557fb0",
       "image": 259,
       "buy_price": 350,
@@ -2985,6 +3256,7 @@
     {
       "id": 271,
       "user_added": 0,
+      "description_key": "exe.00552cd4",
       "name_key": "exe.00557fa4",
       "image": 260,
       "buy_price": 150,
@@ -2996,6 +3268,7 @@
     {
       "id": 272,
       "user_added": 0,
+      "description_key": "exe.00552cc0",
       "name_key": "exe.00557f9c",
       "image": 261,
       "buy_price": 1000,
@@ -3007,6 +3280,7 @@
     {
       "id": 273,
       "user_added": 0,
+      "description_key": "exe.00552ca4",
       "name_key": "exe.00557f90",
       "image": 262,
       "buy_price": 1500,
@@ -3018,6 +3292,7 @@
     {
       "id": 274,
       "user_added": 0,
+      "description_key": "exe.00552c84",
       "name_key": "exe.00557f80",
       "image": 263,
       "buy_price": 200,
@@ -3029,6 +3304,7 @@
     {
       "id": 275,
       "user_added": 0,
+      "description_key": "exe.00552c68",
       "name_key": "exe.00557f70",
       "image": 264,
       "buy_price": 160,
@@ -3040,6 +3316,7 @@
     {
       "id": 276,
       "user_added": 0,
+      "description_key": "exe.00552c28",
       "name_key": "exe.00557f5c",
       "image": 265,
       "buy_price": 500,
@@ -3051,8 +3328,9 @@
     {
       "id": 277,
       "user_added": 0,
+      "description_key": "exe.00552bfc",
       "name_key": "exe.00557f48",
-      "image": 53,
+      "image": 273,
       "buy_price": 100,
       "sell_price": 500,
       "effect": 1,
@@ -3062,8 +3340,9 @@
     {
       "id": 278,
       "user_added": 0,
+      "description_key": "exe.00552bcc",
       "name_key": "exe.00557f34",
-      "image": 53,
+      "image": 273,
       "buy_price": 200,
       "sell_price": 500,
       "effect": 1,
@@ -3073,8 +3352,9 @@
     {
       "id": 279,
       "user_added": 0,
+      "description_key": "exe.00552ba0",
       "name_key": "exe.00557f20",
-      "image": 53,
+      "image": 273,
       "buy_price": 250,
       "sell_price": 500,
       "effect": 1,
@@ -3084,8 +3364,9 @@
     {
       "id": 280,
       "user_added": 0,
+      "description_key": "exe.00552b74",
       "name_key": "exe.00557f0c",
-      "image": 53,
+      "image": 273,
       "buy_price": 300,
       "sell_price": 500,
       "effect": 1,
@@ -3095,8 +3376,9 @@
     {
       "id": 281,
       "user_added": 0,
+      "description_key": "exe.00552b48",
       "name_key": "exe.00557ef8",
-      "image": 53,
+      "image": 273,
       "buy_price": 1500,
       "sell_price": 500,
       "effect": 1,
@@ -3106,8 +3388,9 @@
     {
       "id": 282,
       "user_added": 0,
+      "description_key": "exe.00552b14",
       "name_key": "exe.00557ee4",
-      "image": 53,
+      "image": 273,
       "buy_price": 2000,
       "sell_price": 500,
       "effect": 1,
@@ -3117,8 +3400,9 @@
     {
       "id": 283,
       "user_added": 0,
+      "description_key": "exe.00552ae4",
       "name_key": "exe.00557ed0",
-      "image": 53,
+      "image": 273,
       "buy_price": 1000,
       "sell_price": 500,
       "effect": 1,
@@ -3128,8 +3412,9 @@
     {
       "id": 284,
       "user_added": 0,
+      "description_key": "exe.00552ab4",
       "name_key": "exe.00557ebc",
-      "image": 53,
+      "image": 273,
       "buy_price": 500,
       "sell_price": 500,
       "effect": 1,
@@ -3139,6 +3424,7 @@
     {
       "id": 285,
       "user_added": 0,
+      "description_key": "exe.00552a14",
       "name_key": "exe.00557eb0",
       "image": 205,
       "buy_price": 150000,
@@ -3150,6 +3436,7 @@
     {
       "id": 286,
       "user_added": 0,
+      "description_key": "item.holy_oil.description",
       "name_key": "item.holy_oil.name",
       "image": 207,
       "buy_price": 1000,
@@ -3161,6 +3448,7 @@
     {
       "id": 287,
       "user_added": 0,
+      "description_key": "item.lime_juice.description",
       "name_key": "item.lime_juice.name",
       "image": 208,
       "buy_price": 1000,
@@ -3172,6 +3460,7 @@
     {
       "id": 288,
       "user_added": 0,
+      "description_key": "item.cat.description",
       "name_key": "item.cat.name",
       "image": 206,
       "buy_price": 1000,

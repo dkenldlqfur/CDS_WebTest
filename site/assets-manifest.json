@@ -281,8 +281,8 @@
     {
       "url": "assets/data/strings.ko.json",
       "path": "/cds95/data/strings.ko.json",
-      "size": 1155246,
-      "sha256": "fb8361d126ea47529ba55aec91a93f706a8e4d109d4ba743315782b523832911",
+      "size": 1156291,
+      "sha256": "528df81399cd17bda75ccb3d3774c7dca5fb0a622b5a1dd41e332e3841b86d69",
       "aliases": [],
       "deferred": false
     },
@@ -409,8 +409,8 @@
     {
       "url": "assets/data/records/items.json",
       "path": "/cds95/data/records/items.json",
-      "size": 66326,
-      "sha256": "71a8ff5aaced5e57464e5029cd53986286aff1ddb708c0af0b28ee6672645278",
+      "size": 78517,
+      "sha256": "53c438349629f6b729ef2787c77e403dd9ccc47bbfc114eaeaa789dfb18e37ea",
       "aliases": [],
       "deferred": false
     },
@@ -442,7 +442,7 @@
       "url": "assets/data/records/people.json",
       "path": "/cds95/data/records/people.json",
       "size": 291652,
-      "sha256": "420b4387e6da343d603a4fc6220d9837a57c531772121dd69cbd5e844788d765",
+      "sha256": "441f6d8361e5bab88a39db3fc3efa93e9ea6c0fee72412f6603c261ba9052bb9",
       "aliases": [],
       "deferred": false
     },
@@ -2018,13 +2018,13 @@
   "packs": [
     {
       "url": "index.pck",
-      "size": 11301304,
-      "sha256": "0905425382161a5c0bc48619086832cad08d988e49fe012a1db4cda090e05f75"
+      "size": 11301896,
+      "sha256": "5c257a182618417ebf92255e600fa77eb9a9bccc2083e83b418056befc5b4e72"
     },
     {
       "url": "gameplay.pck",
-      "size": 1527028,
-      "sha256": "bcd18c454a44ddb8bf64695e6bfb1b55ed99d0e0cbb90bca91385f372d8424a9"
+      "size": 1550912,
+      "sha256": "db5d5763f58c291036a2f937a9d3d137e4b3bc926df2bf708b4eabb0408d02fb"
     },
     {
       "url": "interface.pck",
@@ -2033,8 +2033,8 @@
     },
     {
       "url": "game-data.pck",
-      "size": 20257024,
-      "sha256": "676e316115e943de0af40b8f74a06d48620c5f5b3aaccac26fc721b14f612295"
+      "size": 20270256,
+      "sha256": "e352a37da5a2bc7ad31c4cc704fc65ab5c41f1628696c1c0fd1855129490975d"
     },
     {
       "url": "graphics-001.pck",
@@ -2063,13 +2063,13 @@
     },
     {
       "url": "graphics-006.pck",
-      "size": 33535544,
-      "sha256": "2ec0fbaae0d854e891e5398acc8e730fde2902667ca7b5827bc9b05d00aaa942"
+      "size": 33488208,
+      "sha256": "8be580f052c3808b04c6df60113205bda2cdb33a6344775b641d48984221a1b0"
     },
     {
       "url": "graphics-007.pck",
-      "size": 32624604,
-      "sha256": "c8c72cd94011c483eb6c320fdad9609975f9ff837aed4fd5248959b87584aced"
+      "size": 33168156,
+      "sha256": "51f98666ef3739736abd6f6705a37634f016e73abf2e5e5132065aad3356d697"
     },
     {
       "url": "graphics-008.pck",
@@ -2083,8 +2083,8 @@
     },
     {
       "url": "graphics-010.pck",
-      "size": 32126368,
-      "sha256": "6e3301913dc216153f1fc2ae313200ea339e174c48111a2ba71eda6371ed5df9"
+      "size": 32128896,
+      "sha256": "cbb1e5d3881ba0759ea55f8d7206524eb2d4d94e30b309539fcd5a00f2265e69"
     },
     {
       "url": "graphics-011.pck",

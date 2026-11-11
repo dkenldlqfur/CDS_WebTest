@@ -388,8 +388,8 @@
     },
     {
       "path": "assets/data/records/items.json",
-      "size": 66326,
-      "sha256": "71a8ff5aaced5e57464e5029cd53986286aff1ddb708c0af0b28ee6672645278"
+      "size": 78517,
+      "sha256": "53c438349629f6b729ef2787c77e403dd9ccc47bbfc114eaeaa789dfb18e37ea"
     },
     {
       "path": "assets/data/records/matrices.json",
@@ -409,7 +409,7 @@
     {
       "path": "assets/data/records/people.json",
       "size": 291652,
-      "sha256": "420b4387e6da343d603a4fc6220d9837a57c531772121dd69cbd5e844788d765"
+      "sha256": "441f6d8361e5bab88a39db3fc3efa93e9ea6c0fee72412f6603c261ba9052bb9"
     },
     {
       "path": "assets/data/records/regional_goods.json",
@@ -458,8 +458,8 @@
     },
     {
       "path": "assets/data/strings.ko.json",
-      "size": 1155246,
-      "sha256": "fb8361d126ea47529ba55aec91a93f706a8e4d109d4ba743315782b523832911"
+      "size": 1156291,
+      "sha256": "528df81399cd17bda75ccb3d3774c7dca5fb0a622b5a1dd41e332e3841b86d69"
     },
     {
       "path": "assets/sfx/WAVES_00.mp3",
@@ -1264,27 +1264,27 @@
     {
       "path": "assets-manifest.json",
       "size": 66709,
-      "sha256": "824ef0051da796ce075113be63cf835fd40a8e324d378d8ea523daf4f72581f2"
+      "sha256": "83aa8a7a8c6262265993efcea1f26fbc588c6d4cde369237683ce517334a85e0"
     },
     {
       "path": "build-version.json",
-      "size": 2685,
-      "sha256": "108fb0cdc1641c5c9ee83c872988922441c1311a8a1d56c7ce524f0b80badcd0"
+      "size": 2645,
+      "sha256": "24ae6517a801131a23c88510cb5bb8978d5d5ea0b5787b895d851068c547cb7d"
     },
     {
       "path": "cds_native.web.wasm",
-      "size": 9669028,
-      "sha256": "9a2d88e25536531591b9c771f0e9c0f1343be540a94fd818c1b7f2a8f52e374c"
+      "size": 9674440,
+      "sha256": "7a4ef07851350d1ed67795c6c44528f281df1d2f53a779d1fd4d6eb9e223c996"
     },
     {
       "path": "game-data.pck",
-      "size": 20257024,
-      "sha256": "676e316115e943de0af40b8f74a06d48620c5f5b3aaccac26fc721b14f612295"
+      "size": 20270256,
+      "sha256": "e352a37da5a2bc7ad31c4cc704fc65ab5c41f1628696c1c0fd1855129490975d"
     },
     {
       "path": "gameplay.pck",
-      "size": 1527028,
-      "sha256": "bcd18c454a44ddb8bf64695e6bfb1b55ed99d0e0cbb90bca91385f372d8424a9"
+      "size": 1550912,
+      "sha256": "db5d5763f58c291036a2f937a9d3d137e4b3bc926df2bf708b4eabb0408d02fb"
     },
     {
       "path": "graphics-001.pck",
@@ -1313,13 +1313,13 @@
     },
     {
       "path": "graphics-006.pck",
-      "size": 33535544,
-      "sha256": "2ec0fbaae0d854e891e5398acc8e730fde2902667ca7b5827bc9b05d00aaa942"
+      "size": 33488208,
+      "sha256": "8be580f052c3808b04c6df60113205bda2cdb33a6344775b641d48984221a1b0"
     },
     {
       "path": "graphics-007.pck",
-      "size": 32624604,
-      "sha256": "c8c72cd94011c483eb6c320fdad9609975f9ff837aed4fd5248959b87584aced"
+      "size": 33168156,
+      "sha256": "51f98666ef3739736abd6f6705a37634f016e73abf2e5e5132065aad3356d697"
     },
     {
       "path": "graphics-008.pck",
@@ -1333,8 +1333,8 @@
     },
     {
       "path": "graphics-010.pck",
-      "size": 32126368,
-      "sha256": "6e3301913dc216153f1fc2ae313200ea339e174c48111a2ba71eda6371ed5df9"
+      "size": 32128896,
+      "sha256": "cbb1e5d3881ba0759ea55f8d7206524eb2d4d94e30b309539fcd5a00f2265e69"
     },
     {
       "path": "graphics-011.pck",
@@ -1359,7 +1359,7 @@
     {
       "path": "index.html",
       "size": 27222,
-      "sha256": "e4fe85ca89dc538f84f64de43605c948a6fcca44809a28b78ccbac02e60de2ce"
+      "sha256": "690850175774d8e043781bb6853c97fd1eb972bf3087436a4dfd126af44a7b8b"
     },
     {
       "path": "index.icon.png",
@@ -1373,8 +1373,8 @@
     },
     {
       "path": "index.pck",
-      "size": 11301304,
-      "sha256": "0905425382161a5c0bc48619086832cad08d988e49fe012a1db4cda090e05f75"
+      "size": 11301896,
+      "sha256": "5c257a182618417ebf92255e600fa77eb9a9bccc2083e83b418056befc5b4e72"
     },
     {
       "path": "index.png",
@@ -1398,8 +1398,8 @@
     },
     {
       "path": "isolation-sw.js",
-      "size": 3362,
-      "sha256": "47f6adf8b870546d587b655258e1299a515b2fca10c55aefab523291fe9c60da"
+      "size": 2821,
+      "sha256": "6c9e322b5a976d4134c6d88c7ea5a8ce89ba3a24421413844c76cddc4a177463"
     },
     {
       "path": "LICENSE.DroidSans.txt",

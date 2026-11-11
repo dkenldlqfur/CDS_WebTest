@@ -1,19 +1,19 @@
 {
   "version": "1.2.1",
   "channel": "web-test",
-  "built_at": "2026-11-11T05:40:53.561330+00:00",
-  "pck_sha256": "0905425382161a5c0bc48619086832cad08d988e49fe012a1db4cda090e05f75",
-  "wasm_sha256": "9a2d88e25536531591b9c771f0e9c0f1343be540a94fd818c1b7f2a8f52e374c",
+  "built_at": "2026-11-11T14:31:04.421388+00:00",
+  "pck_sha256": "5c257a182618417ebf92255e600fa77eb9a9bccc2083e83b418056befc5b4e72",
+  "wasm_sha256": "7a4ef07851350d1ed67795c6c44528f281df1d2f53a779d1fd4d6eb9e223c996",
   "packs": [
     {
       "url": "index.pck",
-      "size": 11301304,
-      "sha256": "0905425382161a5c0bc48619086832cad08d988e49fe012a1db4cda090e05f75"
+      "size": 11301896,
+      "sha256": "5c257a182618417ebf92255e600fa77eb9a9bccc2083e83b418056befc5b4e72"
     },
     {
       "url": "gameplay.pck",
-      "size": 1527028,
-      "sha256": "bcd18c454a44ddb8bf64695e6bfb1b55ed99d0e0cbb90bca91385f372d8424a9"
+      "size": 1550912,
+      "sha256": "db5d5763f58c291036a2f937a9d3d137e4b3bc926df2bf708b4eabb0408d02fb"
     },
     {
       "url": "interface.pck",
@@ -22,8 +22,8 @@
     },
     {
       "url": "game-data.pck",
-      "size": 20257024,
-      "sha256": "676e316115e943de0af40b8f74a06d48620c5f5b3aaccac26fc721b14f612295"
+      "size": 20270256,
+      "sha256": "e352a37da5a2bc7ad31c4cc704fc65ab5c41f1628696c1c0fd1855129490975d"
     },
     {
       "url": "graphics-001.pck",
@@ -52,13 +52,13 @@
     },
     {
       "url": "graphics-006.pck",
-      "size": 33535544,
-      "sha256": "2ec0fbaae0d854e891e5398acc8e730fde2902667ca7b5827bc9b05d00aaa942"
+      "size": 33488208,
+      "sha256": "8be580f052c3808b04c6df60113205bda2cdb33a6344775b641d48984221a1b0"
     },
     {
       "url": "graphics-007.pck",
-      "size": 32624604,
-      "sha256": "c8c72cd94011c483eb6c320fdad9609975f9ff837aed4fd5248959b87584aced"
+      "size": 33168156,
+      "sha256": "51f98666ef3739736abd6f6705a37634f016e73abf2e5e5132065aad3356d697"
     },
     {
       "url": "graphics-008.pck",
@@ -72,14 +72,13 @@
     },
     {
       "url": "graphics-010.pck",
-      "size": 32126368,
-      "sha256": "6e3301913dc216153f1fc2ae313200ea339e174c48111a2ba71eda6371ed5df9"
+      "size": 32128896,
+      "sha256": "cbb1e5d3881ba0759ea55f8d7206524eb2d4d94e30b309539fcd5a00f2265e69"
     },
     {
       "url": "graphics-011.pck",
       "size": 8244300,
       "sha256": "3cdfb687b09fd6720dac1be18cc47cc444719b48717014d54c4df0fd94ffbb37"
     }
-  ],
-  "pack_delivery": "independent-pcks"
+  ]
 }
