@@ -1,7 +1,7 @@
 {
   "version": "1.2.1",
   "channel": "web-test",
-  "built_at": "2026-11-13T04:43:31.279648+00:00",
+  "built_at": "2026-11-13T05:18:49.631827+00:00",
   "source_commit": "8fd233bf627b35aaa3975cd541d0b155f9267721",
   "build_host": "Linux x86_64",
   "godot_version": "4.7.2.stable.official.ed1daf0bf",
@@ -16,7 +16,7 @@
     {
       "url": "gameplay.pck",
       "size": 1632352,
-      "sha256": "8fdaa303424294cfa78b270f1e82e3b9f0c4e0bc44d3e596c4234839359bf082"
+      "sha256": "75378f35f759e1c361351c1d5348697db8bd328c996775f443a3391b0d14dda3"
     },
     {
       "url": "interface.pck",
@@ -65,8 +65,8 @@
     },
     {
       "url": "graphics-008.pck",
-      "size": 33211888,
-      "sha256": "35ef8f8de937a2833524f8eeefd8569e96288bcf2eb3b23213ea3bee681d1684"
+      "size": 33209216,
+      "sha256": "0b10c6579ec7c8588489c2c94d6d7147ce24a9593d507a8509d41099d7c62e31"
     },
     {
       "url": "graphics-009.pck",
@@ -80,8 +80,8 @@
     },
     {
       "url": "graphics-011.pck",
-      "size": 23912064,
-      "sha256": "34bd3a7ffdaf7520d05db3d51eaded5ccf02ae7be5775742b1a6db95766338fe"
+      "size": 23912128,
+      "sha256": "69403b54a784340bb8ca39f96fee623f3848db80814119337d117d1837f64d57"
     }
   ],
   "source_dirty": true,
@@ -129,8 +129,8 @@
     "godot/assets/hint_illustrations/hint-19-2x.png": "b099fe65f2387bbc539256e230932abb2c0e273e44b383f88612d4b75928177b",
     "godot/assets/hint_illustrations/hint-19-2x.png.import": "140bc984390d8fbee60af99a05b47552cb7cc8e104ed2f28905898bac8c04829",
     "godot/assets/hint_illustrations/manifest.json": "b2ccb1d628b38b1985b90064bd60b88a3a5043b73fbaa2c8d45262c9f04834a0",
-    "godot/assets/openbook/manifest.json": "8ce529c5c28e249fa3e71ea69ae9028482cc2cd4eaf943d2c74bb4b1f3622655",
-    "godot/assets/openbook/openbook-atlas-2x.png": "c8089674ac6960c886e36e74c4e4d0c5a07e1b6d17df91ffd00102acfc45163b",
+    "godot/assets/openbook/manifest.json": "88a9db9ba14c56204e8b57d63ee655e5a744a854da1d659823bc6e1032852c45",
+    "godot/assets/openbook/openbook-atlas-2x.png": "5d3f2c2ebcc620b345491aa16842e42de316094b7d0a13a98e15f857366c8c5a",
     "godot/assets/openbook/openbook-atlas-2x.png.import": "fe19154697f65c0b2f4cb19c6453ef8fbcbddf3b42ea887220d79e10bb7ca299",
     "godot/data/strings.ko.json": "fea75488e47535b455e8d700481087a99fc80fe100e4a9a060f05dbaef2e53fe",
     "godot/data/verification.json": "45c94b91c724457d198e234ee846f5d913f2e2008d42191f18d6558ae63768b0",
@@ -158,7 +158,7 @@
     "restoration/tests/openbook_png_carrier_test.cpp": "75d0f6ba43211740072d6b21eae9f9213de9422f932ff3b2e5c4c24f02614a0c",
     "restoration/tools/build_distributions.py": "94079fe79a3a576dd93f78d11fd1656185d929ea4a20cd12a8ef8cea68b77266",
     "restoration/tools/extract_openbook_assets.py": "7352a5143a8b55447dbef6418ed313510b630f3e2149dfaaa598e3e4532cec24",
-    "restoration/tools/import_openbook_art.py": "d841c3342b6152416820a2965abfe0441094105c9f0ad2945c3f80d85a2cf9ec",
+    "restoration/tools/import_openbook_art.py": "2b4708e83dbc55137cb3cd84a00890d59cd1db19a69d1f23838cd7c8bf73783c",
     "restoration/tools/validate_audio_settings.py": "a8d27db6580fdb738a779235256509fd6dcbde9b6a13bf634c14123447084b49",
     "restoration/tools/validate_distributions.py": "957d0e1855c69319b2f72896c9b0def016e5aab05dab96ab7347ab17b7130f14",
     "restoration/tools/validate_native_viewport.py": "7f567003cad86f9811e2f2a900db931bfbd7c97b89d839e766eade8b9ffab5fb",
@@ -166,5 +166,5 @@
     "restoration/tools/validate_shutdown_routes.py": "a7a5ef5d1cccaaf2fc1eb2357e3270c05978b6aa626691289260ac8fb50bd4a1",
     "restoration/tools/validate_world_camera.py": "5f8a291e9ded84bafa7b601ddc9a5d523c3c5374459e92f5065bbad72f844581"
   },
-  "source_changes_sha256": "f0800f0f43fcbd960c6ae9842715d18ad8a10a70f613eeffc05db8b877ec41df"
+  "source_changes_sha256": "f1eec5ed282f9311f8719311260ac379fd98a0f3bc53eeb3bfe81bb18fb6bcff"
 }
