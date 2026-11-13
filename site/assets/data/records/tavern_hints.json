@@ -1,0 +1,2297 @@
+{
+  "schema_version": 2,
+  "records": [
+    {
+      "id": 0,
+      "user_added": 0,
+      "text_key": "exe.00580030",
+      "group": 0,
+      "cities": [
+        97,
+        99,
+        90,
+        -1
+      ]
+    },
+    {
+      "id": 1,
+      "user_added": 0,
+      "text_key": "exe.0057ffd8",
+      "group": 2,
+      "cities": [
+        108,
+        109,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 2,
+      "user_added": 0,
+      "text_key": "exe.0057ff74",
+      "group": 3,
+      "cities": [
+        155,
+        154,
+        157,
+        -1
+      ]
+    },
+    {
+      "id": 3,
+      "user_added": 0,
+      "text_key": "exe.0057ff2c",
+      "group": 4,
+      "cities": [
+        160,
+        161,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 4,
+      "user_added": 0,
+      "text_key": "exe.0057fef4",
+      "group": 9,
+      "cities": [
+        169,
+        168,
+        167,
+        -1
+      ]
+    },
+    {
+      "id": 5,
+      "user_added": 0,
+      "text_key": "exe.0057fe9c",
+      "group": 100,
+      "cities": [
+        12,
+        7,
+        0,
+        -1
+      ]
+    },
+    {
+      "id": 6,
+      "user_added": 0,
+      "text_key": "exe.0057fe70",
+      "group": 101,
+      "cities": [
+        178,
+        177,
+        176,
+        175
+      ]
+    },
+    {
+      "id": 7,
+      "user_added": 0,
+      "text_key": "exe.0057fe3c",
+      "group": 101,
+      "cities": [
+        179,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 8,
+      "user_added": 0,
+      "text_key": "exe.0057fdec",
+      "group": 102,
+      "cities": [
+        172,
+        171,
+        169,
+        -1
+      ]
+    },
+    {
+      "id": 9,
+      "user_added": 0,
+      "text_key": "exe.0057fd0c",
+      "group": 103,
+      "cities": [
+        200,
+        201,
+        203,
+        -1
+      ]
+    },
+    {
+      "id": 10,
+      "user_added": 0,
+      "text_key": "exe.0057fcc0",
+      "group": 104,
+      "cities": [
+        200,
+        203,
+        204,
+        -1
+      ]
+    },
+    {
+      "id": 11,
+      "user_added": 0,
+      "text_key": "exe.0057fc7c",
+      "group": 105,
+      "cities": [
+        200,
+        202,
+        205,
+        -1
+      ]
+    },
+    {
+      "id": 12,
+      "user_added": 0,
+      "text_key": "exe.0057fc4c",
+      "group": 106,
+      "cities": [
+        216,
+        217,
+        215,
+        0
+      ]
+    },
+    {
+      "id": 13,
+      "user_added": 0,
+      "text_key": "exe.0057fbd8",
+      "group": 107,
+      "cities": [
+        18,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 14,
+      "user_added": 0,
+      "text_key": "exe.0057fb9c",
+      "group": 107,
+      "cities": [
+        17,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 15,
+      "user_added": 0,
+      "text_key": "exe.0057fb60",
+      "group": 108,
+      "cities": [
+        38,
+        42,
+        41,
+        40
+      ]
+    },
+    {
+      "id": 16,
+      "user_added": 0,
+      "text_key": "exe.0057fb18",
+      "group": 108,
+      "cities": [
+        39,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 17,
+      "user_added": 0,
+      "text_key": "exe.0057fabc",
+      "group": 109,
+      "cities": [
+        72,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 18,
+      "user_added": 0,
+      "text_key": "exe.0057f9c4",
+      "group": 111,
+      "cities": [
+        72,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 19,
+      "user_added": 0,
+      "text_key": "exe.0057f970",
+      "group": 112,
+      "cities": [
+        74,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 20,
+      "user_added": 0,
+      "text_key": "exe.0057f93c",
+      "group": 113,
+      "cities": [
+        78,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 21,
+      "user_added": 0,
+      "text_key": "exe.0057f910",
+      "group": 113,
+      "cities": [
+        79,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 22,
+      "user_added": 0,
+      "text_key": "exe.0057f8a0",
+      "group": 115,
+      "cities": [
+        78,
+        79,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 23,
+      "user_added": 0,
+      "text_key": "exe.0057f868",
+      "group": 116,
+      "cities": [
+        78,
+        79,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 24,
+      "user_added": 0,
+      "text_key": "exe.0057f844",
+      "group": 116,
+      "cities": [
+        80,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 25,
+      "user_added": 0,
+      "text_key": "exe.0057f7c0",
+      "group": 118,
+      "cities": [
+        80,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 26,
+      "user_added": 0,
+      "text_key": "exe.0057f764",
+      "group": 119,
+      "cities": [
+        112,
+        117,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 27,
+      "user_added": 0,
+      "text_key": "exe.0057f724",
+      "group": 120,
+      "cities": [
+        127,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 28,
+      "user_added": 0,
+      "text_key": "exe.0057f6dc",
+      "group": 121,
+      "cities": [
+        129,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 29,
+      "user_added": 0,
+      "text_key": "exe.0057f67c",
+      "group": 122,
+      "cities": [
+        147,
+        146,
+        145,
+        -1
+      ]
+    },
+    {
+      "id": 30,
+      "user_added": 0,
+      "text_key": "exe.0057f62c",
+      "group": 123,
+      "cities": [
+        163,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 31,
+      "user_added": 0,
+      "text_key": "exe.0057f604",
+      "group": 125,
+      "cities": [
+        188,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 32,
+      "user_added": 0,
+      "text_key": "exe.0057f5dc",
+      "group": 125,
+      "cities": [
+        187,
+        185,
+        179,
+        174
+      ]
+    },
+    {
+      "id": 33,
+      "user_added": 0,
+      "text_key": "exe.0057f5b8",
+      "group": 126,
+      "cities": [
+        188,
+        189,
+        186,
+        187
+      ]
+    },
+    {
+      "id": 34,
+      "user_added": 0,
+      "text_key": "exe.0057f58c",
+      "group": 127,
+      "cities": [
+        184,
+        185,
+        186,
+        178
+      ]
+    },
+    {
+      "id": 35,
+      "user_added": 0,
+      "text_key": "exe.0057f564",
+      "group": 129,
+      "cities": [
+        190,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 36,
+      "user_added": 0,
+      "text_key": "exe.0057f4fc",
+      "group": 130,
+      "cities": [
+        193,
+        192,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 37,
+      "user_added": 0,
+      "text_key": "exe.0057f4b0",
+      "group": 132,
+      "cities": [
+        200,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 38,
+      "user_added": 0,
+      "text_key": "exe.0057f460",
+      "group": 134,
+      "cities": [
+        221,
+        219,
+        220,
+        -1
+      ]
+    },
+    {
+      "id": 39,
+      "user_added": 0,
+      "text_key": "exe.0057f430",
+      "group": 134,
+      "cities": [
+        224,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 40,
+      "user_added": 0,
+      "text_key": "exe.0057f3f4",
+      "group": 135,
+      "cities": [
+        223,
+        224,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 41,
+      "user_added": 0,
+      "text_key": "exe.0057f3a0",
+      "group": 136,
+      "cities": [
+        17,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 42,
+      "user_added": 0,
+      "text_key": "exe.0057f35c",
+      "group": 137,
+      "cities": [
+        17,
+        15,
+        14,
+        -1
+      ]
+    },
+    {
+      "id": 43,
+      "user_added": 0,
+      "text_key": "exe.0057f308",
+      "group": 141,
+      "cities": [
+        98,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 44,
+      "user_added": 0,
+      "text_key": "exe.0057f2cc",
+      "group": 141,
+      "cities": [
+        108,
+        105,
+        106,
+        -1
+      ]
+    },
+    {
+      "id": 45,
+      "user_added": 0,
+      "text_key": "exe.0057f280",
+      "group": 142,
+      "cities": [
+        117,
+        112,
+        73,
+        116
+      ]
+    },
+    {
+      "id": 46,
+      "user_added": 0,
+      "text_key": "exe.0057f22c",
+      "group": 144,
+      "cities": [
+        120,
+        79,
+        121,
+        119
+      ]
+    },
+    {
+      "id": 47,
+      "user_added": 0,
+      "text_key": "exe.0057f1fc",
+      "group": 145,
+      "cities": [
+        126,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 48,
+      "user_added": 0,
+      "text_key": "exe.0057f1bc",
+      "group": 146,
+      "cities": [
+        206,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 49,
+      "user_added": 0,
+      "text_key": "exe.0057f17c",
+      "group": 149,
+      "cities": [
+        206,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 50,
+      "user_added": 0,
+      "text_key": "exe.0057f120",
+      "group": 150,
+      "cities": [
+        119,
+        118,
+        121,
+        -1
+      ]
+    },
+    {
+      "id": 51,
+      "user_added": 0,
+      "text_key": "exe.0057f0b0",
+      "group": 152,
+      "cities": [
+        83,
+        82,
+        81,
+        85
+      ]
+    },
+    {
+      "id": 52,
+      "user_added": 0,
+      "text_key": "exe.0057f084",
+      "group": 153,
+      "cities": [
+        102,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 53,
+      "user_added": 0,
+      "text_key": "exe.0057f05c",
+      "group": 154,
+      "cities": [
+        147,
+        150,
+        148,
+        -1
+      ]
+    },
+    {
+      "id": 54,
+      "user_added": 0,
+      "text_key": "exe.0057f024",
+      "group": 155,
+      "cities": [
+        152,
+        154,
+        151,
+        150
+      ]
+    },
+    {
+      "id": 55,
+      "user_added": 0,
+      "text_key": "exe.0057efac",
+      "group": 156,
+      "cities": [
+        162,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 56,
+      "user_added": 0,
+      "text_key": "exe.0057ef74",
+      "group": 157,
+      "cities": [
+        162,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 57,
+      "user_added": 0,
+      "text_key": "exe.0057ef44",
+      "group": 158,
+      "cities": [
+        158,
+        157,
+        165,
+        174
+      ]
+    },
+    {
+      "id": 58,
+      "user_added": 0,
+      "text_key": "exe.0057ef0c",
+      "group": 160,
+      "cities": [
+        200,
+        203,
+        204,
+        -1
+      ]
+    },
+    {
+      "id": 59,
+      "user_added": 0,
+      "text_key": "exe.0057eed0",
+      "group": 161,
+      "cities": [
+        200,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 60,
+      "user_added": 0,
+      "text_key": "exe.0057ee88",
+      "group": 162,
+      "cities": [
+        225,
+        221,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 61,
+      "user_added": 0,
+      "text_key": "exe.0057ee44",
+      "group": 163,
+      "cities": [
+        218,
+        220,
+        219,
+        -1
+      ]
+    },
+    {
+      "id": 62,
+      "user_added": 0,
+      "text_key": "exe.0057edf0",
+      "group": 164,
+      "cities": [
+        225,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 63,
+      "user_added": 0,
+      "text_key": "exe.0057edb8",
+      "group": 200,
+      "cities": [
+        38,
+        39,
+        40,
+        -1
+      ]
+    },
+    {
+      "id": 64,
+      "user_added": 0,
+      "text_key": "exe.0057ed6c",
+      "group": 200,
+      "cities": [
+        41,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 65,
+      "user_added": 0,
+      "text_key": "exe.0057ed34",
+      "group": 201,
+      "cities": [
+        38,
+        41,
+        39,
+        40
+      ]
+    },
+    {
+      "id": 66,
+      "user_added": 0,
+      "text_key": "exe.0057ed10",
+      "group": 109,
+      "cities": [
+        29,
+        12,
+        36,
+        37
+      ]
+    },
+    {
+      "id": 67,
+      "user_added": 0,
+      "text_key": "exe.0057ecdc",
+      "group": 115,
+      "cities": [
+        80,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 68,
+      "user_added": 0,
+      "text_key": "exe.0057eca0",
+      "group": 206,
+      "cities": [
+        127,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 69,
+      "user_added": 0,
+      "text_key": "exe.0057ec44",
+      "group": 145,
+      "cities": [
+        112,
+        78,
+        118,
+        33
+      ]
+    },
+    {
+      "id": 70,
+      "user_added": 0,
+      "text_key": "exe.0057ebec",
+      "group": 121,
+      "cities": [
+        126,
+        130,
+        131,
+        128
+      ]
+    },
+    {
+      "id": 71,
+      "user_added": 0,
+      "text_key": "exe.0057eb74",
+      "group": 209,
+      "cities": [
+        130,
+        129,
+        127,
+        131
+      ]
+    },
+    {
+      "id": 72,
+      "user_added": 0,
+      "text_key": "exe.0057eb2c",
+      "group": 213,
+      "cities": [
+        187,
+        184,
+        186,
+        176
+      ]
+    },
+    {
+      "id": 73,
+      "user_added": 0,
+      "text_key": "exe.0057ead4",
+      "group": 214,
+      "cities": [
+        187,
+        185,
+        186,
+        184
+      ]
+    },
+    {
+      "id": 74,
+      "user_added": 0,
+      "text_key": "exe.0057ea98",
+      "group": 215,
+      "cities": [
+        174,
+        177,
+        178,
+        189
+      ]
+    },
+    {
+      "id": 75,
+      "user_added": 0,
+      "text_key": "exe.0057ea18",
+      "group": 216,
+      "cities": [
+        186,
+        185,
+        189,
+        -1
+      ]
+    },
+    {
+      "id": 76,
+      "user_added": 0,
+      "text_key": "exe.0057e9d0",
+      "group": 217,
+      "cities": [
+        192,
+        193,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 77,
+      "user_added": 0,
+      "text_key": "exe.0057e984",
+      "group": 219,
+      "cities": [
+        191,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 78,
+      "user_added": 0,
+      "text_key": "exe.0057e940",
+      "group": 161,
+      "cities": [
+        202,
+        200,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 79,
+      "user_added": 0,
+      "text_key": "exe.0057e8f8",
+      "group": 222,
+      "cities": [
+        218,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 80,
+      "user_added": 0,
+      "text_key": "exe.0057e870",
+      "group": 133,
+      "cities": [
+        207,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 81,
+      "user_added": 0,
+      "text_key": "exe.0057e7e0",
+      "group": 133,
+      "cities": [
+        200,
+        204,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 82,
+      "user_added": 0,
+      "text_key": "exe.0057e778",
+      "group": 224,
+      "cities": [
+        43,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 83,
+      "user_added": 0,
+      "text_key": "exe.0057e6e4",
+      "group": 225,
+      "cities": [
+        63,
+        69,
+        112,
+        113
+      ]
+    },
+    {
+      "id": 84,
+      "user_added": 0,
+      "text_key": "exe.0057e674",
+      "group": 142,
+      "cities": [
+        33,
+        73,
+        75,
+        118
+      ]
+    },
+    {
+      "id": 85,
+      "user_added": 0,
+      "text_key": "exe.0057e630",
+      "group": 227,
+      "cities": [
+        98,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 86,
+      "user_added": 0,
+      "text_key": "exe.0057e600",
+      "group": 300,
+      "cities": [
+        42,
+        41,
+        38,
+        -1
+      ]
+    },
+    {
+      "id": 87,
+      "user_added": 0,
+      "text_key": "exe.0057e5ac",
+      "group": 301,
+      "cities": [
+        68,
+        67,
+        64,
+        65
+      ]
+    },
+    {
+      "id": 88,
+      "user_added": 0,
+      "text_key": "exe.0057e57c",
+      "group": 112,
+      "cities": [
+        36,
+        37,
+        34,
+        71
+      ]
+    },
+    {
+      "id": 89,
+      "user_added": 0,
+      "text_key": "exe.0057e504",
+      "group": 303,
+      "cities": [
+        99,
+        97,
+        100,
+        -1
+      ]
+    },
+    {
+      "id": 90,
+      "user_added": 0,
+      "text_key": "exe.0057e490",
+      "group": 304,
+      "cities": [
+        111,
+        110,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 91,
+      "user_added": 0,
+      "text_key": "exe.0057e444",
+      "group": 305,
+      "cities": [
+        139,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 92,
+      "user_added": 0,
+      "text_key": "exe.0057e3e0",
+      "group": 309,
+      "cities": [
+        68,
+        67,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 93,
+      "user_added": 0,
+      "text_key": "exe.0057e368",
+      "group": 310,
+      "cities": [
+        100,
+        97,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 94,
+      "user_added": 0,
+      "text_key": "exe.0057e328",
+      "group": 311,
+      "cities": [
+        91,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 95,
+      "user_added": 0,
+      "text_key": "exe.0057e2d4",
+      "group": 312,
+      "cities": [
+        98,
+        91,
+        97,
+        -1
+      ]
+    },
+    {
+      "id": 96,
+      "user_added": 0,
+      "text_key": "exe.0057e270",
+      "group": 313,
+      "cities": [
+        100,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 97,
+      "user_added": 0,
+      "text_key": "exe.0057e218",
+      "group": 314,
+      "cities": [
+        101,
+        102,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 98,
+      "user_added": 0,
+      "text_key": "exe.0057e1b8",
+      "group": 315,
+      "cities": [
+        100,
+        99,
+        98,
+        101
+      ]
+    },
+    {
+      "id": 99,
+      "user_added": 0,
+      "text_key": "exe.0057e160",
+      "group": 317,
+      "cities": [
+        160,
+        161,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 100,
+      "user_added": 0,
+      "text_key": "exe.0057e0fc",
+      "group": 317,
+      "cities": [
+        202,
+        200,
+        201,
+        199
+      ]
+    },
+    {
+      "id": 101,
+      "user_added": 0,
+      "text_key": "exe.0057e0d0",
+      "group": 319,
+      "cities": [
+        170,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 102,
+      "user_added": 0,
+      "text_key": "exe.0057e084",
+      "group": 319,
+      "cities": [
+        155,
+        125,
+        148,
+        124
+      ]
+    },
+    {
+      "id": 103,
+      "user_added": 0,
+      "text_key": "exe.0057e008",
+      "group": 320,
+      "cities": [
+        219,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 104,
+      "user_added": 0,
+      "text_key": "exe.0057dfb4",
+      "group": 321,
+      "cities": [
+        99,
+        97,
+        98,
+        -1
+      ]
+    },
+    {
+      "id": 105,
+      "user_added": 0,
+      "text_key": "exe.0057df60",
+      "group": 322,
+      "cities": [
+        102,
+        103,
+        106,
+        105
+      ]
+    },
+    {
+      "id": 106,
+      "user_added": 0,
+      "text_key": "exe.0057df20",
+      "group": 323,
+      "cities": [
+        84,
+        83,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 107,
+      "user_added": 0,
+      "text_key": "exe.0057ded4",
+      "group": 324,
+      "cities": [
+        179,
+        180,
+        177,
+        174
+      ]
+    },
+    {
+      "id": 108,
+      "user_added": 0,
+      "text_key": "exe.0057de7c",
+      "group": 324,
+      "cities": [
+        182,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 109,
+      "user_added": 0,
+      "text_key": "exe.0057de0c",
+      "group": 325,
+      "cities": [
+        179,
+        178,
+        177,
+        -1
+      ]
+    },
+    {
+      "id": 110,
+      "user_added": 0,
+      "text_key": "exe.0057dd70",
+      "group": 326,
+      "cities": [
+        188,
+        187,
+        189,
+        186
+      ]
+    },
+    {
+      "id": 111,
+      "user_added": 0,
+      "text_key": "exe.0057dd40",
+      "group": 327,
+      "cities": [
+        171,
+        172,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 112,
+      "user_added": 0,
+      "text_key": "exe.0057dcec",
+      "group": 328,
+      "cities": [
+        171,
+        169,
+        172,
+        168
+      ]
+    },
+    {
+      "id": 113,
+      "user_added": 0,
+      "text_key": "exe.0057dc74",
+      "group": 331,
+      "cities": [
+        160,
+        164,
+        167,
+        166
+      ]
+    },
+    {
+      "id": 114,
+      "user_added": 0,
+      "text_key": "exe.0057dc30",
+      "group": 332,
+      "cities": [
+        207,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 115,
+      "user_added": 0,
+      "text_key": "exe.0057dbe8",
+      "group": 333,
+      "cities": [
+        161,
+        167,
+        168,
+        171
+      ]
+    },
+    {
+      "id": 116,
+      "user_added": 0,
+      "text_key": "exe.0057db94",
+      "group": 334,
+      "cities": [
+        67,
+        68,
+        64,
+        -1
+      ]
+    },
+    {
+      "id": 117,
+      "user_added": 0,
+      "text_key": "exe.0057db50",
+      "group": 336,
+      "cities": [
+        200,
+        203,
+        204,
+        -1
+      ]
+    },
+    {
+      "id": 118,
+      "user_added": 0,
+      "text_key": "exe.0057db18",
+      "group": 337,
+      "cities": [
+        221,
+        220,
+        219,
+        222
+      ]
+    },
+    {
+      "id": 119,
+      "user_added": 0,
+      "text_key": "exe.0057dabc",
+      "group": 338,
+      "cities": [
+        7,
+        194,
+        215,
+        206
+      ]
+    },
+    {
+      "id": 120,
+      "user_added": 0,
+      "text_key": "exe.0057da7c",
+      "group": 339,
+      "cities": [
+        79,
+        78,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 121,
+      "user_added": 0,
+      "text_key": "exe.0057da14",
+      "group": 340,
+      "cities": [
+        160,
+        166,
+        152,
+        124
+      ]
+    },
+    {
+      "id": 122,
+      "user_added": 0,
+      "text_key": "exe.0057d9c8",
+      "group": 342,
+      "cities": [
+        99,
+        100,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 123,
+      "user_added": 0,
+      "text_key": "exe.0057d984",
+      "group": 343,
+      "cities": [
+        7,
+        194,
+        215,
+        211
+      ]
+    },
+    {
+      "id": 124,
+      "user_added": 0,
+      "text_key": "exe.0057d938",
+      "group": 344,
+      "cities": [
+        174,
+        173,
+        164,
+        170
+      ]
+    },
+    {
+      "id": 125,
+      "user_added": 0,
+      "text_key": "exe.0057d8d4",
+      "group": 345,
+      "cities": [
+        205,
+        201,
+        204,
+        209
+      ]
+    },
+    {
+      "id": 126,
+      "user_added": 0,
+      "text_key": "exe.0057d894",
+      "group": 346,
+      "cities": [
+        215,
+        0,
+        212,
+        213
+      ]
+    },
+    {
+      "id": 127,
+      "user_added": 0,
+      "text_key": "exe.0057d844",
+      "group": 348,
+      "cities": [
+        100,
+        99,
+        98,
+        -1
+      ]
+    },
+    {
+      "id": 128,
+      "user_added": 0,
+      "text_key": "exe.0057d7cc",
+      "group": 349,
+      "cities": [
+        159,
+        157,
+        155,
+        160
+      ]
+    },
+    {
+      "id": 129,
+      "user_added": 0,
+      "text_key": "exe.0057d75c",
+      "group": 350,
+      "cities": [
+        192,
+        193,
+        191,
+        -1
+      ]
+    },
+    {
+      "id": 130,
+      "user_added": 0,
+      "text_key": "exe.0057d714",
+      "group": 351,
+      "cities": [
+        160,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 131,
+      "user_added": 0,
+      "text_key": "exe.0057d684",
+      "group": 353,
+      "cities": [
+        169,
+        171,
+        172,
+        170
+      ]
+    },
+    {
+      "id": 132,
+      "user_added": 0,
+      "text_key": "exe.0057d5f0",
+      "group": 354,
+      "cities": [
+        68,
+        67,
+        64,
+        66
+      ]
+    },
+    {
+      "id": 133,
+      "user_added": 0,
+      "text_key": "exe.0057d5b8",
+      "group": 355,
+      "cities": [
+        68,
+        67,
+        64,
+        66
+      ]
+    },
+    {
+      "id": 134,
+      "user_added": 0,
+      "text_key": "exe.0057d584",
+      "group": 356,
+      "cities": [
+        7,
+        215,
+        0,
+        194
+      ]
+    },
+    {
+      "id": 135,
+      "user_added": 0,
+      "text_key": "exe.0057d534",
+      "group": 357,
+      "cities": [
+        215,
+        7,
+        217,
+        194
+      ]
+    },
+    {
+      "id": 136,
+      "user_added": 0,
+      "text_key": "exe.0057d4bc",
+      "group": 358,
+      "cities": [
+        7,
+        0,
+        217,
+        215
+      ]
+    },
+    {
+      "id": 137,
+      "user_added": 0,
+      "text_key": "exe.0057d41c",
+      "group": 359,
+      "cities": [
+        130,
+        129,
+        128,
+        126
+      ]
+    },
+    {
+      "id": 138,
+      "user_added": 0,
+      "text_key": "exe.0057d3cc",
+      "group": 359,
+      "cities": [
+        188,
+        178,
+        186,
+        174
+      ]
+    },
+    {
+      "id": 139,
+      "user_added": 0,
+      "text_key": "exe.0057d388",
+      "group": 359,
+      "cities": [
+        184,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 140,
+      "user_added": 0,
+      "text_key": "exe.0057d340",
+      "group": 360,
+      "cities": [
+        28,
+        12,
+        1,
+        21
+      ]
+    },
+    {
+      "id": 141,
+      "user_added": 0,
+      "text_key": "exe.0057d2d8",
+      "group": 360,
+      "cities": [
+        70,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 142,
+      "user_added": 0,
+      "text_key": "exe.0057d28c",
+      "group": 362,
+      "cities": [
+        198,
+        210,
+        195,
+        211
+      ]
+    },
+    {
+      "id": 143,
+      "user_added": 0,
+      "text_key": "exe.0057d248",
+      "group": 400,
+      "cities": [
+        68,
+        67,
+        66,
+        -1
+      ]
+    },
+    {
+      "id": 144,
+      "user_added": 0,
+      "text_key": "exe.0057d214",
+      "group": 406,
+      "cities": [
+        192,
+        191,
+        193,
+        -1
+      ]
+    },
+    {
+      "id": 145,
+      "user_added": 0,
+      "text_key": "exe.0057d1d8",
+      "group": 500,
+      "cities": [
+        157,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 146,
+      "user_added": 0,
+      "text_key": "exe.0057d1a8",
+      "group": 501,
+      "cities": [
+        206,
+        204,
+        203,
+        -1
+      ]
+    },
+    {
+      "id": 147,
+      "user_added": 0,
+      "text_key": "exe.0057d184",
+      "group": 502,
+      "cities": [
+        212,
+        213,
+        210,
+        211
+      ]
+    },
+    {
+      "id": 148,
+      "user_added": 0,
+      "text_key": "exe.0057d160",
+      "group": 505,
+      "cities": [
+        152,
+        151,
+        150,
+        148
+      ]
+    },
+    {
+      "id": 149,
+      "user_added": 0,
+      "text_key": "exe.0057d138",
+      "group": 506,
+      "cities": [
+        200,
+        204,
+        202,
+        207
+      ]
+    },
+    {
+      "id": 150,
+      "user_added": 0,
+      "text_key": "exe.0057d0fc",
+      "group": 507,
+      "cities": [
+        124,
+        123,
+        109,
+        128
+      ]
+    },
+    {
+      "id": 151,
+      "user_added": 0,
+      "text_key": "exe.0057d0d4",
+      "group": 508,
+      "cities": [
+        174,
+        176,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 152,
+      "user_added": 0,
+      "text_key": "exe.0057d0ac",
+      "group": 509,
+      "cities": [
+        204,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 153,
+      "user_added": 0,
+      "text_key": "exe.0057d080",
+      "group": 511,
+      "cities": [
+        178,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 154,
+      "user_added": 0,
+      "text_key": "exe.0057d054",
+      "group": 513,
+      "cities": [
+        126,
+        128,
+        129,
+        125
+      ]
+    },
+    {
+      "id": 155,
+      "user_added": 0,
+      "text_key": "exe.0057d028",
+      "group": 515,
+      "cities": [
+        78,
+        82,
+        112,
+        121
+      ]
+    },
+    {
+      "id": 156,
+      "user_added": 0,
+      "text_key": "exe.0057cff0",
+      "group": 517,
+      "cities": [
+        0,
+        87,
+        88,
+        13
+      ]
+    },
+    {
+      "id": 157,
+      "user_added": 0,
+      "text_key": "exe.0057cfac",
+      "group": 518,
+      "cities": [
+        166,
+        167,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 158,
+      "user_added": 0,
+      "text_key": "exe.0057cf5c",
+      "group": 519,
+      "cities": [
+        160,
+        174,
+        191,
+        177
+      ]
+    },
+    {
+      "id": 159,
+      "user_added": 0,
+      "text_key": "exe.0057cf20",
+      "group": 520,
+      "cities": [
+        159,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 160,
+      "user_added": 0,
+      "text_key": "exe.0057cf00",
+      "group": 521,
+      "cities": [
+        108,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 161,
+      "user_added": 0,
+      "text_key": "exe.0057cea8",
+      "group": 522,
+      "cities": [
+        97,
+        91,
+        99,
+        89
+      ]
+    },
+    {
+      "id": 162,
+      "user_added": 0,
+      "text_key": "exe.0057ce70",
+      "group": 523,
+      "cities": [
+        157,
+        124,
+        102,
+        128
+      ]
+    },
+    {
+      "id": 163,
+      "user_added": 0,
+      "text_key": "exe.0057ce48",
+      "group": 524,
+      "cities": [
+        159,
+        160,
+        154,
+        125
+      ]
+    },
+    {
+      "id": 164,
+      "user_added": 0,
+      "text_key": "exe.0057cdf0",
+      "group": 526,
+      "cities": [
+        88,
+        89,
+        87,
+        -1
+      ]
+    },
+    {
+      "id": 165,
+      "user_added": 0,
+      "text_key": "exe.0057cdbc",
+      "group": 200,
+      "cities": [
+        7,
+        15,
+        1,
+        41
+      ]
+    },
+    {
+      "id": 166,
+      "user_added": 0,
+      "text_key": "exe.0057cd90",
+      "group": 201,
+      "cities": [
+        2,
+        17,
+        0,
+        -1
+      ]
+    },
+    {
+      "id": 167,
+      "user_added": 0,
+      "text_key": "exe.0057cd68",
+      "group": 109,
+      "cities": [
+        28,
+        74,
+        36,
+        12
+      ]
+    },
+    {
+      "id": 168,
+      "user_added": 0,
+      "text_key": "exe.0057cd30",
+      "group": 115,
+      "cities": [
+        83,
+        78,
+        81,
+        34
+      ]
+    },
+    {
+      "id": 169,
+      "user_added": 0,
+      "text_key": "exe.0057ccc8",
+      "group": 113,
+      "cities": [
+        79,
+        82,
+        118,
+        -1
+      ]
+    },
+    {
+      "id": 170,
+      "user_added": 0,
+      "text_key": "exe.0057cc98",
+      "group": 206,
+      "cities": [
+        118,
+        126,
+        121,
+        127
+      ]
+    },
+    {
+      "id": 171,
+      "user_added": 0,
+      "text_key": "exe.0057cc5c",
+      "group": 145,
+      "cities": [
+        126,
+        121,
+        128,
+        123
+      ]
+    },
+    {
+      "id": 172,
+      "user_added": 0,
+      "text_key": "exe.0057cc28",
+      "group": 121,
+      "cities": [
+        128,
+        126,
+        125,
+        -1
+      ]
+    },
+    {
+      "id": 173,
+      "user_added": 0,
+      "text_key": "exe.0057cc08",
+      "group": 209,
+      "cities": [
+        125,
+        124,
+        128,
+        -1
+      ]
+    },
+    {
+      "id": 174,
+      "user_added": 0,
+      "text_key": "exe.0057cbd4",
+      "group": 155,
+      "cities": [
+        154,
+        151,
+        155,
+        148
+      ]
+    },
+    {
+      "id": 175,
+      "user_added": 0,
+      "text_key": "exe.0057cba4",
+      "group": 156,
+      "cities": [
+        159,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 176,
+      "user_added": 0,
+      "text_key": "exe.0057cb48",
+      "group": 158,
+      "cities": [
+        177,
+        174,
+        173,
+        -1
+      ]
+    },
+    {
+      "id": 177,
+      "user_added": 0,
+      "text_key": "exe.0057cb0c",
+      "group": 213,
+      "cities": [
+        191,
+        190,
+        -1,
+        -1
+      ]
+    },
+    {
+      "id": 178,
+      "user_added": 0,
+      "text_key": "exe.0057cadc",
+      "group": 214,
+      "cities": [
+        174,
+        189,
+        178,
+        177
+      ]
+    },
+    {
+      "id": 179,
+      "user_added": 0,
+      "text_key": "exe.0057caa4",
+      "group": 215,
+      "cities": [
+        176,
+        175,
+        173,
+        165
+      ]
+    },
+    {
+      "id": 180,
+      "user_added": 0,
+      "text_key": "exe.0057ca68",
+      "group": 216,
+      "cities": [
+        174,
+        177,
+        178,
+        -1
+      ]
+    },
+    {
+      "id": 181,
+      "user_added": 0,
+      "text_key": "exe.0057ca3c",
+      "group": 217,
+      "cities": [
+        177,
+        174,
+        173,
+        176
+      ]
+    },
+    {
+      "id": 182,
+      "user_added": 0,
+      "text_key": "exe.0057c9f8",
+      "group": 122,
+      "cities": [
+        160,
+        157,
+        159,
+        -1
+      ]
+    },
+    {
+      "id": 183,
+      "user_added": 0,
+      "text_key": "exe.0057c9bc",
+      "group": 219,
+      "cities": [
+        177,
+        190,
+        178,
+        -1
+      ]
+    },
+    {
+      "id": 184,
+      "user_added": 0,
+      "text_key": "exe.0057c998",
+      "group": 222,
+      "cities": [
+        195,
+        194,
+        199,
+        198
+      ]
+    },
+    {
+      "id": 185,
+      "user_added": 0,
+      "text_key": "exe.0057c970",
+      "group": 133,
+      "cities": [
+        194,
+        196,
+        197,
+        198
+      ]
+    },
+    {
+      "id": 186,
+      "user_added": 0,
+      "text_key": "exe.0057c93c",
+      "group": 224,
+      "cities": [
+        38,
+        0,
+        7,
+        14
+      ]
+    },
+    {
+      "id": 187,
+      "user_added": 0,
+      "text_key": "exe.0057c8d0",
+      "group": 225,
+      "cities": [
+        44,
+        54,
+        63,
+        29
+      ]
+    },
+    {
+      "id": 188,
+      "user_added": 0,
+      "text_key": "exe.0057c858",
+      "group": 142,
+      "cities": [
+        0,
+        7,
+        14,
+        33
+      ]
+    },
+    {
+      "id": 189,
+      "user_added": 0,
+      "text_key": "exe.0057c820",
+      "group": 227,
+      "cities": [
+        84,
+        13,
+        85,
+        -1
+      ]
+    },
+    {
+      "id": 190,
+      "user_added": 0,
+      "text_key": "exe.0057c7dc",
+      "group": 527,
+      "cities": [
+        190,
+        178,
+        176,
+        174
+      ]
+    }
+  ]
+}

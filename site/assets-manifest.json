@@ -74,18 +74,18 @@
       "deferred": false
     },
     {
-      "url": "assets/core/HIST_EV.CDS",
-      "path": "/cds95/HIST_EV.CDS",
-      "size": 10151,
-      "sha256": "4e1869ef3d2b5529c021c2e44dfe64a9acf74aa69e7e846d051c240a2b256686",
-      "aliases": [],
-      "deferred": false
-    },
-    {
       "url": "assets/core/HISTCHR.CDS",
       "path": "/cds95/HISTCHR.CDS",
       "size": 17893,
       "sha256": "8c0ffc45981d25539b64cf7032d8dfbb15804ba6fcc3eb1b0bdb5b574a4f96bd",
+      "aliases": [],
+      "deferred": false
+    },
+    {
+      "url": "assets/core/HIST_EV.CDS",
+      "path": "/cds95/HIST_EV.CDS",
+      "size": 10151,
+      "sha256": "4e1869ef3d2b5529c021c2e44dfe64a9acf74aa69e7e846d051c240a2b256686",
       "aliases": [],
       "deferred": false
     },
@@ -281,8 +281,8 @@
     {
       "url": "assets/data/strings.ko.json",
       "path": "/cds95/data/strings.ko.json",
-      "size": 1156291,
-      "sha256": "528df81399cd17bda75ccb3d3774c7dca5fb0a622b5a1dd41e332e3841b86d69",
+      "size": 1161217,
+      "sha256": "6dbeda5f2b3fc7c3326c63698efc16d48380fc2fb41ff964735a12104004e64b",
       "aliases": [],
       "deferred": false
     },
@@ -353,8 +353,8 @@
     {
       "url": "assets/data/records/cities.json",
       "path": "/cds95/data/records/cities.json",
-      "size": 155106,
-      "sha256": "014ac9af08a31cca8bbce46bcbb8602824e598f11cdd74e9685a43555cd099d6",
+      "size": 162564,
+      "sha256": "8b78ab4f2b72ea99aefff75e947ca4c1ceb56fb0d3fc20a6b92bab7e2b11efc9",
       "aliases": [],
       "deferred": false
     },
@@ -479,6 +479,14 @@
       "deferred": false
     },
     {
+      "url": "assets/data/records/tavern_hints.json",
+      "path": "/cds95/data/records/tavern_hints.json",
+      "size": 36941,
+      "sha256": "0643edd2ea39ea025d14f1f170bfc516509c30293487543c560d9139058cd05f",
+      "aliases": [],
+      "deferred": false
+    },
+    {
       "url": "assets/data/records/taverns.json",
       "path": "/cds95/data/records/taverns.json",
       "size": 49037,
@@ -489,8 +497,8 @@
     {
       "url": "assets/data/records/world_catalog.json",
       "path": "/cds95/data/records/world_catalog.json",
-      "size": 146690,
-      "sha256": "bbf90248f6ddabe189434017dd08cb764a69656891deab995b98e877d3e831a3",
+      "size": 133812,
+      "sha256": "b2c0a7a6449410939e2f35f40f06f9fb2a193151c626b5020a1173cd8c28d95d",
       "aliases": [],
       "deferred": false
     },
@@ -2018,23 +2026,23 @@
   "packs": [
     {
       "url": "index.pck",
-      "size": 11875688,
-      "sha256": "0687e1a65ba878f16296eb0b554cf7059215cdada402e0255d07b04daefd0299"
+      "size": 11302536,
+      "sha256": "44a07f37846b813c919b4c6c304b108118a43ece8ed000ddb611859ec59d3bd8"
     },
     {
       "url": "gameplay.pck",
-      "size": 1550912,
-      "sha256": "4671f36c9faac9607a5de7172e97b2f79d2953bf922b95bb2bf9a76877bccaaa"
+      "size": 1625920,
+      "sha256": "5629cbacd0a453004f9b61ed21b9deb1702ceb26affea6e1d5a850b7f7530373"
     },
     {
       "url": "interface.pck",
-      "size": 1468456,
-      "sha256": "6a02d9ac43f608a879281898246a6a72279f4f3949a026307dae678e6d590dbd"
+      "size": 7325040,
+      "sha256": "4829ddbf4db08439931ce314dad4b47dc521bbca862aa3b71e3851bcc71141ba"
     },
     {
       "url": "game-data.pck",
-      "size": 20270256,
-      "sha256": "e352a37da5a2bc7ad31c4cc704fc65ab5c41f1628696c1c0fd1855129490975d"
+      "size": 20357260,
+      "sha256": "b0d667f5e1045f32262bfff9fa6e9784b02befb1fae3e0149864cc1f13e8c72a"
     },
     {
       "url": "graphics-001.pck",
@@ -2063,8 +2071,8 @@
     },
     {
       "url": "graphics-006.pck",
-      "size": 33488208,
-      "sha256": "8be580f052c3808b04c6df60113205bda2cdb33a6344775b641d48984221a1b0"
+      "size": 33470288,
+      "sha256": "514f8eb930f1e17e509549281ae4537f172cfcb467e595a14cf7172225fc9578"
     },
     {
       "url": "graphics-007.pck",
