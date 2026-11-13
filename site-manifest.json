@@ -247,11 +247,6 @@
       "sha256": "94a6a273afeb4b15e36dfc69ae3679d9c0dd37710c6216441332497dee3e6f1f"
     },
     {
-      "path": "assets/core/OPENBOOK.CDS",
-      "size": 896656,
-      "sha256": "e965ec7bddc7d16651600ef8d98f48d5df8ac80949953642fdc7a893734d2b6a"
-    },
-    {
       "path": "assets/core/PCQ.CDS",
       "size": 10622,
       "sha256": "2949b6a4da5b6ab11c97ecd180de9d13097563ec806542798b18331b68b4e5f9"
@@ -1273,28 +1268,28 @@
     },
     {
       "path": "assets-manifest.json",
-      "size": 64886,
-      "sha256": "0885164b1c2f29d1a10e64482c62edb5fd39f96d68142ea899ddecebe907cc22"
+      "size": 64608,
+      "sha256": "5b6efdc5ab077d618943c17ccb12fcbffbd2aca77ba759ac213d28ca348eece7"
     },
     {
       "path": "build-version.json",
-      "size": 4111,
-      "sha256": "0eb954a0f43431f1db795e6c08af5404b522e3527ac2a303ac6db3cfcd1a788c"
+      "size": 12238,
+      "sha256": "79af72e54cb53f51938fc6ee7e2c6b78426dc00250a8fe1407209c4c0cd07f16"
     },
     {
       "path": "cds_native.web.wasm",
-      "size": 9744405,
-      "sha256": "4d9349911edb5bf82e99a1afd51f3dbbfdece04bcfb428fe985cd4ae1f67b78b"
+      "size": 9745565,
+      "sha256": "d96de3ac82e61b6b1bd0e9bb6fd2c6e8c3e9a518e18bd78ea36155ff52bfa052"
     },
     {
       "path": "game-data.pck",
-      "size": 20357580,
-      "sha256": "06d2d0eee68346b9de389127158d5c24e42ddd1a0065215d965cfd877d5d3475"
+      "size": 20351644,
+      "sha256": "91cf8017caed99daab24d8a7dd00874aa133361a1b29a6d4f12b0f27d66041fd"
     },
     {
       "path": "gameplay.pck",
-      "size": 1628768,
-      "sha256": "eddab067234aea9082beeac620e9e4a9e2a7ff8db9f26855cfa0a20983243163"
+      "size": 1632352,
+      "sha256": "8fdaa303424294cfa78b270f1e82e3b9f0c4e0bc44d3e596c4234839359bf082"
     },
     {
       "path": "graphics-001.pck",
@@ -1323,33 +1318,33 @@
     },
     {
       "path": "graphics-006.pck",
-      "size": 33470288,
-      "sha256": "514f8eb930f1e17e509549281ae4537f172cfcb467e595a14cf7172225fc9578"
+      "size": 33531016,
+      "sha256": "e76bae8dd0c64fa278cacbacfdbe4353a6e772ed8d6577bbac5eeb90a6a4335d"
     },
     {
       "path": "graphics-007.pck",
-      "size": 33168156,
-      "sha256": "51f98666ef3739736abd6f6705a37634f016e73abf2e5e5132065aad3356d697"
+      "size": 33503924,
+      "sha256": "bdbb0e137e2fbae4f315b2f18faab5cb87c3929216e2a860f1aa2885fb4caadc"
     },
     {
       "path": "graphics-008.pck",
-      "size": 33539424,
-      "sha256": "58967c70c2bf253fce1c5f2ac6e113051bee43c6268012d8787f012d17c462fc"
+      "size": 33211888,
+      "sha256": "35ef8f8de937a2833524f8eeefd8569e96288bcf2eb3b23213ea3bee681d1684"
     },
     {
       "path": "graphics-009.pck",
-      "size": 33356948,
-      "sha256": "0747efe404fc3ed3139d75c9a4b2bdf9575e8af12c55019fb68daefd5a14f1f9"
+      "size": 33387820,
+      "sha256": "54584330514b0249aea542a894de0f5af3cca1bff393a3529a386995fdbb844d"
     },
     {
       "path": "graphics-010.pck",
-      "size": 32128896,
-      "sha256": "cbb1e5d3881ba0759ea55f8d7206524eb2d4d94e30b309539fcd5a00f2265e69"
+      "size": 25661268,
+      "sha256": "6b757490d8b298f6765c6e9f16c40ea1b3babd31b2cf69f72e6ffb1aa77454ae"
     },
     {
       "path": "graphics-011.pck",
-      "size": 8244300,
-      "sha256": "3cdfb687b09fd6720dac1be18cc47cc444719b48717014d54c4df0fd94ffbb37"
+      "size": 23912064,
+      "sha256": "34bd3a7ffdaf7520d05db3d51eaded5ccf02ae7be5775742b1a6db95766338fe"
     },
     {
       "path": "index.apple-touch-icon.png",
@@ -1369,7 +1364,7 @@
     {
       "path": "index.html",
       "size": 29710,
-      "sha256": "7ea86b548222783c77793abc9ee7943e51a5b6434a8e8a8f9ee8c68237899312"
+      "sha256": "64374fd649a50b9fd71b7573231aac322e1a376306e3146a5aa0d4c86de6dc54"
     },
     {
       "path": "index.icon.png",
@@ -1383,8 +1378,8 @@
     },
     {
       "path": "index.pck",
-      "size": 11302536,
-      "sha256": "2e45dab956e2003f0402371cff9ab015bda7f5d3b5f128192098d2a73a5744d9"
+      "size": 11303832,
+      "sha256": "f66d7196207c7f0a0aff622c6a8554baf80f33c2feb502e82389a2a280ec4cac"
     },
     {
       "path": "index.png",
@@ -1404,7 +1399,7 @@
     {
       "path": "interface.pck",
       "size": 7325040,
-      "sha256": "4829ddbf4db08439931ce314dad4b47dc521bbca862aa3b71e3851bcc71141ba"
+      "sha256": "04fa657be11aa6bcc1be8aa535ba4de146014f1f0c10526b21063aa8e4ef6454"
     },
     {
       "path": "isolation-sw.js",

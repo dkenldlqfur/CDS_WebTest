@@ -1,32 +1,32 @@
 {
   "version": "1.2.1",
   "channel": "web-test",
-  "built_at": "2026-11-13T02:10:52.808802+00:00",
+  "built_at": "2026-11-13T04:43:31.279648+00:00",
   "source_commit": "8fd233bf627b35aaa3975cd541d0b155f9267721",
   "build_host": "Linux x86_64",
   "godot_version": "4.7.2.stable.official.ed1daf0bf",
-  "pck_sha256": "2e45dab956e2003f0402371cff9ab015bda7f5d3b5f128192098d2a73a5744d9",
-  "wasm_sha256": "4d9349911edb5bf82e99a1afd51f3dbbfdece04bcfb428fe985cd4ae1f67b78b",
+  "pck_sha256": "f66d7196207c7f0a0aff622c6a8554baf80f33c2feb502e82389a2a280ec4cac",
+  "wasm_sha256": "d96de3ac82e61b6b1bd0e9bb6fd2c6e8c3e9a518e18bd78ea36155ff52bfa052",
   "packs": [
     {
       "url": "index.pck",
-      "size": 11302536,
-      "sha256": "2e45dab956e2003f0402371cff9ab015bda7f5d3b5f128192098d2a73a5744d9"
+      "size": 11303832,
+      "sha256": "f66d7196207c7f0a0aff622c6a8554baf80f33c2feb502e82389a2a280ec4cac"
     },
     {
       "url": "gameplay.pck",
-      "size": 1628768,
-      "sha256": "eddab067234aea9082beeac620e9e4a9e2a7ff8db9f26855cfa0a20983243163"
+      "size": 1632352,
+      "sha256": "8fdaa303424294cfa78b270f1e82e3b9f0c4e0bc44d3e596c4234839359bf082"
     },
     {
       "url": "interface.pck",
       "size": 7325040,
-      "sha256": "4829ddbf4db08439931ce314dad4b47dc521bbca862aa3b71e3851bcc71141ba"
+      "sha256": "04fa657be11aa6bcc1be8aa535ba4de146014f1f0c10526b21063aa8e4ef6454"
     },
     {
       "url": "game-data.pck",
-      "size": 20357580,
-      "sha256": "06d2d0eee68346b9de389127158d5c24e42ddd1a0065215d965cfd877d5d3475"
+      "size": 20351644,
+      "sha256": "91cf8017caed99daab24d8a7dd00874aa133361a1b29a6d4f12b0f27d66041fd"
     },
     {
       "url": "graphics-001.pck",
@@ -55,48 +55,116 @@
     },
     {
       "url": "graphics-006.pck",
-      "size": 33470288,
-      "sha256": "514f8eb930f1e17e509549281ae4537f172cfcb467e595a14cf7172225fc9578"
+      "size": 33531016,
+      "sha256": "e76bae8dd0c64fa278cacbacfdbe4353a6e772ed8d6577bbac5eeb90a6a4335d"
     },
     {
       "url": "graphics-007.pck",
-      "size": 33168156,
-      "sha256": "51f98666ef3739736abd6f6705a37634f016e73abf2e5e5132065aad3356d697"
+      "size": 33503924,
+      "sha256": "bdbb0e137e2fbae4f315b2f18faab5cb87c3929216e2a860f1aa2885fb4caadc"
     },
     {
       "url": "graphics-008.pck",
-      "size": 33539424,
-      "sha256": "58967c70c2bf253fce1c5f2ac6e113051bee43c6268012d8787f012d17c462fc"
+      "size": 33211888,
+      "sha256": "35ef8f8de937a2833524f8eeefd8569e96288bcf2eb3b23213ea3bee681d1684"
     },
     {
       "url": "graphics-009.pck",
-      "size": 33356948,
-      "sha256": "0747efe404fc3ed3139d75c9a4b2bdf9575e8af12c55019fb68daefd5a14f1f9"
+      "size": 33387820,
+      "sha256": "54584330514b0249aea542a894de0f5af3cca1bff393a3529a386995fdbb844d"
     },
     {
       "url": "graphics-010.pck",
-      "size": 32128896,
-      "sha256": "cbb1e5d3881ba0759ea55f8d7206524eb2d4d94e30b309539fcd5a00f2265e69"
+      "size": 25661268,
+      "sha256": "6b757490d8b298f6765c6e9f16c40ea1b3babd31b2cf69f72e6ffb1aa77454ae"
     },
     {
       "url": "graphics-011.pck",
-      "size": 8244300,
-      "sha256": "3cdfb687b09fd6720dac1be18cc47cc444719b48717014d54c4df0fd94ffbb37"
+      "size": 23912064,
+      "sha256": "34bd3a7ffdaf7520d05db3d51eaded5ccf02ae7be5775742b1a6db95766338fe"
     }
   ],
   "source_dirty": true,
   "source_changes": {
+    "OPENBOOK.CDS": null,
+    "godot/README.md": "8950a75542cf1e0574f75942af57f54193870efb242a69c5b7c70f99af26b4be",
+    "godot/assets/hint_illustrations/hint-00-2x.png": "5e6aebc6004db5e283b74df02db3a30f837b6dff8ee4ec8e9c11fedeaf48bd96",
+    "godot/assets/hint_illustrations/hint-00-2x.png.import": "b58a117c229543d8f995513364c75fece1175dec20a78b6e01343162c2003130",
+    "godot/assets/hint_illustrations/hint-01-2x.png": "7be5a1b61f38d962662bbc01268ac824abadc430776eda5b5ad3ebce021f69e4",
+    "godot/assets/hint_illustrations/hint-01-2x.png.import": "09090ccb3169fa31b82569d59050f4ebd7766cc97c874af2df627b49043add62",
+    "godot/assets/hint_illustrations/hint-02-2x.png": "3dddd36a2fa9cef1a538e5971604b8efc155e5844a30e8d56f9b5be8de188f4d",
+    "godot/assets/hint_illustrations/hint-02-2x.png.import": "60c0950c078b6b6863c33fe201c92d92dd0ecac06814d188974ffbe74f313ad7",
+    "godot/assets/hint_illustrations/hint-03-2x.png": "dd930f90c4e9dfc2bbdcad64ffe71534a6a3fdbf41e2c6066b0f7a04456396c1",
+    "godot/assets/hint_illustrations/hint-03-2x.png.import": "39ce099d0b67265fee79666536fc586961cb61cebc8a61e76b28ee2155437066",
+    "godot/assets/hint_illustrations/hint-04-2x.png": "e031072a449060afc1c992ab8e4a72b4c3cdf371ab425b634c55e3a6a72d1088",
+    "godot/assets/hint_illustrations/hint-04-2x.png.import": "1a122e54e2e88b2ab476142832ce67d408902b7820b3f8cbc8430de4ed19112f",
+    "godot/assets/hint_illustrations/hint-05-2x.png": "b2fe5a3367db323439b054e09d33e241db27e29cf69cba5c5591ec80abac81bb",
+    "godot/assets/hint_illustrations/hint-05-2x.png.import": "bbcf8182ac3ec946229af9e4592243e4e6bc9554a62f11413af70fb9c4409d0b",
+    "godot/assets/hint_illustrations/hint-06-2x.png": "90cecd37ee4b146cd0f3f3072c45436be061f719901cad2c06de1a04a2926edc",
+    "godot/assets/hint_illustrations/hint-06-2x.png.import": "fc25e549c362c4344daa3366fd498af6daf40d1c19dc2fe0682dcbed0037c10d",
+    "godot/assets/hint_illustrations/hint-07-2x.png": "e7be1c5d85fb795066443686b131da3a3a6118b73a3de7392f875f7cbc1d0b79",
+    "godot/assets/hint_illustrations/hint-07-2x.png.import": "6effdd4c0447a5c7b4b3e127efe2712af917b6f4e9d69bb63c3c27e3f23e4745",
+    "godot/assets/hint_illustrations/hint-08-2x.png": "152f9e14c60580786db1130b90aefd8633660ae1f66853fade08f07f672f0dd4",
+    "godot/assets/hint_illustrations/hint-08-2x.png.import": "ca351c55885ba135083090c085ac5b0155fc1f43e53c5103a394faf03cf67b0c",
+    "godot/assets/hint_illustrations/hint-09-2x.png": "2c838137148799eb35808c48280f1cc4fb34f9a21e4d20dc638bfec6c039d02b",
+    "godot/assets/hint_illustrations/hint-09-2x.png.import": "8b037ee0bd825bb0fa2d5a1da601aed4e5ed5f52cabb2646fd5e5cf630716ac7",
+    "godot/assets/hint_illustrations/hint-10-2x.png": "6b3e868ea4ed4837f540566d4a4b8823f5635376d2e3e83326e01c04842080a3",
+    "godot/assets/hint_illustrations/hint-10-2x.png.import": "eaaab41ccf0175ee5abfb5d878cce2764af62d50be75e9d2fd84e57d78012c82",
+    "godot/assets/hint_illustrations/hint-11-2x.png": "b5ad2ce306f86ce94d7cd2dac44135ca6f536f982bcf3f12526cc300d09f91be",
+    "godot/assets/hint_illustrations/hint-11-2x.png.import": "1062bd70ec6634561e6c823e52060321859cb3557b25006bdf9d81d5c9e8680b",
+    "godot/assets/hint_illustrations/hint-12-2x.png": "5ef3b57be69b61e5e1c958304442a47caebc16a5b18d4482047b55263e7c90d3",
+    "godot/assets/hint_illustrations/hint-12-2x.png.import": "e2b62350b51b45632ed10a8ab91fec5b447fd714d67f1b31cc42e5f32d3909c1",
+    "godot/assets/hint_illustrations/hint-13-2x.png": "90434dc71c97af772ef6c47d589323194b8369c8c5f52354caf6669698087cc4",
+    "godot/assets/hint_illustrations/hint-13-2x.png.import": "805f8c0f3b5bb53b93eb09a777a87d6eb274e5f2fdf446d6ec3c85079fc1f13f",
+    "godot/assets/hint_illustrations/hint-14-2x.png": "b7d1f45fbc84b9fc9e8f0d8fd4e317bcab359343bee81d6fb1c8ef14ed7e40be",
+    "godot/assets/hint_illustrations/hint-14-2x.png.import": "1ca2d7deae64e685c87f85ecdaf7a4ea1d931c21bed2c4d0fdb44bd5e839875e",
+    "godot/assets/hint_illustrations/hint-15-2x.png": "06d5282ef0ed8605c4f9b9cc38779bfb702a30e8527c5c806e9bd6d2e887176d",
+    "godot/assets/hint_illustrations/hint-15-2x.png.import": "00dbedb66fa4664570844be0a34c2bb396da15f9da4067a36924d9002155bf9e",
+    "godot/assets/hint_illustrations/hint-16-2x.png": "15c5e3f103bbfa12b2a0ee5abf159ce8508729d2c330cbe97fcde05697e4ae4f",
+    "godot/assets/hint_illustrations/hint-16-2x.png.import": "af4f0cce79341ccb5bd13a31b1cf768d2fef06031e226df6afbf8ced5e13d854",
+    "godot/assets/hint_illustrations/hint-17-2x.png": "a3984b3ccb1b84b719da04775376f1f12fa59f7c9d0cc0c4eb23d956c03065a4",
+    "godot/assets/hint_illustrations/hint-17-2x.png.import": "2cb354857a507e7ef599648c2ed6f9ccbca2e73b06c731b8d584acf4e86c4bb3",
+    "godot/assets/hint_illustrations/hint-18-2x.png": "58529005b04911fc9064534dad222fe0717ad9a9024fb15900d579bdd1fcd7d4",
+    "godot/assets/hint_illustrations/hint-18-2x.png.import": "c65d0d6361e90e0e6aef9d6eef87ca46d33c6e2d1ff5017c7016bfa41afa8c09",
+    "godot/assets/hint_illustrations/hint-19-2x.png": "b099fe65f2387bbc539256e230932abb2c0e273e44b383f88612d4b75928177b",
+    "godot/assets/hint_illustrations/hint-19-2x.png.import": "140bc984390d8fbee60af99a05b47552cb7cc8e104ed2f28905898bac8c04829",
+    "godot/assets/hint_illustrations/manifest.json": "b2ccb1d628b38b1985b90064bd60b88a3a5043b73fbaa2c8d45262c9f04834a0",
+    "godot/assets/openbook/manifest.json": "8ce529c5c28e249fa3e71ea69ae9028482cc2cd4eaf943d2c74bb4b1f3622655",
+    "godot/assets/openbook/openbook-atlas-2x.png": "c8089674ac6960c886e36e74c4e4d0c5a07e1b6d17df91ffd00102acfc45163b",
+    "godot/assets/openbook/openbook-atlas-2x.png.import": "fe19154697f65c0b2f4cb19c6453ef8fbcbddf3b42ea887220d79e10bb7ca299",
     "godot/data/strings.ko.json": "fea75488e47535b455e8d700481087a99fc80fe100e4a9a060f05dbaef2e53fe",
+    "godot/data/verification.json": "45c94b91c724457d198e234ee846f5d913f2e2008d42191f18d6558ae63768b0",
+    "godot/native/openbook_legacy.inc": "fedce6c181a1f1d67356608d399b11fd1ff4a6fd57db75465bdf4e1265b5db9a",
+    "godot/native/openbook_png_carrier.h": "35854e90547a23ee2d74c353a876447c582f1c53a3abf4bbae6fb3a1ce5a0115",
+    "godot/native/world_runtime_bookshelf.cpp": "8619497e4c1be21dd6c2919fc924d0a31b2851b557bcdf4f7a24ceac5e4750f8",
+    "godot/native/world_runtime_bridge.cpp": "315933ed27f14adf2a423a6b49bad31d24d144fe3d7ed6efcfc7b4e3095ff6ee",
+    "godot/native/world_runtime_form_scenes.h": "e63bde53503f62d61ad93aed104868bbc5322b14436eb874ebeccb44e93c97f1",
+    "godot/native/world_runtime_godot_host.cpp": "6bb2f0a72b58a59e4659d8d96e41b73026cb5e8ffa5621dd8708c6cb869e0285",
+    "godot/runtime/hd_hint_illustrations.gd": "fe3318f7f0ea91a39d5a676a9038d8635225e7393969eddbc727270d2e67578e",
+    "godot/runtime/hd_hint_illustrations.gd.uid": "beaab9e9e7bd5c85cd5792558ee8069009891f6c61471b085629ebfc801c50a2",
+    "godot/runtime/hd_openbook.gd": "af0953f0e5b11508a01391c62d9ce35ae62fe891e1d5a9b753291fcc79d815ef",
+    "godot/runtime/hd_openbook.gd.uid": "6f47fb9eb6040c40325327b0a8a1a1f1770acb4d798ba421908653aeec84a93a",
+    "godot/runtime/information_scene_data.gd": "368ff5b765ccd27c7c0871bd53f51872dc656f68e00528fd8a5050b3d6e4e5d0",
+    "godot/scenes/book_reader_popup.gd": "fba6c2e37d1d4e3adf8926bd5091d175c170b47131631c4d5d71ffd24bf49aa3",
     "godot/scenes/discovery_editor_list.gd": "e856311a093052ef0444b3900bb3f66cdd9fd050638f0120873b077dc33c4310",
     "godot/scenes/hint_editor.gd": "e509965f2b4e07f00099dbedcd7f3e296867981ef22016dd0563a87f73561f13",
     "godot/scenes/main_menu_popup.gd": "92662109e1203b55faa05fcc6e4d2cb9a8d0478fdf994215c28afdd0ec58b46c",
     "godot/tests/verify_hint_editor_flow.gd": "be8756a1defdf2ef6ee054a6bc2369a1bc995c14339d4f42512c3591d9d32643",
     "godot/tests/verify_hint_editor_flow.gd.uid": "6418564c6b041904f652386f1be957ae9626605f7a79ef2e8389c1788ecc53f6",
+    "godot/tests/verify_openbook_art.gd": "c6912b22da0f384492766b3696a4c2b7fb6f6aa3d0a8b113577ac1140e3ad4e1",
+    "godot/tests/verify_openbook_art.gd.uid": "54ebddb1fca9cda84003b1c545e06f9029398527c0a5e9d7648418d2b6a6107c",
+    "restoration/analysis/hint-descriptor-fields.json": "f32cc16ad83a1ec252260c8f239239a8cf149bed5ada8b8315b4b4444094c4d7",
+    "restoration/analysis/openbook-archive.json": "2e39e86f795373243822ce9babcd8638c0c9fc5ff7e3ae526196917e9d4d3e6d",
+    "restoration/tests/openbook_png_carrier_test.cpp": "75d0f6ba43211740072d6b21eae9f9213de9422f932ff3b2e5c4c24f02614a0c",
+    "restoration/tools/build_distributions.py": "94079fe79a3a576dd93f78d11fd1656185d929ea4a20cd12a8ef8cea68b77266",
+    "restoration/tools/extract_openbook_assets.py": "7352a5143a8b55447dbef6418ed313510b630f3e2149dfaaa598e3e4532cec24",
+    "restoration/tools/import_openbook_art.py": "d841c3342b6152416820a2965abfe0441094105c9f0ad2945c3f80d85a2cf9ec",
     "restoration/tools/validate_audio_settings.py": "a8d27db6580fdb738a779235256509fd6dcbde9b6a13bf634c14123447084b49",
-    "restoration/tools/validate_distributions.py": "889b5bcc6035e59b7cc01d6faa3b0aff551a35a7d137bb74b0934b35eeebcbd8",
+    "restoration/tools/validate_distributions.py": "957d0e1855c69319b2f72896c9b0def016e5aab05dab96ab7347ab17b7130f14",
     "restoration/tools/validate_native_viewport.py": "7f567003cad86f9811e2f2a900db931bfbd7c97b89d839e766eade8b9ffab5fb",
+    "restoration/tools/validate_openbook_art.py": "f833bb4fd8b75d3b9a932cd8d9f5efc1852f794846d852d4ae290e967fc7f4ae",
     "restoration/tools/validate_shutdown_routes.py": "a7a5ef5d1cccaaf2fc1eb2357e3270c05978b6aa626691289260ac8fb50bd4a1",
     "restoration/tools/validate_world_camera.py": "5f8a291e9ded84bafa7b601ddc9a5d523c3c5374459e92f5065bbad72f844581"
   },
-  "source_changes_sha256": "dc9037eb63f43f27fdff29d88a20eb4d767dd1b9403d48979aa445da78aeeb15"
+  "source_changes_sha256": "f0800f0f43fcbd960c6ae9842715d18ad8a10a70f613eeffc05db8b877ec41df"
 }
