@@ -468,8 +468,8 @@
     },
     {
       "path": "assets/data/strings.ko.json",
-      "size": 1161217,
-      "sha256": "6dbeda5f2b3fc7c3326c63698efc16d48380fc2fb41ff964735a12104004e64b"
+      "size": 1161545,
+      "sha256": "fea75488e47535b455e8d700481087a99fc80fe100e4a9a060f05dbaef2e53fe"
     },
     {
       "path": "assets/sfx/WAVES_00.mp3",
@@ -1274,12 +1274,12 @@
     {
       "path": "assets-manifest.json",
       "size": 64886,
-      "sha256": "4eebeb00a4a395a677f7401a682a044538f025f12e75214607f8b05f75457cb0"
+      "sha256": "0885164b1c2f29d1a10e64482c62edb5fd39f96d68142ea899ddecebe907cc22"
     },
     {
       "path": "build-version.json",
-      "size": 2710,
-      "sha256": "f9f49e4ed4f328e229889a70ebc265864a7e4d7035dd8ba16768d3bb4af3967f"
+      "size": 4111,
+      "sha256": "0eb954a0f43431f1db795e6c08af5404b522e3527ac2a303ac6db3cfcd1a788c"
     },
     {
       "path": "cds_native.web.wasm",
@@ -1288,13 +1288,13 @@
     },
     {
       "path": "game-data.pck",
-      "size": 20357260,
-      "sha256": "b0d667f5e1045f32262bfff9fa6e9784b02befb1fae3e0149864cc1f13e8c72a"
+      "size": 20357580,
+      "sha256": "06d2d0eee68346b9de389127158d5c24e42ddd1a0065215d965cfd877d5d3475"
     },
     {
       "path": "gameplay.pck",
-      "size": 1625920,
-      "sha256": "5629cbacd0a453004f9b61ed21b9deb1702ceb26affea6e1d5a850b7f7530373"
+      "size": 1628768,
+      "sha256": "eddab067234aea9082beeac620e9e4a9e2a7ff8db9f26855cfa0a20983243163"
     },
     {
       "path": "graphics-001.pck",
@@ -1384,7 +1384,7 @@
     {
       "path": "index.pck",
       "size": 11302536,
-      "sha256": "44a07f37846b813c919b4c6c304b108118a43ece8ed000ddb611859ec59d3bd8"
+      "sha256": "2e45dab956e2003f0402371cff9ab015bda7f5d3b5f128192098d2a73a5744d9"
     },
     {
       "path": "index.png",

@@ -1,22 +1,22 @@
 {
   "version": "1.2.1",
   "channel": "web-test",
-  "built_at": "2026-11-13T01:07:21.426160+00:00",
+  "built_at": "2026-11-13T02:10:52.808802+00:00",
   "source_commit": "8fd233bf627b35aaa3975cd541d0b155f9267721",
   "build_host": "Linux x86_64",
   "godot_version": "4.7.2.stable.official.ed1daf0bf",
-  "pck_sha256": "44a07f37846b813c919b4c6c304b108118a43ece8ed000ddb611859ec59d3bd8",
+  "pck_sha256": "2e45dab956e2003f0402371cff9ab015bda7f5d3b5f128192098d2a73a5744d9",
   "wasm_sha256": "4d9349911edb5bf82e99a1afd51f3dbbfdece04bcfb428fe985cd4ae1f67b78b",
   "packs": [
     {
       "url": "index.pck",
       "size": 11302536,
-      "sha256": "44a07f37846b813c919b4c6c304b108118a43ece8ed000ddb611859ec59d3bd8"
+      "sha256": "2e45dab956e2003f0402371cff9ab015bda7f5d3b5f128192098d2a73a5744d9"
     },
     {
       "url": "gameplay.pck",
-      "size": 1625920,
-      "sha256": "5629cbacd0a453004f9b61ed21b9deb1702ceb26affea6e1d5a850b7f7530373"
+      "size": 1628768,
+      "sha256": "eddab067234aea9082beeac620e9e4a9e2a7ff8db9f26855cfa0a20983243163"
     },
     {
       "url": "interface.pck",
@@ -25,8 +25,8 @@
     },
     {
       "url": "game-data.pck",
-      "size": 20357260,
-      "sha256": "b0d667f5e1045f32262bfff9fa6e9784b02befb1fae3e0149864cc1f13e8c72a"
+      "size": 20357580,
+      "sha256": "06d2d0eee68346b9de389127158d5c24e42ddd1a0065215d965cfd877d5d3475"
     },
     {
       "url": "graphics-001.pck",
@@ -83,5 +83,20 @@
       "size": 8244300,
       "sha256": "3cdfb687b09fd6720dac1be18cc47cc444719b48717014d54c4df0fd94ffbb37"
     }
-  ]
+  ],
+  "source_dirty": true,
+  "source_changes": {
+    "godot/data/strings.ko.json": "fea75488e47535b455e8d700481087a99fc80fe100e4a9a060f05dbaef2e53fe",
+    "godot/scenes/discovery_editor_list.gd": "e856311a093052ef0444b3900bb3f66cdd9fd050638f0120873b077dc33c4310",
+    "godot/scenes/hint_editor.gd": "e509965f2b4e07f00099dbedcd7f3e296867981ef22016dd0563a87f73561f13",
+    "godot/scenes/main_menu_popup.gd": "92662109e1203b55faa05fcc6e4d2cb9a8d0478fdf994215c28afdd0ec58b46c",
+    "godot/tests/verify_hint_editor_flow.gd": "be8756a1defdf2ef6ee054a6bc2369a1bc995c14339d4f42512c3591d9d32643",
+    "godot/tests/verify_hint_editor_flow.gd.uid": "6418564c6b041904f652386f1be957ae9626605f7a79ef2e8389c1788ecc53f6",
+    "restoration/tools/validate_audio_settings.py": "a8d27db6580fdb738a779235256509fd6dcbde9b6a13bf634c14123447084b49",
+    "restoration/tools/validate_distributions.py": "889b5bcc6035e59b7cc01d6faa3b0aff551a35a7d137bb74b0934b35eeebcbd8",
+    "restoration/tools/validate_native_viewport.py": "7f567003cad86f9811e2f2a900db931bfbd7c97b89d839e766eade8b9ffab5fb",
+    "restoration/tools/validate_shutdown_routes.py": "a7a5ef5d1cccaaf2fc1eb2357e3270c05978b6aa626691289260ac8fb50bd4a1",
+    "restoration/tools/validate_world_camera.py": "5f8a291e9ded84bafa7b601ddc9a5d523c3c5374459e92f5065bbad72f844581"
+  },
+  "source_changes_sha256": "dc9037eb63f43f27fdff29d88a20eb4d767dd1b9403d48979aa445da78aeeb15"
 }
