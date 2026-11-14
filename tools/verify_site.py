@@ -30,14 +30,16 @@ def main():
         total += len(data)
     actual = {path.relative_to(SITE).as_posix() for path in SITE.rglob('*') if path.is_file()}
     assert expected == actual, 'Published file set differs from verified manifest'
-    assert not any(PurePosixPath(name).name == 'strings.ko.json' for name in actual), 'Standalone string catalog in site'
+    retired = {'strings.ko.json', 'disev.json', 'disev.cds'}
+    assert not any(PurePosixPath(name).name.lower() in retired for name in actual), 'Standalone catalog or retired archive in site'
     assert total < 1024 ** 3, 'Site exceeds GitHub Pages size limit'
     for name in ('index.html', 'index.js', 'index.wasm', 'index.side.wasm', 'cds_native.web.wasm',
                  'index.pck', 'assets-manifest.json', 'isolation-sw.js', 'discovery-video-worker.js', '.nojekyll'):
         assert name in expected, name
     assert (SITE / 'index.wasm').read_bytes()[:4] == b'\0asm'
     assets = json.loads((SITE / 'assets-manifest.json').read_text(encoding='utf-8'))
-    assert all('/cds95/data/strings.ko.json' not in [item['path'], *item['aliases']] for item in assets['files']), 'Standalone string catalog in manifest'
+    assert all(PurePosixPath(path).name.lower() not in retired
+               for item in assets['files'] for path in [item['path'], *item['aliases']]), 'Standalone catalog or retired archive in manifest'
     verify_achievement_preload(assets['files'])
     packs = assets['packs']
     shared = ['index.pck', 'gameplay.pck', 'interface.pck', 'game-data.pck']

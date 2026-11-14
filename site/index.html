@@ -77,7 +77,7 @@ function ui(key,...args){
 }
 globalThis.CDS95WebText=ui;
 
-const config={"args":[],"canvasResizePolicy":1,"emscriptenPoolSize":8,"ensureCrossOriginIsolationHeaders":true,"executable":"index","experimentalVK":true,"fileSizes":{"index.pck":14218504,"index.wasm":1713410},"focusCanvas":true,"gdextensionLibs":["cds_native.web.wasm"],"godotPoolSize":4};
+const config={"args":[],"canvasResizePolicy":1,"emscriptenPoolSize":8,"ensureCrossOriginIsolationHeaders":true,"executable":"index","experimentalVK":true,"fileSizes":{"index.pck":14722192,"index.wasm":1713410},"focusCanvas":true,"gdextensionLibs":["cds_native.web.wasm"],"godotPoolSize":4};
 const canvas=document.getElementById('canvas'),screen=document.getElementById('screen'),start=document.getElementById('start'),status=document.getElementById('status'),progress=document.getElementById('progress');
 const startFullscreen=document.getElementById('start-fullscreen'),app=document.getElementById('app');
 const canFullscreen=Boolean(document.fullscreenEnabled&&typeof app.requestFullscreen==='function');
@@ -305,6 +305,24 @@ async function installPack(pack,destination,onProgress){
  // preload queue does not retain every download buffer until start().
  engine.copyToFS(destination,buffer);
 }
+const previewVideoDownloads=new Map();
+window.CDS95LoadPreviewVideo=(path,completed)=>{
+ const file=globalThis.CDS95Assets?.[path];
+ if(!file?.deferred){Promise.resolve(false).then(completed);return;}
+ let download=previewVideoDownloads.get(path);
+ if(!download){
+  download=(async()=>{
+   try{
+    const buffer=await downloadPack(file,'default',()=>{});
+    for(const target of [file.path,...(file.aliases||[])])engine.copyToFS(target,buffer);
+    return true;
+   }catch(error){console.warn(path,error);return false;}
+   finally{previewVideoDownloads.delete(path);}
+  })();
+  previewVideoDownloads.set(path,download);
+ }
+ download.then(completed);
+};
 async function fetchStartupFile(url,message=url){
  const retryDelays=[0,350,900];
  let failure;
