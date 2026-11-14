@@ -3,1031 +3,7456 @@
   "records": [
     {
       "id": 0,
-      "publication_year_offset": 0
+      "title_key": "exe.0053741c",
+      "author_key": "exe.00537408",
+      "field_08": 0,
+      "language": 4,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        127,
+        10,
+        24,
+        26,
+        34,
+        62,
+        72,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 1,
-      "publication_year_offset": 0
+      "title_key": "exe.00537400",
+      "author_key": "exe.005373f0",
+      "field_08": 0,
+      "language": 4,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        72,
+        66,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 2,
-      "publication_year_offset": 0
+      "title_key": "exe.005373e8",
+      "author_key": "exe.005373dc",
+      "field_08": 0,
+      "language": 4,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        72,
+        38,
+        62,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 3,
-      "publication_year_offset": 0
+      "title_key": "exe.005373d4",
+      "author_key": "exe.005373c4",
+      "field_08": 0,
+      "language": 4,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        14,
+        26,
+        72,
+        54,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        85,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 4,
-      "publication_year_offset": 0
+      "title_key": "exe.005373b8",
+      "author_key": "exe.005373ac",
+      "field_08": 0,
+      "language": 4,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        30,
+        72,
+        79,
+        119,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 5,
-      "publication_year_offset": 0
+      "title_key": "exe.005373a4",
+      "author_key": "exe.00537390",
+      "field_08": 0,
+      "language": 4,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        29,
+        72,
+        82,
+        127,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        138,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 6,
-      "publication_year_offset": 0
+      "title_key": "exe.00537384",
+      "author_key": "exe.00537378",
+      "field_08": 0,
+      "language": 4,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        72,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 7,
-      "publication_year_offset": 0
+      "title_key": "exe.0053736c",
+      "author_key": "exe.0053735c",
+      "field_08": 0,
+      "language": 4,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        0,
+        29,
+        38,
+        72,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        81,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 8,
-      "publication_year_offset": 0
+      "title_key": "exe.00537350",
+      "author_key": "exe.00537340",
+      "field_08": 0,
+      "language": 4,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        4,
+        24,
+        28,
+        72,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        33,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 9,
-      "publication_year_offset": 0
+      "title_key": "exe.00537334",
+      "author_key": "exe.00537324",
+      "field_08": 0,
+      "language": 4,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        72,
+        26,
+        29,
+        12,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 10,
-      "publication_year_offset": 0
+      "title_key": "exe.00537314",
+      "author_key": "exe.00537324",
+      "field_08": 0,
+      "language": 4,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        28,
+        30,
+        33,
+        72,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 11,
-      "publication_year_offset": 0
+      "title_key": "exe.0053730c",
+      "author_key": "exe.005372fc",
+      "field_08": 0,
+      "language": 4,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        0,
+        29,
+        34,
+        72,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 12,
-      "publication_year_offset": 0
+      "title_key": "exe.005372f0",
+      "author_key": "exe.005372fc",
+      "field_08": 0,
+      "language": 4,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        72,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        150,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 13,
-      "publication_year_offset": 0
+      "title_key": "exe.005372e8",
+      "author_key": "exe.005372d4",
+      "field_08": 0,
+      "language": 4,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        26,
+        28,
+        30,
+        72,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 14,
-      "publication_year_offset": 0
+      "title_key": "exe.005372d0",
+      "author_key": "exe.005372d4",
+      "field_08": 0,
+      "language": 4,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        28,
+        29,
+        30,
+        72,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 15,
-      "publication_year_offset": 0
+      "title_key": "exe.005372c8",
+      "author_key": "exe.005372b8",
+      "field_08": 0,
+      "language": 4,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        72,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 16,
-      "publication_year_offset": 0
+      "title_key": "exe.005372a8",
+      "author_key": "exe.00537298",
+      "field_08": 0,
+      "language": 4,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        78,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        151,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 17,
-      "publication_year_offset": 0
+      "title_key": "exe.00537288",
+      "author_key": "exe.0053727c",
+      "field_08": 0,
+      "language": 4,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        79,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 18,
-      "publication_year_offset": 0
+      "title_key": "exe.00537270",
+      "author_key": "exe.00537260",
+      "field_08": 0,
+      "language": 4,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        0,
+        72,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 19,
-      "publication_year_offset": 0
+      "title_key": "exe.00537258",
+      "author_key": "exe.00537260",
+      "field_08": 0,
+      "language": 4,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        72,
+        26,
+        0,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        105,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 20,
-      "publication_year_offset": 0
+      "title_key": "exe.0053724c",
+      "author_key": "exe.00537240",
+      "field_08": 0,
+      "language": 4,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        26,
+        34,
+        0,
+        72,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        31,
+        22,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 21,
-      "publication_year_offset": 0
+      "title_key": "exe.00537234",
+      "author_key": "exe.00537240",
+      "field_08": 0,
+      "language": 4,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        28,
+        26,
+        62,
+        72,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        25,
+        86,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 22,
-      "publication_year_offset": 0
+      "title_key": "exe.0053722c",
+      "author_key": "exe.0053721c",
+      "field_08": 0,
+      "language": 4,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        72,
+        34,
+        38,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        0,
+        134,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 23,
-      "publication_year_offset": 0
+      "title_key": "exe.0053722c",
+      "author_key": "exe.0053721c",
+      "field_08": 0,
+      "language": 1,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        0,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        0,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 24,
-      "publication_year_offset": 0
+      "title_key": "exe.00537214",
+      "author_key": "exe.00537208",
+      "field_08": 0,
+      "language": 4,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        26,
+        34,
+        62,
+        72,
+        24,
+        29,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        2,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 25,
-      "publication_year_offset": 0
+      "title_key": "exe.00537214",
+      "author_key": "exe.005371fc",
+      "field_08": 0,
+      "language": 1,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        0,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        2,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 26,
-      "publication_year_offset": 0
+      "title_key": "exe.005371f0",
+      "author_key": "exe.005371dc",
+      "field_08": 0,
+      "language": 4,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        30,
+        72,
+        78,
+        127,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        9,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 27,
-      "publication_year_offset": 0
+      "title_key": "exe.005371d0",
+      "author_key": "exe.005371c8",
+      "field_08": 0,
+      "language": 4,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        29,
+        72,
+        112,
+        28,
+        82,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        26,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 28,
-      "publication_year_offset": 0
+      "title_key": "exe.005371c0",
+      "author_key": "exe.005371b4",
+      "field_08": 0,
+      "language": 4,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        72,
+        24,
+        66,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        32,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 29,
-      "publication_year_offset": 0
+      "title_key": "exe.005371ac",
+      "author_key": "exe.005371dc",
+      "field_08": 0,
+      "language": 2,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        33,
+        24,
+        28,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        15,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 30,
-      "publication_year_offset": 0
+      "title_key": "exe.005371a4",
+      "author_key": "exe.00537194",
+      "field_08": 0,
+      "language": 2,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        0,
+        12,
+        29,
+        33,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        110,
+        136,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 31,
-      "publication_year_offset": 0
+      "title_key": "exe.0053718c",
+      "author_key": "exe.00537178",
+      "field_08": 0,
+      "language": 2,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        33,
+        34,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 32,
-      "publication_year_offset": 0
+      "title_key": "exe.00537170",
+      "author_key": "exe.00537164",
+      "field_08": 0,
+      "language": 2,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        26,
+        28,
+        29,
+        30,
+        33,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 33,
-      "publication_year_offset": 0
+      "title_key": "exe.00537158",
+      "author_key": "exe.0053714c",
+      "field_08": 0,
+      "language": 2,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        4,
+        14,
+        33,
+        38,
+        66,
+        0,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        20,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 34,
-      "publication_year_offset": 0
+      "title_key": "exe.00537158",
+      "author_key": "exe.0053714c",
+      "field_08": 0,
+      "language": 0,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        7,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        20,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 35,
-      "publication_year_offset": 0
+      "title_key": "exe.00537140",
+      "author_key": "exe.00537134",
+      "field_08": 0,
+      "language": 2,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        24,
+        33,
+        54,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 36,
-      "publication_year_offset": 0
+      "title_key": "exe.0053722c",
+      "author_key": "exe.00537134",
+      "field_08": 0,
+      "language": 2,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        0,
+        33,
+        12,
+        29,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        158,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 37,
-      "publication_year_offset": 0
+      "title_key": "exe.0053712c",
+      "author_key": "exe.0053711c",
+      "field_08": 0,
+      "language": 2,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        0,
+        26,
+        33,
+        38,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        24,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 38,
-      "publication_year_offset": 0
+      "title_key": "exe.00537110",
+      "author_key": "exe.00537100",
+      "field_08": 0,
+      "language": 2,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        24,
+        28,
+        29,
+        33,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 39,
-      "publication_year_offset": 0
+      "title_key": "exe.005370f8",
+      "author_key": "exe.005370e8",
+      "field_08": 0,
+      "language": 2,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        4,
+        29,
+        33,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 40,
-      "publication_year_offset": 0
+      "title_key": "exe.005370e0",
+      "author_key": "exe.005370d4",
+      "field_08": 0,
+      "language": 2,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        29,
+        33,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 41,
-      "publication_year_offset": 0
+      "title_key": "exe.0053722c",
+      "author_key": "exe.005370c4",
+      "field_08": 0,
+      "language": 2,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        33,
+        4,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        163,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 42,
-      "publication_year_offset": 0
+      "title_key": "exe.005370bc",
+      "author_key": "exe.005370b0",
+      "field_08": 0,
+      "language": 2,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        33,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 43,
-      "publication_year_offset": 0
+      "title_key": "exe.005370a8",
+      "author_key": "exe.0053709c",
+      "field_08": 0,
+      "language": 2,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        4,
+        33,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 44,
-      "publication_year_offset": 0
+      "title_key": "exe.00537094",
+      "author_key": "exe.00537084",
+      "field_08": 0,
+      "language": 2,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        33,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 45,
-      "publication_year_offset": 0
+      "title_key": "exe.00537078",
+      "author_key": "exe.0053705c",
+      "field_08": 0,
+      "language": 2,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        26,
+        28,
+        29,
+        30,
+        33,
+        34,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 46,
-      "publication_year_offset": 0
+      "title_key": "exe.00537050",
+      "author_key": "exe.0053703c",
+      "field_08": 0,
+      "language": 2,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        0,
+        7,
+        14,
+        33,
+        38,
+        54,
+        62,
+        120
+      ],
+      "page_hints": [
+        55,
+        54,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 47,
-      "publication_year_offset": 0
+      "title_key": "exe.00537030",
+      "author_key": "exe.00537024",
+      "field_08": 0,
+      "language": 2,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        0,
+        7,
+        14,
+        33,
+        38,
+        54,
+        62,
+        120
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 48,
-      "publication_year_offset": 0
+      "title_key": "exe.00537014",
+      "author_key": "exe.00537004",
+      "field_08": 0,
+      "language": 4,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        29,
+        30,
+        72,
+        112,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        23,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 49,
-      "publication_year_offset": 0
+      "title_key": "exe.00536ff0",
+      "author_key": "exe.00536fe4",
+      "field_08": 0,
+      "language": 4,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        33,
+        72,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 50,
-      "publication_year_offset": 0
+      "title_key": "exe.00536fd4",
+      "author_key": "exe.00536fc4",
+      "field_08": 0,
+      "language": 4,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        33,
+        12,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        53,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 51,
-      "publication_year_offset": 0
+      "title_key": "exe.00536fbc",
+      "author_key": "exe.00536fa8",
+      "field_08": 0,
+      "language": 2,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        7,
+        28,
+        29,
+        30,
+        33,
+        34,
+        62,
+        12
+      ],
+      "page_hints": [
+        153,
+        109,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 52,
-      "publication_year_offset": 0
+      "title_key": "exe.00536fa0",
+      "author_key": "exe.00536fa8",
+      "field_08": 0,
+      "language": 2,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        26,
+        28,
+        29,
+        30,
+        34,
+        62,
+        4,
+        -1
+      ],
+      "page_hints": [
+        156,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 53,
-      "publication_year_offset": 0
+      "title_key": "exe.00536f94",
+      "author_key": "exe.00536f8c",
+      "field_08": 0,
+      "language": 3,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        38,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        80,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 54,
-      "publication_year_offset": 0
+      "title_key": "exe.00536f84",
+      "author_key": "exe.00536f70",
+      "field_08": 0,
+      "language": 2,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        4,
+        7,
+        12,
+        0,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        120,
+        114,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 55,
-      "publication_year_offset": 0
+      "title_key": "exe.00536f64",
+      "author_key": "exe.00536f70",
+      "field_08": 0,
+      "language": 2,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        4,
+        12,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        165,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 56,
-      "publication_year_offset": 0
+      "title_key": "exe.00536f58",
+      "author_key": "exe.00536f48",
+      "field_08": 0,
+      "language": 2,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        14,
+        24,
+        54,
+        66,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 57,
-      "publication_year_offset": 0
+      "title_key": "exe.00536f3c",
+      "author_key": "exe.00536f30",
+      "field_08": 0,
+      "language": 2,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        4,
+        12,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        103,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 58,
-      "publication_year_offset": 0
+      "title_key": "exe.00536f20",
+      "author_key": "exe.00536f10",
+      "field_08": 0,
+      "language": 0,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        4,
+        7,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        180,
+        75,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 59,
-      "publication_year_offset": 0
+      "title_key": "exe.00536f00",
+      "author_key": "exe.00536ef4",
+      "field_08": 0,
+      "language": 2,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        14,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 60,
-      "publication_year_offset": 0
+      "title_key": "exe.00536ee8",
+      "author_key": "exe.00536ef4",
+      "field_08": 0,
+      "language": 2,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        14,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 61,
-      "publication_year_offset": 0
+      "title_key": "exe.00536edc",
+      "author_key": "exe.00536ec8",
+      "field_08": 0,
+      "language": 2,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        14,
+        26,
+        28,
+        29,
+        30,
+        33,
+        34,
+        -1
+      ],
+      "page_hints": [
+        47,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 62,
-      "publication_year_offset": 0
+      "title_key": "exe.00536edc",
+      "author_key": "exe.00536ec8",
+      "field_08": 0,
+      "language": 0,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        7,
+        12,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        47,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 63,
-      "publication_year_offset": 0
+      "title_key": "exe.00536eb8",
+      "author_key": "exe.00536ec8",
+      "field_08": 0,
+      "language": 2,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        14,
+        33,
+        34,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        101,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 64,
-      "publication_year_offset": 0
+      "title_key": "exe.00536eb0",
+      "author_key": "exe.00536ea0",
+      "field_08": 0,
+      "language": 2,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        28,
+        29,
+        30,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        181,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 65,
-      "publication_year_offset": 0
+      "title_key": "exe.00536e94",
+      "author_key": "exe.00536e84",
+      "field_08": 0,
+      "language": 0,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        4,
+        7,
+        12,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 66,
-      "publication_year_offset": 0
+      "title_key": "exe.00536e70",
+      "author_key": "exe.00536e84",
+      "field_08": 0,
+      "language": 0,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        4,
+        12,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 67,
-      "publication_year_offset": 0
+      "title_key": "exe.00536e60",
+      "author_key": "exe.00536e54",
+      "field_08": 0,
+      "language": 2,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        14,
+        26,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 68,
-      "publication_year_offset": 0
+      "title_key": "exe.00536e44",
+      "author_key": "exe.00536e30",
+      "field_08": 0,
+      "language": 2,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        14,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 69,
-      "publication_year_offset": 30
+      "title_key": "exe.00536e24",
+      "author_key": "exe.00536e14",
+      "field_08": 0,
+      "language": 3,
+      "publication_year_offset": 30,
+      "field_14": 999,
+      "cities": [
+        24,
+        38,
+        54,
+        66,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 70,
-      "publication_year_offset": 0
+      "title_key": "exe.00536e0c",
+      "author_key": "exe.00536dfc",
+      "field_08": 0,
+      "language": 3,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        66,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        148,
+        18,
+        130,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 71,
-      "publication_year_offset": 0
+      "title_key": "exe.00536df4",
+      "author_key": "exe.00536de4",
+      "field_08": 0,
+      "language": 3,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        66,
+        7,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        104,
+        147,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 72,
-      "publication_year_offset": 0
+      "title_key": "exe.00536dcc",
+      "author_key": "exe.00536dbc",
+      "field_08": 0,
+      "language": 3,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        38,
+        7,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        56,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 73,
-      "publication_year_offset": 0
+      "title_key": "exe.00536da4",
+      "author_key": "exe.00536d94",
+      "field_08": 0,
+      "language": 1,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        0,
+        7,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        58,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 74,
-      "publication_year_offset": 0
+      "title_key": "exe.00536d78",
+      "author_key": "exe.00536d6c",
+      "field_08": 0,
+      "language": 3,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        62,
+        66,
+        54,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 75,
-      "publication_year_offset": 0
+      "title_key": "exe.00536d60",
+      "author_key": "exe.00536d54",
+      "field_08": 0,
+      "language": 2,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        14,
+        7,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        46,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 76,
-      "publication_year_offset": 0
+      "title_key": "exe.00536d3c",
+      "author_key": "exe.00536d30",
+      "field_08": 0,
+      "language": 1,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        0,
+        38,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        51,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 77,
-      "publication_year_offset": 0
+      "title_key": "exe.00536d24",
+      "author_key": "exe.00536d18",
+      "field_08": 0,
+      "language": 0,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        7,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        149,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 78,
-      "publication_year_offset": 0
+      "title_key": "exe.00536d10",
+      "author_key": "exe.00536d04",
+      "field_08": 0,
+      "language": 3,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        24,
+        38,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        135,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 79,
-      "publication_year_offset": 0
+      "title_key": "exe.00536cf4",
+      "author_key": "exe.00536ce8",
+      "field_08": 0,
+      "language": 0,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        12,
+        4,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        52,
+        13,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 80,
-      "publication_year_offset": 0
+      "title_key": "exe.00536cdc",
+      "author_key": "exe.00536ccc",
+      "field_08": 0,
+      "language": 3,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        54,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        100,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 81,
-      "publication_year_offset": 0
+      "title_key": "exe.00536cc0",
+      "author_key": "exe.00536cac",
+      "field_08": 0,
+      "language": 2,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        14,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 82,
-      "publication_year_offset": 0
+      "title_key": "exe.00536ca0",
+      "author_key": "exe.00536c88",
+      "field_08": 0,
+      "language": 3,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        38,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        79,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 83,
-      "publication_year_offset": 0
+      "title_key": "exe.00536c7c",
+      "author_key": "exe.00536c70",
+      "field_08": 0,
+      "language": 2,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        14,
+        38,
+        7,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        21,
+        99,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 84,
-      "publication_year_offset": 0
+      "title_key": "exe.00536c60",
+      "author_key": "exe.00536c4c",
+      "field_08": 0,
+      "language": 3,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        54,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 85,
-      "publication_year_offset": 0
+      "title_key": "exe.00536c3c",
+      "author_key": "exe.00536d18",
+      "field_08": 0,
+      "language": 4,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        62,
+        54,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        49,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 86,
-      "publication_year_offset": 0
+      "title_key": "exe.00536c30",
+      "author_key": "exe.00536c20",
+      "field_08": 0,
+      "language": 2,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        28,
+        62,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        50,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 87,
-      "publication_year_offset": 0
+      "title_key": "exe.00536c18",
+      "author_key": "exe.00536c10",
+      "field_08": 0,
+      "language": 2,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        28,
+        29,
+        30,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 88,
-      "publication_year_offset": 10
+      "title_key": "exe.00536c08",
+      "author_key": "exe.00536bf4",
+      "field_08": 0,
+      "language": 2,
+      "publication_year_offset": 10,
+      "field_14": 999,
+      "cities": [
+        33,
+        34,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        175,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 89,
-      "publication_year_offset": 0
+      "title_key": "exe.00536be4",
+      "author_key": "exe.00536bd8",
+      "field_08": 0,
+      "language": 3,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        38,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 90,
-      "publication_year_offset": 0
+      "title_key": "exe.00536bcc",
+      "author_key": "exe.00536bc0",
+      "field_08": 0,
+      "language": 2,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        30,
+        34,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 91,
-      "publication_year_offset": 0
+      "title_key": "exe.00536bb4",
+      "author_key": "exe.00536bc0",
+      "field_08": 0,
+      "language": 2,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        30,
+        29,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        48,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 92,
-      "publication_year_offset": 0
+      "title_key": "exe.00536ba8",
+      "author_key": "exe.00536b98",
+      "field_08": 0,
+      "language": 2,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        26,
+        34,
+        0,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        115,
+        113,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 93,
-      "publication_year_offset": 0
+      "title_key": "exe.00536b88",
+      "author_key": "exe.00536b7c",
+      "field_08": 0,
+      "language": 3,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        38,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 94,
-      "publication_year_offset": 30
+      "title_key": "exe.00536b74",
+      "author_key": "exe.00536b64",
+      "field_08": 0,
+      "language": 2,
+      "publication_year_offset": 30,
+      "field_14": 999,
+      "cities": [
+        30,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 95,
-      "publication_year_offset": 50
+      "title_key": "exe.00536b4c",
+      "author_key": "exe.00536b40",
+      "field_08": 0,
+      "language": 2,
+      "publication_year_offset": 50,
+      "field_14": 999,
+      "cities": [
+        14,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 96,
-      "publication_year_offset": 35
+      "title_key": "exe.00536b34",
+      "author_key": "exe.00536b24",
+      "field_08": 0,
+      "language": 3,
+      "publication_year_offset": 35,
+      "field_14": 999,
+      "cities": [
+        38,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 97,
-      "publication_year_offset": 0
+      "title_key": "exe.00536b10",
+      "author_key": "exe.00536b04",
+      "field_08": 0,
+      "language": 2,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        14,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 98,
-      "publication_year_offset": 0
+      "title_key": "exe.00536afc",
+      "author_key": "exe.00536aec",
+      "field_08": 0,
+      "language": 2,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        33,
+        30,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        126,
+        116,
+        157,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 99,
-      "publication_year_offset": 0
+      "title_key": "exe.00536adc",
+      "author_key": "exe.00536ac8",
+      "field_08": 0,
+      "language": 2,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        33,
+        26,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        152,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 100,
-      "publication_year_offset": 0
+      "title_key": "exe.00536ab8",
+      "author_key": "exe.00536aac",
+      "field_08": 0,
+      "language": 2,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        33,
+        34,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        5,
+        162,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 101,
-      "publication_year_offset": 0
+      "title_key": "exe.00536aa0",
+      "author_key": "exe.00536a90",
+      "field_08": 0,
+      "language": 2,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        28,
+        29,
+        34,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        142,
+        118,
+        143,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 102,
-      "publication_year_offset": 0
+      "title_key": "exe.00536a84",
+      "author_key": "exe.00536a74",
+      "field_08": 0,
+      "language": 2,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        28,
+        33,
+        29,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        8,
+        92,
+        68,
+        161,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 103,
-      "publication_year_offset": 2
+      "title_key": "exe.00536a64",
+      "author_key": "exe.00536a58",
+      "field_08": 0,
+      "language": 1,
+      "publication_year_offset": 2,
+      "field_14": 999,
+      "cities": [
+        0,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        102,
+        184,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 104,
-      "publication_year_offset": 0
+      "title_key": "exe.00536a4c",
+      "author_key": "exe.00536a3c",
+      "field_08": 0,
+      "language": 1,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        0,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        111,
+        119,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 105,
-      "publication_year_offset": 2
+      "title_key": "exe.00536a30",
+      "author_key": "exe.00536a20",
+      "field_08": 0,
+      "language": 2,
+      "publication_year_offset": 2,
+      "field_14": 999,
+      "cities": [
+        4,
+        26,
+        0,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        141,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 106,
-      "publication_year_offset": 0
+      "title_key": "exe.00536a14",
+      "author_key": "exe.00536a04",
+      "field_08": 0,
+      "language": 2,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        54,
+        24,
+        28,
+        30,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 107,
-      "publication_year_offset": 3
+      "title_key": "exe.00536a14",
+      "author_key": "exe.00536a04",
+      "field_08": 0,
+      "language": 0,
+      "publication_year_offset": 3,
+      "field_14": 999,
+      "cities": [
+        7,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 108,
-      "publication_year_offset": 10
+      "title_key": "exe.00536a14",
+      "author_key": "exe.005369f0",
+      "field_08": 0,
+      "language": 3,
+      "publication_year_offset": 10,
+      "field_14": 999,
+      "cities": [
+        54,
+        0,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        3,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 109,
-      "publication_year_offset": 25
+      "title_key": "exe.00536a14",
+      "author_key": "exe.005369e0",
+      "field_08": 0,
+      "language": 3,
+      "publication_year_offset": 25,
+      "field_14": 999,
+      "cities": [
+        54,
+        7,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        6,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 110,
-      "publication_year_offset": 30
+      "title_key": "exe.005369d4",
+      "author_key": "exe.005369c4",
+      "field_08": 0,
+      "language": 3,
+      "publication_year_offset": 30,
+      "field_14": 999,
+      "cities": [
+        54,
+        0,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        7,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 111,
-      "publication_year_offset": 30
+      "title_key": "exe.005369d4",
+      "author_key": "exe.005369c4",
+      "field_08": 0,
+      "language": 0,
+      "publication_year_offset": 30,
+      "field_14": 999,
+      "cities": [
+        7,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        7,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 112,
-      "publication_year_offset": 0
+      "title_key": "exe.005369b8",
+      "author_key": "exe.005369a4",
+      "field_08": 0,
+      "language": 6,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        130,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 113,
-      "publication_year_offset": 0
+      "title_key": "exe.0053699c",
+      "author_key": "exe.0053698c",
+      "field_08": 0,
+      "language": 5,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        79,
+        112,
+        119,
+        120,
+        123,
+        127,
+        130,
+        132
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 114,
-      "publication_year_offset": 0
+      "title_key": "exe.00536980",
+      "author_key": "exe.00536974",
+      "field_08": 0,
+      "language": 5,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        10,
+        78,
+        112,
+        127,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 115,
-      "publication_year_offset": 0
+      "title_key": "exe.00536968",
+      "author_key": "exe.00536974",
+      "field_08": 0,
+      "language": 5,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        119,
+        127,
+        132,
+        10,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        121,
+        129,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 116,
-      "publication_year_offset": 0
+      "title_key": "exe.0053695c",
+      "author_key": "exe.00536954",
+      "field_08": 0,
+      "language": 6,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        130,
+        132,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        42,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 117,
-      "publication_year_offset": 0
+      "title_key": "exe.00536948",
+      "author_key": "exe.0053693c",
+      "field_08": 0,
+      "language": 5,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        78,
+        79,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        27,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 118,
-      "publication_year_offset": 0
+      "title_key": "exe.00536930",
+      "author_key": "exe.00536924",
+      "field_08": 0,
+      "language": 5,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        79,
+        123,
+        127,
+        132,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        173,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 119,
-      "publication_year_offset": 0
+      "title_key": "exe.00536918",
+      "author_key": "exe.00536924",
+      "field_08": 0,
+      "language": 5,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        112,
+        120,
+        123,
+        127,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 120,
-      "publication_year_offset": 0
+      "title_key": "exe.00536910",
+      "author_key": "exe.00536904",
+      "field_08": 0,
+      "language": 6,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        130,
+        119,
+        132,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        146,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 121,
-      "publication_year_offset": 0
+      "title_key": "exe.005368f8",
+      "author_key": "exe.005368f0",
+      "field_08": 0,
+      "language": 5,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        79,
+        112,
+        120,
+        130,
+        10,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        133,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 122,
-      "publication_year_offset": 0
+      "title_key": "exe.005368e4",
+      "author_key": "exe.005368d8",
+      "field_08": 0,
+      "language": 5,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        78,
+        120,
+        127,
+        130,
+        132,
+        34,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        57,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 123,
-      "publication_year_offset": 0
+      "title_key": "exe.005368d0",
+      "author_key": "exe.005368c0",
+      "field_08": 0,
+      "language": 5,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        127,
+        130,
+        132,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 124,
-      "publication_year_offset": 0
+      "title_key": "exe.005368b4",
+      "author_key": "exe.005368a8",
+      "field_08": 0,
+      "language": 5,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        78,
+        112,
+        119,
+        123,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        84,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 125,
-      "publication_year_offset": 0
+      "title_key": "exe.0053689c",
+      "author_key": "exe.005368a8",
+      "field_08": 0,
+      "language": 5,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        82,
+        119,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        76,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 126,
-      "publication_year_offset": 0
+      "title_key": "exe.0053688c",
+      "author_key": "exe.0053687c",
+      "field_08": 0,
+      "language": 5,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        112,
+        119,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 127,
-      "publication_year_offset": 0
+      "title_key": "exe.0053686c",
+      "author_key": "exe.00536860",
+      "field_08": 0,
+      "language": 5,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        78,
+        79,
+        112,
+        127,
+        132,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 128,
-      "publication_year_offset": 0
+      "title_key": "exe.00536850",
+      "author_key": "exe.00536860",
+      "field_08": 0,
+      "language": 5,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        82,
+        120,
+        127,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        77,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 129,
-      "publication_year_offset": 0
+      "title_key": "exe.00536840",
+      "author_key": "exe.00536830",
+      "field_08": 0,
+      "language": 5,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        10,
+        79,
+        82,
+        112,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 130,
-      "publication_year_offset": 0
+      "title_key": "exe.00536824",
+      "author_key": "exe.00536830",
+      "field_08": 0,
+      "language": 5,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        10,
+        82,
+        119,
+        78,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        179,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 131,
-      "publication_year_offset": 0
+      "title_key": "exe.00536818",
+      "author_key": "exe.00536808",
+      "field_08": 0,
+      "language": 5,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        78,
+        79,
+        82,
+        120,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 132,
-      "publication_year_offset": 0
+      "title_key": "exe.005367fc",
+      "author_key": "exe.00536808",
+      "field_08": 0,
+      "language": 5,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        78,
+        79,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 133,
-      "publication_year_offset": 0
+      "title_key": "exe.005367ec",
+      "author_key": "exe.005367e0",
+      "field_08": 0,
+      "language": 6,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        130,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 134,
-      "publication_year_offset": 0
+      "title_key": "exe.005367d0",
+      "author_key": "exe.005367e0",
+      "field_08": 0,
+      "language": 6,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        130,
+        127,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        182,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 135,
-      "publication_year_offset": 0
+      "title_key": "exe.005367c0",
+      "author_key": "exe.005367ac",
+      "field_08": 0,
+      "language": 5,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        112,
+        120,
+        123,
+        127,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 136,
-      "publication_year_offset": 0
+      "title_key": "exe.005367a0",
+      "author_key": "exe.005367ac",
+      "field_08": 0,
+      "language": 5,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        112,
+        120,
+        123,
+        127,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 137,
-      "publication_year_offset": 0
+      "title_key": "exe.00536790",
+      "author_key": "exe.00536784",
+      "field_08": 0,
+      "language": 5,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        78,
+        112,
+        127,
+        82,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        128,
+        127,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 138,
-      "publication_year_offset": 0
+      "title_key": "exe.0053677c",
+      "author_key": "exe.0053676c",
+      "field_08": 0,
+      "language": 5,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        82,
+        119,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 139,
-      "publication_year_offset": 0
+      "title_key": "exe.00536760",
+      "author_key": "exe.00536754",
+      "field_08": 0,
+      "language": 5,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        79,
+        112,
+        119,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 140,
-      "publication_year_offset": 0
+      "title_key": "exe.00536744",
+      "author_key": "exe.00536738",
+      "field_08": 0,
+      "language": 6,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        112,
+        119,
+        130,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        62,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 141,
-      "publication_year_offset": 0
+      "title_key": "exe.0053672c",
+      "author_key": "exe.00536738",
+      "field_08": 0,
+      "language": 6,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        112,
+        120,
+        123,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        74,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 142,
-      "publication_year_offset": 0
+      "title_key": "exe.00536724",
+      "author_key": "exe.00536714",
+      "field_08": 0,
+      "language": 5,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        123,
+        127,
+        130,
+        79,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        28,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 143,
-      "publication_year_offset": 0
+      "title_key": "exe.00536700",
+      "author_key": "exe.005366ec",
+      "field_08": 0,
+      "language": 5,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        120,
+        123,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        62,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 144,
-      "publication_year_offset": 0
+      "title_key": "exe.005366e4",
+      "author_key": "exe.005366ec",
+      "field_08": 0,
+      "language": 5,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        78,
+        123,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        117,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 145,
-      "publication_year_offset": 0
+      "title_key": "exe.005366d8",
+      "author_key": "exe.005366c8",
+      "field_08": 0,
+      "language": 5,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        112,
+        119,
+        123,
+        127,
+        132,
+        145,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        64,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 146,
-      "publication_year_offset": 0
+      "title_key": "exe.005366bc",
+      "author_key": "exe.005366c8",
+      "field_08": 0,
+      "language": 5,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        78,
+        82,
+        112,
+        120,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        29,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 147,
-      "publication_year_offset": 0
+      "title_key": "exe.005370f8",
+      "author_key": "exe.005366b0",
+      "field_08": 0,
+      "language": 6,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        130,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 148,
-      "publication_year_offset": 0
+      "title_key": "exe.005366a0",
+      "author_key": "exe.0053668c",
+      "field_08": 0,
+      "language": 9,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        132,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 149,
-      "publication_year_offset": 0
+      "title_key": "exe.00536680",
+      "author_key": "exe.00536670",
+      "field_08": 0,
+      "language": 9,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        132,
+        119,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        171,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 150,
-      "publication_year_offset": 0
+      "title_key": "exe.00536668",
+      "author_key": "exe.00536658",
+      "field_08": 0,
+      "language": 5,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        78,
+        120,
+        127,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        170,
+        63,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 151,
-      "publication_year_offset": 0
+      "title_key": "exe.0053664c",
+      "author_key": "exe.00536640",
+      "field_08": 0,
+      "language": 5,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        10,
+        112,
+        119,
+        123,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        107,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 152,
-      "publication_year_offset": 0
+      "title_key": "exe.00536630",
+      "author_key": "exe.00536620",
+      "field_08": 0,
+      "language": 5,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        10,
+        82,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        65,
+        61,
+        112,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 153,
-      "publication_year_offset": 0
+      "title_key": "exe.00536614",
+      "author_key": "exe.00536608",
+      "field_08": 0,
+      "language": 5,
+      "publication_year_offset": 0,
+      "field_14": 35,
+      "cities": [
+        79,
+        78,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        106,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 154,
-      "publication_year_offset": 0
+      "title_key": "exe.005365fc",
+      "author_key": "exe.005365f0",
+      "field_08": 0,
+      "language": 5,
+      "publication_year_offset": 0,
+      "field_14": 0,
+      "cities": [
+        78,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        10,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 155,
-      "publication_year_offset": 0
+      "title_key": "exe.005365e4",
+      "author_key": "exe.005365d4",
+      "field_08": 0,
+      "language": 5,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        82,
+        112,
+        127,
+        10,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        4,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 156,
-      "publication_year_offset": 0
+      "title_key": "exe.005365c8",
+      "author_key": "exe.005365bc",
+      "field_08": 0,
+      "language": 8,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        145,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        34,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 157,
-      "publication_year_offset": 0
+      "title_key": "exe.005365b0",
+      "author_key": "exe.005365a4",
+      "field_08": 0,
+      "language": 8,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        145,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 158,
-      "publication_year_offset": 0
+      "title_key": "exe.00536598",
+      "author_key": "exe.0053658c",
+      "field_08": 0,
+      "language": 8,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        145,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        88,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 159,
-      "publication_year_offset": 0
+      "title_key": "exe.00536580",
+      "author_key": "exe.00536574",
+      "field_08": 0,
+      "language": 8,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        145,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 160,
-      "publication_year_offset": 0
+      "title_key": "exe.00536568",
+      "author_key": "exe.0053655c",
+      "field_08": 0,
+      "language": 8,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        145,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        125,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 161,
-      "publication_year_offset": 0
+      "title_key": "exe.00536550",
+      "author_key": "exe.0053655c",
+      "field_08": 0,
+      "language": 8,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        145,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        144,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 162,
-      "publication_year_offset": 0
+      "title_key": "exe.00536540",
+      "author_key": "exe.00536534",
+      "field_08": 0,
+      "language": 8,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        145,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        137,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 163,
-      "publication_year_offset": 0
+      "title_key": "exe.00536528",
+      "author_key": "exe.00536518",
+      "field_08": 0,
+      "language": 8,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        145,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        108,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 164,
-      "publication_year_offset": 0
+      "title_key": "exe.0053650c",
+      "author_key": "exe.00536500",
+      "field_08": 0,
+      "language": 8,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        145,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 165,
-      "publication_year_offset": 0
+      "title_key": "exe.005364ec",
+      "author_key": "exe.005364dc",
+      "field_08": 0,
+      "language": 8,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        145,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 166,
-      "publication_year_offset": 0
+      "title_key": "exe.005364cc",
+      "author_key": "exe.005364bc",
+      "field_08": 0,
+      "language": 8,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        145,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        172,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 167,
-      "publication_year_offset": 0
+      "title_key": "exe.005364a8",
+      "author_key": "exe.0053649c",
+      "field_08": 0,
+      "language": 8,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        145,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 168,
-      "publication_year_offset": 0
+      "title_key": "exe.00536488",
+      "author_key": "exe.0053647c",
+      "field_08": 0,
+      "language": 12,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        145,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        42,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 169,
-      "publication_year_offset": 0
+      "title_key": "exe.00536474",
+      "author_key": "exe.00536468",
+      "field_08": 0,
+      "language": 7,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        174,
+        177,
+        188,
+        182,
+        190,
+        185,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 170,
-      "publication_year_offset": 0
+      "title_key": "exe.00536460",
+      "author_key": "exe.00536458",
+      "field_08": 0,
+      "language": 7,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        174,
+        177,
+        178,
+        182,
+        184,
+        188,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 171,
-      "publication_year_offset": 0
+      "title_key": "exe.00536450",
+      "author_key": "exe.00536444",
+      "field_08": 0,
+      "language": 7,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        174,
+        177,
+        178,
+        182,
+        184,
+        185,
+        190,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 172,
-      "publication_year_offset": 0
+      "title_key": "exe.0053643c",
+      "author_key": "exe.00536444",
+      "field_08": 0,
+      "language": 7,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        174,
+        177,
+        178,
+        182,
+        184,
+        185,
+        188,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 173,
-      "publication_year_offset": 0
+      "title_key": "exe.00536434",
+      "author_key": "exe.0053642c",
+      "field_08": 0,
+      "language": 7,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        174,
+        177,
+        178,
+        182,
+        184,
+        185,
+        188,
+        190
+      ],
+      "page_hints": [
+        91,
+        90,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 174,
-      "publication_year_offset": 0
+      "title_key": "exe.00536424",
+      "author_key": "exe.00536444",
+      "field_08": 0,
+      "language": 7,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        174,
+        177,
+        184,
+        188,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 175,
-      "publication_year_offset": 0
+      "title_key": "exe.0053641c",
+      "author_key": "exe.00536444",
+      "field_08": 0,
+      "language": 7,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        177,
+        178,
+        185,
+        188,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 176,
-      "publication_year_offset": 0
+      "title_key": "exe.00536414",
+      "author_key": "exe.00536444",
+      "field_08": 0,
+      "language": 7,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        174,
+        177,
+        182,
+        188,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 177,
-      "publication_year_offset": 0
+      "title_key": "exe.0053640c",
+      "author_key": "exe.005363f8",
+      "field_08": 0,
+      "language": 7,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        174,
+        177,
+        178,
+        182,
+        184,
+        185,
+        188,
+        190
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 178,
-      "publication_year_offset": 0
+      "title_key": "exe.005363f0",
+      "author_key": "exe.00536458",
+      "field_08": 0,
+      "language": 7,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        178,
+        185,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 179,
-      "publication_year_offset": 0
+      "title_key": "exe.005363e8",
+      "author_key": "exe.00536468",
+      "field_08": 0,
+      "language": 7,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        177,
+        178,
+        184,
+        188,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 180,
-      "publication_year_offset": 0
+      "title_key": "exe.005363e0",
+      "author_key": "exe.005363d4",
+      "field_08": 0,
+      "language": 7,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        185,
+        188,
+        178,
+        182,
+        184,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        37,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 181,
-      "publication_year_offset": 0
+      "title_key": "exe.005363cc",
+      "author_key": "exe.005363c4",
+      "field_08": 0,
+      "language": 7,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        182,
+        185,
+        188,
+        177,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        38,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 182,
-      "publication_year_offset": 0
+      "title_key": "exe.005363bc",
+      "author_key": "exe.005363b4",
+      "field_08": 0,
+      "language": 7,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        184,
+        185,
+        188,
+        174,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        169,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 183,
-      "publication_year_offset": 0
+      "title_key": "exe.005363a8",
+      "author_key": "exe.005363a0",
+      "field_08": 0,
+      "language": 7,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        178,
+        188,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 184,
-      "publication_year_offset": 0
+      "title_key": "exe.00536398",
+      "author_key": "exe.00536390",
+      "field_08": 0,
+      "language": 7,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        184,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 185,
-      "publication_year_offset": 0
+      "title_key": "exe.00536384",
+      "author_key": "exe.0053637c",
+      "field_08": 0,
+      "language": 7,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        177,
+        178,
+        184,
+        185,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 186,
-      "publication_year_offset": 0
+      "title_key": "exe.00536370",
+      "author_key": "exe.00536368",
+      "field_08": 0,
+      "language": 7,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        174,
+        178,
+        184,
+        188,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 187,
-      "publication_year_offset": 0
+      "title_key": "exe.00536360",
+      "author_key": "exe.00536354",
+      "field_08": 0,
+      "language": 7,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        185,
+        178,
+        174,
+        188,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        14,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 188,
-      "publication_year_offset": 0
+      "title_key": "exe.00536348",
+      "author_key": "exe.0053633c",
+      "field_08": 0,
+      "language": 7,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        184,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 189,
-      "publication_year_offset": 0
+      "title_key": "exe.00536334",
+      "author_key": "exe.00536328",
+      "field_08": 0,
+      "language": 7,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        184,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 190,
-      "publication_year_offset": 0
+      "title_key": "exe.0053631c",
+      "author_key": "exe.00536310",
+      "field_08": 0,
+      "language": 7,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        177,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 191,
-      "publication_year_offset": 0
+      "title_key": "exe.00536308",
+      "author_key": "exe.00536300",
+      "field_08": 0,
+      "language": 7,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        188,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 192,
-      "publication_year_offset": 0
+      "title_key": "exe.005362f4",
+      "author_key": "exe.005362e8",
+      "field_08": 0,
+      "language": 7,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        184,
+        188,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        95,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 193,
-      "publication_year_offset": 0
+      "title_key": "exe.005362e0",
+      "author_key": "exe.005362d8",
+      "field_08": 0,
+      "language": 7,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        185,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 194,
-      "publication_year_offset": 0
+      "title_key": "exe.005362d0",
+      "author_key": "exe.005362c4",
+      "field_08": 0,
+      "language": 7,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        174,
+        177,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 195,
-      "publication_year_offset": 0
+      "title_key": "exe.005362bc",
+      "author_key": "exe.005362b4",
+      "field_08": 0,
+      "language": 7,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        184,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 196,
-      "publication_year_offset": 0
+      "title_key": "exe.005362ac",
+      "author_key": "exe.005362a0",
+      "field_08": 0,
+      "language": 7,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        178,
+        182,
+        188,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        183,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 197,
-      "publication_year_offset": 0
+      "title_key": "exe.00536294",
+      "author_key": "exe.0053628c",
+      "field_08": 0,
+      "language": 7,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        174,
+        178,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 198,
-      "publication_year_offset": 0
+      "title_key": "exe.00536280",
+      "author_key": "exe.00536274",
+      "field_08": 0,
+      "language": 7,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        185,
+        184,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        124,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 199,
-      "publication_year_offset": 0
+      "title_key": "exe.00536268",
+      "author_key": "exe.0053625c",
+      "field_08": 0,
+      "language": 7,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        178,
+        182,
+        184,
+        188,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 200,
-      "publication_year_offset": 0
+      "title_key": "exe.00536254",
+      "author_key": "exe.00536248",
+      "field_08": 0,
+      "language": 7,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        182,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 201,
-      "publication_year_offset": 0
+      "title_key": "exe.0053623c",
+      "author_key": "exe.00536228",
+      "field_08": 0,
+      "language": 7,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        184,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 202,
-      "publication_year_offset": 0
+      "title_key": "exe.00536220",
+      "author_key": "exe.00536214",
+      "field_08": 0,
+      "language": 7,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        188,
+        177,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        178,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 203,
-      "publication_year_offset": 0
+      "title_key": "exe.0053620c",
+      "author_key": "exe.00536204",
+      "field_08": 0,
+      "language": 7,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        178,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 204,
-      "publication_year_offset": 0
+      "title_key": "exe.005361fc",
+      "author_key": "exe.005361f0",
+      "field_08": 0,
+      "language": 7,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        184,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 205,
-      "publication_year_offset": 0
+      "title_key": "exe.005361e0",
+      "author_key": "exe.005361d4",
+      "field_08": 0,
+      "language": 7,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        188,
+        178,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        123,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 206,
-      "publication_year_offset": 0
+      "title_key": "exe.005361c8",
+      "author_key": "exe.005361c0",
+      "field_08": 0,
+      "language": 7,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        177,
+        174,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        145,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 207,
-      "publication_year_offset": 0
+      "title_key": "exe.005361b4",
+      "author_key": "exe.005361a8",
+      "field_08": 0,
+      "language": 7,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        184,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 208,
-      "publication_year_offset": 0
+      "title_key": "exe.0053619c",
+      "author_key": "exe.00536190",
+      "field_08": 0,
+      "language": 7,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        188,
+        182,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        122,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 209,
-      "publication_year_offset": 0
+      "title_key": "exe.00536184",
+      "author_key": "exe.0053617c",
+      "field_08": 0,
+      "language": 7,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        188,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 210,
-      "publication_year_offset": 0
+      "title_key": "exe.00536170",
+      "author_key": "exe.00536164",
+      "field_08": 0,
+      "language": 7,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        182,
+        184,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        39,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 211,
-      "publication_year_offset": 0
+      "title_key": "exe.00536158",
+      "author_key": "exe.0053614c",
+      "field_08": 0,
+      "language": 7,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        184,
+        185,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 212,
-      "publication_year_offset": 0
+      "title_key": "exe.00536140",
+      "author_key": "exe.00536134",
+      "field_08": 0,
+      "language": 7,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        185,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 213,
-      "publication_year_offset": 0
+      "title_key": "exe.00536128",
+      "author_key": "exe.00536114",
+      "field_08": 0,
+      "language": 7,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        177,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 214,
-      "publication_year_offset": 0
+      "title_key": "exe.00536108",
+      "author_key": "exe.00536100",
+      "field_08": 0,
+      "language": 7,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        174,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 215,
-      "publication_year_offset": 0
+      "title_key": "exe.005360ec",
+      "author_key": "exe.005360dc",
+      "field_08": 0,
+      "language": 7,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        178,
+        188,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 216,
-      "publication_year_offset": 0
+      "title_key": "exe.005360d4",
+      "author_key": "exe.005360cc",
+      "field_08": 0,
+      "language": 7,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        178,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 217,
-      "publication_year_offset": 0
+      "title_key": "exe.005360c0",
+      "author_key": "exe.005360b8",
+      "field_08": 0,
+      "language": 7,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        177,
+        178,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        166,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 218,
-      "publication_year_offset": 0
+      "title_key": "exe.005360ac",
+      "author_key": "exe.005360a4",
+      "field_08": 0,
+      "language": 7,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        174,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 219,
-      "publication_year_offset": 0
+      "title_key": "exe.0053609c",
+      "author_key": "exe.00536094",
+      "field_08": 0,
+      "language": 7,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        188,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 220,
-      "publication_year_offset": 0
+      "title_key": "exe.0053608c",
+      "author_key": "exe.00536094",
+      "field_08": 0,
+      "language": 7,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        188,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 221,
-      "publication_year_offset": 0
+      "title_key": "exe.00536080",
+      "author_key": "exe.00536078",
+      "field_08": 0,
+      "language": 7,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        188,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 222,
-      "publication_year_offset": 0
+      "title_key": "exe.00536070",
+      "author_key": "exe.00536068",
+      "field_08": 0,
+      "language": 7,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        188,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 223,
-      "publication_year_offset": 0
+      "title_key": "exe.00536060",
+      "author_key": "exe.00536050",
+      "field_08": 0,
+      "language": 7,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        188,
+        174,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        93,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 224,
-      "publication_year_offset": 0
+      "title_key": "exe.00536048",
+      "author_key": "exe.00536040",
+      "field_08": 0,
+      "language": 7,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        182,
+        177,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        176,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 225,
-      "publication_year_offset": 0
+      "title_key": "exe.00536034",
+      "author_key": "exe.0053602c",
+      "field_08": 0,
+      "language": 7,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        182,
+        188,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        36,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 226,
-      "publication_year_offset": 0
+      "title_key": "exe.0053601c",
+      "author_key": "exe.00536014",
+      "field_08": 0,
+      "language": 7,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        182,
+        184,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        89,
+        66,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 227,
-      "publication_year_offset": 0
+      "title_key": "exe.00536008",
+      "author_key": "exe.00535ffc",
+      "field_08": 0,
+      "language": 7,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        177,
+        174,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        12,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 228,
-      "publication_year_offset": 0
+      "title_key": "exe.00535ff0",
+      "author_key": "exe.00535fe4",
+      "field_08": 0,
+      "language": 9,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        188,
+        184,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        87,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 229,
-      "publication_year_offset": 0
+      "title_key": "exe.00535fd4",
+      "author_key": "exe.00535fe4",
+      "field_08": 0,
+      "language": 9,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        188,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 230,
-      "publication_year_offset": 0
+      "title_key": "exe.00535fc4",
+      "author_key": "exe.00535fb8",
+      "field_08": 0,
+      "language": 9,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        188,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 231,
-      "publication_year_offset": 0
+      "title_key": "exe.00535fb0",
+      "author_key": "exe.00535fb8",
+      "field_08": 0,
+      "language": 9,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        188,
+        182,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        67,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 232,
-      "publication_year_offset": 0
+      "title_key": "exe.00535fa4",
+      "author_key": "exe.00535f98",
+      "field_08": 0,
+      "language": 12,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        174,
+        177,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        35,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 233,
-      "publication_year_offset": 0
+      "title_key": "exe.00535f8c",
+      "author_key": "exe.00535f80",
+      "field_08": 0,
+      "language": 12,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        174,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        78,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 234,
-      "publication_year_offset": 0
+      "title_key": "exe.00535f70",
+      "author_key": "exe.00535f64",
+      "field_08": 0,
+      "language": 13,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        190,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 235,
-      "publication_year_offset": 0
+      "title_key": "exe.00535f5c",
+      "author_key": "exe.00535f54",
+      "field_08": 0,
+      "language": 13,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        190,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        40,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 236,
-      "publication_year_offset": 0
+      "title_key": "exe.00535f48",
+      "author_key": "exe.00535f3c",
+      "field_08": 0,
+      "language": 13,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        190,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        94,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 237,
-      "publication_year_offset": 0
+      "title_key": "exe.00535f30",
+      "author_key": "exe.00535f28",
+      "field_08": 0,
+      "language": 13,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        190,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        185,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 238,
-      "publication_year_offset": 0
+      "title_key": "exe.00535f20",
+      "author_key": "exe.00535f08",
+      "field_08": 0,
+      "language": 13,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        193,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        41,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 239,
-      "publication_year_offset": 0
+      "title_key": "exe.00535efc",
+      "author_key": "exe.00535eec",
+      "field_08": 0,
+      "language": 13,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        193,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 240,
-      "publication_year_offset": 0
+      "title_key": "exe.00535ee4",
+      "author_key": "exe.00535ec8",
+      "field_08": 0,
+      "language": 13,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        193,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 241,
-      "publication_year_offset": 0
+      "title_key": "exe.00535ebc",
+      "author_key": "exe.00535eb0",
+      "field_08": 0,
+      "language": 13,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        193,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        177,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 242,
-      "publication_year_offset": 0
+      "title_key": "exe.00535ea4",
+      "author_key": "exe.00535e90",
+      "field_08": 0,
+      "language": 13,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        193,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 243,
-      "publication_year_offset": 0
+      "title_key": "exe.00535e88",
+      "author_key": "exe.00535e74",
+      "field_08": 0,
+      "language": 13,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        193,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 244,
-      "publication_year_offset": 0
+      "title_key": "exe.00535e68",
+      "author_key": "exe.00535e5c",
+      "field_08": 0,
+      "language": 13,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        193,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 245,
-      "publication_year_offset": 0
+      "title_key": "exe.00535e50",
+      "author_key": "exe.00535e3c",
+      "field_08": 0,
+      "language": 13,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        193,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 246,
-      "publication_year_offset": 0
+      "title_key": "exe.00535e30",
+      "author_key": "exe.00535e18",
+      "field_08": 0,
+      "language": 13,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        193,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 247,
-      "publication_year_offset": 0
+      "title_key": "exe.00535e10",
+      "author_key": "exe.00535e00",
+      "field_08": 0,
+      "language": 13,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        193,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 248,
-      "publication_year_offset": 0
+      "title_key": "exe.00535dec",
+      "author_key": "exe.00535de0",
+      "field_08": 0,
+      "language": 11,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        201,
+        200,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        98,
+        70,
+        96,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 249,
-      "publication_year_offset": 0
+      "title_key": "exe.00535dc8",
+      "author_key": "exe.00535de0",
+      "field_08": 0,
+      "language": 11,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        201,
+        200,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        17,
+        11,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 250,
-      "publication_year_offset": 0
+      "title_key": "exe.00535dac",
+      "author_key": "exe.00535de0",
+      "field_08": 0,
+      "language": 11,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        201,
+        200,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        71,
+        44,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 251,
-      "publication_year_offset": 0
+      "title_key": "exe.00535d9c",
+      "author_key": "exe.00535de0",
+      "field_08": 0,
+      "language": 11,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        201,
+        200,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        155,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 252,
-      "publication_year_offset": 0
+      "title_key": "exe.00535d80",
+      "author_key": "exe.00535de0",
+      "field_08": 0,
+      "language": 11,
+      "publication_year_offset": 0,
+      "field_14": 999,
+      "cities": [
+        201,
+        200,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        16,
+        69,
+        43,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 253,
-      "publication_year_offset": 19
+      "title_key": "exe.00535d60",
+      "author_key": "exe.00535d50",
+      "field_08": 0,
+      "language": 0,
+      "publication_year_offset": 19,
+      "field_14": 0,
+      "cities": [
+        201,
+        7,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        168,
+        131,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 254,
-      "publication_year_offset": 20
+      "title_key": "exe.00535d34",
+      "author_key": "exe.00535d28",
+      "field_08": 0,
+      "language": 0,
+      "publication_year_offset": 20,
+      "field_14": 0,
+      "cities": [
+        201,
+        7,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        159,
+        139,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 255,
-      "publication_year_offset": 22
+      "title_key": "exe.00535d14",
+      "author_key": "exe.00535d00",
+      "field_08": 0,
+      "language": 0,
+      "publication_year_offset": 22,
+      "field_14": 0,
+      "cities": [
+        201,
+        7,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        160,
+        132,
+        19,
+        140,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     },
     {
       "id": 256,
-      "publication_year_offset": 20
+      "title_key": "exe.00535cf0",
+      "author_key": "exe.00535cdc",
+      "field_08": 0,
+      "language": 0,
+      "publication_year_offset": 20,
+      "field_14": 0,
+      "cities": [
+        201,
+        4,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "page_hints": [
+        167,
+        164,
+        97,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
     }
   ]
 }

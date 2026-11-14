@@ -7,16 +7,6 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
-      "path": "LICENSE.DroidSans.txt",
-      "size": 581,
-      "sha256": "d0588452395c674334105d9a39e4d8627c66080f45491013e877139581a78ed1"
-    },
-    {
-      "path": "LICENSE.Godot.txt",
-      "size": 1149,
-      "sha256": "b0435e3b3e4e55238f05f4b306f30524a1b2e20147810d436eaa554fa6855c80"
-    },
-    {
       "path": "assets/bgm/Track02.mp3",
       "size": 3393827,
       "sha256": "f61ebcc072153e34a597f6e2fdb271238287442a595e7b129128d5a00f23cf1d"
@@ -212,14 +202,14 @@
       "sha256": "3967373e04407f797362f94d9935eeb1dfe9e523ecac64671c71cc9e3536719f"
     },
     {
-      "path": "assets/core/HISTCHR.CDS",
-      "size": 17893,
-      "sha256": "8c0ffc45981d25539b64cf7032d8dfbb15804ba6fcc3eb1b0bdb5b574a4f96bd"
-    },
-    {
       "path": "assets/core/HIST_EV.CDS",
       "size": 10151,
       "sha256": "4e1869ef3d2b5529c021c2e44dfe64a9acf74aa69e7e846d051c240a2b256686"
+    },
+    {
+      "path": "assets/core/HISTCHR.CDS",
+      "size": 17893,
+      "sha256": "8c0ffc45981d25539b64cf7032d8dfbb15804ba6fcc3eb1b0bdb5b574a4f96bd"
     },
     {
       "path": "assets/core/LANDDATA.CDS",
@@ -338,8 +328,8 @@
     },
     {
       "path": "assets/data/records/books.json",
-      "size": 17686,
-      "sha256": "23a7a2735dfaa28abd7c01e7f82c0db4fe4fba91578884a8ff45cc44b886e4d4"
+      "size": 115669,
+      "sha256": "62ee3a4d7e7ba6e3731e2136e88a16e564cfe8d3e3025d3386a30561be27fd25"
     },
     {
       "path": "assets/data/records/cannons.json",
@@ -390,11 +380,6 @@
       "path": "assets/data/records/items.json",
       "size": 78517,
       "sha256": "53c438349629f6b729ef2787c77e403dd9ccc47bbfc114eaeaa789dfb18e37ea"
-    },
-    {
-      "path": "assets/data/records/matrices.json",
-      "size": 69133,
-      "sha256": "2704fceee3a6a8f669b0a78a6cbd82362b31bec47919fe0df97cfddf23924cf1"
     },
     {
       "path": "assets/data/records/nations.json",
@@ -460,11 +445,6 @@
       "path": "assets/data/story.json",
       "size": 1220,
       "sha256": "6d6cdee3ffed5a56860265ea312d00058be8c98123f6b39b03701f386e14cb75"
-    },
-    {
-      "path": "assets/data/strings.ko.json",
-      "size": 1161545,
-      "sha256": "fea75488e47535b455e8d700481087a99fc80fe100e4a9a060f05dbaef2e53fe"
     },
     {
       "path": "assets/sfx/WAVES_00.mp3",
@@ -1268,28 +1248,33 @@
     },
     {
       "path": "assets-manifest.json",
-      "size": 64608,
-      "sha256": "c34dda95b2d1a01544a5227a96d111e5fc5eea78a530a17a75b8d1c31d9ed92f"
+      "size": 66168,
+      "sha256": "30b690200492e5ac9ce33a8e57351becc8da1278a5e426c0fe4e58149c89c46d"
     },
     {
       "path": "build-version.json",
-      "size": 12238,
-      "sha256": "5e540706650bae6853a04ec8b3ab3dd970d2b3fd444623d1a5d3f86c0e0e121c"
+      "size": 2646,
+      "sha256": "7bd609a25117d2be8c1dc7d67c95b31ab3d8e011d1b88946b84d475b670e0c11"
     },
     {
       "path": "cds_native.web.wasm",
-      "size": 9745565,
-      "sha256": "d96de3ac82e61b6b1bd0e9bb6fd2c6e8c3e9a518e18bd78ea36155ff52bfa052"
+      "size": 9825621,
+      "sha256": "77e04dfa98cde013a62e427cb8bc5ebd2c675854e73baeb99a0533c6ee781ce1"
+    },
+    {
+      "path": "discovery-video-worker.js",
+      "size": 2643,
+      "sha256": "13db37b3c85b0d31469ae806cbf226d8393d0a08b241e752630edf49098dc513"
     },
     {
       "path": "game-data.pck",
-      "size": 20351644,
-      "sha256": "91cf8017caed99daab24d8a7dd00874aa133361a1b29a6d4f12b0f27d66041fd"
+      "size": 17455256,
+      "sha256": "d5125d41cf42ce1f05493bf43e5fa708d798177876fb1c162b462110e70343a0"
     },
     {
       "path": "gameplay.pck",
-      "size": 1632352,
-      "sha256": "75378f35f759e1c361351c1d5348697db8bd328c996775f443a3391b0d14dda3"
+      "size": 1766160,
+      "sha256": "e9c4574cb8916c5f90367ba2f5bafc80a2009df7881254a9b9b0acab5a5e10f7"
     },
     {
       "path": "graphics-001.pck",
@@ -1313,33 +1298,33 @@
     },
     {
       "path": "graphics-005.pck",
-      "size": 33499360,
-      "sha256": "1a6119a08f3d7c4913bb17a5ba978f471af5904de7bd8180a34103a5306d464b"
+      "size": 33499844,
+      "sha256": "17cd2ab6afd9c6b9b1b208e3224651b676ebeffea2174b51b40e826164e97c78"
     },
     {
       "path": "graphics-006.pck",
-      "size": 33531016,
-      "sha256": "e76bae8dd0c64fa278cacbacfdbe4353a6e772ed8d6577bbac5eeb90a6a4335d"
+      "size": 33511444,
+      "sha256": "5e462cdca17e32ebda9ee26f50fa84c60b84d466aac768395c274d851d59cc4e"
     },
     {
       "path": "graphics-007.pck",
-      "size": 33503924,
-      "sha256": "bdbb0e137e2fbae4f315b2f18faab5cb87c3929216e2a860f1aa2885fb4caadc"
+      "size": 33524580,
+      "sha256": "569479fbb31134bf42a30e50c516c82e4e487a450964a9fc08a3306b633d4c1b"
     },
     {
       "path": "graphics-008.pck",
-      "size": 33209216,
-      "sha256": "0b10c6579ec7c8588489c2c94d6d7147ce24a9593d507a8509d41099d7c62e31"
+      "size": 32733848,
+      "sha256": "f68a3fa5b9c62e04df9aaeb86e5216cd0e8b589071c55c674a682b105b7ba2d3"
     },
     {
       "path": "graphics-009.pck",
-      "size": 33387820,
-      "sha256": "54584330514b0249aea542a894de0f5af3cca1bff393a3529a386995fdbb844d"
+      "size": 33280724,
+      "sha256": "0db323b4506a27eb68463e6fb55d4a89fa8c9f8bab4516295e18605c73f05a73"
     },
     {
       "path": "graphics-010.pck",
-      "size": 25661268,
-      "sha256": "6b757490d8b298f6765c6e9f16c40ea1b3babd31b2cf69f72e6ffb1aa77454ae"
+      "size": 27191708,
+      "sha256": "1395c2d10e3a043a1418bac5d801821befe143d5883e84fe18f8398e26fff220"
     },
     {
       "path": "graphics-011.pck",
@@ -1363,8 +1348,8 @@
     },
     {
       "path": "index.html",
-      "size": 29710,
-      "sha256": "64374fd649a50b9fd71b7573231aac322e1a376306e3146a5aa0d4c86de6dc54"
+      "size": 35914,
+      "sha256": "6cbb1ed458b66fef4e2ea4358b5eab71401bc5cee1eed929158ddf11aa981d73"
     },
     {
       "path": "index.icon.png",
@@ -1373,13 +1358,13 @@
     },
     {
       "path": "index.js",
-      "size": 2966217,
-      "sha256": "07563add07af78fe990e9f6ad157d7c23cbd438086ddcc1bc1ddcb5a076f90de"
+      "size": 2966219,
+      "sha256": "8d60a81d49b7cc12df0c8ce9230d8ab797dde11579e121c6de5c1a9e5102e10b"
     },
     {
       "path": "index.pck",
-      "size": 11303832,
-      "sha256": "f66d7196207c7f0a0aff622c6a8554baf80f33c2feb502e82389a2a280ec4cac"
+      "size": 14218504,
+      "sha256": "fe3a95554d145a808525bd6b51b84131daebc29ca1e3a731a5067736fa47ce07"
     },
     {
       "path": "index.png",
@@ -1394,17 +1379,27 @@
     {
       "path": "index.wasm",
       "size": 1713410,
-      "sha256": "b8e7543a928d97b50c1b8912cb05d658868bc0838aeeb551055d5766182c57d5"
+      "sha256": "14ec7deb81f2da7df0e353ab61cc30dcb4c390b08e7a725d40339173c9dfcd41"
     },
     {
       "path": "interface.pck",
       "size": 7325040,
-      "sha256": "04fa657be11aa6bcc1be8aa535ba4de146014f1f0c10526b21063aa8e4ef6454"
+      "sha256": "4829ddbf4db08439931ce314dad4b47dc521bbca862aa3b71e3851bcc71141ba"
     },
     {
       "path": "isolation-sw.js",
       "size": 2877,
       "sha256": "685e154936f69d6cb13311bbb7b049a1875630ed93ad58779ef562c10cf7b58e"
+    },
+    {
+      "path": "LICENSE.DroidSans.txt",
+      "size": 581,
+      "sha256": "d0588452395c674334105d9a39e4d8627c66080f45491013e877139581a78ed1"
+    },
+    {
+      "path": "LICENSE.Godot.txt",
+      "size": 1149,
+      "sha256": "b0435e3b3e4e55238f05f4b306f30524a1b2e20147810d436eaa554fa6855c80"
     }
   ]
 }
