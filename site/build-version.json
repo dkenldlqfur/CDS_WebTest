@@ -1,7 +1,7 @@
 {
   "version": "1.3.2",
   "channel": "web-test",
-  "built_at": "2026-11-17T02:47:27.809338+00:00",
+  "built_at": "2026-11-17T03:07:56.239810+00:00",
   "pck_sha256": "0a1d789bf050cc310beb1ceeec85ca6670377a87a454b4d139bc195f4ead5b34",
   "wasm_sha256": "e22a23e3ec72f79309b98918375868d8e9ef6a41a999d68f721e808e56694994",
   "packs": [
@@ -12,8 +12,8 @@
     },
     {
       "url": "gameplay.pck",
-      "size": 1933496,
-      "sha256": "fb5287ea5856a432c1c2917134a203011baf53780f881ea92325872744033ba3"
+      "size": 1929384,
+      "sha256": "6ca58e6f771db983e23e38c72db7bed01293b43ccbac830d4733c92c43c73e2f"
     },
     {
       "url": "interface.pck",
