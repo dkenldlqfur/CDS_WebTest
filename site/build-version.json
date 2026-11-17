@@ -1,19 +1,19 @@
 {
-  "version": "1.3.0",
+  "version": "1.3.2",
   "channel": "web-test",
-  "built_at": "2026-11-16T04:26:43.825938+00:00",
-  "pck_sha256": "e891735c5d88db2863d6977edcdfb4ab7181c62f9f003704702ef1a8ed603f43",
-  "wasm_sha256": "5bc24b934b16e4a60f984e3402cb91d1a51e91c9409cfd0191429422bc3620df",
+  "built_at": "2026-11-17T02:03:54.319906+00:00",
+  "pck_sha256": "fd650ed9dda2ad35010c6d82812ade030165289550ead0949ed554a2b1365a18",
+  "wasm_sha256": "f5a6954e325a681ebc4f9a25efa9215370c1f6a3ae97a9dbd65f9ec2ca3356e1",
   "packs": [
     {
       "url": "index.pck",
-      "size": 20585768,
-      "sha256": "e891735c5d88db2863d6977edcdfb4ab7181c62f9f003704702ef1a8ed603f43"
+      "size": 20589608,
+      "sha256": "fd650ed9dda2ad35010c6d82812ade030165289550ead0949ed554a2b1365a18"
     },
     {
       "url": "gameplay.pck",
-      "size": 1902988,
-      "sha256": "db8905f8eb7f16bab6b178045c10218333257fbc3a5d663b24fb91f18b32c09a"
+      "size": 1932344,
+      "sha256": "fabc8570d7d1d1fb96c8f5a7db8a42b7986c0b3a6e9d7be4fb8edd26cd7e80e0"
     },
     {
       "url": "interface.pck",
@@ -22,8 +22,8 @@
     },
     {
       "url": "game-data.pck",
-      "size": 17513980,
-      "sha256": "e73c383e6e2b2fc9c98a51f9763dc22080379a4de465e4ed41028a76c8d6223d"
+      "size": 17506204,
+      "sha256": "7431d212cf21af4e924979138c0bd50025a6afae374f226fb395e7810760a584"
     },
     {
       "url": "graphics-001.pck",
@@ -52,62 +52,33 @@
     },
     {
       "url": "graphics-006.pck",
-      "size": 33511444,
-      "sha256": "5e462cdca17e32ebda9ee26f50fa84c60b84d466aac768395c274d851d59cc4e"
+      "size": 33518192,
+      "sha256": "e4615b0ab2bc910e443fff4f014ff9c742f73da01d2011115b79a5e912c8b8d0"
     },
     {
       "url": "graphics-007.pck",
-      "size": 33524580,
-      "sha256": "569479fbb31134bf42a30e50c516c82e4e487a450964a9fc08a3306b633d4c1b"
+      "size": 33510920,
+      "sha256": "927e4b3e9e438ad03fec6391e9bc1ef0474fac604fdbbe9c92564e3e27d2f47c"
     },
     {
       "url": "graphics-008.pck",
-      "size": 32733848,
-      "sha256": "f68a3fa5b9c62e04df9aaeb86e5216cd0e8b589071c55c674a682b105b7ba2d3"
+      "size": 33316016,
+      "sha256": "5f2fd2a7c8a646dcf12eff0c96f7f866a3f322a4539542d98ea3e62f0aa3796c"
     },
     {
       "url": "graphics-009.pck",
-      "size": 33280724,
-      "sha256": "0db323b4506a27eb68463e6fb55d4a89fa8c9f8bab4516295e18605c73f05a73"
+      "size": 33545932,
+      "sha256": "ba2004da7924e30ff807a12eb49b05cffc7134008db4f9ba51d8727c93cdd42f"
     },
     {
       "url": "graphics-010.pck",
-      "size": 27191708,
-      "sha256": "1395c2d10e3a043a1418bac5d801821befe143d5883e84fe18f8398e26fff220"
+      "size": 33493232,
+      "sha256": "7cf9d32ddef2a878ca899138c1406927d93fc25d45bdb9ebd7f45583d3afcb2b"
     },
     {
       "url": "graphics-011.pck",
-      "size": 23912128,
-      "sha256": "69403b54a784340bb8ca39f96fee623f3848db80814119337d117d1837f64d57"
+      "size": 24174676,
+      "sha256": "9dafa8fe7a9e986a4064d236591a159b769483bdf993dbf3fa44fb65897016a7"
     }
-  ],
-  "source_commit": "3065b79ba11869a96f0356d25c6eefa278848a3d",
-  "source_dirty": true,
-  "source_changes": {
-    "godot/data/strings.ko.json": "5f2c5a68e38d2d56a444ce310275f682e2113bfc0c9604ef60be357488c610ac",
-    "godot/native/build_native.ps1": "81082a9974635e381aa0acd81112a61b5f9d866e00cb2139d742cdb48085d265",
-    "godot/native/city_discovery_events.h": "e6f8f1c6cc75501b6e5f07876afa9424e6a2d8fcfa60b40452997ca5e53c93d2",
-    "godot/native/record_catalog.inc": "04bb37f9fa4b591c554d9060abf16bc117ca99f638749b69bcc7161e5bd194d8",
-    "godot/native/sea_battle_input_driver.cpp": "0dd0d199ee8898072e21ca574281f78c95cc84714a87933df5887bbfbd223ee5",
-    "godot/native/world_runtime_city.cpp": "e1ddc1b7d8add9464fbdb8c2b826964fcf18131d47806f47b874ff92f27c52a7",
-    "godot/native/world_runtime_city.h": "906e324608cd998fc88da85145cc90f003f36bb46c6df570b4170c7be9756521",
-    "godot/native/world_wait_session.cpp": "1ad2d42285408cdaa114a5556b2c06c2051b43500d5efdc95879112df4f0890a",
-    "godot/runtime/city_editor_data.gd": "5d813ade6a8d97f81149575d0cede7ad9bc5b708b85b10f86adfaec0166ad86e",
-    "godot/runtime/discovery_editor_data.gd": "a1892f34f089319485fe1a184451ce47ffe14d007d7c555c8ae3b64f43c7d6e6",
-    "godot/scenes/discovery_editor_fields.gd": "abba1517788fce231888de02d283831a9231a2b58d6390720748628a52027505",
-    "godot/scenes/discovery_event_editor.gd": "f65a1a29f6995c3101f5587522de765ca7a67591e5d83b3f92c209071dbc7c6e",
-    "godot/scenes/hint_editor.gd": "400e6fd6624eeb41f39957af84327f83df59f4d0c21c2a16c3318320ff04592e",
-    "godot/scenes/main_city_editor.gd": "62dbe87448095f72d1768bdd631589a2e4abcb0fe07ab0914ab7e96134466ad6",
-    "restoration/build/godot-native/reused_world_wait.inc": "4ad89cdbf5d0d835543197ff0d99ff4b765d3b38ac78216d557e61bbeca84122",
-    "restoration/src/world_direction_keys.h": "04cb02164e703a481e57e8c76114dbcfdcc6f1f4fd35e754e93e5ea3a048e6e0",
-    "restoration/src/world_input_event.cpp": "4cd69d83a81cb7e736199cb1e294bfcf8c833894ea633cf21b4945f4f69dcf67"
-  },
-  "changes": [
-    "해상·육상 방향키 이동 지원",
-    "새 발견물 등록의 그룹 선택과 저장 시 새 그룹 번호 생성",
-    "이벤트 편집 이전·다음 이동과 미저장 변경 확인",
-    "발견물 편집의 중복 탭 정리",
-    "도시·시설의 추가 발견물 이벤트 연결 지원"
-  ],
-  "gameplay_executed": false
+  ]
 }

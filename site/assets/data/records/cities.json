@@ -3,7 +3,7 @@
   "records": [
     {
       "id": 0,
-      "world_image_id": 110601,
+      "world_image_id": 110592,
       "position": [
         1185,
         355
@@ -864,7 +864,7 @@
     },
     {
       "id": 21,
-      "world_image_id": 110602,
+      "world_image_id": 110593,
       "position": [
         1288,
         324
@@ -1192,7 +1192,7 @@
     },
     {
       "id": 29,
-      "world_image_id": 110603,
+      "world_image_id": 110592,
       "position": [
         1334,
         309
@@ -1315,7 +1315,7 @@
     },
     {
       "id": 32,
-      "world_image_id": 110604,
+      "world_image_id": 110593,
       "position": [
         1342,
         321
@@ -1397,7 +1397,7 @@
     },
     {
       "id": 34,
-      "world_image_id": 110605,
+      "world_image_id": 110592,
       "position": [
         1348,
         339
@@ -1438,7 +1438,7 @@
     },
     {
       "id": 35,
-      "world_image_id": 110606,
+      "world_image_id": 110593,
       "position": [
         1313,
         352
@@ -1520,7 +1520,7 @@
     },
     {
       "id": 37,
-      "world_image_id": 110607,
+      "world_image_id": 110593,
       "position": [
         1355,
         367
@@ -1561,7 +1561,7 @@
     },
     {
       "id": 38,
-      "world_image_id": 110608,
+      "world_image_id": 110592,
       "position": [
         1254,
         266
@@ -1766,7 +1766,7 @@
     },
     {
       "id": 43,
-      "world_image_id": 110609,
+      "world_image_id": 110593,
       "position": [
         1206,
         251
@@ -1848,7 +1848,7 @@
     },
     {
       "id": 45,
-      "world_image_id": 110610,
+      "world_image_id": 110593,
       "position": [
         1323,
         249
@@ -1930,7 +1930,7 @@
     },
     {
       "id": 47,
-      "world_image_id": 110611,
+      "world_image_id": 110593,
       "position": [
         1293,
         269
@@ -2012,7 +2012,7 @@
     },
     {
       "id": 49,
-      "world_image_id": 110612,
+      "world_image_id": 110593,
       "position": [
         1297,
         287
@@ -2586,7 +2586,7 @@
     },
     {
       "id": 63,
-      "world_image_id": 110613,
+      "world_image_id": 110593,
       "position": [
         1381,
         295
@@ -2668,7 +2668,7 @@
     },
     {
       "id": 65,
-      "world_image_id": 110614,
+      "world_image_id": 110593,
       "position": [
         1377,
         223
@@ -2791,7 +2791,7 @@
     },
     {
       "id": 68,
-      "world_image_id": 110615,
+      "world_image_id": 110593,
       "position": [
         1284,
         204
@@ -3078,7 +3078,7 @@
     },
     {
       "id": 75,
-      "world_image_id": 110616,
+      "world_image_id": 110593,
       "position": [
         1485,
         379
@@ -3283,7 +3283,7 @@
     },
     {
       "id": 80,
-      "world_image_id": 110617,
+      "world_image_id": 110594,
       "position": [
         1476,
         457
@@ -3365,7 +3365,7 @@
     },
     {
       "id": 82,
-      "world_image_id": 110618,
+      "world_image_id": 110594,
       "position": [
         1321,
         368
@@ -3529,7 +3529,7 @@
     },
     {
       "id": 86,
-      "world_image_id": 110619,
+      "world_image_id": 110596,
       "position": [
         1054,
         358
@@ -3693,7 +3693,7 @@
     },
     {
       "id": 90,
-      "world_image_id": 110620,
+      "world_image_id": 110596,
       "position": [
         1129,
         521
@@ -4308,7 +4308,7 @@
     },
     {
       "id": 105,
-      "world_image_id": 110621,
+      "world_image_id": 110596,
       "position": [
         1523,
         685
@@ -4554,7 +4554,7 @@
     },
     {
       "id": 111,
-      "world_image_id": 110622,
+      "world_image_id": 110596,
       "position": [
         1481,
         516
@@ -4595,7 +4595,7 @@
     },
     {
       "id": 112,
-      "world_image_id": 110623,
+      "world_image_id": 110595,
       "position": [
         1452,
         340
@@ -4677,7 +4677,7 @@
     },
     {
       "id": 114,
-      "world_image_id": 110624,
+      "world_image_id": 110594,
       "position": [
         1516,
         317
@@ -4718,7 +4718,7 @@
     },
     {
       "id": 115,
-      "world_image_id": 110625,
+      "world_image_id": 110594,
       "position": [
         1489,
         348
@@ -5169,7 +5169,7 @@
     },
     {
       "id": 126,
-      "world_image_id": 110626,
+      "world_image_id": 110594,
       "position": [
         1586,
         416
@@ -6440,7 +6440,7 @@
     },
     {
       "id": 157,
-      "world_image_id": 110627,
+      "world_image_id": 110594,
       "position": [
         1864,
         473
@@ -7138,7 +7138,7 @@
     },
     {
       "id": 174,
-      "world_image_id": 110628,
+      "world_image_id": 110597,
       "position": [
         2039,
         466
@@ -7179,7 +7179,7 @@
     },
     {
       "id": 175,
-      "world_image_id": 110629,
+      "world_image_id": 110597,
       "position": [
         2074,
         451
@@ -7261,7 +7261,7 @@
     },
     {
       "id": 177,
-      "world_image_id": 110630,
+      "world_image_id": 110597,
       "position": [
         2085,
         414
@@ -7302,7 +7302,7 @@
     },
     {
       "id": 178,
-      "world_image_id": 110631,
+      "world_image_id": 110597,
       "position": [
         2094,
         405
@@ -7343,7 +7343,7 @@
     },
     {
       "id": 179,
-      "world_image_id": 110632,
+      "world_image_id": 110597,
       "position": [
         2041,
         415
@@ -7548,7 +7548,7 @@
     },
     {
       "id": 184,
-      "world_image_id": 110633,
+      "world_image_id": 110597,
       "position": [
         2008,
         389
@@ -7589,7 +7589,7 @@
     },
     {
       "id": 185,
-      "world_image_id": 110634,
+      "world_image_id": 110597,
       "position": [
         2047,
         387
@@ -7630,7 +7630,7 @@
     },
     {
       "id": 186,
-      "world_image_id": 110635,
+      "world_image_id": 110597,
       "position": [
         2066,
         367
@@ -8615,7 +8615,7 @@
     },
     {
       "id": 210,
-      "world_image_id": 110636,
+      "world_image_id": 110599,
       "position": [
         699,
         561
@@ -8697,7 +8697,7 @@
     },
     {
       "id": 212,
-      "world_image_id": 110637,
+      "world_image_id": 110599,
       "position": [
         761,
         542
@@ -8738,7 +8738,7 @@
     },
     {
       "id": 213,
-      "world_image_id": 110638,
+      "world_image_id": 110599,
       "position": [
         802,
         551
@@ -9025,7 +9025,7 @@
     },
     {
       "id": 220,
-      "world_image_id": 110639,
+      "world_image_id": 110599,
       "position": [
         693,
         648

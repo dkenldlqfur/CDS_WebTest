@@ -50,18 +50,10 @@
       "deferred": false
     },
     {
-      "url": "assets/core/EVSTILL.CDS",
-      "path": "/cds95/EVSTILL.CDS",
-      "size": 1021116,
-      "sha256": "415f68965fddb41dda7df1b8f10c7ad67dd335ce5ad52636dcb0a659e2f88f90",
-      "aliases": [],
-      "deferred": false
-    },
-    {
-      "url": "assets/core/FISHING.CDS",
-      "path": "/cds95/FISHING.CDS",
-      "size": 64353,
-      "sha256": "3967373e04407f797362f94d9935eeb1dfe9e523ecac64671c71cc9e3536719f",
+      "url": "assets/core/HIST_EV.CDS",
+      "path": "/cds95/HIST_EV.CDS",
+      "size": 10151,
+      "sha256": "4e1869ef3d2b5529c021c2e44dfe64a9acf74aa69e7e846d051c240a2b256686",
       "aliases": [],
       "deferred": false
     },
@@ -70,14 +62,6 @@
       "path": "/cds95/HISTCHR.CDS",
       "size": 17893,
       "sha256": "8c0ffc45981d25539b64cf7032d8dfbb15804ba6fcc3eb1b0bdb5b574a4f96bd",
-      "aliases": [],
-      "deferred": false
-    },
-    {
-      "url": "assets/core/HIST_EV.CDS",
-      "path": "/cds95/HIST_EV.CDS",
-      "size": 10151,
-      "sha256": "4e1869ef3d2b5529c021c2e44dfe64a9acf74aa69e7e846d051c240a2b256686",
       "aliases": [],
       "deferred": false
     },
@@ -328,7 +312,7 @@
       "url": "assets/data/records/cities.json",
       "path": "/cds95/data/records/cities.json",
       "size": 162564,
-      "sha256": "8b78ab4f2b72ea99aefff75e947ca4c1ceb56fb0d3fc20a6b92bab7e2b11efc9",
+      "sha256": "f198236c64e6f139b914c6ac219ed8c5283f4bff1db2e3e2cd8fef6b1012fe47",
       "aliases": [],
       "deferred": false
     },
@@ -1992,13 +1976,13 @@
   "packs": [
     {
       "url": "index.pck",
-      "size": 20585768,
-      "sha256": "e891735c5d88db2863d6977edcdfb4ab7181c62f9f003704702ef1a8ed603f43"
+      "size": 20589608,
+      "sha256": "fd650ed9dda2ad35010c6d82812ade030165289550ead0949ed554a2b1365a18"
     },
     {
       "url": "gameplay.pck",
-      "size": 1902988,
-      "sha256": "db8905f8eb7f16bab6b178045c10218333257fbc3a5d663b24fb91f18b32c09a"
+      "size": 1932344,
+      "sha256": "fabc8570d7d1d1fb96c8f5a7db8a42b7986c0b3a6e9d7be4fb8edd26cd7e80e0"
     },
     {
       "url": "interface.pck",
@@ -2007,8 +1991,8 @@
     },
     {
       "url": "game-data.pck",
-      "size": 17513980,
-      "sha256": "e73c383e6e2b2fc9c98a51f9763dc22080379a4de465e4ed41028a76c8d6223d"
+      "size": 17506204,
+      "sha256": "7431d212cf21af4e924979138c0bd50025a6afae374f226fb395e7810760a584"
     },
     {
       "url": "graphics-001.pck",
@@ -2037,33 +2021,33 @@
     },
     {
       "url": "graphics-006.pck",
-      "size": 33511444,
-      "sha256": "5e462cdca17e32ebda9ee26f50fa84c60b84d466aac768395c274d851d59cc4e"
+      "size": 33518192,
+      "sha256": "e4615b0ab2bc910e443fff4f014ff9c742f73da01d2011115b79a5e912c8b8d0"
     },
     {
       "url": "graphics-007.pck",
-      "size": 33524580,
-      "sha256": "569479fbb31134bf42a30e50c516c82e4e487a450964a9fc08a3306b633d4c1b"
+      "size": 33510920,
+      "sha256": "927e4b3e9e438ad03fec6391e9bc1ef0474fac604fdbbe9c92564e3e27d2f47c"
     },
     {
       "url": "graphics-008.pck",
-      "size": 32733848,
-      "sha256": "f68a3fa5b9c62e04df9aaeb86e5216cd0e8b589071c55c674a682b105b7ba2d3"
+      "size": 33316016,
+      "sha256": "5f2fd2a7c8a646dcf12eff0c96f7f866a3f322a4539542d98ea3e62f0aa3796c"
     },
     {
       "url": "graphics-009.pck",
-      "size": 33280724,
-      "sha256": "0db323b4506a27eb68463e6fb55d4a89fa8c9f8bab4516295e18605c73f05a73"
+      "size": 33545932,
+      "sha256": "ba2004da7924e30ff807a12eb49b05cffc7134008db4f9ba51d8727c93cdd42f"
     },
     {
       "url": "graphics-010.pck",
-      "size": 27191708,
-      "sha256": "1395c2d10e3a043a1418bac5d801821befe143d5883e84fe18f8398e26fff220"
+      "size": 33493232,
+      "sha256": "7cf9d32ddef2a878ca899138c1406927d93fc25d45bdb9ebd7f45583d3afcb2b"
     },
     {
       "url": "graphics-011.pck",
-      "size": 23912128,
-      "sha256": "69403b54a784340bb8ca39f96fee623f3848db80814119337d117d1837f64d57"
+      "size": 24174676,
+      "sha256": "9dafa8fe7a9e986a4064d236591a159b769483bdf993dbf3fa44fb65897016a7"
     }
   ]
 }
