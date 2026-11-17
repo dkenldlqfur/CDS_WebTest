@@ -388,8 +388,8 @@
     },
     {
       "path": "assets/data/records/secondary_facilities.json",
-      "size": 48736,
-      "sha256": "595f584425c88ba55cf0dd1bf6bcdf7dffc00ad20770bb05e2effeb4ca298ed3"
+      "size": 51079,
+      "sha256": "957e02cc6fc68fd37945a8c2cb8163141fbc3bee025d23fa22a6ea003707d6aa"
     },
     {
       "path": "assets/data/records/ship_types.json",
@@ -1234,17 +1234,17 @@
     {
       "path": "assets-manifest.json",
       "size": 65893,
-      "sha256": "7f3ca1b0379b7966e832566ebd904eacf7a5309fe87ffd00846acff9c725110e"
+      "sha256": "ad758ea8a280df2936c94981195d948ef21cad610bc7a6ab3302bccbd7d42ee6"
     },
     {
       "path": "build-version.json",
       "size": 2646,
-      "sha256": "129eb24975d7d3db60edee62163b75c189b89e4ff7470088f7077adb316e70c9"
+      "sha256": "2d3ddec3bc87d550617dab57885938dea133f4802474f2b28e419d47c95e33bb"
     },
     {
       "path": "cds_native.web.wasm",
-      "size": 10011188,
-      "sha256": "f5a6954e325a681ebc4f9a25efa9215370c1f6a3ae97a9dbd65f9ec2ca3356e1"
+      "size": 10015173,
+      "sha256": "e22a23e3ec72f79309b98918375868d8e9ef6a41a999d68f721e808e56694994"
     },
     {
       "path": "discovery-video-worker.js",
@@ -1258,8 +1258,8 @@
     },
     {
       "path": "gameplay.pck",
-      "size": 1932344,
-      "sha256": "fabc8570d7d1d1fb96c8f5a7db8a42b7986c0b3a6e9d7be4fb8edd26cd7e80e0"
+      "size": 1933496,
+      "sha256": "fb5287ea5856a432c1c2917134a203011baf53780f881ea92325872744033ba3"
     },
     {
       "path": "graphics-001.pck",
@@ -1334,7 +1334,7 @@
     {
       "path": "index.html",
       "size": 36584,
-      "sha256": "67a29545ea44bc17a3cca560e1de0e03bf265f7d390e36206cc4bc3e62ecc777"
+      "sha256": "39bc6d8627d2228a7e92cf2b4f364413965aac476c8771caa827ae7c92a970ec"
     },
     {
       "path": "index.icon.png",
@@ -1348,8 +1348,8 @@
     },
     {
       "path": "index.pck",
-      "size": 20589608,
-      "sha256": "fd650ed9dda2ad35010c6d82812ade030165289550ead0949ed554a2b1365a18"
+      "size": 20592168,
+      "sha256": "0a1d789bf050cc310beb1ceeec85ca6670377a87a454b4d139bc195f4ead5b34"
     },
     {
       "path": "index.png",

@@ -407,8 +407,8 @@
     {
       "url": "assets/data/records/secondary_facilities.json",
       "path": "/cds95/data/records/secondary_facilities.json",
-      "size": 48736,
-      "sha256": "595f584425c88ba55cf0dd1bf6bcdf7dffc00ad20770bb05e2effeb4ca298ed3",
+      "size": 51079,
+      "sha256": "957e02cc6fc68fd37945a8c2cb8163141fbc3bee025d23fa22a6ea003707d6aa",
       "aliases": [],
       "deferred": false
     },
@@ -1976,13 +1976,13 @@
   "packs": [
     {
       "url": "index.pck",
-      "size": 20589608,
-      "sha256": "fd650ed9dda2ad35010c6d82812ade030165289550ead0949ed554a2b1365a18"
+      "size": 20592168,
+      "sha256": "0a1d789bf050cc310beb1ceeec85ca6670377a87a454b4d139bc195f4ead5b34"
     },
     {
       "url": "gameplay.pck",
-      "size": 1932344,
-      "sha256": "fabc8570d7d1d1fb96c8f5a7db8a42b7986c0b3a6e9d7be4fb8edd26cd7e80e0"
+      "size": 1933496,
+      "sha256": "fb5287ea5856a432c1c2917134a203011baf53780f881ea92325872744033ba3"
     },
     {
       "url": "interface.pck",
