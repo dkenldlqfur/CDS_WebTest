@@ -1977,12 +1977,12 @@
     {
       "url": "index.pck",
       "size": 20699880,
-      "sha256": "7c98e0fc5a8d7cad93abd5194dee07743027d9f485d83408e6952219a617e568"
+      "sha256": "c88d0db08ddba90da7300d4122ffa7e66f4dfbe222567148d4434874a7134b12"
     },
     {
       "url": "gameplay.pck",
-      "size": 1984068,
-      "sha256": "7ffd562c432d406302fb1daaa1ee12257fa44110d8e3d217e1fc582247330fe5"
+      "size": 1984212,
+      "sha256": "23c6e970ace5a6491bd880ecfb07f8befd745ef4d500c4ea2b74e0473ba4471e"
     },
     {
       "url": "interface.pck",
