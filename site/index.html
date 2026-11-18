@@ -191,15 +191,34 @@ function limitNameInput(event){
  field.setSelectionRange(caret,caret);
  event.stopPropagation();
 }
-function requestGameExtent(){
- if(isKeyboardTarget(document.activeElement)||screen.clientWidth<=0||screen.clientHeight<=0)return;
+function gameExtent(){
+ if(isKeyboardTarget(document.activeElement)||screen.clientWidth<=0||screen.clientHeight<=0)return 0;
  const inset=Math.max(0,Math.min(128,Number(window.CDS95MenuInset??32)));
  // Keep a pixel per CSS pixel when space permits. Smaller phone viewports
  // fit the minimum native canvas; larger windows reveal additional content.
  const scale=Math.min(1,screen.clientWidth/640,screen.clientHeight/(480+inset));
  const width=Math.max(640,Math.min(4096,Math.floor(screen.clientWidth/scale)));
  const height=Math.max(480,Math.min(4096,Math.floor(screen.clientHeight/scale)-inset));
- window.CDS95RequestedExtent=(height<<16)|width;
+ return (height<<16)|width;
+}
+let extentTimer=0,pendingExtent=0;
+function cancelGameExtent(){
+ if(extentTimer)clearTimeout(extentTimer);
+ extentTimer=0;pendingExtent=0;
+}
+function requestGameExtent(){
+ const requested=gameExtent();
+ if(!requested||requested===window.CDS95RequestedExtent){cancelGameExtent();return;}
+ if(extentTimer&&pendingExtent===requested)return;
+ cancelGameExtent();pendingExtent=requested;
+ // Rotation and browser chrome can publish several incompatible sizes in
+ // quick succession. Fit CSS immediately, but allocate the native/GPU frame
+ // only after the same visible extent has remained stable for 250 ms.
+ extentTimer=setTimeout(()=>{
+  extentTimer=0;
+  if(gameExtent()!==pendingExtent){requestGameExtent();return;}
+  window.CDS95RequestedExtent=pendingExtent;pendingExtent=0;
+ },250);
 }
 function fitGameViewport(){fit();requestGameExtent();}
 let fitTimers=[];

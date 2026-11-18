@@ -1,19 +1,19 @@
 {
   "version": "1.3.3",
   "channel": "web-test",
-  "built_at": "2026-11-18T01:29:55.419956+00:00",
-  "pck_sha256": "00e098fff411108df6ddae0366b6426c95c6bd881e0ec0d8974b1b93cf42d5ac",
+  "built_at": "2026-11-18T02:24:12.674400+00:00",
+  "pck_sha256": "65ce8a309d9930f53a2cf870522bec78187c9043072e3f930cdc120f2fb717d9",
   "wasm_sha256": "17a6cbc0caefcd8a455b521f8181e1a7645557567f4bf73858b9cbcf78daccfa",
   "packs": [
     {
       "url": "index.pck",
       "size": 20591176,
-      "sha256": "00e098fff411108df6ddae0366b6426c95c6bd881e0ec0d8974b1b93cf42d5ac"
+      "sha256": "65ce8a309d9930f53a2cf870522bec78187c9043072e3f930cdc120f2fb717d9"
     },
     {
       "url": "gameplay.pck",
       "size": 1955864,
-      "sha256": "fa54a34474ca46e8979c6756f528c00a7487b002358b58d86f5fd6bf4ed28a68"
+      "sha256": "848967331943e717debfa6f1a5c63bcd2ad7ecfd331eb48aaa09a52a4054987b"
     },
     {
       "url": "interface.pck",
@@ -106,11 +106,14 @@
     "godot/scenes/hd_item_layer.gd": "74a2434d5b39b1008e50e89a7e539bb76f4ce744a03e901dc4c2d6e0fdb12f8b",
     "godot/scenes/hint_editor.gd": "bea6b2986d15379bf67cdb2f36b247237a213fa538d1c30056cea45e2683ae5e",
     "godot/scenes/main_city_editor.gd": "8e3b5aacdbd8edaaa25d1ef7bc833d39975db815ddcfc316efaf4f3bdf7e4df2",
+    "godot/web/mobile.html": "568143b91f24821397cddf724c93e27cdddad5149aac951abfb64c818ae098f4",
     "restoration/build/godot-native/reused_world_wait.inc": "4ad89cdbf5d0d835543197ff0d99ff4b765d3b38ac78216d557e61bbeca84122",
     "restoration/src/world_direction_keys.h": "04cb02164e703a481e57e8c76114dbcfdcc6f1f4fd35e754e93e5ea3a048e6e0",
     "restoration/src/world_input_event.cpp": "4cd69d83a81cb7e736199cb1e294bfcf8c833894ea633cf21b4945f4f69dcf67"
   },
   "changes": [
+    "아이폰 회전 중 내부 화면 크기를 250ms 안정화 후 한 번만 반영",
+    "빠른 회전 복귀·키보드 표시·0 크기 화면의 대기 요청 취소",
     "도시 이미지를 최대 2배로 표시하고 테두리·시설 클릭 영역 동기화",
     "최신 1.3.3 소스와 현재 작업 변경 통합",
     "새 발견물 그룹 선택 및 등록 시 이전·다음 버튼 숨김",
