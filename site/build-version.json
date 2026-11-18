@@ -1,19 +1,19 @@
 {
   "version": "1.3.3",
   "channel": "web-test",
-  "built_at": "2026-11-18T04:55:12.005444+00:00",
-  "pck_sha256": "8fb5e2b00fddceb974ab7ae805861ebcc30e26668572efb1f5ba64c8af5eb128",
-  "wasm_sha256": "feaf46bf3a900ae47f8af077d3ad03685e94ddfa4fed7ac90b8be42412e322e6",
+  "built_at": "2026-11-18T06:44:35.527894+00:00",
+  "pck_sha256": "d606221fd5fb6fd06ef908fb997eacb217b896431884dd88116a35fa8bf72ea0",
+  "wasm_sha256": "8d3f712289f472ce8cb94e9fdb39129fdef5049720d5f14e5ff8e90d73856b88",
   "packs": [
     {
       "url": "index.pck",
-      "size": 20592344,
-      "sha256": "8fb5e2b00fddceb974ab7ae805861ebcc30e26668572efb1f5ba64c8af5eb128"
+      "size": 20592584,
+      "sha256": "d606221fd5fb6fd06ef908fb997eacb217b896431884dd88116a35fa8bf72ea0"
     },
     {
       "url": "gameplay.pck",
-      "size": 1961724,
-      "sha256": "469471bb550e5e037760c73581fda3e569824095eb2a2c4d08520972933d6a28"
+      "size": 1962332,
+      "sha256": "e3023bce920223503366690e0c14d72dc912430604110b15c01c841b9110587e"
     },
     {
       "url": "interface.pck",
@@ -22,8 +22,8 @@
     },
     {
       "url": "game-data.pck",
-      "size": 17616024,
-      "sha256": "0df87ea924153e84d9a4908d94105cfdd86bd6adfd74ced525ce5b8817911e07"
+      "size": 17616568,
+      "sha256": "cc609da71286b79611332ce052da5b8807d21572f2e867373d9802c1a656634c"
     },
     {
       "url": "graphics-001.pck",
@@ -84,20 +84,27 @@
   "source_commit": "08fd82529b5f33e3ad789529834697a62ff30d0a",
   "source_dirty": true,
   "source_changes": {
+    "godot/data/hint_editor_metadata.json": "cb001454ac788b3702f81670f8cc2b82af6cec33975c7a3f8fb5ee8c9f070967",
     "godot/data/history_event_help.html": "ca7269de30f712b127127c217784bf3a0e5e90f7264b035fd1b5ffd0c6adca97",
     "godot/data/history_events.json": "7f7b5d1ceb1953dd133d9483b20d290fdf6e42c077a2e5ea9ce0163be1c59b9d",
-    "godot/data/strings.ko.json": "6a8f8a0f289b8a6dbd6779195579495b6165c28b65f82fca59f5ab0930bd0668",
+    "godot/data/strings.ko.json": "ea05a13c5786f37b84f50ed499d1a50156690154657318aba2cdde320f0a55d4",
     "godot/export_presets.cfg": "57f7d6d54adc7a482635218c8bb8c1082e4e2068ef9f5264c392a1ef96d449e1",
     "godot/native/build_native.ps1": "81082a9974635e381aa0acd81112a61b5f9d866e00cb2139d742cdb48085d265",
     "godot/native/cds_native.cpp": "3b6889f438ec24a9e027528835d45ce30ab4a8751de2175c6d203dab424bdc45",
     "godot/native/city_discovery_events.h": "e6f8f1c6cc75501b6e5f07876afa9424e6a2d8fcfa60b40452997ca5e53c93d2",
     "godot/native/disev_catalog.h": "6dd20a74f631502942fd126a114e6a7217d0647127b2912f96fc5aeeaefd18bd",
+    "godot/native/hint_editor.h": "bc4a241e0711512de3e849504dd20387a2b0b86a907402951f63c9dd9cf949f8",
     "godot/native/history_event_catalog.h": "9a170877fafa551936c0ba7e0186edb648418dde08b3bfd6d442960dd639555d",
     "godot/native/history_event_catalog.inc": "189967ceb57b4bc314b567935caa5286c06fd2dc03075537277915a886bdca69",
     "godot/native/record_catalog.inc": "b8f877c8ffb867a7d1434b1fe56c58ce3a8554513be072949dfa1bef2740d8f4",
+    "godot/native/sea_battle_runtime.cpp": "2b165880d171f4762f040e8ccde2c9f578f2ac1013db5a0b2e895de5a2c56f9d",
+    "godot/native/sea_battle_runtime.h": "b57bc2948993c0e0683e33de0a76541744da750461bef8a0e2b3ef3f9c3d41e9",
     "godot/native/world_runtime_city.cpp": "db9df46eb2df458c4b7827396d9c67c1ce5f7deb501a53e6ab799226f8897556",
     "godot/native/world_runtime_city.h": "906e324608cd998fc88da85145cc90f003f36bb46c6df570b4170c7be9756521",
     "godot/native/world_runtime_city_host.cpp": "fe378cf2ba9ed06b395a871b26a7d9687b999d230957fd72a5509fba502726ac",
+    "godot/native/world_runtime_godot_host.cpp": "6fa5f0abaa2b53cd7fbde012c8b50cc423016f4142eb2417e311bff613b3221a",
+    "godot/native/world_runtime_host.cpp": "5d4f2eb956696cb21eb5451ee432633e107421973c8a122920f8881a8fba85b4",
+    "godot/native/world_runtime_host.h": "550ba3a6a96709784922c682a3687065233a436ce273293af109194341ea265a",
     "godot/native/world_runtime_script.cpp": "9174d9a1625b09cc08ea9493863b2855f68892f393bc201cdfbd4a291b568a68",
     "godot/native/world_wait_session.cpp": "1ad2d42285408cdaa114a5556b2c06c2051b43500d5efdc95879112df4f0890a",
     "godot/runtime/city_editor_data.gd": "b7d8bd8f6ac15589ae645a1c83b3bb91f9ca38060a5ba355b39fba350d17d73a",
@@ -106,6 +113,7 @@
     "godot/runtime/discovery_event_editor_data.gd": "b68677cfdc6bafe7ae88fe00bc066b3639b43b54b02ac934ce061b3e693ee38e",
     "godot/runtime/discovery_event_operands.gd": "a63f3ef21537413590b630dfbcc2c3c779e61cc2ca0e903c607d0bf9ff358cea",
     "godot/runtime/editor_profile_strings.gd": "e7f3a702b90cde5ca5587d2c16173b680e3ec5e7b0e7c3713dab50319d950269",
+    "godot/runtime/hint_editor_data.gd": "5a65c65561af75232768e078a8a7be99fc22d7bcd4a23ef3eabaf9ebaad7e9ee",
     "godot/runtime/history_event_editor_data.gd": "52c44ad45a199edc9fe61e451c37d24ed8d87760d694f67646207328bfd6f2d5",
     "godot/runtime/history_event_editor_data.gd.uid": "b14f5981b5ce7ca3b4ad82d22a375f4e5571b745c78bac6539fa423121251250",
     "godot/scenes/discovery_editor_fields.gd": "c6d9acfe9a55c41504cc5cd1cc487e77790218778187480085bcd03a05bc3df4",
@@ -114,11 +122,13 @@
     "godot/scenes/discovery_event_editor.tscn": "0033cc3e652dbf686694da4074f65050f08bbc74cc7fd0bb970c4f7b574b9ab1",
     "godot/scenes/discovery_event_editor_list.gd": "9b744021727e5fae9383cc165f6d8ccb8b30ac32091ca09789251bcd6b0ff9d8",
     "godot/scenes/discovery_event_help_popup.gd": "857242d422f8d09c1dc7eaa3afa06369ed372ca42f5cc222721ae3397a958149",
-    "godot/scenes/hint_editor.gd": "bea6b2986d15379bf67cdb2f36b247237a213fa538d1c30056cea45e2683ae5e",
+    "godot/scenes/hint_editor.gd": "9debc56d8368798ea9a35e165a7d036acff3028335b502213ed0f790ade34e97",
     "godot/scenes/main.gd": "d7636e507dde3d5fccac5a7fd3b69638d5d4ad58546cba0c76797dd2c9096f97",
     "godot/scenes/main_city_editor.gd": "8e3b5aacdbd8edaaa25d1ef7bc833d39975db815ddcfc316efaf4f3bdf7e4df2",
     "godot/scenes/main_menu_popup.gd": "422c9e933aae2f530d1dfe05450ba7f89448d0f16e83e321a3b9c9cd3f110cde",
     "restoration/build/godot-native/reused_world_wait.inc": "4ad89cdbf5d0d835543197ff0d99ff4b765d3b38ac78216d557e61bbeca84122",
+    "restoration/src/sea_battle_flow.cpp": "7a90f824d112dc1321033f0501c32240fc97447609f5d2e197c8b47f62fb1e71",
+    "restoration/src/sea_battle_flow.h": "ce098ea842442fd6aded0823a8d49d86b2c900e58bb3e6ba315c3e39fb05a235",
     "restoration/src/world_direction_keys.h": "04cb02164e703a481e57e8c76114dbcfdcc6f1f4fd35e754e93e5ea3a048e6e0",
     "restoration/src/world_input_event.cpp": "4cd69d83a81cb7e736199cb1e294bfcf8c833894ea633cf21b4945f4f69dcf67"
   },
@@ -129,9 +139,8 @@
     "godot/web/mobile.html": "81be9d0e9cc39826a0e025efd520edb46ea940ae83611c0d8071f04244231bb4"
   },
   "changes": [
-    "월간 역사 이벤트에서 선택 가능한 조건 42종과 명령 162종 제공",
-    "추가·교체 목록에서 발견물 전용 명령과 삽화 제외, 발견 기록·힌트 항목 유지",
-    "부관 고용·의뢰 화물 판정 추가, 기존에 저장된 연도 분기 호환 처리"
+    "좁은 웹 화면에 맞춰 해전 영역을 배치하고 해전 중 주변 지도 겹침을 방지했습니다.",
+    "발견물 힌트에 의뢰 난이도 1~5단계 설정을 추가했습니다."
   ],
   "gameplay_executed": false
 }
