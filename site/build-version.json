@@ -1,19 +1,19 @@
 {
   "version": "1.3.3",
   "channel": "web-test",
-  "built_at": "2026-11-18T04:20:00.986809+00:00",
-  "pck_sha256": "18cb7163dd5da22749b48ecb1bd0e654454f219fc38f756be14564bc9f3e56e0",
-  "wasm_sha256": "4bc51402879d351a72d0a5b2ceb052b505093727bf2db0ec09a468336b33a16d",
+  "built_at": "2026-11-18T04:55:12.005444+00:00",
+  "pck_sha256": "8fb5e2b00fddceb974ab7ae805861ebcc30e26668572efb1f5ba64c8af5eb128",
+  "wasm_sha256": "feaf46bf3a900ae47f8af077d3ad03685e94ddfa4fed7ac90b8be42412e322e6",
   "packs": [
     {
       "url": "index.pck",
-      "size": 20592184,
-      "sha256": "18cb7163dd5da22749b48ecb1bd0e654454f219fc38f756be14564bc9f3e56e0"
+      "size": 20592344,
+      "sha256": "8fb5e2b00fddceb974ab7ae805861ebcc30e26668572efb1f5ba64c8af5eb128"
     },
     {
       "url": "gameplay.pck",
-      "size": 1960796,
-      "sha256": "8b1c317f6486bf56a86aba4cb7bc691839074eae3c01396288a2b93b474d0f90"
+      "size": 1961724,
+      "sha256": "469471bb550e5e037760c73581fda3e569824095eb2a2c4d08520972933d6a28"
     },
     {
       "url": "interface.pck",
@@ -23,7 +23,7 @@
     {
       "url": "game-data.pck",
       "size": 17616024,
-      "sha256": "75f2303bb518b12481c648f8031fe99e713f8b93432abbbd92d331d76bd72d69"
+      "sha256": "0df87ea924153e84d9a4908d94105cfdd86bd6adfd74ced525ce5b8817911e07"
     },
     {
       "url": "graphics-001.pck",
@@ -84,16 +84,16 @@
   "source_commit": "08fd82529b5f33e3ad789529834697a62ff30d0a",
   "source_dirty": true,
   "source_changes": {
-    "godot/data/history_event_help.html": "a007bea787545002ea36a2cb46f2ffcbc597990d83196528d5ed6782bb84f365",
+    "godot/data/history_event_help.html": "ca7269de30f712b127127c217784bf3a0e5e90f7264b035fd1b5ffd0c6adca97",
     "godot/data/history_events.json": "7f7b5d1ceb1953dd133d9483b20d290fdf6e42c077a2e5ea9ce0163be1c59b9d",
-    "godot/data/strings.ko.json": "d352d90a16c8c8397ffa0cd0802ccc9dfb0f01f6590c73654bec64222c3ebaeb",
+    "godot/data/strings.ko.json": "6a8f8a0f289b8a6dbd6779195579495b6165c28b65f82fca59f5ab0930bd0668",
     "godot/export_presets.cfg": "57f7d6d54adc7a482635218c8bb8c1082e4e2068ef9f5264c392a1ef96d449e1",
     "godot/native/build_native.ps1": "81082a9974635e381aa0acd81112a61b5f9d866e00cb2139d742cdb48085d265",
     "godot/native/cds_native.cpp": "3b6889f438ec24a9e027528835d45ce30ab4a8751de2175c6d203dab424bdc45",
     "godot/native/city_discovery_events.h": "e6f8f1c6cc75501b6e5f07876afa9424e6a2d8fcfa60b40452997ca5e53c93d2",
-    "godot/native/disev_catalog.h": "86acf9f554c85c209b0650a75114a7024f49412794db9a9e9d6170eeaca2cca3",
+    "godot/native/disev_catalog.h": "6dd20a74f631502942fd126a114e6a7217d0647127b2912f96fc5aeeaefd18bd",
     "godot/native/history_event_catalog.h": "9a170877fafa551936c0ba7e0186edb648418dde08b3bfd6d442960dd639555d",
-    "godot/native/history_event_catalog.inc": "094dba7cbcc422f7ecba4ad01aed5fda79711fe47b55c16bfd913634337cd5b2",
+    "godot/native/history_event_catalog.inc": "189967ceb57b4bc314b567935caa5286c06fd2dc03075537277915a886bdca69",
     "godot/native/record_catalog.inc": "b8f877c8ffb867a7d1434b1fe56c58ce3a8554513be072949dfa1bef2740d8f4",
     "godot/native/world_runtime_city.cpp": "db9df46eb2df458c4b7827396d9c67c1ce5f7deb501a53e6ab799226f8897556",
     "godot/native/world_runtime_city.h": "906e324608cd998fc88da85145cc90f003f36bb46c6df570b4170c7be9756521",
@@ -102,15 +102,15 @@
     "godot/native/world_wait_session.cpp": "1ad2d42285408cdaa114a5556b2c06c2051b43500d5efdc95879112df4f0890a",
     "godot/runtime/city_editor_data.gd": "b7d8bd8f6ac15589ae645a1c83b3bb91f9ca38060a5ba355b39fba350d17d73a",
     "godot/runtime/discovery_editor_data.gd": "a3d2918c89a4cce8c1098007b40481700d825fd1399c44b1643ee2aa481aab08",
-    "godot/runtime/discovery_event_categories.gd": "d3c880432dfed90712f22b83ea7a0dc7e22bdcc4b06eff2cb4007cbb34de4ff0",
+    "godot/runtime/discovery_event_categories.gd": "8f875015fb320f0d558b3d1d0ff702a351a68d960bf744ee2b658a2ba3522a12",
     "godot/runtime/discovery_event_editor_data.gd": "b68677cfdc6bafe7ae88fe00bc066b3639b43b54b02ac934ce061b3e693ee38e",
     "godot/runtime/discovery_event_operands.gd": "a63f3ef21537413590b630dfbcc2c3c779e61cc2ca0e903c607d0bf9ff358cea",
     "godot/runtime/editor_profile_strings.gd": "e7f3a702b90cde5ca5587d2c16173b680e3ec5e7b0e7c3713dab50319d950269",
-    "godot/runtime/history_event_editor_data.gd": "bdbf47138d9e4041f2500b07b35188f998ce5f9e43c392d6b4b31097da6b8514",
+    "godot/runtime/history_event_editor_data.gd": "52c44ad45a199edc9fe61e451c37d24ed8d87760d694f67646207328bfd6f2d5",
     "godot/runtime/history_event_editor_data.gd.uid": "b14f5981b5ce7ca3b4ad82d22a375f4e5571b745c78bac6539fa423121251250",
     "godot/scenes/discovery_editor_fields.gd": "c6d9acfe9a55c41504cc5cd1cc487e77790218778187480085bcd03a05bc3df4",
     "godot/scenes/discovery_editor_range.gd": "10b17cb57ad5428e9eb7037a109c1dda554b33d08b1b9c3ec0f85552ab8f0cae",
-    "godot/scenes/discovery_event_editor.gd": "e97a0923b34da807b25c4b568159be985004883628b541519eb53d3bd268bcbf",
+    "godot/scenes/discovery_event_editor.gd": "ca4667691ae4338ab8d7bc0c78792047b5887e9357e231e508cad25efcae7b70",
     "godot/scenes/discovery_event_editor.tscn": "0033cc3e652dbf686694da4074f65050f08bbc74cc7fd0bb970c4f7b574b9ab1",
     "godot/scenes/discovery_event_editor_list.gd": "9b744021727e5fae9383cc165f6d8ccb8b30ac32091ca09789251bcd6b0ff9d8",
     "godot/scenes/discovery_event_help_popup.gd": "857242d422f8d09c1dc7eaa3afa06369ed372ca42f5cc222721ae3397a958149",
@@ -129,8 +129,9 @@
     "godot/web/mobile.html": "81be9d0e9cc39826a0e025efd520edb46ea940ae83611c0d8071f04244231bb4"
   },
   "changes": [
-    "역사 이벤트 목록과 조건·명령 편집, 도움말 추가",
-    "기존 역사 이벤트에서 쓰는 항목과 코드에서 지원하는 역사 이벤트용 항목 제공"
+    "월간 역사 이벤트에서 선택 가능한 조건 42종과 명령 162종 제공",
+    "추가·교체 목록에서 발견물 전용 명령과 삽화 제외, 발견 기록·힌트 항목 유지",
+    "부관 고용·의뢰 화물 판정 추가, 기존에 저장된 연도 분기 호환 처리"
   ],
   "gameplay_executed": false
 }
