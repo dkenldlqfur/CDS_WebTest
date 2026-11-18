@@ -1984,13 +1984,13 @@
   "packs": [
     {
       "url": "index.pck",
-      "size": 20592584,
-      "sha256": "d606221fd5fb6fd06ef908fb997eacb217b896431884dd88116a35fa8bf72ea0"
+      "size": 20592904,
+      "sha256": "6171cc3bc81267e4f1e6008d64a0a59cee56814903c5808e2e351c362af1331b"
     },
     {
       "url": "gameplay.pck",
-      "size": 1962332,
-      "sha256": "e3023bce920223503366690e0c14d72dc912430604110b15c01c841b9110587e"
+      "size": 1976384,
+      "sha256": "a5c5ad5ce7b6a24d2923f9f7b6ed884db155ef81e5be0ddf202ad9f09128f184"
     },
     {
       "url": "interface.pck",
@@ -1999,8 +1999,8 @@
     },
     {
       "url": "game-data.pck",
-      "size": 17616568,
-      "sha256": "cc609da71286b79611332ce052da5b8807d21572f2e867373d9802c1a656634c"
+      "size": 17617112,
+      "sha256": "15958a02e2c43d8b15d363a987687537b770abee6f8300002449ee1e8df51e4e"
     },
     {
       "url": "graphics-001.pck",

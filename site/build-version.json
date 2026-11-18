@@ -1,19 +1,19 @@
 {
   "version": "1.3.3",
   "channel": "web-test",
-  "built_at": "2026-11-18T06:44:35.527894+00:00",
-  "pck_sha256": "d606221fd5fb6fd06ef908fb997eacb217b896431884dd88116a35fa8bf72ea0",
+  "built_at": "2026-11-18T09:16:36.409842+00:00",
+  "pck_sha256": "6171cc3bc81267e4f1e6008d64a0a59cee56814903c5808e2e351c362af1331b",
   "wasm_sha256": "8d3f712289f472ce8cb94e9fdb39129fdef5049720d5f14e5ff8e90d73856b88",
   "packs": [
     {
       "url": "index.pck",
-      "size": 20592584,
-      "sha256": "d606221fd5fb6fd06ef908fb997eacb217b896431884dd88116a35fa8bf72ea0"
+      "size": 20592904,
+      "sha256": "6171cc3bc81267e4f1e6008d64a0a59cee56814903c5808e2e351c362af1331b"
     },
     {
       "url": "gameplay.pck",
-      "size": 1962332,
-      "sha256": "e3023bce920223503366690e0c14d72dc912430604110b15c01c841b9110587e"
+      "size": 1976384,
+      "sha256": "a5c5ad5ce7b6a24d2923f9f7b6ed884db155ef81e5be0ddf202ad9f09128f184"
     },
     {
       "url": "interface.pck",
@@ -22,8 +22,8 @@
     },
     {
       "url": "game-data.pck",
-      "size": 17616568,
-      "sha256": "cc609da71286b79611332ce052da5b8807d21572f2e867373d9802c1a656634c"
+      "size": 17617112,
+      "sha256": "15958a02e2c43d8b15d363a987687537b770abee6f8300002449ee1e8df51e4e"
     },
     {
       "url": "graphics-001.pck",
@@ -139,8 +139,18 @@
     "godot/web/mobile.html": "81be9d0e9cc39826a0e025efd520edb46ea940ae83611c0d8071f04244231bb4"
   },
   "changes": [
-    "좁은 웹 화면에 맞춰 해전 영역을 배치하고 해전 중 주변 지도 겹침을 방지했습니다.",
-    "발견물 힌트에 의뢰 난이도 1~5단계 설정을 추가했습니다."
+    "발견물 이벤트 추가·편집 화면에 작성 중인 명령의 플로우차트를 추가했습니다.",
+    "카바신전의 성문 잠입과 두 도주 판정에 주인공 신앙심 확률을 적용했습니다.",
+    "발견물 이벤트 도움말에 최신 영상 선택과 편집 방법을 반영했습니다."
   ],
-  "gameplay_executed": false
+  "gameplay_executed": false,
+  "base_web_test_commit": "c61030ce23e4cf430da92595c7e5caa8c1ddf88a",
+  "test_update_source_sha256": {
+    "godot/data/disev.json": "19a63d0c3af3b37354b40cd92ed8bedaf6aa34b6e1b43820ad2d4661c1b6be7d",
+    "godot/data/discovery_event_help.html": "56b53aa93a8d5db06386c7050f09d4cdceac14e529134bce149595ae6525df5f",
+    "godot/scenes/discovery_event_flowchart.gd": "5f67e95d94ca55cbb1b2549657e6f4ee47aa25121508962bd71280da6ff40501",
+    "godot/scenes/discovery_event_flowchart_popup.gd": "fa2a7b6ba5da247bb92073a1319a2d92d47d7c12dec1706f5aa9d9797d6e1965",
+    "godot/scenes/discovery_event_flowchart_popup.tscn": "81df774c7adaf8fcffc0a329caf5a5aa1d883cd12b902e5802052734af9cfb49"
+  },
+  "test_update_adapter_sha256": "6da0a8b22694ce9f69d96f57064975392140d33ebf816cc0c66bcdfe2eefb82f"
 }
