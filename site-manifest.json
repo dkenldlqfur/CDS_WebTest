@@ -7,16 +7,6 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
-      "path": "LICENSE.DroidSans.txt",
-      "size": 581,
-      "sha256": "d0588452395c674334105d9a39e4d8627c66080f45491013e877139581a78ed1"
-    },
-    {
-      "path": "LICENSE.Godot.txt",
-      "size": 1149,
-      "sha256": "b0435e3b3e4e55238f05f4b306f30524a1b2e20147810d436eaa554fa6855c80"
-    },
-    {
       "path": "assets/bgm/Track02.mp3",
       "size": 3393827,
       "sha256": "f61ebcc072153e34a597f6e2fdb271238287442a595e7b129128d5a00f23cf1d"
@@ -200,11 +190,6 @@
       "path": "assets/core/HISTCHR.CDS",
       "size": 17893,
       "sha256": "8c0ffc45981d25539b64cf7032d8dfbb15804ba6fcc3eb1b0bdb5b574a4f96bd"
-    },
-    {
-      "path": "assets/core/HIST_EV.CDS",
-      "size": 10151,
-      "sha256": "4e1869ef3d2b5529c021c2e44dfe64a9acf74aa69e7e846d051c240a2b256686"
     },
     {
       "path": "assets/core/LANDDATA.CDS",
@@ -1393,18 +1378,18 @@
     },
     {
       "path": "assets-manifest.json",
-      "size": 63626,
-      "sha256": "d11a6ecd46322f0ef6273d23fd70b8ed2ff5e9c9a133175268b79c040e92bc32"
+      "size": 65440,
+      "sha256": "a70b79ebc954acf7fac4256c83e2fd32ca7965f0dae8b1faa888380b2f466c3b"
     },
     {
       "path": "build-version.json",
-      "size": 9516,
-      "sha256": "04e02c00672c392c36a48069e0ae35e486a26fb937cb083a05b405308b903eb5"
+      "size": 2646,
+      "sha256": "db64aaddfc3fbd0a5607d63d8ae05a87d40d4da7c877fe7c6d58224a0155128e"
     },
     {
       "path": "cds_native.web.wasm",
-      "size": 10047629,
-      "sha256": "8d3f712289f472ce8cb94e9fdb39129fdef5049720d5f14e5ff8e90d73856b88"
+      "size": 10059999,
+      "sha256": "57b0f1498f36ad130a882403647d14dff2df3ffd90edd66fee8e51e874f0c9ab"
     },
     {
       "path": "discovery-video-worker.js",
@@ -1413,13 +1398,13 @@
     },
     {
       "path": "game-data.pck",
-      "size": 17617112,
-      "sha256": "15958a02e2c43d8b15d363a987687537b770abee6f8300002449ee1e8df51e4e"
+      "size": 17613804,
+      "sha256": "802c42ad25b7541ff4cd21048ac52c21f1e119eb73b98f926071fff167e62bcb"
     },
     {
       "path": "gameplay.pck",
-      "size": 1976384,
-      "sha256": "a5c5ad5ce7b6a24d2923f9f7b6ed884db155ef81e5be0ddf202ad9f09128f184"
+      "size": 1984084,
+      "sha256": "e856eb345c81dcee7c3e9991b6133c46664e19d72ab813dd81213fec80453258"
     },
     {
       "path": "graphics-001.pck",
@@ -1493,8 +1478,8 @@
     },
     {
       "path": "index.html",
-      "size": 36132,
-      "sha256": "44d6e3bc6cbbac1f8271c54ce56266aa71666790f00eff0502dcaf28758abc73"
+      "size": 37365,
+      "sha256": "972abb86ae659b55e62a93a6131298cee7e60799c742d44fa2e773bcd58e79e0"
     },
     {
       "path": "index.icon.png",
@@ -1503,13 +1488,13 @@
     },
     {
       "path": "index.js",
-      "size": 2966217,
-      "sha256": "07563add07af78fe990e9f6ad157d7c23cbd438086ddcc1bc1ddcb5a076f90de"
+      "size": 2966219,
+      "sha256": "8d60a81d49b7cc12df0c8ce9230d8ab797dde11579e121c6de5c1a9e5102e10b"
     },
     {
       "path": "index.pck",
-      "size": 20592904,
-      "sha256": "6171cc3bc81267e4f1e6008d64a0a59cee56814903c5808e2e351c362af1331b"
+      "size": 20699880,
+      "sha256": "557b57857bfb9f2d868ef652a9172ca27e2c14ac01b3d922c7f08161329ff521"
     },
     {
       "path": "index.png",
@@ -1524,7 +1509,7 @@
     {
       "path": "index.wasm",
       "size": 1713410,
-      "sha256": "b8e7543a928d97b50c1b8912cb05d658868bc0838aeeb551055d5766182c57d5"
+      "sha256": "14ec7deb81f2da7df0e353ab61cc30dcb4c390b08e7a725d40339173c9dfcd41"
     },
     {
       "path": "interface.pck",
@@ -1535,6 +1520,16 @@
       "path": "isolation-sw.js",
       "size": 2877,
       "sha256": "685e154936f69d6cb13311bbb7b049a1875630ed93ad58779ef562c10cf7b58e"
+    },
+    {
+      "path": "LICENSE.DroidSans.txt",
+      "size": 581,
+      "sha256": "d0588452395c674334105d9a39e4d8627c66080f45491013e877139581a78ed1"
+    },
+    {
+      "path": "LICENSE.Godot.txt",
+      "size": 1149,
+      "sha256": "b0435e3b3e4e55238f05f4b306f30524a1b2e20147810d436eaa554fa6855c80"
     }
   ]
 }

@@ -1,19 +1,18 @@
 {
   "version": "1.3.3",
   "channel": "web-test",
-  "built_at": "2026-11-18T09:16:36.409842+00:00",
-  "pck_sha256": "6171cc3bc81267e4f1e6008d64a0a59cee56814903c5808e2e351c362af1331b",
-  "wasm_sha256": "8d3f712289f472ce8cb94e9fdb39129fdef5049720d5f14e5ff8e90d73856b88",
+  "built_at": "2026-11-18T15:52:19.908944+00:00",
+  "pck_sha256": "557b57857bfb9f2d868ef652a9172ca27e2c14ac01b3d922c7f08161329ff521",
   "packs": [
     {
       "url": "index.pck",
-      "size": 20592904,
-      "sha256": "6171cc3bc81267e4f1e6008d64a0a59cee56814903c5808e2e351c362af1331b"
+      "size": 20699880,
+      "sha256": "557b57857bfb9f2d868ef652a9172ca27e2c14ac01b3d922c7f08161329ff521"
     },
     {
       "url": "gameplay.pck",
-      "size": 1976384,
-      "sha256": "a5c5ad5ce7b6a24d2923f9f7b6ed884db155ef81e5be0ddf202ad9f09128f184"
+      "size": 1984084,
+      "sha256": "e856eb345c81dcee7c3e9991b6133c46664e19d72ab813dd81213fec80453258"
     },
     {
       "url": "interface.pck",
@@ -22,8 +21,8 @@
     },
     {
       "url": "game-data.pck",
-      "size": 17617112,
-      "sha256": "15958a02e2c43d8b15d363a987687537b770abee6f8300002449ee1e8df51e4e"
+      "size": 17613804,
+      "sha256": "802c42ad25b7541ff4cd21048ac52c21f1e119eb73b98f926071fff167e62bcb"
     },
     {
       "url": "graphics-001.pck",
@@ -81,76 +80,5 @@
       "sha256": "c39a9c287a5f0aca35e1716fe2a1d9d6e388b6197e245a4832c5528649103f96"
     }
   ],
-  "source_commit": "08fd82529b5f33e3ad789529834697a62ff30d0a",
-  "source_dirty": true,
-  "source_changes": {
-    "godot/data/hint_editor_metadata.json": "cb001454ac788b3702f81670f8cc2b82af6cec33975c7a3f8fb5ee8c9f070967",
-    "godot/data/history_event_help.html": "ca7269de30f712b127127c217784bf3a0e5e90f7264b035fd1b5ffd0c6adca97",
-    "godot/data/history_events.json": "7f7b5d1ceb1953dd133d9483b20d290fdf6e42c077a2e5ea9ce0163be1c59b9d",
-    "godot/data/strings.ko.json": "ea05a13c5786f37b84f50ed499d1a50156690154657318aba2cdde320f0a55d4",
-    "godot/export_presets.cfg": "57f7d6d54adc7a482635218c8bb8c1082e4e2068ef9f5264c392a1ef96d449e1",
-    "godot/native/build_native.ps1": "81082a9974635e381aa0acd81112a61b5f9d866e00cb2139d742cdb48085d265",
-    "godot/native/cds_native.cpp": "3b6889f438ec24a9e027528835d45ce30ab4a8751de2175c6d203dab424bdc45",
-    "godot/native/city_discovery_events.h": "e6f8f1c6cc75501b6e5f07876afa9424e6a2d8fcfa60b40452997ca5e53c93d2",
-    "godot/native/disev_catalog.h": "6dd20a74f631502942fd126a114e6a7217d0647127b2912f96fc5aeeaefd18bd",
-    "godot/native/hint_editor.h": "bc4a241e0711512de3e849504dd20387a2b0b86a907402951f63c9dd9cf949f8",
-    "godot/native/history_event_catalog.h": "9a170877fafa551936c0ba7e0186edb648418dde08b3bfd6d442960dd639555d",
-    "godot/native/history_event_catalog.inc": "189967ceb57b4bc314b567935caa5286c06fd2dc03075537277915a886bdca69",
-    "godot/native/record_catalog.inc": "b8f877c8ffb867a7d1434b1fe56c58ce3a8554513be072949dfa1bef2740d8f4",
-    "godot/native/sea_battle_runtime.cpp": "2b165880d171f4762f040e8ccde2c9f578f2ac1013db5a0b2e895de5a2c56f9d",
-    "godot/native/sea_battle_runtime.h": "b57bc2948993c0e0683e33de0a76541744da750461bef8a0e2b3ef3f9c3d41e9",
-    "godot/native/world_runtime_city.cpp": "db9df46eb2df458c4b7827396d9c67c1ce5f7deb501a53e6ab799226f8897556",
-    "godot/native/world_runtime_city.h": "906e324608cd998fc88da85145cc90f003f36bb46c6df570b4170c7be9756521",
-    "godot/native/world_runtime_city_host.cpp": "fe378cf2ba9ed06b395a871b26a7d9687b999d230957fd72a5509fba502726ac",
-    "godot/native/world_runtime_godot_host.cpp": "6fa5f0abaa2b53cd7fbde012c8b50cc423016f4142eb2417e311bff613b3221a",
-    "godot/native/world_runtime_host.cpp": "5d4f2eb956696cb21eb5451ee432633e107421973c8a122920f8881a8fba85b4",
-    "godot/native/world_runtime_host.h": "550ba3a6a96709784922c682a3687065233a436ce273293af109194341ea265a",
-    "godot/native/world_runtime_script.cpp": "9174d9a1625b09cc08ea9493863b2855f68892f393bc201cdfbd4a291b568a68",
-    "godot/native/world_wait_session.cpp": "1ad2d42285408cdaa114a5556b2c06c2051b43500d5efdc95879112df4f0890a",
-    "godot/runtime/city_editor_data.gd": "b7d8bd8f6ac15589ae645a1c83b3bb91f9ca38060a5ba355b39fba350d17d73a",
-    "godot/runtime/discovery_editor_data.gd": "a3d2918c89a4cce8c1098007b40481700d825fd1399c44b1643ee2aa481aab08",
-    "godot/runtime/discovery_event_categories.gd": "8f875015fb320f0d558b3d1d0ff702a351a68d960bf744ee2b658a2ba3522a12",
-    "godot/runtime/discovery_event_editor_data.gd": "b68677cfdc6bafe7ae88fe00bc066b3639b43b54b02ac934ce061b3e693ee38e",
-    "godot/runtime/discovery_event_operands.gd": "a63f3ef21537413590b630dfbcc2c3c779e61cc2ca0e903c607d0bf9ff358cea",
-    "godot/runtime/editor_profile_strings.gd": "e7f3a702b90cde5ca5587d2c16173b680e3ec5e7b0e7c3713dab50319d950269",
-    "godot/runtime/hint_editor_data.gd": "5a65c65561af75232768e078a8a7be99fc22d7bcd4a23ef3eabaf9ebaad7e9ee",
-    "godot/runtime/history_event_editor_data.gd": "52c44ad45a199edc9fe61e451c37d24ed8d87760d694f67646207328bfd6f2d5",
-    "godot/runtime/history_event_editor_data.gd.uid": "b14f5981b5ce7ca3b4ad82d22a375f4e5571b745c78bac6539fa423121251250",
-    "godot/scenes/discovery_editor_fields.gd": "c6d9acfe9a55c41504cc5cd1cc487e77790218778187480085bcd03a05bc3df4",
-    "godot/scenes/discovery_editor_range.gd": "10b17cb57ad5428e9eb7037a109c1dda554b33d08b1b9c3ec0f85552ab8f0cae",
-    "godot/scenes/discovery_event_editor.gd": "ca4667691ae4338ab8d7bc0c78792047b5887e9357e231e508cad25efcae7b70",
-    "godot/scenes/discovery_event_editor.tscn": "0033cc3e652dbf686694da4074f65050f08bbc74cc7fd0bb970c4f7b574b9ab1",
-    "godot/scenes/discovery_event_editor_list.gd": "9b744021727e5fae9383cc165f6d8ccb8b30ac32091ca09789251bcd6b0ff9d8",
-    "godot/scenes/discovery_event_help_popup.gd": "857242d422f8d09c1dc7eaa3afa06369ed372ca42f5cc222721ae3397a958149",
-    "godot/scenes/hint_editor.gd": "9debc56d8368798ea9a35e165a7d036acff3028335b502213ed0f790ade34e97",
-    "godot/scenes/main.gd": "d7636e507dde3d5fccac5a7fd3b69638d5d4ad58546cba0c76797dd2c9096f97",
-    "godot/scenes/main_city_editor.gd": "8e3b5aacdbd8edaaa25d1ef7bc833d39975db815ddcfc316efaf4f3bdf7e4df2",
-    "godot/scenes/main_menu_popup.gd": "422c9e933aae2f530d1dfe05450ba7f89448d0f16e83e321a3b9c9cd3f110cde",
-    "restoration/build/godot-native/reused_world_wait.inc": "4ad89cdbf5d0d835543197ff0d99ff4b765d3b38ac78216d557e61bbeca84122",
-    "restoration/src/sea_battle_flow.cpp": "7a90f824d112dc1321033f0501c32240fc97447609f5d2e197c8b47f62fb1e71",
-    "restoration/src/sea_battle_flow.h": "ce098ea842442fd6aded0823a8d49d86b2c900e58bb3e6ba315c3e39fb05a235",
-    "restoration/src/world_direction_keys.h": "04cb02164e703a481e57e8c76114dbcfdcc6f1f4fd35e754e93e5ea3a048e6e0",
-    "restoration/src/world_input_event.cpp": "4cd69d83a81cb7e736199cb1e294bfcf8c833894ea633cf21b4945f4f69dcf67"
-  },
-  "reverted_display_files": {
-    "godot/runtime/hd_city_frames.gd": "bbeece5483911a50dd8a553770231355328133c35316ca34b108b48094b14163",
-    "godot/scenes/city_scene_view.gd": "6164e4939d0021de87251bdb5b88af1bc1e85b67779ffa455d2124ba3cef70fe",
-    "godot/scenes/hd_item_layer.gd": "25b9b3c6f92a426c2e32094eaaeb499ce6c0f76d0fe987f7f240e3069385f97d",
-    "godot/web/mobile.html": "81be9d0e9cc39826a0e025efd520edb46ea940ae83611c0d8071f04244231bb4"
-  },
-  "changes": [
-    "발견물 이벤트 추가·편집 화면에 작성 중인 명령의 플로우차트를 추가했습니다.",
-    "카바신전의 성문 잠입과 두 도주 판정에 주인공 신앙심 확률을 적용했습니다.",
-    "발견물 이벤트 도움말에 최신 영상 선택과 편집 방법을 반영했습니다."
-  ],
-  "gameplay_executed": false,
-  "base_web_test_commit": "c61030ce23e4cf430da92595c7e5caa8c1ddf88a",
-  "test_update_source_sha256": {
-    "godot/data/disev.json": "19a63d0c3af3b37354b40cd92ed8bedaf6aa34b6e1b43820ad2d4661c1b6be7d",
-    "godot/data/discovery_event_help.html": "56b53aa93a8d5db06386c7050f09d4cdceac14e529134bce149595ae6525df5f",
-    "godot/scenes/discovery_event_flowchart.gd": "5f67e95d94ca55cbb1b2549657e6f4ee47aa25121508962bd71280da6ff40501",
-    "godot/scenes/discovery_event_flowchart_popup.gd": "fa2a7b6ba5da247bb92073a1319a2d92d47d7c12dec1706f5aa9d9797d6e1965",
-    "godot/scenes/discovery_event_flowchart_popup.tscn": "81df774c7adaf8fcffc0a329caf5a5aa1d883cd12b902e5802052734af9cfb49"
-  },
-  "test_update_adapter_sha256": "6da0a8b22694ce9f69d96f57064975392140d33ebf816cc0c66bcdfe2eefb82f"
+  "wasm_sha256": "57b0f1498f36ad130a882403647d14dff2df3ffd90edd66fee8e51e874f0c9ab"
 }

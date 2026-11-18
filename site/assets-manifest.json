@@ -58,14 +58,6 @@
       "deferred": false
     },
     {
-      "url": "assets/core/HIST_EV.CDS",
-      "path": "/cds95/HIST_EV.CDS",
-      "size": 10151,
-      "sha256": "4e1869ef3d2b5529c021c2e44dfe64a9acf74aa69e7e846d051c240a2b256686",
-      "aliases": [],
-      "deferred": false
-    },
-    {
       "url": "assets/core/LANDDATA.CDS",
       "path": "/cds95/LANDDATA.CDS",
       "size": 1404141,
@@ -1984,13 +1976,13 @@
   "packs": [
     {
       "url": "index.pck",
-      "size": 20592904,
-      "sha256": "6171cc3bc81267e4f1e6008d64a0a59cee56814903c5808e2e351c362af1331b"
+      "size": 20699880,
+      "sha256": "557b57857bfb9f2d868ef652a9172ca27e2c14ac01b3d922c7f08161329ff521"
     },
     {
       "url": "gameplay.pck",
-      "size": 1976384,
-      "sha256": "a5c5ad5ce7b6a24d2923f9f7b6ed884db155ef81e5be0ddf202ad9f09128f184"
+      "size": 1984084,
+      "sha256": "e856eb345c81dcee7c3e9991b6133c46664e19d72ab813dd81213fec80453258"
     },
     {
       "url": "interface.pck",
@@ -1999,8 +1991,8 @@
     },
     {
       "url": "game-data.pck",
-      "size": 17617112,
-      "sha256": "15958a02e2c43d8b15d363a987687537b770abee6f8300002449ee1e8df51e4e"
+      "size": 17613804,
+      "sha256": "802c42ad25b7541ff4cd21048ac52c21f1e119eb73b98f926071fff167e62bcb"
     },
     {
       "url": "graphics-001.pck",
