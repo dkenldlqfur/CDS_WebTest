@@ -2,6 +2,7 @@
 import hashlib
 import json
 from pathlib import Path, PurePosixPath
+import re
 
 ROOT = Path(__file__).resolve().parents[1]
 SITE = ROOT / 'site'
@@ -42,15 +43,25 @@ def main():
                for item in assets['files'] for path in [item['path'], *item['aliases']]), 'Standalone catalog or retired archive in manifest'
     verify_achievement_preload(assets['files'])
     packs = assets['packs']
-    shared = ['index.pck', 'gameplay.pck', 'interface.pck', 'game-data.pck']
+    shared = ['index.pck', 'gameplay.pck', 'game-data.pck']
     startup = [item for item in packs if not item.get('deferred')]
     deferred = [item for item in packs if item.get('deferred')]
     deferred_names = [item['url'] for item in deferred]
     assert deferred_names in ([], ['puzzles.pck']), 'Unexpected deferred resource pack'
-    graphics = startup[len(shared):]
-    assert graphics and [item['url'] for item in packs] == [
-        *shared, *(f'graphics-{index:03d}.pck' for index in range(1, len(graphics) + 1)), *deferred_names]
-    assert all(0 < item['size'] <= 32 * 1024 * 1024 for item in graphics + deferred)
+    assets_by_folder = startup[len(shared):]
+    names = [item['url'] for item in assets_by_folder]
+    assert names and names == sorted(names)
+    assert [item['url'] for item in packs] == [*shared, *names, *deferred_names]
+    folders = {}
+    for name in names:
+        part = re.fullmatch(r'(assets-[a-z0-9][a-z0-9_-]*)(?:\.(\d{3}))?\.pck', name)
+        assert part, name
+        folder, index = part.groups()
+        folders.setdefault(folder, []).append(index)
+    for folder, indices in folders.items():
+        assert indices == ([None] if len(indices) == 1 else
+                           [f'{index:03d}' for index in range(1, len(indices) + 1)]), (folder, indices)
+    assert all(0 < item['size'] <= 32 * 1024 * 1024 for item in assets_by_folder + deferred)
     assert set(path for path in actual if path.endswith('.pck')) == {item['url'] for item in packs}
     for item in assets['files'] + packs:
         data = (SITE / item['url']).read_bytes()

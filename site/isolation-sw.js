@@ -2,7 +2,8 @@
 // official PWA worker. Keep one copy of each pack and revalidate its ETag.
 'use strict';
 const packCacheName = 'cds95-main-pack-v1';
-const packName = /^(?:index|gameplay|interface|game-data|puzzles|graphics-[0-9]{3})\.pck$/;
+const packName = /^(?:index|gameplay|game-data|puzzles|assets-[a-z0-9][a-z0-9_-]*(?:\.[0-9]{3})?)\.pck$/;
+const legacyPackName = /^(?:interface|graphics(?:-[0-9]{3})?)\.pck$/;
 
 async function fetchPack(request) {
   let cache, cached;
@@ -40,9 +41,16 @@ function isolated(response, cacheHit = false) {
 
 self.addEventListener('install', event => event.waitUntil(self.skipWaiting()));
 self.addEventListener('activate', event => event.waitUntil((async () => {
-  const legacy = new URL('graphics.pck', self.registration.scope).href;
   try {
-    if (await caches.has(packCacheName)) await (await caches.open(packCacheName)).delete(legacy);
+    if (await caches.has(packCacheName)) {
+      const cache = await caches.open(packCacheName);
+      const scope = self.registration.scope;
+      for (const request of await cache.keys()) {
+        if (request.url.startsWith(scope) && legacyPackName.test(request.url.slice(scope.length))) {
+          await cache.delete(request);
+        }
+      }
+    }
   } catch {}
   await self.clients.claim();
 })()));

@@ -1976,20 +1976,14 @@
   "packs": [
     {
       "url": "index.pck",
-      "size": 20699880,
-      "sha256": "60d4e58e795b100a4a5774db64a5546ad46270c16f233b467e52a595f34ce8b1",
+      "size": 20700152,
+      "sha256": "1366a9846536ab635e0fd48ca0191f607b9e29e90cc71f8b77ac475b5f1a980f",
       "deferred": false
     },
     {
       "url": "gameplay.pck",
       "size": 1987244,
-      "sha256": "145257450dc590e723a5ac5b6cc38921bdd7112d1e1895f596dda1857e337705",
-      "deferred": false
-    },
-    {
-      "url": "interface.pck",
-      "size": 1468456,
-      "sha256": "6a02d9ac43f608a879281898246a6a72279f4f3949a026307dae678e6d590dbd",
+      "sha256": "67aa01fd12bffbd029e72eb334df5b805a1d79772adcb9a02be5604f81d03216",
       "deferred": false
     },
     {
@@ -1999,69 +1993,159 @@
       "deferred": false
     },
     {
-      "url": "graphics-001.pck",
-      "size": 32929136,
-      "sha256": "661e68b8276aef74e92b8cf50d25a7a9241d0f100290d52932d173a12dfdc790",
+      "url": "assets-achievements.pck",
+      "size": 216760,
+      "sha256": "d55654469871641a6c8983596f1b9e72620d2e36564ca4299bbd4e4066b98871",
       "deferred": false
     },
     {
-      "url": "graphics-002.pck",
-      "size": 32753060,
-      "sha256": "8116e480cfc1ace11abfa0f91b96a379917cddb304f74db5a772963bd2f5f1e1",
+      "url": "assets-bookshelf.pck",
+      "size": 525096,
+      "sha256": "73f8cf4df34e65114a13c3fbaa8c847e071d93d18c2df3706acae7401ae041dc",
       "deferred": false
     },
     {
-      "url": "graphics-003.pck",
-      "size": 32530212,
-      "sha256": "5305f7e72c705c40ce483cceb95ac3eff0b6c8091af2e0695d595cfce638f020",
+      "url": "assets-cities.pck",
+      "size": 23155012,
+      "sha256": "63f818e0a22900fcaf485d7a6ea29650c7c0e87f14ffbf8b5a99ac1905c2238c",
       "deferred": false
     },
     {
-      "url": "graphics-004.pck",
-      "size": 33552760,
-      "sha256": "baf0cb501b754094755b9b20bde34ee96a75bfa72ae1333f458ebc0eac483d93",
+      "url": "assets-cityfrm.pck",
+      "size": 188004,
+      "sha256": "e2a0cb241a5c0fa657e9eeb0b483fb1a53bc0e93383de42339ae8688ad90a758",
       "deferred": false
     },
     {
-      "url": "graphics-005.pck",
-      "size": 33487320,
-      "sha256": "76a3022290827190442826af1cdbe3ffc0f4b398e2c046e02f894283519ffd97",
+      "url": "assets-cloud.pck",
+      "size": 789276,
+      "sha256": "0f28379a88a716e20a385703984f40c40afdf231ec7b3a7b3e0197fb8eef6865",
       "deferred": false
     },
     {
-      "url": "graphics-006.pck",
-      "size": 33519400,
-      "sha256": "d904ecc02efd6ff6cc30e44b85a7cc530d9fcaa5a1b2157439ef8bcca401685c",
+      "url": "assets-dstill.001.pck",
+      "size": 33356924,
+      "sha256": "86743edf16ca0d59e6329187c0930fecd0ccbfe90b46d014d89c68d92810c16c",
       "deferred": false
     },
     {
-      "url": "graphics-007.pck",
-      "size": 33532860,
-      "sha256": "1bc4aa897b367c051742713b9944ca18f47198b04f4db4d7b1823658b627472d",
+      "url": "assets-dstill.002.pck",
+      "size": 9971068,
+      "sha256": "81ea664790bef3fcbface79c8af6e32487471554bcda02523e6527c5638e3812",
       "deferred": false
     },
     {
-      "url": "graphics-008.pck",
-      "size": 33454472,
-      "sha256": "23a241e805740d0eb4d3755312ff73eee728e8aa3eda319a144f09eea2a0d82a",
+      "url": "assets-evanime.001.pck",
+      "size": 33493264,
+      "sha256": "049f8be290ed7a288202d6be5f6c03b6b3ea36ec37453601c243bba0e46facb5",
       "deferred": false
     },
     {
-      "url": "graphics-009.pck",
-      "size": 33216292,
-      "sha256": "e48529dfc95eba5ad7d2f9269bfea9e373924503ab4b1c97d2e3de2dd139fb19",
+      "url": "assets-evanime.002.pck",
+      "size": 24532492,
+      "sha256": "bc845d52d523e2be48186a76f39c9e78c5c5980818b59753a182e3fa130f3df9",
       "deferred": false
     },
     {
-      "url": "graphics-010.pck",
-      "size": 28318692,
-      "sha256": "9de77c14123b3c920d1377a63ce7b2b2c9cd36988317e7b3bc6dfc59f785c2a5",
+      "url": "assets-evanime.003.pck",
+      "size": 15391092,
+      "sha256": "5f17479e96409b0072ea9032e0e592b6766d737e8deba62d4ed7244746803040",
       "deferred": false
     },
     {
-      "url": "graphics-011.pck",
-      "size": 23917028,
-      "sha256": "b055d50aeaf064b0c30318ec1f65152984d38b1024d6d2e5d5014104950cf3df",
+      "url": "assets-evstill.pck",
+      "size": 6822872,
+      "sha256": "9efbf671b5fb12860f3ebb8718665f37dfc00fa2254d30b77b86b80b23bf9b7c",
+      "deferred": false
+    },
+    {
+      "url": "assets-fighter.pck",
+      "size": 15897056,
+      "sha256": "a1a0b6a238230734feceeb071e556fb70a59db35fce39c2bb13cfe562418c3e8",
+      "deferred": false
+    },
+    {
+      "url": "assets-fishing.pck",
+      "size": 575372,
+      "sha256": "03acc83800984c0a496afd6fc959c9961c83a3cc551dd1be15a704981668a0ba",
+      "deferred": false
+    },
+    {
+      "url": "assets-hint_illustrations.pck",
+      "size": 4947540,
+      "sha256": "0578c4e0a3ee9c8fd0975776386a86c2b96dd4b9219c100655064ea33668a6ee",
+      "deferred": false
+    },
+    {
+      "url": "assets-item_images.pck",
+      "size": 11681932,
+      "sha256": "e40a8ecb1a2cfddedf413b99ae86d72a625f91b37165bc627203a7ece86486c6",
+      "deferred": false
+    },
+    {
+      "url": "assets-misc.pck",
+      "size": 726832,
+      "sha256": "f76f883bcfe8e384b09219bf812e4b6d8705df9c6f16d478fe36e1c03be7b995",
+      "deferred": false
+    },
+    {
+      "url": "assets-mpcg.001.pck",
+      "size": 32857172,
+      "sha256": "6bcad9fbdc850440749a4a5fd0bae5ffc9c8a0d41e60aa3f19582b94ee4c591b",
+      "deferred": false
+    },
+    {
+      "url": "assets-mpcg.002.pck",
+      "size": 32400228,
+      "sha256": "ad6c839db243d09a800542d3901d966f07b6fa9a25090b6ef73a9cebef1aeb31",
+      "deferred": false
+    },
+    {
+      "url": "assets-mpcg.003.pck",
+      "size": 33482200,
+      "sha256": "3e10fd8ee1f673b68cc7aa01120bb65337fa31bbb77f994a4a279209b2652e8e",
+      "deferred": false
+    },
+    {
+      "url": "assets-mpcg.004.pck",
+      "size": 15973708,
+      "sha256": "74c68ffeeb0b5c097e2c340cdbe95b1daf44e9d243d67004d8aa48758a16449f",
+      "deferred": false
+    },
+    {
+      "url": "assets-mpeffect.pck",
+      "size": 2861792,
+      "sha256": "d74d0bdbd689f90fd35b17f8415093bad4e66fcc92eee578018fdfda77796460",
+      "deferred": false
+    },
+    {
+      "url": "assets-openbook.pck",
+      "size": 4350052,
+      "sha256": "ae1dbdf8943cc936130ae00abc3a473d97b940e0882f6565b1e23d0a4ce1aaf3",
+      "deferred": false
+    },
+    {
+      "url": "assets-portraits.001.pck",
+      "size": 33504820,
+      "sha256": "914744687e6308f64c8b0999bcd8db6368fb73399460f88ae603d2f2f41c20b4",
+      "deferred": false
+    },
+    {
+      "url": "assets-portraits.002.pck",
+      "size": 14966500,
+      "sha256": "7b2b8c8c30c60aa84ac0ed690798c7ea2ceddc336f6e8018c95f12a01d95313d",
+      "deferred": false
+    },
+    {
+      "url": "assets-world-city.pck",
+      "size": 12832,
+      "sha256": "68f642e201645f4f90dc30d440b602ee7af161df7cd8e11c52f9f042ee9ef13b",
+      "deferred": false
+    },
+    {
+      "url": "assets-world-map.pck",
+      "size": 1416,
+      "sha256": "743b925de15eea97c7705f310821f4b809ef0815db1b9864f882ac0cbaff4e62",
       "deferred": false
     },
     {
