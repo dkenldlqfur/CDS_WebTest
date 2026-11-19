@@ -77,7 +77,7 @@ function ui(key,...args){
 }
 globalThis.CDS95WebText=ui;
 
-const config={"args":[],"canvasResizePolicy":1,"emscriptenPoolSize":8,"ensureCrossOriginIsolationHeaders":true,"executable":"index","experimentalVK":true,"fileSizes":{"index.pck":20699752,"index.wasm":1713410},"focusCanvas":true,"gdextensionLibs":["cds_native.web.wasm"],"godotPoolSize":4};
+const config={"args":[],"canvasResizePolicy":1,"emscriptenPoolSize":8,"ensureCrossOriginIsolationHeaders":true,"executable":"index","experimentalVK":true,"fileSizes":{"index.pck":20699880,"index.wasm":1713410},"focusCanvas":true,"gdextensionLibs":["cds_native.web.wasm"],"godotPoolSize":4};
 const canvas=document.getElementById('canvas'),screen=document.getElementById('screen'),start=document.getElementById('start'),status=document.getElementById('status'),progress=document.getElementById('progress');
 const startFullscreen=document.getElementById('start-fullscreen'),app=document.getElementById('app');
 const canFullscreen=Boolean(document.fullscreenEnabled&&typeof app.requestFullscreen==='function');
@@ -292,8 +292,8 @@ async function prepareBrowser(){
  });
  sessionStorage.setItem(key,'1');location.reload();return false;
 }
-async function downloadPack(pack, cache, onProgress){
- const response=await fetch(pack.url,{cache});
+async function downloadPack(pack, cache, onProgress, signal){
+ const response=await fetch(pack.url,{cache,signal});
  if(!response.ok)throw new Error(ui("ui.130893e0e99c7aa1",pack.url));
  const packFromCache=response.headers.get('X-CDS95-Pack-Cache')==='hit';
  onProgress(0,packFromCache);
@@ -324,23 +324,86 @@ async function installPack(pack,destination,onProgress){
  // preload queue does not retain every download buffer until start().
  engine.copyToFS(destination,buffer);
 }
-const previewVideoDownloads=new Map();
-window.CDS95LoadPreviewVideo=(path,completed)=>{
- const file=globalThis.CDS95Assets?.[path];
- if(!file?.deferred){Promise.resolve(false).then(completed);return;}
- let download=previewVideoDownloads.get(path);
- if(!download){
-  download=(async()=>{
-   try{
-    const buffer=await downloadPack(file,'default',()=>{});
-    for(const target of [file.path,...(file.aliases||[])])engine.copyToFS(target,buffer);
-    return true;
-   }catch(error){console.warn(path,error);return false;}
-   finally{previewVideoDownloads.delete(path);}
-  })();
-  previewVideoDownloads.set(path,download);
+const deferredPacks=new Map(),packDownloads=new Map();
+window.CDS95LoadDeferredPack=(name,completed)=>{
+ const pack=deferredPacks.get(name);
+ if(!pack){completed(false);return;}
+ if(!packDownloads.has(name)){
+  window.CDS95DownloadStatus?.(ui("ui.d8156b1d9f4e1b60","",0,0,Math.round(pack.size/1048576)));
+  const request=installPack(pack,`/cds95-packs/${name}`,(loaded)=>{
+   window.CDS95DownloadStatus?.(ui("ui.d8156b1d9f4e1b60","",Math.round(loaded/pack.size*100),Math.round(loaded/1048576),Math.round(pack.size/1048576)));
+  }).then(()=>{
+   window.CDS95DownloadStatus?.("");return true;
+  },error=>{
+   packDownloads.delete(name);console.error(error);
+   window.CDS95DownloadStatus?.(ui("ui.130893e0e99c7aa1",name));return false;
+  });
+  packDownloads.set(name,request);
  }
- download.then(completed);
+ packDownloads.get(name).then(completed);
+};
+// Deferred media files live only while at least one consumer needs them.
+const deferredMedia=new Map();
+function mediaDownloadStatus(){
+ const gameDownloads=[...deferredMedia.values()].filter(entry=>entry.owners.has('movie')||entry.owners.has('music'));
+ const failed=gameDownloads.find(entry=>entry.status<0);
+ window.CDS95DownloadStatus?.(gameDownloads.some(entry=>entry.status===0)?ui("ui.40af6e56f3d84c03"):
+  failed?ui("ui.48da622fa6024dc2",failed.file.url):'');
+}
+function discardMedia(entry){
+ deferredMedia.delete(entry.file.path);
+ entry.owners.clear();
+ entry.abort.abort();
+ for(const target of entry.installed)window.CDS95UnlinkDeferredAsset(target);
+}
+window.CDS95DeferredMedia={
+ acquire(path,owner){
+  const file=window.CDS95Assets?.[path];
+  if(!file?.deferred||!window.CDS95UnlinkDeferredAsset)return -1;
+  let entry=deferredMedia.get(file.path);
+  if(entry){
+   if(!entry.owners.has(owner)){entry.owners.add(owner);mediaDownloadStatus();}
+   return entry.status;
+  }
+  entry={file,owners:new Set([owner]),abort:new AbortController(),installed:[],status:0};
+  deferredMedia.set(file.path,entry);
+  entry.download=(async()=>{
+   try{
+    const buffer=await downloadPack(file,'default',()=>{},entry.abort.signal);
+    if(entry.abort.signal.aborted)return false;
+    for(const target of [file.path,...(file.aliases||[])]){
+     entry.installed.push(target);
+     engine.copyToFS(target,buffer);
+    }
+    entry.status=1;
+    return true;
+   }catch(error){
+    if(!entry.abort.signal.aborted){entry.status=-1;console.warn(path,error);}
+    return false;
+   }finally{
+    if(!entry.abort.signal.aborted)mediaDownloadStatus();
+   }
+  })();
+  mediaDownloadStatus();
+  return 0;
+ },
+ release(path,owner){
+  const key=window.CDS95Assets?.[path]?.path;
+  const entry=deferredMedia.get(key);
+  if(!entry||!entry.owners.delete(owner))return;
+  if(!entry.owners.size)discardMedia(entry);
+  mediaDownloadStatus();
+ },
+ clear(){
+  for(const entry of deferredMedia.values())discardMedia(entry);
+  mediaDownloadStatus();
+ },
+};
+window.CDS95LoadPreviewVideo=(path,owner,completed)=>{
+ const status=window.CDS95DeferredMedia.acquire(path,owner);
+ if(status<0){Promise.resolve(false).then(completed);return;}
+ const entry=deferredMedia.get(window.CDS95Assets[path].path);
+ entry.download.then(ok=>{if(entry.owners.has(owner))completed(ok);});
 };
 async function fetchStartupFile(url,message=url){
  const retryDelays=[0,350,900];
@@ -386,9 +449,11 @@ async function assets(){
  try{
   try{await engine.init(config.executable);}
   catch(error){throw new Error(`${config.executable}.wasm: ${error.message||error}`);}
-  const packBytes=manifest.packs.reduce((sum,pack)=>sum+pack.size,0);
+  for(const pack of manifest.packs)if(pack.deferred)deferredPacks.set(pack.url,pack);
+  const startupPacks=manifest.packs.filter(pack=>!pack.deferred);
+  const packBytes=startupPacks.reduce((sum,pack)=>sum+pack.size,0);
   let completedBytes=0;
-  for(const pack of manifest.packs){
+  for(const pack of startupPacks){
    try{await installPack(pack,pack.url===mainPack?mainPack:`/cds95-packs/${pack.url}`,
     (current,cached)=>config.onProgress(completedBytes+current,packBytes,cached));}
    catch(error){throw new Error(`${pack.url}: ${error.message||error}`);}

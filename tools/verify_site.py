@@ -43,10 +43,14 @@ def main():
     verify_achievement_preload(assets['files'])
     packs = assets['packs']
     shared = ['index.pck', 'gameplay.pck', 'interface.pck', 'game-data.pck']
-    graphics = packs[len(shared):]
+    startup = [item for item in packs if not item.get('deferred')]
+    deferred = [item for item in packs if item.get('deferred')]
+    deferred_names = [item['url'] for item in deferred]
+    assert deferred_names in ([], ['puzzles.pck']), 'Unexpected deferred resource pack'
+    graphics = startup[len(shared):]
     assert graphics and [item['url'] for item in packs] == [
-        *shared, *(f'graphics-{index:03d}.pck' for index in range(1, len(graphics) + 1))]
-    assert all(0 < item['size'] <= 32 * 1024 * 1024 for item in graphics)
+        *shared, *(f'graphics-{index:03d}.pck' for index in range(1, len(graphics) + 1)), *deferred_names]
+    assert all(0 < item['size'] <= 32 * 1024 * 1024 for item in graphics + deferred)
     assert set(path for path in actual if path.endswith('.pck')) == {item['url'] for item in packs}
     for item in assets['files'] + packs:
         data = (SITE / item['url']).read_bytes()

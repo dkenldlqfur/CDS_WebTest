@@ -1378,18 +1378,18 @@
     },
     {
       "path": "assets-manifest.json",
-      "size": 65440,
-      "sha256": "4005a8f7089450621d6d6b207cdd26c80ebf9dbbfce77f1edd26dc9d6137abae"
+      "size": 66007,
+      "sha256": "12846656081ca9c84cfa1ef929dc35b257daac126977db3cae8c0f5873918644"
     },
     {
       "path": "build-version.json",
-      "size": 2646,
-      "sha256": "95583ee9c54a8f464e60d8e11de56bdde60b7a4f68ac7bc5be84432e77af40e6"
+      "size": 3318,
+      "sha256": "f78ef1984903f40ddaf3ff9919daa9405b2b8d68bce0040b9a0beb429c4f58d9"
     },
     {
       "path": "cds_native.web.wasm",
-      "size": 10058314,
-      "sha256": "c70c4705f7c1b12704d347da81d24efec7845fefacff7bc48108eda9cbb57e69"
+      "size": 10078662,
+      "sha256": "07898fd03d35bb16cbbbd8afe49f6b1c926823273b86a57767defc03a45f1eeb"
     },
     {
       "path": "discovery-video-worker.js",
@@ -1403,63 +1403,63 @@
     },
     {
       "path": "gameplay.pck",
-      "size": 1983636,
-      "sha256": "89909949670f186cbf619f9bb3bd6faa7b48c78f9afd5f5bc2be43f2716ae4a7"
+      "size": 1987244,
+      "sha256": "145257450dc590e723a5ac5b6cc38921bdd7112d1e1895f596dda1857e337705"
     },
     {
       "path": "graphics-001.pck",
-      "size": 31775588,
-      "sha256": "bb9433cd8ba53cc7867ca59d90158c82dcaa6e0f277c918815b4a6526da87b67"
+      "size": 32929136,
+      "sha256": "661e68b8276aef74e92b8cf50d25a7a9241d0f100290d52932d173a12dfdc790"
     },
     {
       "path": "graphics-002.pck",
-      "size": 32820128,
-      "sha256": "8c51754a999fabe978cce978ece40d1e113958c7032ba771790546446adeab77"
+      "size": 32753060,
+      "sha256": "8116e480cfc1ace11abfa0f91b96a379917cddb304f74db5a772963bd2f5f1e1"
     },
     {
       "path": "graphics-003.pck",
-      "size": 33551376,
-      "sha256": "aabc8ad6753934d17bb05168b626e72a1876c8c572a008cff8999bb2158ece02"
+      "size": 32530212,
+      "sha256": "5305f7e72c705c40ce483cceb95ac3eff0b6c8091af2e0695d595cfce638f020"
     },
     {
       "path": "graphics-004.pck",
-      "size": 33113428,
-      "sha256": "cbb016daee4200364b2ef64d788d4665e243d54c9bbe1cb6dcfe531d56acb948"
+      "size": 33552760,
+      "sha256": "baf0cb501b754094755b9b20bde34ee96a75bfa72ae1333f458ebc0eac483d93"
     },
     {
       "path": "graphics-005.pck",
-      "size": 33507060,
-      "sha256": "0db8633e9d104fac352767a4f80f23294bffdcfd9d6c7335638dede8744888ea"
+      "size": 33487320,
+      "sha256": "76a3022290827190442826af1cdbe3ffc0f4b398e2c046e02f894283519ffd97"
     },
     {
       "path": "graphics-006.pck",
-      "size": 33518192,
-      "sha256": "e4615b0ab2bc910e443fff4f014ff9c742f73da01d2011115b79a5e912c8b8d0"
+      "size": 33519400,
+      "sha256": "d904ecc02efd6ff6cc30e44b85a7cc530d9fcaa5a1b2157439ef8bcca401685c"
     },
     {
       "path": "graphics-007.pck",
-      "size": 33510920,
-      "sha256": "927e4b3e9e438ad03fec6391e9bc1ef0474fac604fdbbe9c92564e3e27d2f47c"
+      "size": 33532860,
+      "sha256": "1bc4aa897b367c051742713b9944ca18f47198b04f4db4d7b1823658b627472d"
     },
     {
       "path": "graphics-008.pck",
-      "size": 33316016,
-      "sha256": "5f2fd2a7c8a646dcf12eff0c96f7f866a3f322a4539542d98ea3e62f0aa3796c"
+      "size": 33454472,
+      "sha256": "23a241e805740d0eb4d3755312ff73eee728e8aa3eda319a144f09eea2a0d82a"
     },
     {
       "path": "graphics-009.pck",
-      "size": 33545932,
-      "sha256": "ba2004da7924e30ff807a12eb49b05cffc7134008db4f9ba51d8727c93cdd42f"
+      "size": 33216292,
+      "sha256": "e48529dfc95eba5ad7d2f9269bfea9e373924503ab4b1c97d2e3de2dd139fb19"
     },
     {
       "path": "graphics-010.pck",
-      "size": 33508100,
-      "sha256": "484f44c877e498c838281ccb0f9e3b36a73f6206d175a303eac9bbc1146ea3a1"
+      "size": 28318692,
+      "sha256": "9de77c14123b3c920d1377a63ce7b2b2c9cd36988317e7b3bc6dfc59f785c2a5"
     },
     {
       "path": "graphics-011.pck",
-      "size": 24236844,
-      "sha256": "c39a9c287a5f0aca35e1716fe2a1d9d6e388b6197e245a4832c5528649103f96"
+      "size": 23917028,
+      "sha256": "b055d50aeaf064b0c30318ec1f65152984d38b1024d6d2e5d5014104950cf3df"
     },
     {
       "path": "index.apple-touch-icon.png",
@@ -1478,8 +1478,8 @@
     },
     {
       "path": "index.html",
-      "size": 37365,
-      "sha256": "e18e6235d674d1fa4e93490e81d9ed2a904eb7d9e90bd97d2096d3872bf52375"
+      "size": 40108,
+      "sha256": "76787fca02fdf6c766949cfea5c5b81ec8dca173b38bb2ffa4ae1eda3102e913"
     },
     {
       "path": "index.icon.png",
@@ -1493,8 +1493,8 @@
     },
     {
       "path": "index.pck",
-      "size": 20699752,
-      "sha256": "9f2cea8b5a54b96f338cf02a3d5c0889ca4564eaf6f8ea25df1616c7b9de5ed4"
+      "size": 20699880,
+      "sha256": "60d4e58e795b100a4a5774db64a5546ad46270c16f233b467e52a595f34ce8b1"
     },
     {
       "path": "index.png",
@@ -1518,8 +1518,8 @@
     },
     {
       "path": "isolation-sw.js",
-      "size": 2877,
-      "sha256": "685e154936f69d6cb13311bbb7b049a1875630ed93ad58779ef562c10cf7b58e"
+      "size": 2885,
+      "sha256": "d926bd6ba88847407e3218fe490c2e76a2893c65282a2057d5f8a523efc60f45"
     },
     {
       "path": "LICENSE.DroidSans.txt",
@@ -1530,6 +1530,11 @@
       "path": "LICENSE.Godot.txt",
       "size": 1149,
       "sha256": "b0435e3b3e4e55238f05f4b306f30524a1b2e20147810d436eaa554fa6855c80"
+    },
+    {
+      "path": "puzzles.pck",
+      "size": 5192468,
+      "sha256": "a04933ecd7d5aa6c3cdd02c0522707ccf9b7be59eda4c9dbbc0fae3279861e2b"
     }
   ]
 }
