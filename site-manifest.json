@@ -1484,7 +1484,7 @@
     {
       "path": "assets-manifest.json",
       "size": 68503,
-      "sha256": "c360df0efab52132a0dbf28cc698c306662dd2e1f542c2496215956b74133341"
+      "sha256": "42506ae9f6b02f442b67e32771f935f0a89307e3f3dea81edd31df7ab1ba8e0f"
     },
     {
       "path": "assets-misc.pck",
@@ -1543,8 +1543,8 @@
     },
     {
       "path": "build-version.json",
-      "size": 15223,
-      "sha256": "df706436e256cc4cc80583cc243523c78c5dbffe0fc8cbf14f85e3a1bc9741d0"
+      "size": 15553,
+      "sha256": "c610d26237ca5891ad769c7ef600cfc25c7f43c60c22dca3250a46b094eb4934"
     },
     {
       "path": "cds_native.web.wasm",
@@ -1563,8 +1563,8 @@
     },
     {
       "path": "gameplay.pck",
-      "size": 2002752,
-      "sha256": "f1092015c3a34417187c1eafad39df0c5b3f42f95dd03d40efe359d4ad8fb782"
+      "size": 2004032,
+      "sha256": "d2e1771dccf953f068675bf5513995adfd6ceda951ac843cadada9353481881b"
     },
     {
       "path": "index.apple-touch-icon.png",
@@ -1583,8 +1583,8 @@
     },
     {
       "path": "index.html",
-      "size": 95521,
-      "sha256": "351797bbcf7d0eeeadf1f0e491453fb1441a429d63acbdea2474401b6e8cce10"
+      "size": 96257,
+      "sha256": "4cb9ab8c916d6a2d264be8c68e7f254ba11832a56573d6ec83b5d5c68c974797"
     },
     {
       "path": "index.icon.png",

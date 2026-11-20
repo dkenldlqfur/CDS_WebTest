@@ -1,7 +1,7 @@
 {
   "version": "1.3.5",
   "channel": "web-test",
-  "built_at": "2026-11-20T09:54:47.837710+00:00",
+  "built_at": "2026-11-20T11:04:07.114139+00:00",
   "pck_sha256": "e8e6e4b5e1b1da2e37ca5957ad7616d3e9b1228ed1c46db013437a86901abfec",
   "wasm_sha256": "04b7af6766f3c637508444d893e625e43444eb5faa40692b6ecc83104a8ac233",
   "packs": [
@@ -13,8 +13,8 @@
     },
     {
       "url": "gameplay.pck",
-      "size": 2002752,
-      "sha256": "f1092015c3a34417187c1eafad39df0c5b3f42f95dd03d40efe359d4ad8fb782",
+      "size": 2004032,
+      "sha256": "d2e1771dccf953f068675bf5513995adfd6ceda951ac843cadada9353481881b",
       "deferred": false
     },
     {
@@ -315,9 +315,12 @@
     "godot/runtime/history_event_editor_data.gd": "acbbd1b208838f0ec512f27f635ece500abcefa0f33737fc55e4ac45f0e518dc",
     "godot/runtime/resource_pack_bootstrap.gd": "73edcef9f36fa5afd0c13d6305be9f295bd4f29777086fdec581c4d60f00539e",
     "godot/runtime/story_event_editor_data.gd": "a8770dc9ff671a922b21d5cd420218b2a08c2ea1e786d33201d7044dc576964e",
+    "godot/runtime/web_platform_bridge.gd": "1d376e7fdbac52f3adbf5ab692adb3bad05971c01a823af6bd80d5ab3da5e8f6",
+    "godot/scenes/main_menu_popup.gd": "19e124efbfcfbd86820ec04f191c5c9b4a1ae9674fcaa54509a469877e2ea39c",
     "godot/scenes/message_popup.gd": "9cd241da8d245bb938fe864cf3d437cad940fd4919e3e692eea2dea0e8ad35f5",
+    "godot/scenes/native_choice_popup.gd": "4cd353bb14081675b3b95428dff65bce3b1bc2eb3969e7d57ce2ad2c4e945d8d",
     "godot/web/isolation-sw.js": "7e3bfe2504039061fd51e73d09498c1bcd0d4d4b351431ed97861f7b924a2648",
-    "godot/web/mobile.html": "4683725534037601db529509e91e0ddd16185976a8bf721e3e045b0ca4d33f49"
+    "godot/web/mobile.html": "6deba7a9a10efb32fd96fa398e9efcb0a252024fc62158522f6182ccc18b6921"
   },
   "gameplay_executed": false
 }
