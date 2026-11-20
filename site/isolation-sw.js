@@ -60,8 +60,10 @@ self.addEventListener('fetch', event => {
   if (url.origin !== self.location.origin) return;
   if (request.cache === 'only-if-cached' && request.mode !== 'same-origin') return;
   const scope = new URL(self.registration.scope);
-  if (request.method === 'GET' && !request.headers.has('Range') && !url.search &&
-      url.pathname.startsWith(scope.pathname) && packName.test(url.pathname.slice(scope.pathname.length))) {
+  const isPack = url.pathname.startsWith(scope.pathname) && packName.test(url.pathname.slice(scope.pathname.length));
+  // Send recovery ranges directly to the server. Do not clone or wrap their streams.
+  if (isPack && request.headers.has('Range')) return;
+  if (request.method === 'GET' && isPack && !url.search) {
     const pack = fetchPack(request);
     event.waitUntil(pack.then(({write}) => write).catch(() => {}));
     event.respondWith(pack.then(({response, cacheHit}) => isolated(response, cacheHit)));
