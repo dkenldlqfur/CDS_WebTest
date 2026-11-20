@@ -161,22 +161,6 @@
       "deferred": false
     },
     {
-      "url": "assets/core/STORY0.CDS",
-      "path": "/cds95/STORY0.CDS",
-      "size": 8202,
-      "sha256": "29b6550579af22e0033ecb17ad427dac993a2a86c8a6d65722ae160977bf2fd7",
-      "aliases": [],
-      "deferred": false
-    },
-    {
-      "url": "assets/core/STORY1.CDS",
-      "path": "/cds95/STORY1.CDS",
-      "size": 9324,
-      "sha256": "b3d66c3a4ca0a4180582b0b4cb65f8d3967a1be09e3550f1227819e8494673a5",
-      "aliases": [],
-      "deferred": false
-    },
-    {
       "url": "assets/core/TOWER.CDS",
       "path": "/cds95/TOWER.CDS",
       "size": 140093,
@@ -247,8 +231,8 @@
     {
       "url": "assets/data/achievements.json",
       "path": "/cds95/data/achievements.json",
-      "size": 51821,
-      "sha256": "fee16e31248ba480081642b7f88681e5d55489466bfa5ddb16bb8864e4040752",
+      "size": 51857,
+      "sha256": "f185a329d455f0013fc628fc48b72f41b9c5043ddfcfe01b24eaaa75f939e3fd",
       "aliases": [],
       "deferred": false
     },
@@ -287,8 +271,8 @@
     {
       "url": "assets/data/records/cannons.json",
       "path": "/cds95/data/records/cannons.json",
-      "size": 846,
-      "sha256": "63c683939ade00d7c4cd05389ae09b195c61b85946e416461ce0898aae131cd5",
+      "size": 986,
+      "sha256": "11dae2e52c488c86b267a7303fd486b4b26d55a08a9c7618fffce64226f1bc04",
       "aliases": [],
       "deferred": false
     },
@@ -303,8 +287,8 @@
     {
       "url": "assets/data/records/cities.json",
       "path": "/cds95/data/records/cities.json",
-      "size": 162564,
-      "sha256": "f198236c64e6f139b914c6ac219ed8c5283f4bff1db2e3e2cd8fef6b1012fe47",
+      "size": 170404,
+      "sha256": "459cb3a24434a6ed7a1b11342931fc54335724715e0e139aeb4b4fb8e808442f",
       "aliases": [],
       "deferred": false
     },
@@ -325,6 +309,14 @@
       "deferred": false
     },
     {
+      "url": "assets/data/records/cultures.json",
+      "path": "/cds95/data/records/cultures.json",
+      "size": 706,
+      "sha256": "94602c5695419bf871a854127648807e5372878b7a96c74c88c4bb5bc0ee8f31",
+      "aliases": [],
+      "deferred": false
+    },
+    {
       "url": "assets/data/records/facilities.json",
       "path": "/cds95/data/records/facilities.json",
       "size": 600154,
@@ -335,8 +327,8 @@
     {
       "url": "assets/data/records/figureheads.json",
       "path": "/cds95/data/records/figureheads.json",
-      "size": 1804,
-      "sha256": "e04cbfc4655688bf47a77cf108d870d7ab5bcb9c96037075ed78ad340e9d1b74",
+      "size": 3064,
+      "sha256": "fd46c491c718061f884b1f66eb25a41ee0a1e95b4663439d26fccbfd1ae74c21",
       "aliases": [],
       "deferred": false
     },
@@ -407,8 +399,8 @@
     {
       "url": "assets/data/records/ship_types.json",
       "path": "/cds95/data/records/ship_types.json",
-      "size": 4869,
-      "sha256": "31ec43030e4254c8e8d93339ce7321b8670c25765d5269e7c19d39f63f6ab55f",
+      "size": 5149,
+      "sha256": "6158c1db3e875297712d8ce52443292fa76bf809172d39800a565ae72e064fc1",
       "aliases": [],
       "deferred": false
     },
@@ -431,8 +423,8 @@
     {
       "url": "assets/data/records/taverns.json",
       "path": "/cds95/data/records/taverns.json",
-      "size": 49037,
-      "sha256": "460c37bee30f7630b5eef4023d17297ec8d04c67da5588aa040d69679401009f",
+      "size": 53377,
+      "sha256": "8bb3b51a36aa80e03c8d8b0e767d47e9f5da6fc91587396e2e3a8f7aeea79fe4",
       "aliases": [],
       "deferred": false
     },
@@ -1976,20 +1968,20 @@
   "packs": [
     {
       "url": "index.pck",
-      "size": 20700152,
-      "sha256": "1366a9846536ab635e0fd48ca0191f607b9e29e90cc71f8b77ac475b5f1a980f",
+      "size": 21596996,
+      "sha256": "0be6551d8e5f9c2918239340a8f0d5238cbac4c2e95c081111f543a856f19743",
       "deferred": false
     },
     {
       "url": "gameplay.pck",
-      "size": 1987244,
-      "sha256": "e2d84fc4f029a135d11cf4d44149f0616e4d86ac5ce5e2216471af2ac2829c77",
+      "size": 2002752,
+      "sha256": "b57b41f68de3a5c418548353279986dfb32b28bedc32fe4b8118753e5b902d5b",
       "deferred": false
     },
     {
       "url": "game-data.pck",
-      "size": 17591160,
-      "sha256": "f3f9fd6f0d0a8bb7fa45fb019b444127d5fa3f36216f9861eaffa81d6d42aa12",
+      "size": 16750388,
+      "sha256": "d5d40895c298e5b738c9f43ae096f778cbec2ea6e6cfa1a52586125329a5bf50",
       "deferred": false
     },
     {
@@ -2005,15 +1997,45 @@
       "deferred": false
     },
     {
-      "url": "assets-cities.pck",
-      "size": 23155012,
-      "sha256": "63f818e0a22900fcaf485d7a6ea29650c7c0e87f14ffbf8b5a99ac1905c2238c",
+      "url": "assets-cities.001.pck",
+      "size": 33233140,
+      "sha256": "1238615bddcc310ebe3a1b56bb7101c6bb0c4123ba5ccb277a71003028058e09",
+      "deferred": false
+    },
+    {
+      "url": "assets-cities.002.pck",
+      "size": 33093428,
+      "sha256": "21b0b948df29b5bd04ce5815111a887bbea17c043ad037e93905b0d4768776ab",
+      "deferred": false
+    },
+    {
+      "url": "assets-cities.003.pck",
+      "size": 33174764,
+      "sha256": "15f3a90514791b91ca82e95d79952135524754322954027ed387beaf827068f8",
+      "deferred": false
+    },
+    {
+      "url": "assets-cities.004.pck",
+      "size": 33168764,
+      "sha256": "981290cdbaeaea4aa2ffbd87a2eb93b3072bc87d64ff1c052b685cd8bbc99421",
+      "deferred": false
+    },
+    {
+      "url": "assets-cities.005.pck",
+      "size": 32855756,
+      "sha256": "d0c9ea390254f9ff4f18e980a4bcfe928a61a75c9de12ecdcb4e67bb2f9c35db",
+      "deferred": false
+    },
+    {
+      "url": "assets-cities.006.pck",
+      "size": 7108060,
+      "sha256": "097fd9f49847f4e091d56bbfeac0fde54dd43d4863286fd88bd98886aaaee7af",
       "deferred": false
     },
     {
       "url": "assets-cityfrm.pck",
-      "size": 188004,
-      "sha256": "e2a0cb241a5c0fa657e9eeb0b483fb1a53bc0e93383de42339ae8688ad90a758",
+      "size": 97988,
+      "sha256": "b3444dee144d97075c39f15082358326f7ba52f9b81f1d78e7173e808ae7eecc",
       "deferred": false
     },
     {

@@ -3,6 +3,7 @@
   "records": [
     {
       "id": 0,
+      "name_key": "exe.0056b848",
       "price": 250,
       "weight": 15,
       "range": 3,
@@ -11,6 +12,7 @@
     },
     {
       "id": 1,
+      "name_key": "exe.0056b858",
       "price": 1600,
       "weight": 20,
       "range": 4,
@@ -19,6 +21,7 @@
     },
     {
       "id": 2,
+      "name_key": "exe.0056b868",
       "price": 2100,
       "weight": 25,
       "range": 3,
@@ -27,6 +30,7 @@
     },
     {
       "id": 3,
+      "name_key": "exe.0056b878",
       "price": 2500,
       "weight": 30,
       "range": 2,

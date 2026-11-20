@@ -592,21 +592,21 @@
           "script_file": "DISEV.CDS",
           "script_part": 258,
           "effect_kind": 1,
-          "name_key": "ui.d0da9740a11cb24f"
+          "name_key": "ui.event_editor.option.dolphins"
         },
         {
           "id": "aurora",
           "script_file": "DISEV.CDS",
           "script_part": 200,
           "effect_kind": 2,
-          "name_key": "ui.55b14f4c9674728a"
+          "name_key": "ui.event_editor.option.aurora"
         },
         {
           "id": "ghost_ship",
           "script_file": "DISEV.CDS",
           "script_part": 195,
           "effect_kind": 3,
-          "name_key": "ui.b962a3498d7bbf0c"
+          "name_key": "ui.event_editor.option.ghost_ship"
         }
       ]
     },

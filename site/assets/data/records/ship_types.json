@@ -3,6 +3,7 @@
   "records": [
     {
       "id": 0,
+      "name_key": "exe.0056b7f8",
       "turn_steps": 3,
       "field_04": 2,
       "unlock_factor": 10,
@@ -26,6 +27,7 @@
     },
     {
       "id": 1,
+      "name_key": "exe.0056b800",
       "turn_steps": 2,
       "field_04": 3,
       "unlock_factor": 15,
@@ -49,6 +51,7 @@
     },
     {
       "id": 2,
+      "name_key": "exe.0056b808",
       "turn_steps": 2,
       "field_04": 3,
       "unlock_factor": 25,
@@ -73,6 +76,7 @@
     },
     {
       "id": 3,
+      "name_key": "exe.0056b818",
       "turn_steps": 2,
       "field_04": 4,
       "unlock_factor": 35,
@@ -97,6 +101,7 @@
     },
     {
       "id": 4,
+      "name_key": "exe.0056b820",
       "turn_steps": 1,
       "field_04": 0,
       "unlock_factor": 45,
@@ -121,6 +126,7 @@
     },
     {
       "id": 5,
+      "name_key": "exe.0056b830",
       "turn_steps": 1,
       "field_04": 0,
       "unlock_factor": 55,
@@ -146,6 +152,7 @@
     },
     {
       "id": 6,
+      "name_key": "exe.0056b838",
       "turn_steps": 2,
       "field_04": 0,
       "unlock_factor": 65,
@@ -171,6 +178,7 @@
     },
     {
       "id": 7,
+      "name_key": "exe.0056b840",
       "turn_steps": 2,
       "field_04": 5,
       "unlock_factor": 10,

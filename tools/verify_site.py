@@ -31,7 +31,7 @@ def main():
         total += len(data)
     actual = {path.relative_to(SITE).as_posix() for path in SITE.rglob('*') if path.is_file()}
     assert expected == actual, 'Published file set differs from verified manifest'
-    retired = {'strings.ko.json', 'disev.json', 'disev.cds'}
+    retired = {'strings.ko.json', 'disev.json', 'disev.cds', 'story_events.json', 'story0.cds', 'story1.cds'}
     assert not any(PurePosixPath(name).name.lower() in retired for name in actual), 'Standalone catalog or retired archive in site'
     assert total < 1024 ** 3, 'Site exceeds GitHub Pages size limit'
     for name in ('index.html', 'index.js', 'index.wasm', 'index.side.wasm', 'cds_native.web.wasm',
