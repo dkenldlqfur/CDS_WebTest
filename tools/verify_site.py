@@ -68,7 +68,7 @@ def main():
     mobile_packs = []
     for pack in packs:
         mobile = pack.get('mobile')
-        assert bool(mobile) == bool(re.fullmatch(r'assets-cities(?:\.\d{3})?\.pck', pack['url'])), pack['url']
+        assert bool(mobile) == bool(re.fullmatch(r'assets-(?:cities(?:\.\d{3})?|cityfrm)\.pck', pack['url'])), pack['url']
         if mobile:
             assert mobile['url'] == 'mobile/' + pack['url']
             assert 0 < mobile['size'] < pack['size']

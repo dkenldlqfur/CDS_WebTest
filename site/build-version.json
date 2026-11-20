@@ -1,7 +1,7 @@
 {
   "version": "1.3.5",
   "channel": "web-test",
-  "built_at": "2026-11-20T08:35:06.117460+00:00",
+  "built_at": "2026-11-20T09:54:47.837710+00:00",
   "pck_sha256": "e8e6e4b5e1b1da2e37ca5957ad7616d3e9b1228ed1c46db013437a86901abfec",
   "wasm_sha256": "04b7af6766f3c637508444d893e625e43444eb5faa40692b6ecc83104a8ac233",
   "packs": [
@@ -14,7 +14,7 @@
     {
       "url": "gameplay.pck",
       "size": 2002752,
-      "sha256": "b61d627b7b4e90d21d8beb76b8f51a56c0ce5852495a7beaeeb54a5fe437f7aa",
+      "sha256": "f1092015c3a34417187c1eafad39df0c5b3f42f95dd03d40efe359d4ad8fb782",
       "deferred": false
     },
     {
@@ -105,7 +105,12 @@
       "url": "assets-cityfrm.pck",
       "size": 97988,
       "sha256": "b3444dee144d97075c39f15082358326f7ba52f9b81f1d78e7173e808ae7eecc",
-      "deferred": false
+      "deferred": false,
+      "mobile": {
+        "url": "mobile/assets-cityfrm.pck",
+        "size": 39940,
+        "sha256": "1d288d295830b9380584d610ad5b42955dd4f73b30c6633a19f1f6840d14b2ef"
+      }
     },
     {
       "url": "assets-cloud.pck",
@@ -311,8 +316,8 @@
     "godot/runtime/resource_pack_bootstrap.gd": "73edcef9f36fa5afd0c13d6305be9f295bd4f29777086fdec581c4d60f00539e",
     "godot/runtime/story_event_editor_data.gd": "a8770dc9ff671a922b21d5cd420218b2a08c2ea1e786d33201d7044dc576964e",
     "godot/scenes/message_popup.gd": "9cd241da8d245bb938fe864cf3d437cad940fd4919e3e692eea2dea0e8ad35f5",
-    "godot/web/isolation-sw.js": "4b3e72e6495eeed2a5fab2bc171797287303f04b41b540d06aa10ea2057d24a0",
-    "godot/web/mobile.html": "d36212c690292c7907d21b70d5c5789bdccfc9665bafd493d293509808efcdf6"
+    "godot/web/isolation-sw.js": "7e3bfe2504039061fd51e73d09498c1bcd0d4d4b351431ed97861f7b924a2648",
+    "godot/web/mobile.html": "4683725534037601db529509e91e0ddd16185976a8bf721e3e045b0ca4d33f49"
   },
   "gameplay_executed": false
 }

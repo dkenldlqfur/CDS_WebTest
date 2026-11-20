@@ -1975,7 +1975,7 @@
     {
       "url": "gameplay.pck",
       "size": 2002752,
-      "sha256": "b61d627b7b4e90d21d8beb76b8f51a56c0ce5852495a7beaeeb54a5fe437f7aa",
+      "sha256": "f1092015c3a34417187c1eafad39df0c5b3f42f95dd03d40efe359d4ad8fb782",
       "deferred": false
     },
     {
@@ -2066,7 +2066,12 @@
       "url": "assets-cityfrm.pck",
       "size": 97988,
       "sha256": "b3444dee144d97075c39f15082358326f7ba52f9b81f1d78e7173e808ae7eecc",
-      "deferred": false
+      "deferred": false,
+      "mobile": {
+        "url": "mobile/assets-cityfrm.pck",
+        "size": 39940,
+        "sha256": "1d288d295830b9380584d610ad5b42955dd4f73b30c6633a19f1f6840d14b2ef"
+      }
     },
     {
       "url": "assets-cloud.pck",
