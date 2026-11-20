@@ -39,6 +39,9 @@ def main():
         assert name in expected, name
     assert (SITE / 'index.wasm').read_bytes()[:4] == b'\0asm'
     assets = json.loads((SITE / 'assets-manifest.json').read_text(encoding='utf-8'))
+    html = (SITE / 'index.html').read_text(encoding='utf-8')
+    shell_manifest = re.search(r'<script type="application/json" id="cds95-assets-manifest">([^<]*)</script>', html)
+    assert shell_manifest and json.loads(shell_manifest[1]) == assets, 'Web shell manifest differs from the package'
     assert all(PurePosixPath(path).name.lower() not in retired
                for item in assets['files'] for path in [item['path'], *item['aliases']]), 'Standalone catalog or retired archive in manifest'
     verify_achievement_preload(assets['files'])
