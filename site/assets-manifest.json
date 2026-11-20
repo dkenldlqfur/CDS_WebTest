@@ -1968,14 +1968,14 @@
   "packs": [
     {
       "url": "index.pck",
-      "size": 21596996,
-      "sha256": "0be6551d8e5f9c2918239340a8f0d5238cbac4c2e95c081111f543a856f19743",
+      "size": 21597748,
+      "sha256": "e8e6e4b5e1b1da2e37ca5957ad7616d3e9b1228ed1c46db013437a86901abfec",
       "deferred": false
     },
     {
       "url": "gameplay.pck",
       "size": 2002752,
-      "sha256": "f3965c2ae2497b7588f199b2e8fb70f1b0cd3f0517b6c664a2bb5b91fc891612",
+      "sha256": "5021209ea22aaeb7b48df170ffa0d9cabb70470529afa3bdfe5f26ed807e6bf8",
       "deferred": false
     },
     {
