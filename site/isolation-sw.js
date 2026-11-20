@@ -2,7 +2,7 @@
 // official PWA worker. Keep one copy of each pack and revalidate its ETag.
 'use strict';
 const packCacheName = 'cds95-main-pack-v1';
-const packName = /^(?:index|gameplay|game-data|puzzles|assets-[a-z0-9][a-z0-9_-]*(?:\.[0-9]{3})?|mobile\/assets-(?:cities(?:\.[0-9]{3})?|cityfrm))\.pck$/;
+const packName = /^(?:index|gameplay|game-data|puzzles|(?:mobile\/)?assets-[a-z0-9][a-z0-9_-]*(?:\.[0-9]{3})?)\.pck$/;
 const legacyPackName = /^(?:interface|graphics(?:-[0-9]{3})?)\.pck$/;
 
 async function fetchPack(request) {

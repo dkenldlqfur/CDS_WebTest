@@ -1,7 +1,7 @@
 {
   "version": "1.3.5",
   "channel": "web-test",
-  "built_at": "2026-11-20T11:04:07.114139+00:00",
+  "built_at": "2026-11-20T12:28:54.343114+00:00",
   "pck_sha256": "e8e6e4b5e1b1da2e37ca5957ad7616d3e9b1228ed1c46db013437a86901abfec",
   "wasm_sha256": "04b7af6766f3c637508444d893e625e43444eb5faa40692b6ecc83104a8ac233",
   "packs": [
@@ -14,7 +14,7 @@
     {
       "url": "gameplay.pck",
       "size": 2004032,
-      "sha256": "d2e1771dccf953f068675bf5513995adfd6ceda951ac843cadada9353481881b",
+      "sha256": "4f6c34a6cc281fc0641365ea2e45d67881341c572bf473cb757d295bc8531a83",
       "deferred": false
     },
     {
@@ -122,25 +122,45 @@
       "url": "assets-dstill.001.pck",
       "size": 33356924,
       "sha256": "86743edf16ca0d59e6329187c0930fecd0ccbfe90b46d014d89c68d92810c16c",
-      "deferred": false
+      "deferred": false,
+      "mobile": {
+        "url": "mobile/assets-dstill.001.pck",
+        "size": 10625724,
+        "sha256": "ff399bc94ac9171aa2a3ec56e4033fed7b2164a119b3d1efe956e150fd372db8"
+      }
     },
     {
       "url": "assets-dstill.002.pck",
       "size": 9971068,
       "sha256": "81ea664790bef3fcbface79c8af6e32487471554bcda02523e6527c5638e3812",
-      "deferred": false
+      "deferred": false,
+      "mobile": {
+        "url": "mobile/assets-dstill.002.pck",
+        "size": 3117404,
+        "sha256": "450b8eba2022efcfac9bf6efe9bafcf9d6e921055efe303b6c324161646fe3e3"
+      }
     },
     {
       "url": "assets-evanime.001.pck",
       "size": 33493264,
       "sha256": "049f8be290ed7a288202d6be5f6c03b6b3ea36ec37453601c243bba0e46facb5",
-      "deferred": false
+      "deferred": false,
+      "mobile": {
+        "url": "mobile/assets-evanime.001.pck",
+        "size": 9074064,
+        "sha256": "57f97d1a033e98e30837c2e8b0c1a90059f5056925184a02c6bcc3e2c1b3ea58"
+      }
     },
     {
       "url": "assets-evanime.002.pck",
       "size": 24532492,
       "sha256": "bc845d52d523e2be48186a76f39c9e78c5c5980818b59753a182e3fa130f3df9",
-      "deferred": false
+      "deferred": false,
+      "mobile": {
+        "url": "mobile/assets-evanime.002.pck",
+        "size": 7733644,
+        "sha256": "b585cea51a81cfb672258ca73bae15c368043fd0b34bb359f06f090ff47f76af"
+      }
     },
     {
       "url": "assets-evanime.003.pck",
@@ -152,13 +172,23 @@
       "url": "assets-evstill.pck",
       "size": 6822872,
       "sha256": "9efbf671b5fb12860f3ebb8718665f37dfc00fa2254d30b77b86b80b23bf9b7c",
-      "deferred": false
+      "deferred": false,
+      "mobile": {
+        "url": "mobile/assets-evstill.pck",
+        "size": 1857400,
+        "sha256": "f055d9ab3e75db54139d9c7095c684408ae4e01ee3d862a715db83e07fa749db"
+      }
     },
     {
       "url": "assets-fighter.pck",
       "size": 15897056,
       "sha256": "a1a0b6a238230734feceeb071e556fb70a59db35fce39c2bb13cfe562418c3e8",
-      "deferred": false
+      "deferred": false,
+      "mobile": {
+        "url": "mobile/assets-fighter.pck",
+        "size": 3042976,
+        "sha256": "32972f7179d7944fa9b7d4ed85acfddbcc12d9b02ea211d02ab96b51d6b0d46e"
+      }
     },
     {
       "url": "assets-fishing.pck",
@@ -176,7 +206,12 @@
       "url": "assets-item_images.pck",
       "size": 11681932,
       "sha256": "e40a8ecb1a2cfddedf413b99ae86d72a625f91b37165bc627203a7ece86486c6",
-      "deferred": false
+      "deferred": false,
+      "mobile": {
+        "url": "mobile/assets-item_images.pck",
+        "size": 4669244,
+        "sha256": "e59cc44492f37d62384b2e6bc83523023b85634beec044857a1d9c4779fa0d22"
+      }
     },
     {
       "url": "assets-misc.pck",
@@ -188,25 +223,45 @@
       "url": "assets-mpcg.001.pck",
       "size": 32857172,
       "sha256": "6bcad9fbdc850440749a4a5fd0bae5ffc9c8a0d41e60aa3f19582b94ee4c591b",
-      "deferred": false
+      "deferred": false,
+      "mobile": {
+        "url": "mobile/assets-mpcg.001.pck",
+        "size": 8347924,
+        "sha256": "1d0adb2c08b985ab3e865fcb470fc9704d3e2643307c7967e772bd210d284a9d"
+      }
     },
     {
       "url": "assets-mpcg.002.pck",
       "size": 32400228,
       "sha256": "ad6c839db243d09a800542d3901d966f07b6fa9a25090b6ef73a9cebef1aeb31",
-      "deferred": false
+      "deferred": false,
+      "mobile": {
+        "url": "mobile/assets-mpcg.002.pck",
+        "size": 8133284,
+        "sha256": "ce6f0baca960d07115136fcba4270523d97a094ecef14ed51fef340127a1f040"
+      }
     },
     {
       "url": "assets-mpcg.003.pck",
       "size": 33482200,
       "sha256": "3e10fd8ee1f673b68cc7aa01120bb65337fa31bbb77f994a4a279209b2652e8e",
-      "deferred": false
+      "deferred": false,
+      "mobile": {
+        "url": "mobile/assets-mpcg.003.pck",
+        "size": 8695032,
+        "sha256": "7320170a292a15c73aee21df43e5e6b0f04ef77143c70ee7f95441c20c076647"
+      }
     },
     {
       "url": "assets-mpcg.004.pck",
       "size": 15973708,
       "sha256": "74c68ffeeb0b5c097e2c340cdbe95b1daf44e9d243d67004d8aa48758a16449f",
-      "deferred": false
+      "deferred": false,
+      "mobile": {
+        "url": "mobile/assets-mpcg.004.pck",
+        "size": 10447340,
+        "sha256": "893ddcacbdba76dc6635cf58dc8d994cf3957a35637849e5d3228e61a7c655ba"
+      }
     },
     {
       "url": "assets-mpeffect.pck",
@@ -224,13 +279,23 @@
       "url": "assets-portraits.001.pck",
       "size": 33504820,
       "sha256": "914744687e6308f64c8b0999bcd8db6368fb73399460f88ae603d2f2f41c20b4",
-      "deferred": false
+      "deferred": false,
+      "mobile": {
+        "url": "mobile/assets-portraits.001.pck",
+        "size": 7115604,
+        "sha256": "dfd112f707b29de00a61f5ad26ba6ee65ba2b7709d89af887ced5b72ba2382c6"
+      }
     },
     {
       "url": "assets-portraits.002.pck",
       "size": 14966500,
       "sha256": "7b2b8c8c30c60aa84ac0ed690798c7ea2ceddc336f6e8018c95f12a01d95313d",
-      "deferred": false
+      "deferred": false,
+      "mobile": {
+        "url": "mobile/assets-portraits.002.pck",
+        "size": 3325092,
+        "sha256": "52e4cc39e93e176098d09b465b902326c5663068bc83a87183b3c01625b6af6f"
+      }
     },
     {
       "url": "assets-world-city.pck",
@@ -319,19 +384,17 @@
     "godot/scenes/main_menu_popup.gd": "19e124efbfcfbd86820ec04f191c5c9b4a1ae9674fcaa54509a469877e2ea39c",
     "godot/scenes/message_popup.gd": "9cd241da8d245bb938fe864cf3d437cad940fd4919e3e692eea2dea0e8ad35f5",
     "godot/scenes/native_choice_popup.gd": "4cd353bb14081675b3b95428dff65bce3b1bc2eb3969e7d57ce2ad2c4e945d8d",
-    "godot/web/isolation-sw.js": "7e3bfe2504039061fd51e73d09498c1bcd0d4d4b351431ed97861f7b924a2648",
-    "godot/web/mobile.html": "6deba7a9a10efb32fd96fa398e9efcb0a252024fc62158522f6182ccc18b6921"
+    "godot/web/isolation-sw.js": "22a16433ffcd1c12e7e47244a25f8b561c590a1ef6cca80aadfa8863a4ed05ab",
+    "godot/web/mobile.html": "0782e3f2e075ade946ac7e89360f5a81c3397be3b98817bc0ce0a9eb1a2dc067"
   },
-  "gameplay_executed": false,
+  "mobile_startup_pack_bytes": 175411132,
   "web_shell_patch": {
     "id": "desktop-pixel-fit-1",
-    "applied_at": "2026-11-20T12:05:57.293784+00:00",
-    "baseline_test_commit": "f14b0c1d02819bc07ed0b5088e8a9ba810399a59",
-    "source_workspace_commit": "8fd233bf627b35aaa3975cd541d0b155f9267721",
-    "source_template_sha256": "3baadcbff5f5a2ef458d06fe9089c4361e723a0e7b3f48eaf802d40625d7245a",
-    "baseline_html_sha256": "4cb9ab8c916d6a2d264be8c68e7f254ba11832a56573d6ec83b5d5c68c974797",
-    "html_sha256": "d32f736af07fa75529d50d209c9c2a4e324c50757e767d9acd08fe9f25611e95",
-    "native_and_resource_packs_rebuilt": false,
-    "gameplay_executed": false
-  }
+    "first_applied_at": "2026-11-20T12:05:57.293784+00:00",
+    "previous_test_commit": "c613ba9333b89eca48d9386273ce13f0e76abc42",
+    "source_template_sha256": "0782e3f2e075ade946ac7e89360f5a81c3397be3b98817bc0ce0a9eb1a2dc067",
+    "patch_sha256": "dc97674fc979148d061fa2762e0d554a806158a4ac45603b074ba2bb8e6dc67f",
+    "html_sha256": "895e059b76326d6a13967eaa0fbe453358f18a6901fb9807d5df7686bc195d90"
+  },
+  "gameplay_executed": false
 }
