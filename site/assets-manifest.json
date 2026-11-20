@@ -1975,7 +1975,7 @@
     {
       "url": "gameplay.pck",
       "size": 2002752,
-      "sha256": "5021209ea22aaeb7b48df170ffa0d9cabb70470529afa3bdfe5f26ed807e6bf8",
+      "sha256": "b61d627b7b4e90d21d8beb76b8f51a56c0ce5852495a7beaeeb54a5fe437f7aa",
       "deferred": false
     },
     {
@@ -2000,37 +2000,67 @@
       "url": "assets-cities.001.pck",
       "size": 33233140,
       "sha256": "1238615bddcc310ebe3a1b56bb7101c6bb0c4123ba5ccb277a71003028058e09",
-      "deferred": false
+      "deferred": false,
+      "mobile": {
+        "url": "mobile/assets-cities.001.pck",
+        "size": 3551396,
+        "sha256": "1dc1e17cb4fa62db894bf1cfde73b570e245da4baedde836083302dff6aebf7d"
+      }
     },
     {
       "url": "assets-cities.002.pck",
       "size": 33093428,
       "sha256": "21b0b948df29b5bd04ce5815111a887bbea17c043ad037e93905b0d4768776ab",
-      "deferred": false
+      "deferred": false,
+      "mobile": {
+        "url": "mobile/assets-cities.002.pck",
+        "size": 3544148,
+        "sha256": "d15061f94e40519d21c62d4a6e8040b620291154a21bf7b357f73e1e238cc6af"
+      }
     },
     {
       "url": "assets-cities.003.pck",
       "size": 33174764,
       "sha256": "15f3a90514791b91ca82e95d79952135524754322954027ed387beaf827068f8",
-      "deferred": false
+      "deferred": false,
+      "mobile": {
+        "url": "mobile/assets-cities.003.pck",
+        "size": 3567500,
+        "sha256": "a382365f167244f83c73576eb4fdd803b4a573b8be60e972914528cbc3a0824b"
+      }
     },
     {
       "url": "assets-cities.004.pck",
       "size": 33168764,
       "sha256": "981290cdbaeaea4aa2ffbd87a2eb93b3072bc87d64ff1c052b685cd8bbc99421",
-      "deferred": false
+      "deferred": false,
+      "mobile": {
+        "url": "mobile/assets-cities.004.pck",
+        "size": 3529148,
+        "sha256": "738fe93bd9c048df12aafeb33759533c81ee7112ee1674d6a6061fb16dd333e1"
+      }
     },
     {
       "url": "assets-cities.005.pck",
       "size": 32855756,
       "sha256": "d0c9ea390254f9ff4f18e980a4bcfe928a61a75c9de12ecdcb4e67bb2f9c35db",
-      "deferred": false
+      "deferred": false,
+      "mobile": {
+        "url": "mobile/assets-cities.005.pck",
+        "size": 3481756,
+        "sha256": "9856a1f1a1bfc76dec7d9fb1ab7c24b285277f2dad3b7760bed90a70b094afdb"
+      }
     },
     {
       "url": "assets-cities.006.pck",
       "size": 7108060,
       "sha256": "097fd9f49847f4e091d56bbfeac0fde54dd43d4863286fd88bd98886aaaee7af",
-      "deferred": false
+      "deferred": false,
+      "mobile": {
+        "url": "mobile/assets-cities.006.pck",
+        "size": 762284,
+        "sha256": "0b0bf0dd8570fde975075b012e540542c7fc269eef34dc14dc999b43564f816e"
+      }
     },
     {
       "url": "assets-cityfrm.pck",

@@ -65,8 +65,16 @@ def main():
         assert indices == ([None] if len(indices) == 1 else
                            [f'{index:03d}' for index in range(1, len(indices) + 1)]), (folder, indices)
     assert all(0 < item['size'] <= 32 * 1024 * 1024 for item in assets_by_folder + deferred)
-    assert set(path for path in actual if path.endswith('.pck')) == {item['url'] for item in packs}
-    for item in assets['files'] + packs:
+    mobile_packs = []
+    for pack in packs:
+        mobile = pack.get('mobile')
+        assert bool(mobile) == bool(re.fullmatch(r'assets-cities(?:\.\d{3})?\.pck', pack['url'])), pack['url']
+        if mobile:
+            assert mobile['url'] == 'mobile/' + pack['url']
+            assert 0 < mobile['size'] < pack['size']
+            mobile_packs.append(mobile)
+    assert {path for path in actual if path.endswith('.pck')} == {item['url'] for item in packs + mobile_packs}
+    for item in assets['files'] + packs + mobile_packs:
         data = (SITE / item['url']).read_bytes()
         assert len(data) == item['size'] and hashlib.sha256(data).hexdigest() == item['sha256']
     print(json.dumps({'verified_files': len(actual), 'site_bytes': total, 'gameplay_executed': False}, indent=2))

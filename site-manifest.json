@@ -1483,8 +1483,8 @@
     },
     {
       "path": "assets-manifest.json",
-      "size": 67221,
-      "sha256": "e3d6ffeeb844dfc48c51b13b4e41736fd8ad4383cd776cf4be886d1f71bff1ef"
+      "size": 68324,
+      "sha256": "bf11878dadb6b76e4ad72dcf8fc171c7303d3d62fec955bdc2a3623e0feb7b58"
     },
     {
       "path": "assets-misc.pck",
@@ -1543,8 +1543,8 @@
     },
     {
       "path": "build-version.json",
-      "size": 13941,
-      "sha256": "3a7dcfbc3b22a998a2ceba69f076a7f26fd15a697999973db73c3b4d864d2b14"
+      "size": 15044,
+      "sha256": "d197510938ae0581326fb3c5206c7a2d14da06d10980efe005dcf7157053b897"
     },
     {
       "path": "cds_native.web.wasm",
@@ -1564,7 +1564,7 @@
     {
       "path": "gameplay.pck",
       "size": 2002752,
-      "sha256": "5021209ea22aaeb7b48df170ffa0d9cabb70470529afa3bdfe5f26ed807e6bf8"
+      "sha256": "b61d627b7b4e90d21d8beb76b8f51a56c0ce5852495a7beaeeb54a5fe437f7aa"
     },
     {
       "path": "index.apple-touch-icon.png",
@@ -1583,8 +1583,8 @@
     },
     {
       "path": "index.html",
-      "size": 94276,
-      "sha256": "30b1cb4db5a8754e6aae07c587494010a6b3a076601247435fd137d073ce4339"
+      "size": 95320,
+      "sha256": "f896d465788a1123b33cd87380759819c7be759896c5e55cdb3d1456ffec348d"
     },
     {
       "path": "index.icon.png",
@@ -1618,8 +1618,38 @@
     },
     {
       "path": "isolation-sw.js",
-      "size": 3281,
-      "sha256": "d09959453ec7ed00189391f4d9e85ba4e7107e12efaa8505bbd2f169b59cd7b5"
+      "size": 3465,
+      "sha256": "4b3e72e6495eeed2a5fab2bc171797287303f04b41b540d06aa10ea2057d24a0"
+    },
+    {
+      "path": "mobile/assets-cities.001.pck",
+      "size": 3551396,
+      "sha256": "1dc1e17cb4fa62db894bf1cfde73b570e245da4baedde836083302dff6aebf7d"
+    },
+    {
+      "path": "mobile/assets-cities.002.pck",
+      "size": 3544148,
+      "sha256": "d15061f94e40519d21c62d4a6e8040b620291154a21bf7b357f73e1e238cc6af"
+    },
+    {
+      "path": "mobile/assets-cities.003.pck",
+      "size": 3567500,
+      "sha256": "a382365f167244f83c73576eb4fdd803b4a573b8be60e972914528cbc3a0824b"
+    },
+    {
+      "path": "mobile/assets-cities.004.pck",
+      "size": 3529148,
+      "sha256": "738fe93bd9c048df12aafeb33759533c81ee7112ee1674d6a6061fb16dd333e1"
+    },
+    {
+      "path": "mobile/assets-cities.005.pck",
+      "size": 3481756,
+      "sha256": "9856a1f1a1bfc76dec7d9fb1ab7c24b285277f2dad3b7760bed90a70b094afdb"
+    },
+    {
+      "path": "mobile/assets-cities.006.pck",
+      "size": 762284,
+      "sha256": "0b0bf0dd8570fde975075b012e540542c7fc269eef34dc14dc999b43564f816e"
     },
     {
       "path": "puzzles.pck",

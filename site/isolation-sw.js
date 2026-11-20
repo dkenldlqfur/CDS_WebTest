@@ -2,7 +2,7 @@
 // official PWA worker. Keep one copy of each pack and revalidate its ETag.
 'use strict';
 const packCacheName = 'cds95-main-pack-v1';
-const packName = /^(?:index|gameplay|game-data|puzzles|assets-[a-z0-9][a-z0-9_-]*(?:\.[0-9]{3})?)\.pck$/;
+const packName = /^(?:index|gameplay|game-data|puzzles|assets-[a-z0-9][a-z0-9_-]*(?:\.[0-9]{3})?|mobile\/assets-cities(?:\.[0-9]{3})?)\.pck$/;
 const legacyPackName = /^(?:interface|graphics(?:-[0-9]{3})?)\.pck$/;
 
 async function fetchPack(request) {
@@ -23,7 +23,9 @@ async function fetchPack(request) {
   } else {
     response = await fetch(request, {cache: request.cache === 'reload' ? 'reload' : 'no-cache'});
   }
-  const write = cache && response.status === 200 && response.headers.has('ETag')
+  // Cloning a large response for CacheStorage can keep extra copies alive on phones.
+  const write = cache && !request.headers.has('X-CDS95-Skip-Pack-Cache-Write') &&
+    response.status === 200 && response.headers.has('ETag')
     ? cache.put(request, response.clone()).catch(() => {})
     : undefined;
   return {response, write};
