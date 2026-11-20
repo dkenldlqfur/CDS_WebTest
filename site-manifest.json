@@ -1543,8 +1543,8 @@
     },
     {
       "path": "build-version.json",
-      "size": 15553,
-      "sha256": "c610d26237ca5891ad769c7ef600cfc25c7f43c60c22dca3250a46b094eb4934"
+      "size": 16175,
+      "sha256": "5486f5223619f41f62a2c815b2c0172f6550bc83943de59bb0cb7092187935f3"
     },
     {
       "path": "cds_native.web.wasm",
@@ -1583,8 +1583,8 @@
     },
     {
       "path": "index.html",
-      "size": 96257,
-      "sha256": "4cb9ab8c916d6a2d264be8c68e7f254ba11832a56573d6ec83b5d5c68c974797"
+      "size": 97594,
+      "sha256": "d32f736af07fa75529d50d209c9c2a4e324c50757e767d9acd08fe9f25611e95"
     },
     {
       "path": "index.icon.png",

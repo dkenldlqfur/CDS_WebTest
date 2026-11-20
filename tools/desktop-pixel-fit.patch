@@ -1,0 +1,52 @@
+diff --git a/godot/web/mobile.html b/godot/web/mobile.html
+index 42b9e91..8e02c49 100644
+--- a/godot/web/mobile.html
++++ b/godot/web/mobile.html
+@@ -12,14 +12,14 @@ body{overflow:hidden}
+ /* Fit the complete game surface to the visible viewport, including browser chrome. */
+ #app{position:absolute;left:var(--visual-left,0px);top:var(--visual-top,0px);width:var(--visual-width,100%);height:var(--visual-height,100dvh);display:flex;flex-direction:column;align-items:center;justify-content:center;padding:env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left)}
+ #screen{position:relative;flex:1;min-width:0;min-height:0;width:100%;overflow:hidden}
+-#canvas{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);width:var(--display-width,640px)!important;height:var(--display-height,480px)!important;display:block;max-width:none;max-height:none;outline:none;touch-action:none;image-rendering:pixelated}
++#canvas{position:absolute;left:var(--display-left,0px);top:var(--display-top,0px);width:var(--display-width,640px)!important;height:var(--display-height,480px)!important;display:block;max-width:none;max-height:none;outline:none;touch-action:none;image-rendering:pixelated}
+ /* Godot inserts its keyboard targets next to the canvas. Keep them inside the visible game area. */
+ #screen > :is(input,textarea){left:50%!important;top:50%!important;width:1px!important;height:20px!important;transform:translate(-50%,-50%);opacity:0;pointer-events:none;font-size:16px}
+ button{font:inherit;color:inherit;background:#263b49;border:1px solid #5a7483;border-radius:7px;min-width:44px;min-height:44px;padding:8px 12px;touch-action:manipulation}
+ button:active,button[aria-pressed=true]{background:#a77a30;color:#fff}
+ button:disabled{opacity:.5}
+ /* Match the canvas bounds. Only buttons intercept touches; all gaps reach the game. */
+-#tools{position:absolute;z-index:2;left:50%;top:50%;transform:translate(-50%,-50%);width:var(--display-width,640px);height:var(--display-height,480px);pointer-events:none}
++#tools{position:absolute;z-index:2;left:var(--display-left,0px);top:var(--display-top,0px);width:var(--display-width,640px);height:var(--display-height,480px);pointer-events:none}
+ #tools .direction-controls{position:absolute;left:8px;bottom:8px;transform:scale(var(--controls-scale,1));transform-origin:bottom left}
+ #tools[hidden]{display:none}
+ #screen.typing #tools{visibility:hidden}
+@@ -161,9 +161,29 @@ function fit(){
+  // Keep the centered editor readable on a tall canvas when the keyboard is open.
+  const visibleHeight=isKeyboardTarget(document.activeElement)?Math.min(height,320):height;
+  const scale=Math.max(0,Math.min(screen.clientWidth/width,screen.clientHeight/visibleHeight));
+- const displayWidth=Math.floor(width*scale),displayHeight=Math.floor(height*scale);
++ let displayWidth=Math.floor(width*scale),displayHeight=Math.floor(height*scale);
++ let displayLeft=(screen.clientWidth-displayWidth)/2,displayTop=(screen.clientHeight-displayHeight)/2;
++ // A fractional CSS fit stretches bitmap UI strokes unevenly on desktop,
++ // including at Windows/browser zoom ratios such as 1.25 and 1.5. Use whole
++ // physical pixels per rendered pixel, and align the origin to that grid.
++ // Leave small/touch screens free to shrink the full game surface to fit.
++ if(window.matchMedia?.('(pointer: fine)').matches){
++  const ratio=Number(window.devicePixelRatio)||1,dpr=Number.isFinite(ratio)&&ratio>0?ratio:1;
++  const rect=screen.getBoundingClientRect();
++  const left=Math.ceil(rect.left*dpr),top=Math.ceil(rect.top*dpr);
++  const physicalWidth=Math.max(0,Math.floor((rect.left+screen.clientWidth)*dpr)-left);
++  const physicalHeight=Math.max(0,Math.floor((rect.top+screen.clientHeight)*dpr)-top);
++  const pixelScale=Math.floor(Math.min(physicalWidth/width,physicalHeight/visibleHeight));
++  if(pixelScale>=1){
++   displayWidth=width*pixelScale/dpr;displayHeight=height*pixelScale/dpr;
++   displayLeft=(left+Math.floor((physicalWidth-width*pixelScale)/2))/dpr-rect.left;
++   displayTop=(top+Math.floor((physicalHeight-height*pixelScale)/2))/dpr-rect.top;
++  }
++ }
+  screen.style.setProperty('--display-width',`${displayWidth}px`);
+  screen.style.setProperty('--display-height',`${displayHeight}px`);
++ screen.style.setProperty('--display-left',`${displayLeft}px`);
++ screen.style.setProperty('--display-top',`${displayTop}px`);
+  screen.style.setProperty('--controls-scale',String(Math.max(0,Math.min(1,(displayWidth-24)/300,(displayHeight-16)/138))));
+ }
+ let fitFrame=0;

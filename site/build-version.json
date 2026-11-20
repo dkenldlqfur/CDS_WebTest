@@ -322,5 +322,16 @@
     "godot/web/isolation-sw.js": "7e3bfe2504039061fd51e73d09498c1bcd0d4d4b351431ed97861f7b924a2648",
     "godot/web/mobile.html": "6deba7a9a10efb32fd96fa398e9efcb0a252024fc62158522f6182ccc18b6921"
   },
-  "gameplay_executed": false
+  "gameplay_executed": false,
+  "web_shell_patch": {
+    "id": "desktop-pixel-fit-1",
+    "applied_at": "2026-11-20T12:05:57.293784+00:00",
+    "baseline_test_commit": "f14b0c1d02819bc07ed0b5088e8a9ba810399a59",
+    "source_workspace_commit": "8fd233bf627b35aaa3975cd541d0b155f9267721",
+    "source_template_sha256": "3baadcbff5f5a2ef458d06fe9089c4361e723a0e7b3f48eaf802d40625d7245a",
+    "baseline_html_sha256": "4cb9ab8c916d6a2d264be8c68e7f254ba11832a56573d6ec83b5d5c68c974797",
+    "html_sha256": "d32f736af07fa75529d50d209c9c2a4e324c50757e767d9acd08fe9f25611e95",
+    "native_and_resource_packs_rebuilt": false,
+    "gameplay_executed": false
+  }
 }

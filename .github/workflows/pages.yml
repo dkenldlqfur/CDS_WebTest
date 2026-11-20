@@ -29,6 +29,7 @@ jobs:
         run: |
           node --check site/index.js
           node --check site/isolation-sw.js
+          node tools/verify_desktop_pixel_fit.cjs
 
   deploy:
     # Public Pages hosting was authorized by the repository owner.
