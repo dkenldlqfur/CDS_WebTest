@@ -1,20 +1,20 @@
 {
   "version": "1.3.5",
   "channel": "web-test",
-  "built_at": "2026-11-21T09:19:37.517221+00:00",
-  "pck_sha256": "883b1a450880e9bbd46ca7455e760c6a971ac9757a46d1f3bd0dcab3b8009390",
-  "wasm_sha256": "13ef085e6cf465bb464343d1da4a08cbf2f0f6c9b9b4a65a1599117c7fb6f63c",
+  "built_at": "2026-11-21T11:32:42.569520+00:00",
+  "pck_sha256": "abaa3307ff8c4d325aeac7b525ed6891f50bf90bbbba9473e2bad8c4bf3dcb63",
+  "wasm_sha256": "9a2cf53ecdb6cb6b209322e286b2b6e84b649ddeccab9589e3f62c1ee01e7557",
   "packs": [
     {
       "url": "index.pck",
-      "size": 21596068,
-      "sha256": "883b1a450880e9bbd46ca7455e760c6a971ac9757a46d1f3bd0dcab3b8009390",
+      "size": 21596212,
+      "sha256": "abaa3307ff8c4d325aeac7b525ed6891f50bf90bbbba9473e2bad8c4bf3dcb63",
       "deferred": false
     },
     {
       "url": "gameplay.pck",
-      "size": 2029568,
-      "sha256": "33a6c504aa6eb91b8efb0f2c9c700c9738b78d4cd8b5300c0cdec5e7a7901d29",
+      "size": 2032780,
+      "sha256": "259c241e27369bb52730cc184bec6af2d3297fb05ac433599ebbee880875144f",
       "deferred": false
     },
     {
@@ -299,8 +299,8 @@
     },
     {
       "url": "assets-world-city.pck",
-      "size": 12832,
-      "sha256": "68f642e201645f4f90dc30d440b602ee7af161df7cd8e11c52f9f042ee9ef13b",
+      "size": 14808,
+      "sha256": "3df3fab81fb69502ed01e16b42269ab3ac85235896771e542ad5584c11e95cc4",
       "deferred": false
     },
     {
@@ -318,6 +318,6 @@
   ],
   "source_commit": "c06f49d277190318b9a7e3cf38d9d4069a7ba26a",
   "source_dirty": true,
-  "mobile_startup_pack_bytes": 175434988,
+  "mobile_startup_pack_bytes": 175440320,
   "gameplay_executed": false
 }

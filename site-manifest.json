@@ -1474,7 +1474,7 @@
     {
       "path": "assets-manifest.json",
       "size": 70892,
-      "sha256": "04d0d4b999e2879b4e1620dcc52644d8590808e577d265746b0f1d5075f30e84"
+      "sha256": "a71d16afafe5abffd5850469ffc864887ab2c56db115e3a53ff0181be801d74c"
     },
     {
       "path": "assets-misc.pck",
@@ -1523,8 +1523,8 @@
     },
     {
       "path": "assets-world-city.pck",
-      "size": 12832,
-      "sha256": "68f642e201645f4f90dc30d440b602ee7af161df7cd8e11c52f9f042ee9ef13b"
+      "size": 14808,
+      "sha256": "3df3fab81fb69502ed01e16b42269ab3ac85235896771e542ad5584c11e95cc4"
     },
     {
       "path": "assets-world-map.pck",
@@ -1534,12 +1534,12 @@
     {
       "path": "build-version.json",
       "size": 10436,
-      "sha256": "6628b196bf85665f6305a7503a3866d5398332b0cfe75d6002df0c009fd47af0"
+      "sha256": "959d755037830e599d1630cd71e26f5de3db0c71f526b5e0ff37fe7e46925f64"
     },
     {
       "path": "cds_native.web.wasm",
-      "size": 10485179,
-      "sha256": "13ef085e6cf465bb464343d1da4a08cbf2f0f6c9b9b4a65a1599117c7fb6f63c"
+      "size": 10486831,
+      "sha256": "9a2cf53ecdb6cb6b209322e286b2b6e84b649ddeccab9589e3f62c1ee01e7557"
     },
     {
       "path": "discovery-video-worker.js",
@@ -1553,8 +1553,8 @@
     },
     {
       "path": "gameplay.pck",
-      "size": 2029568,
-      "sha256": "33a6c504aa6eb91b8efb0f2c9c700c9738b78d4cd8b5300c0cdec5e7a7901d29"
+      "size": 2032780,
+      "sha256": "259c241e27369bb52730cc184bec6af2d3297fb05ac433599ebbee880875144f"
     },
     {
       "path": "index.apple-touch-icon.png",
@@ -1574,7 +1574,7 @@
     {
       "path": "index.html",
       "size": 99398,
-      "sha256": "b4cc7f0660e121d3c53cefae81f748142c7025d85f20d44c5c2987e1ffa779c4"
+      "sha256": "7d59e3d12033c9ecd55c764f33aca8df8b8cd5aac3abfdae721bc00996f93f5b"
     },
     {
       "path": "index.icon.png",
@@ -1588,8 +1588,8 @@
     },
     {
       "path": "index.pck",
-      "size": 21596068,
-      "sha256": "883b1a450880e9bbd46ca7455e760c6a971ac9757a46d1f3bd0dcab3b8009390"
+      "size": 21596212,
+      "sha256": "abaa3307ff8c4d325aeac7b525ed6891f50bf90bbbba9473e2bad8c4bf3dcb63"
     },
     {
       "path": "index.png",
