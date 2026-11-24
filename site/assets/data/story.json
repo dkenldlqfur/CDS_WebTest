@@ -2,6 +2,8 @@
   {
     "name_key": "exe.00571998",
     "file": "STORY0.CDS",
+    "protagonist_id": 0,
+    "protagonist_portrait_id": 5,
     "initial": {
       "surname_key": "ui.c7f82d1158ac8698",
       "given_name_key": "ui.ce9938f21604483e",
@@ -25,6 +27,8 @@
   {
     "name_key": "exe.005719a8",
     "file": "STORY1.CDS",
+    "protagonist_id": 1,
+    "protagonist_portrait_id": 14,
     "initial": {
       "surname_key": "ui.6986e0fa9248967c",
       "given_name_key": "ui.cac0f96db3aef71c",
@@ -43,6 +47,31 @@
       "fame": 1500,
       "infamy": 0,
       "cash": 2500
+    }
+  },
+  {
+    "name": "백동수 (조선)",
+    "file": "BAEKDONGSU.CDS",
+    "protagonist_id": 2,
+    "protagonist_portrait_id": 16,
+    "initial": {
+      "surname": "백",
+      "given_name": "동수",
+      "portrait": 14,
+      "sex": 0,
+      "nationality": 70,
+      "blood_type": 1,
+      "occupation": 7,
+      "birth_date": [1457, 2, 15],
+      "city": 190,
+      "facility": -1,
+      "attributes": [79, 63, 77, 64, 64, 61],
+      "health": 1300,
+      "skills": [0, 0, 2, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0],
+      "languages": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3],
+      "fame": 1500,
+      "infamy": 0,
+      "cash": 12500
     }
   }
 ]

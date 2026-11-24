@@ -287,6 +287,11 @@
       "sha256": "792b9c3757a244d2f1fcdffef222e6af12d19cff5aeb902e0c2b6d2af935850b"
     },
     {
+      "path": "assets/data/records/baekdong_su_people.json",
+      "size": 2990,
+      "sha256": "d31e85f189b5df5f3917db7b600e06eaa2c7786cedde496ebec843e3def05ab9"
+    },
+    {
       "path": "assets/data/records/birth_adjustments.json",
       "size": 1335,
       "sha256": "bbffab622202dd522f3fee61c5b770db590d428eb0a5a962e6ec352791136e39"
@@ -298,8 +303,8 @@
     },
     {
       "path": "assets/data/records/books.json",
-      "size": 115669,
-      "sha256": "62ee3a4d7e7ba6e3731e2136e88a16e564cfe8d3e3025d3386a30561be27fd25"
+      "size": 115749,
+      "sha256": "212b4d6ed6b4ecbad8d8b1a7c87c8037dbed38dfcd10b1dd1c05b664875b81c7"
     },
     {
       "path": "assets/data/records/cannons.json",
@@ -313,8 +318,8 @@
     },
     {
       "path": "assets/data/records/cities.json",
-      "size": 170404,
-      "sha256": "459cb3a24434a6ed7a1b11342931fc54335724715e0e139aeb4b4fb8e808442f"
+      "size": 177899,
+      "sha256": "9a11f78e8eb42e48b65d58a2e8f1f65708765d78b9ef1fe52b8ade0d2b41344c"
     },
     {
       "path": "assets/data/records/creation_age_adjustments.json",
@@ -333,8 +338,8 @@
     },
     {
       "path": "assets/data/records/facilities.json",
-      "size": 600154,
-      "sha256": "f6411b894784c79f89f02881eccd273539f9c88a662a70aaca12024712bfe9df"
+      "size": 600542,
+      "sha256": "92dff0af41c5c244047b4d8f7842bd142ef9beda20f43a0ad8e33555998503ad"
     },
     {
       "path": "assets/data/records/figureheads.json",
@@ -348,8 +353,8 @@
     },
     {
       "path": "assets/data/records/hints.json",
-      "size": 18205,
-      "sha256": "608e02947ea0c87ffdafb5f8b4ca0bd6d881f01310d153c9beaaee8c443caf69"
+      "size": 22872,
+      "sha256": "82e34b827adfbae451671cb29a6c7d6caf2b826776c11ddfe7c116fcd8baff1f"
     },
     {
       "path": "assets/data/records/items.json",
@@ -358,18 +363,23 @@
     },
     {
       "path": "assets/data/records/nations.json",
-      "size": 17891,
-      "sha256": "e4a036ac517beab7c7450d74a1a03a0216f45cb65d2bec372a454ef305aecb06"
+      "size": 18062,
+      "sha256": "43aff2177fbe506e71fa7113d8a93a5c0994883f85bed360093e7e8e9805ad61"
     },
     {
       "path": "assets/data/records/patrons.json",
-      "size": 34197,
-      "sha256": "a106e83203b72031c21dc953481b1f2249ad0c42bca5b432096ddb86234005ad"
+      "size": 35696,
+      "sha256": "cdab531b07ffca9e80adea31c08034bc94966ed4595b707a46586ecc5dd1df58"
     },
     {
       "path": "assets/data/records/people.json",
-      "size": 291652,
-      "sha256": "441f6d8361e5bab88a39db3fc3efa93e9ea6c0fee72412f6603c261ba9052bb9"
+      "size": 292786,
+      "sha256": "72ce031522563dd40542165952c79832bb5671c97080e6594d14af1584f0430c"
+    },
+    {
+      "path": "assets/data/records/person_portraits.json",
+      "size": 674,
+      "sha256": "79d9a823ca9bea1c86b95a0ba243a066d8bf4a6617715cfe0726fd66f9ad1a15"
     },
     {
       "path": "assets/data/records/regional_goods.json",
@@ -393,18 +403,18 @@
     },
     {
       "path": "assets/data/records/tavern_hints.json",
-      "size": 36941,
-      "sha256": "0643edd2ea39ea025d14f1f170bfc516509c30293487543c560d9139058cd05f"
+      "size": 43023,
+      "sha256": "09b9b27d6086429d05406ea74ebd679d49a4ca10d250d814c5971b8139da3285"
     },
     {
       "path": "assets/data/records/taverns.json",
-      "size": 53377,
-      "sha256": "8bb3b51a36aa80e03c8d8b0e767d47e9f5da6fc91587396e2e3a8f7aeea79fe4"
+      "size": 54079,
+      "sha256": "41b814be291427d254ca372ebdc1fa69b0ef4b1dbd04c3243d94549a2cffa548"
     },
     {
       "path": "assets/data/records/world_catalog.json",
-      "size": 125923,
-      "sha256": "efae9826bdac640d4cedd8a6e303d260f69f9d26a63f8b0c4f67a7bdddd58de5"
+      "size": 139283,
+      "sha256": "bffce3a5203684093e96848da340c5971e3cf4582c23e89851c2f8438a62e842"
     },
     {
       "path": "assets/data/records/zodiac_dates.json",
@@ -418,8 +428,8 @@
     },
     {
       "path": "assets/data/story.json",
-      "size": 1220,
-      "sha256": "6d6cdee3ffed5a56860265ea312d00058be8c98123f6b39b03701f386e14cb75"
+      "size": 1981,
+      "sha256": "7a00376b841df6ca0c6e265fee923274f6c15f2b16fca2f9205ebbf23fe5ca51"
     },
     {
       "path": "assets/discovery_animations/00.ogv",
@@ -1383,33 +1393,33 @@
     },
     {
       "path": "assets-cities.001.pck",
-      "size": 33233140,
-      "sha256": "1238615bddcc310ebe3a1b56bb7101c6bb0c4123ba5ccb277a71003028058e09"
+      "size": 32863420,
+      "sha256": "77ad4f97501a7c05a8cd70abcec882706bfe4b7183874fd92474a7108508cac7"
     },
     {
       "path": "assets-cities.002.pck",
-      "size": 33093428,
-      "sha256": "21b0b948df29b5bd04ce5815111a887bbea17c043ad037e93905b0d4768776ab"
+      "size": 32737492,
+      "sha256": "275677d188449805076ca8b90e139a57fbf0b707602ffc0562766762ed19702a"
     },
     {
       "path": "assets-cities.003.pck",
-      "size": 33174764,
-      "sha256": "15f3a90514791b91ca82e95d79952135524754322954027ed387beaf827068f8"
+      "size": 32726068,
+      "sha256": "42c949be54c97a2a77b0f61843087883fc3e3953f4d5100cafe813af658295df"
     },
     {
       "path": "assets-cities.004.pck",
-      "size": 33168764,
-      "sha256": "981290cdbaeaea4aa2ffbd87a2eb93b3072bc87d64ff1c052b685cd8bbc99421"
+      "size": 33469900,
+      "sha256": "1617542be2601a130c08343d5332bdde88262a8b57abf31c7e79429c30174b56"
     },
     {
       "path": "assets-cities.005.pck",
-      "size": 32855756,
-      "sha256": "d0c9ea390254f9ff4f18e980a4bcfe928a61a75c9de12ecdcb4e67bb2f9c35db"
+      "size": 33426172,
+      "sha256": "5baefb4c8e1fbb8c6c22e0256b88556642c96321a78f186760477f4d5b3e21bf"
     },
     {
       "path": "assets-cities.006.pck",
-      "size": 7108060,
-      "sha256": "097fd9f49847f4e091d56bbfeac0fde54dd43d4863286fd88bd98886aaaee7af"
+      "size": 28376408,
+      "sha256": "7c8139abfecaa5a99b2425e2fa4b02a92a1903589a2cca2f41b15a88fcba5ee6"
     },
     {
       "path": "assets-cityfrm.pck",
@@ -1433,23 +1443,18 @@
     },
     {
       "path": "assets-evanime.001.pck",
-      "size": 33493264,
-      "sha256": "049f8be290ed7a288202d6be5f6c03b6b3ea36ec37453601c243bba0e46facb5"
+      "size": 23085784,
+      "sha256": "404b59883b3dca9ebf7868a1df8b43ae1114546bbe7a981304010a06c7bc1900"
     },
     {
       "path": "assets-evanime.002.pck",
-      "size": 24532492,
-      "sha256": "bc845d52d523e2be48186a76f39c9e78c5c5980818b59753a182e3fa130f3df9"
-    },
-    {
-      "path": "assets-evanime.003.pck",
-      "size": 15391092,
-      "sha256": "5f17479e96409b0072ea9032e0e592b6766d737e8deba62d4ed7244746803040"
+      "size": 15417444,
+      "sha256": "4aeeb3c1b02d6adbef15f28ce7a28f9812b2066f8fa221948dad464c9474167b"
     },
     {
       "path": "assets-evstill.pck",
-      "size": 6822872,
-      "sha256": "9efbf671b5fb12860f3ebb8718665f37dfc00fa2254d30b77b86b80b23bf9b7c"
+      "size": 7649592,
+      "sha256": "3facd19b70c6d438ad8c40b6db4c0b55ae19292ba0444bd8f923bd2ae5890c16"
     },
     {
       "path": "assets-fighter.pck",
@@ -1473,8 +1478,8 @@
     },
     {
       "path": "assets-manifest.json",
-      "size": 70892,
-      "sha256": "a71d16afafe5abffd5850469ffc864887ab2c56db115e3a53ff0181be801d74c"
+      "size": 72042,
+      "sha256": "e830c15bbb1f25f59be444922f7940a009f69179944a2f2d5949dae8411d766a"
     },
     {
       "path": "assets-misc.pck",
@@ -1483,28 +1488,18 @@
     },
     {
       "path": "assets-mpcg.001.pck",
-      "size": 32857172,
-      "sha256": "6bcad9fbdc850440749a4a5fd0bae5ffc9c8a0d41e60aa3f19582b94ee4c591b"
+      "size": 30146284,
+      "sha256": "0e01ae87802507bc10db80c81784f1485c9b1fcc39729e77239df5d11416cdaa"
     },
     {
       "path": "assets-mpcg.002.pck",
-      "size": 32400228,
-      "sha256": "ad6c839db243d09a800542d3901d966f07b6fa9a25090b6ef73a9cebef1aeb31"
-    },
-    {
-      "path": "assets-mpcg.003.pck",
-      "size": 33482200,
-      "sha256": "3e10fd8ee1f673b68cc7aa01120bb65337fa31bbb77f994a4a279209b2652e8e"
-    },
-    {
-      "path": "assets-mpcg.004.pck",
-      "size": 15973708,
-      "sha256": "74c68ffeeb0b5c097e2c340cdbe95b1daf44e9d243d67004d8aa48758a16449f"
+      "size": 7460456,
+      "sha256": "45844f3adb673803ab19504dba7a0add276e538c17907d42c63ee5cbb280c5ee"
     },
     {
       "path": "assets-mpeffect.pck",
-      "size": 2861792,
-      "sha256": "d74d0bdbd689f90fd35b17f8415093bad4e66fcc92eee578018fdfda77796460"
+      "size": 1296832,
+      "sha256": "c7e20a03f4afe9d3252ea595bbc66cd5e0bdb95fe878c9018e934a0004b476fa"
     },
     {
       "path": "assets-openbook.pck",
@@ -1512,14 +1507,9 @@
       "sha256": "ae1dbdf8943cc936130ae00abc3a473d97b940e0882f6565b1e23d0a4ce1aaf3"
     },
     {
-      "path": "assets-portraits.001.pck",
-      "size": 33504820,
-      "sha256": "914744687e6308f64c8b0999bcd8db6368fb73399460f88ae603d2f2f41c20b4"
-    },
-    {
-      "path": "assets-portraits.002.pck",
-      "size": 14966500,
-      "sha256": "7b2b8c8c30c60aa84ac0ed690798c7ea2ceddc336f6e8018c95f12a01d95313d"
+      "path": "assets-portraits.pck",
+      "size": 23592848,
+      "sha256": "f3c01fc69a92db49a22325c26489587fa9cdc56e88c94dfe66408642550542e4"
     },
     {
       "path": "assets-world-city.pck",
@@ -1533,13 +1523,13 @@
     },
     {
       "path": "build-version.json",
-      "size": 10436,
-      "sha256": "959d755037830e599d1630cd71e26f5de3db0c71f526b5e0ff37fe7e46925f64"
+      "size": 8990,
+      "sha256": "49b41bd0ffb24ca88883c1f5bb0ac1b7d264619bf9cd568bcde998277ed0e4cd"
     },
     {
       "path": "cds_native.web.wasm",
-      "size": 10486831,
-      "sha256": "9a2cf53ecdb6cb6b209322e286b2b6e84b649ddeccab9589e3f62c1ee01e7557"
+      "size": 10610594,
+      "sha256": "826a09ec882a492baa3196532496d4da6395402f6bf2dc073ddd3a109132d4e8"
     },
     {
       "path": "discovery-video-worker.js",
@@ -1548,13 +1538,13 @@
     },
     {
       "path": "game-data.pck",
-      "size": 16750388,
-      "sha256": "d5d40895c298e5b738c9f43ae096f778cbec2ea6e6cfa1a52586125329a5bf50"
+      "size": 16750548,
+      "sha256": "7a7c1b65c0748a685f8554d660876078f34f62101ac76349fc3408660d4c5cc5"
     },
     {
       "path": "gameplay.pck",
-      "size": 2032780,
-      "sha256": "259c241e27369bb52730cc184bec6af2d3297fb05ac433599ebbee880875144f"
+      "size": 2059692,
+      "sha256": "c0ecad0f055ff1ac0a52bf785f7ecaa8dcc9082a52c129d6fde62089af7e9edf"
     },
     {
       "path": "index.apple-touch-icon.png",
@@ -1573,8 +1563,8 @@
     },
     {
       "path": "index.html",
-      "size": 99398,
-      "sha256": "7d59e3d12033c9ecd55c764f33aca8df8b8cd5aac3abfdae721bc00996f93f5b"
+      "size": 99227,
+      "sha256": "3861fc0015698c643562ba333cb841b956fc44233b2f6571f8d15cd760d3800e"
     },
     {
       "path": "index.icon.png",
@@ -1583,13 +1573,13 @@
     },
     {
       "path": "index.js",
-      "size": 2966217,
-      "sha256": "07563add07af78fe990e9f6ad157d7c23cbd438086ddcc1bc1ddcb5a076f90de"
+      "size": 2966219,
+      "sha256": "8d60a81d49b7cc12df0c8ce9230d8ab797dde11579e121c6de5c1a9e5102e10b"
     },
     {
       "path": "index.pck",
-      "size": 21596212,
-      "sha256": "abaa3307ff8c4d325aeac7b525ed6891f50bf90bbbba9473e2bad8c4bf3dcb63"
+      "size": 25918224,
+      "sha256": "b598f70c0001b41103ed2d3cd9daaf38ad287207e4cb5a6b77112974555c2731"
     },
     {
       "path": "index.png",
@@ -1623,33 +1613,33 @@
     },
     {
       "path": "mobile/assets-cities.001.pck",
-      "size": 3551396,
-      "sha256": "1dc1e17cb4fa62db894bf1cfde73b570e245da4baedde836083302dff6aebf7d"
+      "size": 3418556,
+      "sha256": "5e651e26badc2762f6a4b37fdcab041b1e90b4a7a90ac6897d4537f59594bcee"
     },
     {
       "path": "mobile/assets-cities.002.pck",
-      "size": 3544148,
-      "sha256": "d15061f94e40519d21c62d4a6e8040b620291154a21bf7b357f73e1e238cc6af"
+      "size": 3365732,
+      "sha256": "b19b3e0248f9fe41d45c1b93b6f575e55b8f6a925fae1483c49397f928f9597c"
     },
     {
       "path": "mobile/assets-cities.003.pck",
-      "size": 3567500,
-      "sha256": "a382365f167244f83c73576eb4fdd803b4a573b8be60e972914528cbc3a0824b"
+      "size": 3375252,
+      "sha256": "6c8e3653968df7d4d167e5a16db84d0191452668daaaa44ce69e284347aced72"
     },
     {
       "path": "mobile/assets-cities.004.pck",
-      "size": 3529148,
-      "sha256": "738fe93bd9c048df12aafeb33759533c81ee7112ee1674d6a6061fb16dd333e1"
+      "size": 3514796,
+      "sha256": "a6baa6b328a651f9ffce9cb3b984126cf82cdb24c26606f6d811c895f5e234d7"
     },
     {
       "path": "mobile/assets-cities.005.pck",
-      "size": 3481756,
-      "sha256": "9856a1f1a1bfc76dec7d9fb1ab7c24b285277f2dad3b7760bed90a70b094afdb"
+      "size": 3458812,
+      "sha256": "f979ef6a1de1ca3c9a1b9b2c9ca0c2da7ad7e8f282a044411931548ed32860d2"
     },
     {
       "path": "mobile/assets-cities.006.pck",
-      "size": 762284,
-      "sha256": "0b0bf0dd8570fde975075b012e540542c7fc269eef34dc14dc999b43564f816e"
+      "size": 3031032,
+      "sha256": "ec7d852a00646b8830d433628617105efe6ae5112e9f75092984dfa9b3ca045a"
     },
     {
       "path": "mobile/assets-cityfrm.pck",
@@ -1668,18 +1658,13 @@
     },
     {
       "path": "mobile/assets-evanime.001.pck",
-      "size": 9074064,
-      "sha256": "57f97d1a033e98e30837c2e8b0c1a90059f5056925184a02c6bcc3e2c1b3ea58"
-    },
-    {
-      "path": "mobile/assets-evanime.002.pck",
-      "size": 7733644,
-      "sha256": "b585cea51a81cfb672258ca73bae15c368043fd0b34bb359f06f090ff47f76af"
+      "size": 7036952,
+      "sha256": "99399894b6b1a007af406765e9a0234c3af16025bb4450ce2e22e3a39d359212"
     },
     {
       "path": "mobile/assets-evstill.pck",
-      "size": 1857400,
-      "sha256": "f055d9ab3e75db54139d9c7095c684408ae4e01ee3d862a715db83e07fa749db"
+      "size": 2061800,
+      "sha256": "f5bfd3e40adca2ccce59ba943447192bf3d20beab645978f279d401569a50de8"
     },
     {
       "path": "mobile/assets-fighter.pck",
@@ -1693,33 +1678,13 @@
     },
     {
       "path": "mobile/assets-mpcg.001.pck",
-      "size": 8347924,
-      "sha256": "1d0adb2c08b985ab3e865fcb470fc9704d3e2643307c7967e772bd210d284a9d"
+      "size": 9152956,
+      "sha256": "2c23fa5daa75dfdee6d1188abf0cd4f4df1855ea51b4ebef7506678c6666a8c6"
     },
     {
-      "path": "mobile/assets-mpcg.002.pck",
-      "size": 8133284,
-      "sha256": "ce6f0baca960d07115136fcba4270523d97a094ecef14ed51fef340127a1f040"
-    },
-    {
-      "path": "mobile/assets-mpcg.003.pck",
-      "size": 8695032,
-      "sha256": "7320170a292a15c73aee21df43e5e6b0f04ef77143c70ee7f95441c20c076647"
-    },
-    {
-      "path": "mobile/assets-mpcg.004.pck",
-      "size": 10447340,
-      "sha256": "893ddcacbdba76dc6635cf58dc8d994cf3957a35637849e5d3228e61a7c655ba"
-    },
-    {
-      "path": "mobile/assets-portraits.001.pck",
-      "size": 7115604,
-      "sha256": "dfd112f707b29de00a61f5ad26ba6ee65ba2b7709d89af887ced5b72ba2382c6"
-    },
-    {
-      "path": "mobile/assets-portraits.002.pck",
-      "size": 3325092,
-      "sha256": "52e4cc39e93e176098d09b465b902326c5663068bc83a87183b3c01625b6af6f"
+      "path": "mobile/assets-portraits.pck",
+      "size": 5461296,
+      "sha256": "b64ebcfef1f63504a6b6d9b15b65ad1a28322a36f1418414d307440d20541371"
     },
     {
       "path": "puzzles.pck",

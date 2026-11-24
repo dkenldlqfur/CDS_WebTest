@@ -1,26 +1,28 @@
 {
-  "version": "1.3.5",
+  "version": "1.4.1",
   "channel": "web-test",
-  "built_at": "2026-11-21T11:32:42.569520+00:00",
-  "pck_sha256": "abaa3307ff8c4d325aeac7b525ed6891f50bf90bbbba9473e2bad8c4bf3dcb63",
-  "wasm_sha256": "9a2cf53ecdb6cb6b209322e286b2b6e84b649ddeccab9589e3f62c1ee01e7557",
+  "built_at": "2026-11-24T03:32:48.778645+00:00",
+  "pck_sha256": "b598f70c0001b41103ed2d3cd9daaf38ad287207e4cb5a6b77112974555c2731",
+  "wasm_sha256": "826a09ec882a492baa3196532496d4da6395402f6bf2dc073ddd3a109132d4e8",
+  "source_commit": "59af47abbe99cca6c70bbe6e6459d35870413109",
+  "source_worktree_modified": true,
   "packs": [
     {
       "url": "index.pck",
-      "size": 21596212,
-      "sha256": "abaa3307ff8c4d325aeac7b525ed6891f50bf90bbbba9473e2bad8c4bf3dcb63",
+      "size": 25918224,
+      "sha256": "b598f70c0001b41103ed2d3cd9daaf38ad287207e4cb5a6b77112974555c2731",
       "deferred": false
     },
     {
       "url": "gameplay.pck",
-      "size": 2032780,
-      "sha256": "259c241e27369bb52730cc184bec6af2d3297fb05ac433599ebbee880875144f",
+      "size": 2059692,
+      "sha256": "c0ecad0f055ff1ac0a52bf785f7ecaa8dcc9082a52c129d6fde62089af7e9edf",
       "deferred": false
     },
     {
       "url": "game-data.pck",
-      "size": 16750388,
-      "sha256": "d5d40895c298e5b738c9f43ae096f778cbec2ea6e6cfa1a52586125329a5bf50",
+      "size": 16750548,
+      "sha256": "7a7c1b65c0748a685f8554d660876078f34f62101ac76349fc3408660d4c5cc5",
       "deferred": false
     },
     {
@@ -37,68 +39,68 @@
     },
     {
       "url": "assets-cities.001.pck",
-      "size": 33233140,
-      "sha256": "1238615bddcc310ebe3a1b56bb7101c6bb0c4123ba5ccb277a71003028058e09",
+      "size": 32863420,
+      "sha256": "77ad4f97501a7c05a8cd70abcec882706bfe4b7183874fd92474a7108508cac7",
       "deferred": false,
       "mobile": {
         "url": "mobile/assets-cities.001.pck",
-        "size": 3551396,
-        "sha256": "1dc1e17cb4fa62db894bf1cfde73b570e245da4baedde836083302dff6aebf7d"
+        "size": 3418556,
+        "sha256": "5e651e26badc2762f6a4b37fdcab041b1e90b4a7a90ac6897d4537f59594bcee"
       }
     },
     {
       "url": "assets-cities.002.pck",
-      "size": 33093428,
-      "sha256": "21b0b948df29b5bd04ce5815111a887bbea17c043ad037e93905b0d4768776ab",
+      "size": 32737492,
+      "sha256": "275677d188449805076ca8b90e139a57fbf0b707602ffc0562766762ed19702a",
       "deferred": false,
       "mobile": {
         "url": "mobile/assets-cities.002.pck",
-        "size": 3544148,
-        "sha256": "d15061f94e40519d21c62d4a6e8040b620291154a21bf7b357f73e1e238cc6af"
+        "size": 3365732,
+        "sha256": "b19b3e0248f9fe41d45c1b93b6f575e55b8f6a925fae1483c49397f928f9597c"
       }
     },
     {
       "url": "assets-cities.003.pck",
-      "size": 33174764,
-      "sha256": "15f3a90514791b91ca82e95d79952135524754322954027ed387beaf827068f8",
+      "size": 32726068,
+      "sha256": "42c949be54c97a2a77b0f61843087883fc3e3953f4d5100cafe813af658295df",
       "deferred": false,
       "mobile": {
         "url": "mobile/assets-cities.003.pck",
-        "size": 3567500,
-        "sha256": "a382365f167244f83c73576eb4fdd803b4a573b8be60e972914528cbc3a0824b"
+        "size": 3375252,
+        "sha256": "6c8e3653968df7d4d167e5a16db84d0191452668daaaa44ce69e284347aced72"
       }
     },
     {
       "url": "assets-cities.004.pck",
-      "size": 33168764,
-      "sha256": "981290cdbaeaea4aa2ffbd87a2eb93b3072bc87d64ff1c052b685cd8bbc99421",
+      "size": 33469900,
+      "sha256": "1617542be2601a130c08343d5332bdde88262a8b57abf31c7e79429c30174b56",
       "deferred": false,
       "mobile": {
         "url": "mobile/assets-cities.004.pck",
-        "size": 3529148,
-        "sha256": "738fe93bd9c048df12aafeb33759533c81ee7112ee1674d6a6061fb16dd333e1"
+        "size": 3514796,
+        "sha256": "a6baa6b328a651f9ffce9cb3b984126cf82cdb24c26606f6d811c895f5e234d7"
       }
     },
     {
       "url": "assets-cities.005.pck",
-      "size": 32855756,
-      "sha256": "d0c9ea390254f9ff4f18e980a4bcfe928a61a75c9de12ecdcb4e67bb2f9c35db",
+      "size": 33426172,
+      "sha256": "5baefb4c8e1fbb8c6c22e0256b88556642c96321a78f186760477f4d5b3e21bf",
       "deferred": false,
       "mobile": {
         "url": "mobile/assets-cities.005.pck",
-        "size": 3481756,
-        "sha256": "9856a1f1a1bfc76dec7d9fb1ab7c24b285277f2dad3b7760bed90a70b094afdb"
+        "size": 3458812,
+        "sha256": "f979ef6a1de1ca3c9a1b9b2c9ca0c2da7ad7e8f282a044411931548ed32860d2"
       }
     },
     {
       "url": "assets-cities.006.pck",
-      "size": 7108060,
-      "sha256": "097fd9f49847f4e091d56bbfeac0fde54dd43d4863286fd88bd98886aaaee7af",
+      "size": 28376408,
+      "sha256": "7c8139abfecaa5a99b2425e2fa4b02a92a1903589a2cca2f41b15a88fcba5ee6",
       "deferred": false,
       "mobile": {
         "url": "mobile/assets-cities.006.pck",
-        "size": 762284,
-        "sha256": "0b0bf0dd8570fde975075b012e540542c7fc269eef34dc14dc999b43564f816e"
+        "size": 3031032,
+        "sha256": "ec7d852a00646b8830d433628617105efe6ae5112e9f75092984dfa9b3ca045a"
       }
     },
     {
@@ -142,41 +144,30 @@
     },
     {
       "url": "assets-evanime.001.pck",
-      "size": 33493264,
-      "sha256": "049f8be290ed7a288202d6be5f6c03b6b3ea36ec37453601c243bba0e46facb5",
+      "size": 23085784,
+      "sha256": "404b59883b3dca9ebf7868a1df8b43ae1114546bbe7a981304010a06c7bc1900",
       "deferred": false,
       "mobile": {
         "url": "mobile/assets-evanime.001.pck",
-        "size": 9074064,
-        "sha256": "57f97d1a033e98e30837c2e8b0c1a90059f5056925184a02c6bcc3e2c1b3ea58"
+        "size": 7036952,
+        "sha256": "99399894b6b1a007af406765e9a0234c3af16025bb4450ce2e22e3a39d359212"
       }
     },
     {
       "url": "assets-evanime.002.pck",
-      "size": 24532492,
-      "sha256": "bc845d52d523e2be48186a76f39c9e78c5c5980818b59753a182e3fa130f3df9",
-      "deferred": false,
-      "mobile": {
-        "url": "mobile/assets-evanime.002.pck",
-        "size": 7733644,
-        "sha256": "b585cea51a81cfb672258ca73bae15c368043fd0b34bb359f06f090ff47f76af"
-      }
-    },
-    {
-      "url": "assets-evanime.003.pck",
-      "size": 15391092,
-      "sha256": "5f17479e96409b0072ea9032e0e592b6766d737e8deba62d4ed7244746803040",
+      "size": 15417444,
+      "sha256": "4aeeb3c1b02d6adbef15f28ce7a28f9812b2066f8fa221948dad464c9474167b",
       "deferred": false
     },
     {
       "url": "assets-evstill.pck",
-      "size": 6822872,
-      "sha256": "9efbf671b5fb12860f3ebb8718665f37dfc00fa2254d30b77b86b80b23bf9b7c",
+      "size": 7649592,
+      "sha256": "3facd19b70c6d438ad8c40b6db4c0b55ae19292ba0444bd8f923bd2ae5890c16",
       "deferred": false,
       "mobile": {
         "url": "mobile/assets-evstill.pck",
-        "size": 1857400,
-        "sha256": "f055d9ab3e75db54139d9c7095c684408ae4e01ee3d862a715db83e07fa749db"
+        "size": 2061800,
+        "sha256": "f5bfd3e40adca2ccce59ba943447192bf3d20beab645978f279d401569a50de8"
       }
     },
     {
@@ -221,52 +212,25 @@
     },
     {
       "url": "assets-mpcg.001.pck",
-      "size": 32857172,
-      "sha256": "6bcad9fbdc850440749a4a5fd0bae5ffc9c8a0d41e60aa3f19582b94ee4c591b",
+      "size": 30146284,
+      "sha256": "0e01ae87802507bc10db80c81784f1485c9b1fcc39729e77239df5d11416cdaa",
       "deferred": false,
       "mobile": {
         "url": "mobile/assets-mpcg.001.pck",
-        "size": 8347924,
-        "sha256": "1d0adb2c08b985ab3e865fcb470fc9704d3e2643307c7967e772bd210d284a9d"
+        "size": 9152956,
+        "sha256": "2c23fa5daa75dfdee6d1188abf0cd4f4df1855ea51b4ebef7506678c6666a8c6"
       }
     },
     {
       "url": "assets-mpcg.002.pck",
-      "size": 32400228,
-      "sha256": "ad6c839db243d09a800542d3901d966f07b6fa9a25090b6ef73a9cebef1aeb31",
-      "deferred": false,
-      "mobile": {
-        "url": "mobile/assets-mpcg.002.pck",
-        "size": 8133284,
-        "sha256": "ce6f0baca960d07115136fcba4270523d97a094ecef14ed51fef340127a1f040"
-      }
-    },
-    {
-      "url": "assets-mpcg.003.pck",
-      "size": 33482200,
-      "sha256": "3e10fd8ee1f673b68cc7aa01120bb65337fa31bbb77f994a4a279209b2652e8e",
-      "deferred": false,
-      "mobile": {
-        "url": "mobile/assets-mpcg.003.pck",
-        "size": 8695032,
-        "sha256": "7320170a292a15c73aee21df43e5e6b0f04ef77143c70ee7f95441c20c076647"
-      }
-    },
-    {
-      "url": "assets-mpcg.004.pck",
-      "size": 15973708,
-      "sha256": "74c68ffeeb0b5c097e2c340cdbe95b1daf44e9d243d67004d8aa48758a16449f",
-      "deferred": false,
-      "mobile": {
-        "url": "mobile/assets-mpcg.004.pck",
-        "size": 10447340,
-        "sha256": "893ddcacbdba76dc6635cf58dc8d994cf3957a35637849e5d3228e61a7c655ba"
-      }
+      "size": 7460456,
+      "sha256": "45844f3adb673803ab19504dba7a0add276e538c17907d42c63ee5cbb280c5ee",
+      "deferred": false
     },
     {
       "url": "assets-mpeffect.pck",
-      "size": 2861792,
-      "sha256": "d74d0bdbd689f90fd35b17f8415093bad4e66fcc92eee578018fdfda77796460",
+      "size": 1296832,
+      "sha256": "c7e20a03f4afe9d3252ea595bbc66cd5e0bdb95fe878c9018e934a0004b476fa",
       "deferred": false
     },
     {
@@ -276,25 +240,14 @@
       "deferred": false
     },
     {
-      "url": "assets-portraits.001.pck",
-      "size": 33504820,
-      "sha256": "914744687e6308f64c8b0999bcd8db6368fb73399460f88ae603d2f2f41c20b4",
+      "url": "assets-portraits.pck",
+      "size": 23592848,
+      "sha256": "f3c01fc69a92db49a22325c26489587fa9cdc56e88c94dfe66408642550542e4",
       "deferred": false,
       "mobile": {
-        "url": "mobile/assets-portraits.001.pck",
-        "size": 7115604,
-        "sha256": "dfd112f707b29de00a61f5ad26ba6ee65ba2b7709d89af887ced5b72ba2382c6"
-      }
-    },
-    {
-      "url": "assets-portraits.002.pck",
-      "size": 14966500,
-      "sha256": "7b2b8c8c30c60aa84ac0ed690798c7ea2ceddc336f6e8018c95f12a01d95313d",
-      "deferred": false,
-      "mobile": {
-        "url": "mobile/assets-portraits.002.pck",
-        "size": 3325092,
-        "sha256": "52e4cc39e93e176098d09b465b902326c5663068bc83a87183b3c01625b6af6f"
+        "url": "mobile/assets-portraits.pck",
+        "size": 5461296,
+        "sha256": "b64ebcfef1f63504a6b6d9b15b65ad1a28322a36f1418414d307440d20541371"
       }
     },
     {
@@ -315,9 +268,5 @@
       "sha256": "a04933ecd7d5aa6c3cdd02c0522707ccf9b7be59eda4c9dbbc0fae3279861e2b",
       "deferred": true
     }
-  ],
-  "source_commit": "c06f49d277190318b9a7e3cf38d9d4069a7ba26a",
-  "source_dirty": true,
-  "mobile_startup_pack_bytes": 175440320,
-  "gameplay_executed": false
+  ]
 }

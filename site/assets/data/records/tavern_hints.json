@@ -719,7 +719,10 @@
         -1,
         -1,
         -1
-      ]
+      ],
+      "baekdong_su": {
+        "text_key": "baekdong_su.tavern_hint.59.text"
+      }
     },
     {
       "id": 60,
@@ -779,7 +782,10 @@
         -1,
         -1,
         -1
-      ]
+      ],
+      "baekdong_su": {
+        "text_key": "baekdong_su.tavern_hint.64.text"
+      }
     },
     {
       "id": 65,
@@ -947,7 +953,11 @@
         200,
         -1,
         -1
-      ]
+      ],
+      "baekdong_su": {
+        "cities": [202, 207, 206, 204],
+        "text_key": "baekdong_su.tavern_hint.78.text"
+      }
     },
     {
       "id": 79,
@@ -959,7 +969,10 @@
         -1,
         -1,
         -1
-      ]
+      ],
+      "baekdong_su": {
+        "text_key": "baekdong_su.tavern_hint.79.text"
+      }
     },
     {
       "id": 80,
@@ -995,7 +1008,10 @@
         -1,
         -1,
         -1
-      ]
+      ],
+      "baekdong_su": {
+        "text_key": "baekdong_su.tavern_hint.82.text"
+      }
     },
     {
       "id": 83,
@@ -1007,7 +1023,10 @@
         69,
         112,
         113
-      ]
+      ],
+      "baekdong_su": {
+        "text_key": "baekdong_su.tavern_hint.83.text"
+      }
     },
     {
       "id": 84,
@@ -1055,7 +1074,10 @@
         67,
         64,
         65
-      ]
+      ],
+      "baekdong_su": {
+        "text_key": "baekdong_su.tavern_hint.87.text"
+      }
     },
     {
       "id": 88,
@@ -1079,7 +1101,10 @@
         97,
         100,
         -1
-      ]
+      ],
+      "baekdong_su": {
+        "text_key": "baekdong_su.tavern_hint.89.text"
+      }
     },
     {
       "id": 90,
@@ -1091,7 +1116,10 @@
         110,
         -1,
         -1
-      ]
+      ],
+      "baekdong_su": {
+        "text_key": "baekdong_su.tavern_hint.90.text"
+      }
     },
     {
       "id": 91,
@@ -1103,7 +1131,10 @@
         -1,
         -1,
         -1
-      ]
+      ],
+      "baekdong_su": {
+        "text_key": "baekdong_su.tavern_hint.91.text"
+      }
     },
     {
       "id": 92,
@@ -1115,7 +1146,10 @@
         67,
         -1,
         -1
-      ]
+      ],
+      "baekdong_su": {
+        "text_key": "baekdong_su.tavern_hint.92.text"
+      }
     },
     {
       "id": 93,
@@ -1127,7 +1161,11 @@
         97,
         -1,
         -1
-      ]
+      ],
+      "baekdong_su": {
+        "cities": [99, 97, -1, -1],
+        "text_key": "baekdong_su.tavern_hint.93.text"
+      }
     },
     {
       "id": 94,
@@ -1139,7 +1177,10 @@
         -1,
         -1,
         -1
-      ]
+      ],
+      "baekdong_su": {
+        "text_key": "baekdong_su.tavern_hint.94.text"
+      }
     },
     {
       "id": 95,
@@ -1151,7 +1192,10 @@
         91,
         97,
         -1
-      ]
+      ],
+      "baekdong_su": {
+        "text_key": "baekdong_su.tavern_hint.95.text"
+      }
     },
     {
       "id": 96,
@@ -1163,7 +1207,10 @@
         -1,
         -1,
         -1
-      ]
+      ],
+      "baekdong_su": {
+        "text_key": "baekdong_su.tavern_hint.96.text"
+      }
     },
     {
       "id": 97,
@@ -1175,7 +1222,10 @@
         102,
         -1,
         -1
-      ]
+      ],
+      "baekdong_su": {
+        "text_key": "baekdong_su.tavern_hint.97.text"
+      }
     },
     {
       "id": 98,
@@ -1187,7 +1237,10 @@
         99,
         98,
         101
-      ]
+      ],
+      "baekdong_su": {
+        "text_key": "baekdong_su.tavern_hint.98.text"
+      }
     },
     {
       "id": 99,
@@ -1199,7 +1252,10 @@
         161,
         -1,
         -1
-      ]
+      ],
+      "baekdong_su": {
+        "cities": [-1, -1, -1, -1]
+      }
     },
     {
       "id": 100,
@@ -1211,7 +1267,10 @@
         200,
         201,
         199
-      ]
+      ],
+      "baekdong_su": {
+        "text_key": "baekdong_su.tavern_hint.100.text"
+      }
     },
     {
       "id": 101,
@@ -1223,7 +1282,10 @@
         -1,
         -1,
         -1
-      ]
+      ],
+      "baekdong_su": {
+        "text_key": "baekdong_su.tavern_hint.101.text"
+      }
     },
     {
       "id": 102,
@@ -1235,7 +1297,11 @@
         125,
         148,
         124
-      ]
+      ],
+      "baekdong_su": {
+        "cities": [160, 163, 169, 172],
+        "text_key": "baekdong_su.tavern_hint.102.text"
+      }
     },
     {
       "id": 103,
@@ -1247,7 +1313,11 @@
         -1,
         -1,
         -1
-      ]
+      ],
+      "baekdong_su": {
+        "cities": [219, 211, -1, -1],
+        "text_key": "baekdong_su.tavern_hint.103.text"
+      }
     },
     {
       "id": 104,
@@ -1259,7 +1329,10 @@
         97,
         98,
         -1
-      ]
+      ],
+      "baekdong_su": {
+        "text_key": "baekdong_su.tavern_hint.104.text"
+      }
     },
     {
       "id": 105,
@@ -1271,7 +1344,10 @@
         103,
         106,
         105
-      ]
+      ],
+      "baekdong_su": {
+        "text_key": "baekdong_su.tavern_hint.105.text"
+      }
     },
     {
       "id": 106,
@@ -1283,7 +1359,10 @@
         83,
         -1,
         -1
-      ]
+      ],
+      "baekdong_su": {
+        "text_key": "baekdong_su.tavern_hint.106.text"
+      }
     },
     {
       "id": 107,
@@ -1319,7 +1398,11 @@
         178,
         177,
         -1
-      ]
+      ],
+      "baekdong_su": {
+        "cities": [188, 190, -1, -1],
+        "text_key": "baekdong_su.tavern_hint.109.text"
+      }
     },
     {
       "id": 110,
@@ -1331,7 +1414,11 @@
         187,
         189,
         186
-      ]
+      ],
+      "baekdong_su": {
+        "cities": [132, 133, 143, 144],
+        "text_key": "baekdong_su.tavern_hint.110.text"
+      }
     },
     {
       "id": 111,
@@ -1343,7 +1430,10 @@
         172,
         -1,
         -1
-      ]
+      ],
+      "baekdong_su": {
+        "text_key": "baekdong_su.tavern_hint.111.text"
+      }
     },
     {
       "id": 112,
@@ -1355,7 +1445,10 @@
         169,
         172,
         168
-      ]
+      ],
+      "baekdong_su": {
+        "text_key": "baekdong_su.tavern_hint.112.text"
+      }
     },
     {
       "id": 113,
@@ -1367,7 +1460,10 @@
         164,
         167,
         166
-      ]
+      ],
+      "baekdong_su": {
+        "text_key": "baekdong_su.tavern_hint.113.text"
+      }
     },
     {
       "id": 114,
@@ -1379,7 +1475,10 @@
         -1,
         -1,
         -1
-      ]
+      ],
+      "baekdong_su": {
+        "text_key": "baekdong_su.tavern_hint.114.text"
+      }
     },
     {
       "id": 115,
@@ -1391,7 +1490,10 @@
         167,
         168,
         171
-      ]
+      ],
+      "baekdong_su": {
+        "text_key": "baekdong_su.tavern_hint.115.text"
+      }
     },
     {
       "id": 116,
@@ -1403,7 +1505,11 @@
         68,
         64,
         -1
-      ]
+      ],
+      "baekdong_su": {
+        "cities": [206, 210, 204, 202],
+        "text_key": "baekdong_su.tavern_hint.116.text"
+      }
     },
     {
       "id": 117,
@@ -1415,7 +1521,10 @@
         203,
         204,
         -1
-      ]
+      ],
+      "baekdong_su": {
+        "text_key": "baekdong_su.tavern_hint.117.text"
+      }
     },
     {
       "id": 118,
@@ -1427,7 +1536,10 @@
         220,
         219,
         222
-      ]
+      ],
+      "baekdong_su": {
+        "text_key": "baekdong_su.tavern_hint.118.text"
+      }
     },
     {
       "id": 119,
@@ -1439,7 +1551,11 @@
         194,
         215,
         206
-      ]
+      ],
+      "baekdong_su": {
+        "cities": [211, 194, 215, 206],
+        "text_key": "baekdong_su.tavern_hint.119.text"
+      }
     },
     {
       "id": 120,
@@ -1451,7 +1567,10 @@
         78,
         -1,
         -1
-      ]
+      ],
+      "baekdong_su": {
+        "text_key": "baekdong_su.tavern_hint.120.text"
+      }
     },
     {
       "id": 121,
@@ -1463,7 +1582,11 @@
         166,
         152,
         124
-      ]
+      ],
+      "baekdong_su": {
+        "cities": [174, 175, 176, 177],
+        "text_key": "baekdong_su.tavern_hint.121.text"
+      }
     },
     {
       "id": 122,
@@ -1475,7 +1598,10 @@
         100,
         -1,
         -1
-      ]
+      ],
+      "baekdong_su": {
+        "text_key": "baekdong_su.tavern_hint.122.text"
+      }
     },
     {
       "id": 123,
@@ -1487,7 +1613,10 @@
         194,
         215,
         211
-      ]
+      ],
+      "baekdong_su": {
+        "text_key": "baekdong_su.tavern_hint.123.text"
+      }
     },
     {
       "id": 124,
@@ -1499,7 +1628,11 @@
         173,
         164,
         170
-      ]
+      ],
+      "baekdong_su": {
+        "cities": [162, 172, 164, 170],
+        "text_key": "baekdong_su.tavern_hint.124.text"
+      }
     },
     {
       "id": 125,
@@ -1511,7 +1644,10 @@
         201,
         204,
         209
-      ]
+      ],
+      "baekdong_su": {
+        "text_key": "baekdong_su.tavern_hint.125.text"
+      }
     },
     {
       "id": 126,
@@ -1523,7 +1659,11 @@
         0,
         212,
         213
-      ]
+      ],
+      "baekdong_su": {
+        "cities": [215, 211, 212, 213],
+        "text_key": "baekdong_su.tavern_hint.126.text"
+      }
     },
     {
       "id": 127,
@@ -1547,7 +1687,10 @@
         157,
         155,
         160
-      ]
+      ],
+      "baekdong_su": {
+        "text_key": "baekdong_su.tavern_hint.128.text"
+      }
     },
     {
       "id": 129,
@@ -1571,7 +1714,10 @@
         -1,
         -1,
         -1
-      ]
+      ],
+      "baekdong_su": {
+        "text_key": "baekdong_su.tavern_hint.130.text"
+      }
     },
     {
       "id": 131,
@@ -1583,7 +1729,10 @@
         171,
         172,
         170
-      ]
+      ],
+      "baekdong_su": {
+        "text_key": "baekdong_su.tavern_hint.131.text"
+      }
     },
     {
       "id": 132,
@@ -1595,7 +1744,10 @@
         67,
         64,
         66
-      ]
+      ],
+      "baekdong_su": {
+        "text_key": "baekdong_su.tavern_hint.132.text"
+      }
     },
     {
       "id": 133,
@@ -1607,7 +1759,10 @@
         67,
         64,
         66
-      ]
+      ],
+      "baekdong_su": {
+        "text_key": "baekdong_su.tavern_hint.133.text"
+      }
     },
     {
       "id": 134,
@@ -1619,7 +1774,11 @@
         215,
         0,
         194
-      ]
+      ],
+      "baekdong_su": {
+        "cities": [211, 215, 210, 194],
+        "text_key": "baekdong_su.tavern_hint.134.text"
+      }
     },
     {
       "id": 135,
@@ -1631,7 +1790,11 @@
         7,
         217,
         194
-      ]
+      ],
+      "baekdong_su": {
+        "cities": [215, 211, 217, 194],
+        "text_key": "baekdong_su.tavern_hint.135.text"
+      }
     },
     {
       "id": 136,
@@ -1643,7 +1806,10 @@
         0,
         217,
         215
-      ]
+      ],
+      "baekdong_su": {
+        "text_key": "baekdong_su.tavern_hint.136.text"
+      }
     },
     {
       "id": 137,
@@ -1727,7 +1893,10 @@
         67,
         66,
         -1
-      ]
+      ],
+      "baekdong_su": {
+        "text_key": "baekdong_su.tavern_hint.143.text"
+      }
     },
     {
       "id": 144,
@@ -1739,7 +1908,11 @@
         191,
         193,
         -1
-      ]
+      ],
+      "baekdong_su": {
+        "cities": [192, 192, 193, -1],
+        "text_key": "baekdong_su.tavern_hint.144.text"
+      }
     },
     {
       "id": 145,
@@ -1751,7 +1924,10 @@
         -1,
         -1,
         -1
-      ]
+      ],
+      "baekdong_su": {
+        "text_key": "baekdong_su.tavern_hint.145.text"
+      }
     },
     {
       "id": 146,
@@ -1787,7 +1963,10 @@
         151,
         150,
         148
-      ]
+      ],
+      "baekdong_su": {
+        "text_key": "baekdong_su.tavern_hint.148.text"
+      }
     },
     {
       "id": 149,
@@ -1811,7 +1990,11 @@
         123,
         109,
         128
-      ]
+      ],
+      "baekdong_su": {
+        "cities": [124, 126, 121, 128],
+        "text_key": "baekdong_su.tavern_hint.150.text"
+      }
     },
     {
       "id": 151,
@@ -1859,7 +2042,11 @@
         128,
         129,
         125
-      ]
+      ],
+      "baekdong_su": {
+        "cities": [117, -1, -1, -1],
+        "text_key": "baekdong_su.tavern_hint.154.text"
+      }
     },
     {
       "id": 155,
@@ -1871,7 +2058,11 @@
         82,
         112,
         121
-      ]
+      ],
+      "baekdong_su": {
+        "cities": [180, -1, -1, -1],
+        "text_key": "baekdong_su.tavern_hint.155.text"
+      }
     },
     {
       "id": 156,
@@ -1883,7 +2074,11 @@
         87,
         88,
         13
-      ]
+      ],
+      "baekdong_su": {
+        "cities": [-1, -1, -1, 13],
+        "text_key": "baekdong_su.tavern_hint.156.text"
+      }
     },
     {
       "id": 157,
@@ -1919,7 +2114,10 @@
         -1,
         -1,
         -1
-      ]
+      ],
+      "baekdong_su": {
+        "text_key": "baekdong_su.tavern_hint.159.text"
+      }
     },
     {
       "id": 160,

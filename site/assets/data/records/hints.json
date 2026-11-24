@@ -4,7 +4,11 @@
     {
       "id": 0,
       "initial_value": 65000,
-      "initially_available": 1
+      "initially_available": 1,
+      "baekdong_su": {
+        "contract_years": 3,
+        "prerequisites": [2, -1, -1, -1, -1, -1, -1, -1]
+      }
     },
     {
       "id": 1,
@@ -14,22 +18,42 @@
     {
       "id": 2,
       "initial_value": 100000,
-      "initially_available": 1
+      "initially_available": 1,
+      "baekdong_su": {
+        "prerequisites": [3, -1, -1, -1, -1, -1, -1, -1]
+      }
     },
     {
       "id": 3,
       "initial_value": 70000,
-      "initially_available": 1
+      "initially_available": 1,
+      "baekdong_su": {
+        "difficulty_rank": 1,
+        "contract_years": 2,
+        "prerequisites": [5, 8, -1, -1, -1, -1, -1, -1]
+      }
     },
     {
       "id": 4,
       "initial_value": 85000,
-      "initially_available": 1
+      "initially_available": 1,
+      "baekdong_su": {
+        "difficulty_rank": 1,
+        "contract_years": 2,
+        "prerequisites": [5, 8, -1, -1, -1, -1, -1, -1]
+      }
     },
     {
       "id": 5,
       "initial_value": 75000,
-      "initially_available": 1
+      "initially_available": 1,
+      "baekdong_su": {
+        "initial_value": 8738,
+        "difficulty_rank": 1,
+        "contract_years": 1,
+        "level": 0,
+        "prerequisites": [-1, -1, -1, -1, -1, -1, -1, -1]
+      }
     },
     {
       "id": 6,
@@ -44,12 +68,25 @@
     {
       "id": 8,
       "initial_value": 95000,
-      "initially_available": 1
+      "initially_available": 1,
+      "baekdong_su": {
+        "initial_value": 8738,
+        "difficulty_rank": 1,
+        "contract_years": 1,
+        "level": 0,
+        "prerequisites": [-1, -1, -1, -1, -1, -1, -1, -1],
+        "name_key": "baekdong_su.hint.8.name"
+      }
     },
     {
       "id": 9,
       "initial_value": 110000,
-      "initially_available": 1
+      "initially_available": 1,
+      "baekdong_su": {
+        "difficulty_rank": 1,
+        "contract_years": 3,
+        "level": 0
+      }
     },
     {
       "id": 10,
@@ -74,7 +111,12 @@
     {
       "id": 14,
       "initial_value": 80000,
-      "initially_available": 1
+      "initially_available": 1,
+      "baekdong_su": {
+        "difficulty_rank": 1,
+        "contract_years": 2,
+        "level": 0
+      }
     },
     {
       "id": 15,
@@ -84,12 +126,18 @@
     {
       "id": 16,
       "initial_value": 100000,
-      "initially_available": 1
+      "initially_available": 1,
+      "baekdong_su": {
+        "difficulty_rank": 2
+      }
     },
     {
       "id": 17,
       "initial_value": 85000,
-      "initially_available": 1
+      "initially_available": 1,
+      "baekdong_su": {
+        "difficulty_rank": 2
+      }
     },
     {
       "id": 18,
@@ -184,32 +232,64 @@
     {
       "id": 36,
       "initial_value": 80000,
-      "initially_available": 1
+      "initially_available": 1,
+      "baekdong_su": {
+        "difficulty_rank": 1,
+        "contract_years": 2,
+        "level": 0
+      }
     },
     {
       "id": 37,
       "initial_value": 88000,
-      "initially_available": 1
+      "initially_available": 1,
+      "baekdong_su": {
+        "difficulty_rank": 1,
+        "contract_years": 2,
+        "level": 0
+      }
     },
     {
       "id": 38,
       "initial_value": 75000,
-      "initially_available": 1
+      "initially_available": 1,
+      "baekdong_su": {
+        "difficulty_rank": 1,
+        "contract_years": 2,
+        "level": 0
+      }
     },
     {
       "id": 39,
       "initial_value": 84000,
-      "initially_available": 1
+      "initially_available": 1,
+      "baekdong_su": {
+        "difficulty_rank": 1,
+        "contract_years": 2,
+        "level": 0
+      }
     },
     {
       "id": 40,
       "initial_value": 65000,
-      "initially_available": 1
+      "initially_available": 1,
+      "baekdong_su": {
+        "initial_value": 4369,
+        "difficulty_rank": 1,
+        "contract_years": 1,
+        "level": 0,
+        "prerequisites": [-1, -1, -1, -1, -1, -1, -1, -1]
+      }
     },
     {
       "id": 41,
       "initial_value": 72000,
-      "initially_available": 1
+      "initially_available": 1,
+      "baekdong_su": {
+        "difficulty_rank": 1,
+        "contract_years": 2,
+        "level": 0
+      }
     },
     {
       "id": 42,
@@ -344,12 +424,21 @@
     {
       "id": 68,
       "initial_value": 82000,
-      "initially_available": 1
+      "initially_available": 1,
+      "baekdong_su": {
+        "difficulty_rank": 1,
+        "contract_years": 2,
+        "level": 0
+      }
     },
     {
       "id": 69,
       "initial_value": 90000,
-      "initially_available": 1
+      "initially_available": 1,
+      "baekdong_su": {
+        "difficulty_rank": 2,
+        "category": 0
+      }
     },
     {
       "id": 70,
@@ -454,32 +543,62 @@
     {
       "id": 90,
       "initial_value": 87000,
-      "initially_available": 1
+      "initially_available": 1,
+      "baekdong_su": {
+        "difficulty_rank": 1,
+        "contract_years": 2,
+        "level": 0
+      }
     },
     {
       "id": 91,
       "initial_value": 68000,
-      "initially_available": 1
+      "initially_available": 1,
+      "baekdong_su": {
+        "difficulty_rank": 1,
+        "contract_years": 2,
+        "level": 0
+      }
     },
     {
       "id": 92,
       "initial_value": 76000,
-      "initially_available": 1
+      "initially_available": 1,
+      "baekdong_su": {
+        "difficulty_rank": 1,
+        "contract_years": 2,
+        "level": 0
+      }
     },
     {
       "id": 93,
       "initial_value": 74000,
-      "initially_available": 1
+      "initially_available": 1,
+      "baekdong_su": {
+        "difficulty_rank": 1,
+        "contract_years": 2,
+        "level": 0
+      }
     },
     {
       "id": 94,
       "initial_value": 79000,
-      "initially_available": 1
+      "initially_available": 1,
+      "baekdong_su": {
+        "difficulty_rank": 1,
+        "contract_years": 2,
+        "level": 0
+      }
     },
     {
       "id": 95,
       "initial_value": 82000,
-      "initially_available": 1
+      "initially_available": 1,
+      "baekdong_su": {
+        "difficulty_rank": 1,
+        "contract_years": 2,
+        "level": 0
+      }
     },
     {
       "id": 96,
@@ -579,7 +698,10 @@
       "id": 114,
       "name_key": "hint.name.114",
       "initial_value": 43000,
-      "initially_available": 1
+      "initially_available": 1,
+      "baekdong_su": {
+        "prerequisites": [0, -1, -1, -1, -1, -1, -1, -1]
+      }
     },
     {
       "id": 115,
@@ -621,17 +743,32 @@
     {
       "id": 122,
       "initial_value": 120000,
-      "initially_available": 1
+      "initially_available": 1,
+      "baekdong_su": {
+        "difficulty_rank": 1,
+        "contract_years": 2,
+        "level": 0
+      }
     },
     {
       "id": 123,
       "initial_value": 78000,
-      "initially_available": 1
+      "initially_available": 1,
+      "baekdong_su": {
+        "difficulty_rank": 1,
+        "contract_years": 2,
+        "level": 0
+      }
     },
     {
       "id": 124,
       "initial_value": 130000,
-      "initially_available": 1
+      "initially_available": 1,
+      "baekdong_su": {
+        "difficulty_rank": 1,
+        "contract_years": 3,
+        "level": 0
+      }
     },
     {
       "id": 125,
@@ -652,7 +789,10 @@
     {
       "id": 128,
       "initial_value": 92000,
-      "initially_available": 1
+      "initially_available": 1,
+      "baekdong_su": {
+        "prerequisites": [1, -1, -1, -1, -1, -1, -1, -1]
+      }
     },
     {
       "id": 129,
@@ -770,7 +910,10 @@
       "id": 151,
       "name_key": "hint.name.151",
       "initial_value": 85000,
-      "initially_available": 1
+      "initially_available": 1,
+      "baekdong_su": {
+        "prerequisites": [10, -1, -1, -1, -1, -1, -1, -1]
+      }
     },
     {
       "id": 152,
@@ -845,7 +988,12 @@
     {
       "id": 166,
       "initial_value": 60000,
-      "initially_available": 1
+      "initially_available": 1,
+      "baekdong_su": {
+        "difficulty_rank": 1,
+        "contract_years": 2,
+        "level": 0
+      }
     },
     {
       "id": 167,
@@ -860,12 +1008,20 @@
     {
       "id": 169,
       "initial_value": 105000,
-      "initially_available": 1
+      "initially_available": 1,
+      "baekdong_su": {
+        "difficulty_rank": 1,
+        "contract_years": 2,
+        "level": 0
+      }
     },
     {
       "id": 170,
       "initial_value": 25000,
-      "initially_available": 1
+      "initially_available": 1,
+      "baekdong_su": {
+        "description_key": "baekdong_su.hint.170.description"
+      }
     },
     {
       "id": 171,
@@ -875,7 +1031,10 @@
     {
       "id": 172,
       "initial_value": 40000,
-      "initially_available": 1
+      "initially_available": 1,
+      "baekdong_su": {
+        "description_key": "baekdong_su.hint.172.description"
+      }
     },
     {
       "id": 173,
@@ -885,7 +1044,10 @@
     {
       "id": 174,
       "initial_value": 32000,
-      "initially_available": 1
+      "initially_available": 1,
+      "baekdong_su": {
+        "description_key": "baekdong_su.hint.174.description"
+      }
     },
     {
       "id": 175,
@@ -900,7 +1062,12 @@
     {
       "id": 177,
       "initial_value": 50000,
-      "initially_available": 1
+      "initially_available": 1,
+      "baekdong_su": {
+        "difficulty_rank": 1,
+        "contract_years": 2,
+        "level": 0
+      }
     },
     {
       "id": 178,
@@ -930,17 +1097,30 @@
     {
       "id": 183,
       "initial_value": 55000,
-      "initially_available": 1
+      "initially_available": 1,
+      "baekdong_su": {
+        "description_key": "baekdong_su.hint.183.description"
+      }
     },
     {
       "id": 184,
       "initial_value": 50000,
-      "initially_available": 1
+      "initially_available": 1,
+      "baekdong_su": {
+        "prerequisites": [0, -1, -1, -1, -1, -1, -1, -1]
+      }
     },
     {
       "id": 185,
       "initial_value": 84000,
-      "initially_available": 1
+      "initially_available": 1,
+      "baekdong_su": {
+        "initial_value": 4369,
+        "difficulty_rank": 1,
+        "contract_years": 1,
+        "level": 0,
+        "prerequisites": [-1, -1, -1, -1, -1, -1, -1, -1]
+      }
     }
   ]
 }

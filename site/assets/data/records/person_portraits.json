@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "portraits": [
+    {
+      "id": 12000,
+      "sex": 1,
+      "resource": "res://assets/portraits/baekdong-su/seol-i-hwa.png"
+    },
+    {
+      "id": 12001,
+      "sex": 1,
+      "resource": "res://assets/portraits/baekdong-su/chae-mi-ryeong-v4.png"
+    },
+    {
+      "id": 12002,
+      "sex": 0,
+      "resource": "res://assets/portraits/baekdong-su/seongjong.png"
+    },
+    {
+      "id": 12003,
+      "sex": 0,
+      "resource": "res://assets/portraits/baekdong-su/yeonsangun.png"
+    },
+    {
+      "id": 12004,
+      "sex": 0,
+      "resource": "res://assets/portraits/baekdong-su/prince-jean.png"
+    }
+  ]
+}

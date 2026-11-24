@@ -4,6 +4,7 @@
     {
       "id": 0,
       "name_key": "exe.0053ce34",
+      "baekdong_su": {"initial_status_flags": 8},
       "world_image_id": 110592,
       "position": [
         1185,
@@ -46,6 +47,7 @@
     {
       "id": 1,
       "name_key": "exe.0053ce28",
+      "baekdong_su": {"initial_status_flags": 8},
       "world_image_id": 110593,
       "position": [
         1189,
@@ -88,6 +90,7 @@
     {
       "id": 2,
       "name_key": "exe.0053ce1c",
+      "baekdong_su": {"initial_status_flags": 8},
       "world_image_id": 110593,
       "position": [
         1190,
@@ -130,6 +133,7 @@
     {
       "id": 3,
       "name_key": "exe.0053ce14",
+      "baekdong_su": {"initial_status_flags": 8},
       "world_image_id": 110593,
       "position": [
         1229,
@@ -172,6 +176,7 @@
     {
       "id": 4,
       "name_key": "exe.0053ce0c",
+      "baekdong_su": {"initial_status_flags": 8},
       "world_image_id": 110592,
       "position": [
         1219,
@@ -214,6 +219,7 @@
     {
       "id": 5,
       "name_key": "exe.0053ce00",
+      "baekdong_su": {"initial_status_flags": 8},
       "world_image_id": 110593,
       "position": [
         1241,
@@ -256,6 +262,7 @@
     {
       "id": 6,
       "name_key": "exe.0053cdf4",
+      "baekdong_su": {"initial_status_flags": 8},
       "world_image_id": 110593,
       "position": [
         1215,
@@ -298,6 +305,7 @@
     {
       "id": 7,
       "name_key": "exe.0053cde8",
+      "baekdong_su": {"initial_status_flags": 8},
       "world_image_id": 110592,
       "position": [
         1205,
@@ -340,6 +348,7 @@
     {
       "id": 8,
       "name_key": "exe.0053cde0",
+      "baekdong_su": {"initial_status_flags": 8},
       "world_image_id": 110593,
       "position": [
         1206,
@@ -382,6 +391,7 @@
     {
       "id": 9,
       "name_key": "exe.0053cdd8",
+      "baekdong_su": {"fleet_mask": 7, "initial_fleet_mask": 0},
       "world_image_id": 110594,
       "position": [
         1218,
@@ -424,6 +434,7 @@
     {
       "id": 10,
       "name_key": "exe.0053cdcc",
+      "baekdong_su": {"fleet_mask": 7, "initial_fleet_mask": 0},
       "world_image_id": 110594,
       "position": [
         1225,
@@ -466,6 +477,7 @@
     {
       "id": 11,
       "name_key": "exe.0053cdc0",
+      "baekdong_su": {"initial_status_flags": 8},
       "world_image_id": 110593,
       "position": [
         1246,
@@ -508,6 +520,7 @@
     {
       "id": 12,
       "name_key": "exe.0053cdb4",
+      "baekdong_su": {"initial_status_flags": 8},
       "world_image_id": 110593,
       "position": [
         1266,
@@ -550,6 +563,7 @@
     {
       "id": 13,
       "name_key": "exe.0053cda8",
+      "baekdong_su": {"initial_status_flags": 8},
       "world_image_id": 110593,
       "position": [
         1268,
@@ -592,6 +606,7 @@
     {
       "id": 14,
       "name_key": "exe.0053cda0",
+      "baekdong_su": {"initial_status_flags": 8},
       "world_image_id": 110592,
       "position": [
         1267,
@@ -634,6 +649,7 @@
     {
       "id": 15,
       "name_key": "exe.0053cd98",
+      "baekdong_su": {"initial_status_flags": 8},
       "world_image_id": 110593,
       "position": [
         1254,
@@ -676,6 +692,7 @@
     {
       "id": 16,
       "name_key": "exe.0053cd90",
+      "baekdong_su": {"initial_status_flags": 8},
       "world_image_id": 110593,
       "position": [
         1255,
@@ -718,6 +735,7 @@
     {
       "id": 17,
       "name_key": "exe.0053cd88",
+      "baekdong_su": {"initial_status_flags": 8},
       "world_image_id": 110593,
       "position": [
         1232,
@@ -760,6 +778,7 @@
     {
       "id": 18,
       "name_key": "exe.0053cd80",
+      "baekdong_su": {"initial_status_flags": 8},
       "world_image_id": 110593,
       "position": [
         1242,
@@ -802,6 +821,7 @@
     {
       "id": 19,
       "name_key": "exe.0053cd78",
+      "baekdong_su": {"initial_status_flags": 8},
       "world_image_id": 110593,
       "position": [
         1259,
@@ -844,6 +864,7 @@
     {
       "id": 20,
       "name_key": "exe.0053cd70",
+      "baekdong_su": {"initial_status_flags": 8},
       "world_image_id": 110593,
       "position": [
         1283,
@@ -886,6 +907,7 @@
     {
       "id": 21,
       "name_key": "exe.0053cd64",
+      "baekdong_su": {"initial_status_flags": 8},
       "world_image_id": 110593,
       "position": [
         1288,
@@ -928,6 +950,7 @@
     {
       "id": 22,
       "name_key": "exe.0053cd5c",
+      "baekdong_su": {"initial_status_flags": 10},
       "world_image_id": 110593,
       "position": [
         1271,
@@ -970,6 +993,7 @@
     {
       "id": 23,
       "name_key": "exe.0053cd50",
+      "baekdong_su": {"initial_status_flags": 10},
       "world_image_id": 110593,
       "position": [
         1279,
@@ -1012,6 +1036,7 @@
     {
       "id": 24,
       "name_key": "exe.0053cd44",
+      "baekdong_su": {"initial_status_flags": 10},
       "world_image_id": 110593,
       "position": [
         1282,
@@ -1054,6 +1079,7 @@
     {
       "id": 25,
       "name_key": "exe.0053cd3c",
+      "baekdong_su": {"initial_status_flags": 10},
       "world_image_id": 110593,
       "position": [
         1280,
@@ -1096,6 +1122,7 @@
     {
       "id": 26,
       "name_key": "exe.0053cd34",
+      "baekdong_su": {"initial_status_flags": 8},
       "world_image_id": 110592,
       "position": [
         1313,
@@ -1138,6 +1165,7 @@
     {
       "id": 27,
       "name_key": "exe.0053cd2c",
+      "baekdong_su": {"initial_status_flags": 8},
       "world_image_id": 110593,
       "position": [
         1306,
@@ -1180,6 +1208,7 @@
     {
       "id": 28,
       "name_key": "exe.0053cd24",
+      "baekdong_su": {"initial_status_flags": 8},
       "world_image_id": 110593,
       "position": [
         1310,
@@ -1222,6 +1251,7 @@
     {
       "id": 29,
       "name_key": "exe.0053cd1c",
+      "baekdong_su": {"initial_status_flags": 8},
       "world_image_id": 110592,
       "position": [
         1334,
@@ -1264,6 +1294,7 @@
     {
       "id": 30,
       "name_key": "exe.0053cd14",
+      "baekdong_su": {"initial_status_flags": 8},
       "world_image_id": 110593,
       "position": [
         1327,
@@ -1306,6 +1337,7 @@
     {
       "id": 31,
       "name_key": "exe.0053cd0c",
+      "baekdong_su": {"initial_status_flags": 8},
       "world_image_id": 110593,
       "position": [
         1321,
@@ -1348,6 +1380,7 @@
     {
       "id": 32,
       "name_key": "exe.0053cd04",
+      "baekdong_su": {"initial_status_flags": 8},
       "world_image_id": 110593,
       "position": [
         1342,
@@ -1390,6 +1423,7 @@
     {
       "id": 33,
       "name_key": "exe.0053ccfc",
+      "baekdong_su": {"initial_status_flags": 8},
       "world_image_id": 110592,
       "position": [
         1333,
@@ -1432,6 +1466,7 @@
     {
       "id": 34,
       "name_key": "exe.0053ccf4",
+      "baekdong_su": {"initial_status_flags": 8},
       "world_image_id": 110592,
       "position": [
         1348,
@@ -1474,6 +1509,7 @@
     {
       "id": 35,
       "name_key": "exe.0053cce8",
+      "baekdong_su": {"initial_status_flags": 10},
       "world_image_id": 110593,
       "position": [
         1313,
@@ -1516,6 +1552,7 @@
     {
       "id": 36,
       "name_key": "exe.0053ccdc",
+      "baekdong_su": {"initial_status_flags": 10},
       "world_image_id": 110593,
       "position": [
         1341,
@@ -1558,6 +1595,7 @@
     {
       "id": 37,
       "name_key": "exe.0053ccd0",
+      "baekdong_su": {"initial_status_flags": 10},
       "world_image_id": 110593,
       "position": [
         1355,
@@ -1600,6 +1638,7 @@
     {
       "id": 38,
       "name_key": "exe.0053ccc8",
+      "baekdong_su": {"initial_status_flags": 8},
       "world_image_id": 110592,
       "position": [
         1254,
@@ -1642,6 +1681,7 @@
     {
       "id": 39,
       "name_key": "exe.0053ccbc",
+      "baekdong_su": {"initial_status_flags": 8},
       "world_image_id": 110593,
       "position": [
         1238,
@@ -1684,6 +1724,7 @@
     {
       "id": 40,
       "name_key": "exe.0053ccb0",
+      "baekdong_su": {"initial_status_flags": 8},
       "world_image_id": 110593,
       "position": [
         1227,
@@ -1726,6 +1767,7 @@
     {
       "id": 41,
       "name_key": "exe.0053cca8",
+      "baekdong_su": {"initial_status_flags": 8},
       "world_image_id": 110593,
       "position": [
         1242,
@@ -1768,6 +1810,7 @@
     {
       "id": 42,
       "name_key": "exe.0053cc9c",
+      "baekdong_su": {"initial_status_flags": 8},
       "world_image_id": 110593,
       "position": [
         1230,
@@ -1810,6 +1853,7 @@
     {
       "id": 43,
       "name_key": "exe.0053cc94",
+      "baekdong_su": {"initial_status_flags": 8},
       "world_image_id": 110593,
       "position": [
         1206,
@@ -1852,6 +1896,7 @@
     {
       "id": 44,
       "name_key": "exe.0053cc88",
+      "baekdong_su": {"initial_status_flags": 8},
       "world_image_id": 110593,
       "position": [
         1316,
@@ -1894,6 +1939,7 @@
     {
       "id": 45,
       "name_key": "exe.0053cc80",
+      "baekdong_su": {"initial_status_flags": 8},
       "world_image_id": 110593,
       "position": [
         1323,
@@ -1936,6 +1982,7 @@
     {
       "id": 46,
       "name_key": "exe.0053cc78",
+      "baekdong_su": {"initial_status_flags": 8},
       "world_image_id": 110593,
       "position": [
         1306,
@@ -1978,6 +2025,7 @@
     {
       "id": 47,
       "name_key": "exe.0053cc70",
+      "baekdong_su": {"initial_status_flags": 8},
       "world_image_id": 110593,
       "position": [
         1293,
@@ -2020,6 +2068,7 @@
     {
       "id": 48,
       "name_key": "exe.0053cc60",
+      "baekdong_su": {"initial_status_flags": 8},
       "world_image_id": 110593,
       "position": [
         1305,
@@ -2062,6 +2111,7 @@
     {
       "id": 49,
       "name_key": "exe.0053cc50",
+      "baekdong_su": {"initial_status_flags": 8},
       "world_image_id": 110593,
       "position": [
         1297,
@@ -2104,6 +2154,7 @@
     {
       "id": 50,
       "name_key": "exe.0053cc40",
+      "baekdong_su": {"initial_status_flags": 8},
       "world_image_id": 110593,
       "position": [
         1331,
@@ -2146,6 +2197,7 @@
     {
       "id": 51,
       "name_key": "exe.0053cc34",
+      "baekdong_su": {"initial_status_flags": 8},
       "world_image_id": 110593,
       "position": [
         1325,
@@ -2188,6 +2240,7 @@
     {
       "id": 52,
       "name_key": "exe.0053cc24",
+      "baekdong_su": {"initial_status_flags": 8},
       "world_image_id": 110593,
       "position": [
         1324,
@@ -2230,6 +2283,7 @@
     {
       "id": 53,
       "name_key": "exe.0053cc1c",
+      "baekdong_su": {"initial_status_flags": 8},
       "world_image_id": 110593,
       "position": [
         1351,
@@ -2272,6 +2326,7 @@
     {
       "id": 54,
       "name_key": "exe.0053cc14",
+      "baekdong_su": {"initial_status_flags": 8},
       "world_image_id": 110593,
       "position": [
         1362,
@@ -2314,6 +2369,7 @@
     {
       "id": 55,
       "name_key": "exe.0053cc0c",
+      "baekdong_su": {"initial_status_flags": 8},
       "world_image_id": 110593,
       "position": [
         1301,
@@ -2356,6 +2412,7 @@
     {
       "id": 56,
       "name_key": "exe.0053cc04",
+      "baekdong_su": {"initial_status_flags": 8},
       "world_image_id": 110593,
       "position": [
         1379,
@@ -2398,6 +2455,7 @@
     {
       "id": 57,
       "name_key": "exe.0053cbf4",
+      "baekdong_su": {"initial_status_flags": 8},
       "world_image_id": 110593,
       "position": [
         1387,
@@ -2440,6 +2498,7 @@
     {
       "id": 58,
       "name_key": "exe.0053cbec",
+      "baekdong_su": {"initial_status_flags": 8},
       "world_image_id": 110593,
       "position": [
         1416,
@@ -2482,6 +2541,7 @@
     {
       "id": 59,
       "name_key": "exe.0053cbe0",
+      "baekdong_su": {"initial_status_flags": 8},
       "world_image_id": 110593,
       "position": [
         1466,
@@ -2524,6 +2584,7 @@
     {
       "id": 60,
       "name_key": "exe.0053cbd4",
+      "baekdong_su": {"initial_status_flags": 8},
       "world_image_id": 110592,
       "position": [
         1505,
@@ -2566,6 +2627,7 @@
     {
       "id": 61,
       "name_key": "exe.0053cbcc",
+      "baekdong_su": {"initial_status_flags": 8},
       "world_image_id": 110593,
       "position": [
         1462,
@@ -2608,6 +2670,7 @@
     {
       "id": 62,
       "name_key": "exe.0053cbc0",
+      "baekdong_su": {"initial_status_flags": 8},
       "world_image_id": 110593,
       "position": [
         1395,
@@ -2650,6 +2713,7 @@
     {
       "id": 63,
       "name_key": "exe.0053cbb4",
+      "baekdong_su": {"initial_status_flags": 8},
       "world_image_id": 110593,
       "position": [
         1381,
@@ -2692,6 +2756,7 @@
     {
       "id": 64,
       "name_key": "exe.0053cba8",
+      "baekdong_su": {"initial_status_flags": 8},
       "world_image_id": 110593,
       "position": [
         1378,
@@ -2734,6 +2799,7 @@
     {
       "id": 65,
       "name_key": "exe.0053cba0",
+      "baekdong_su": {"initial_status_flags": 8},
       "world_image_id": 110593,
       "position": [
         1377,
@@ -2776,6 +2842,7 @@
     {
       "id": 66,
       "name_key": "exe.0053cb94",
+      "baekdong_su": {"initial_status_flags": 8},
       "world_image_id": 110593,
       "position": [
         1335,
@@ -2818,6 +2885,7 @@
     {
       "id": 67,
       "name_key": "exe.0053cb8c",
+      "baekdong_su": {"initial_status_flags": 8},
       "world_image_id": 110593,
       "position": [
         1324,
@@ -2860,6 +2928,7 @@
     {
       "id": 68,
       "name_key": "exe.0053cb84",
+      "baekdong_su": {"initial_status_flags": 8},
       "world_image_id": 110593,
       "position": [
         1284,
@@ -2902,6 +2971,7 @@
     {
       "id": 69,
       "name_key": "exe.0053cb78",
+      "baekdong_su": {"initial_status_flags": 8},
       "world_image_id": 110593,
       "position": [
         1394,
@@ -2944,6 +3014,7 @@
     {
       "id": 70,
       "name_key": "exe.0053cb6c",
+      "baekdong_su": {"fleet_mask": 7, "initial_fleet_mask": 0},
       "world_image_id": 110594,
       "position": [
         1432,
@@ -2986,6 +3057,7 @@
     {
       "id": 71,
       "name_key": "exe.0053cb64",
+      "baekdong_su": {"initial_status_flags": 10},
       "world_image_id": 110593,
       "position": [
         1373,
@@ -3028,6 +3100,7 @@
     {
       "id": 72,
       "name_key": "exe.0053cb5c",
+      "baekdong_su": {"fleet_mask": 7, "initial_fleet_mask": 7},
       "world_image_id": 110594,
       "position": [
         1413,
@@ -3070,6 +3143,7 @@
     {
       "id": 73,
       "name_key": "exe.0053cb50",
+      "baekdong_su": {"fleet_mask": 7, "initial_fleet_mask": 0},
       "world_image_id": 110594,
       "position": [
         1410,
@@ -3112,6 +3186,7 @@
     {
       "id": 74,
       "name_key": "exe.0053cb48",
+      "baekdong_su": {"initial_status_flags": 10},
       "world_image_id": 110593,
       "position": [
         1426,
@@ -3154,6 +3229,7 @@
     {
       "id": 75,
       "name_key": "exe.0053cb3c",
+      "baekdong_su": {"initial_status_flags": 8},
       "world_image_id": 110593,
       "position": [
         1485,
@@ -3196,6 +3272,7 @@
     {
       "id": 76,
       "name_key": "exe.0053cb34",
+      "baekdong_su": {"fleet_mask": 7, "initial_fleet_mask": 7},
       "world_image_id": 110594,
       "position": [
         1452,
@@ -3238,6 +3315,7 @@
     {
       "id": 77,
       "name_key": "exe.0053cb28",
+      "baekdong_su": {"initial_status_flags": 8},
       "world_image_id": 110593,
       "position": [
         1465,
@@ -3280,6 +3358,7 @@
     {
       "id": 78,
       "name_key": "exe.0053cb18",
+      "baekdong_su": {"fleet_mask": 7, "initial_fleet_mask": 7},
       "world_image_id": 110594,
       "position": [
         1460,
@@ -3322,6 +3401,7 @@
     {
       "id": 79,
       "name_key": "exe.0053cb10",
+      "baekdong_su": {"fleet_mask": 7, "initial_fleet_mask": 0},
       "world_image_id": 110595,
       "position": [
         1463,
@@ -3364,6 +3444,7 @@
     {
       "id": 80,
       "name_key": "exe.0053cb08",
+      "baekdong_su": {"fleet_mask": 7, "initial_fleet_mask": 0},
       "world_image_id": 110594,
       "position": [
         1476,
@@ -3406,6 +3487,7 @@
     {
       "id": 81,
       "name_key": "exe.0053cafc",
+      "baekdong_su": {"fleet_mask": 7, "initial_fleet_mask": 0},
       "world_image_id": 110594,
       "position": [
         1341,
@@ -3448,6 +3530,7 @@
     {
       "id": 82,
       "name_key": "exe.0053caf4",
+      "baekdong_su": {"fleet_mask": 7, "initial_fleet_mask": 7},
       "world_image_id": 110594,
       "position": [
         1321,
@@ -3490,6 +3573,7 @@
     {
       "id": 83,
       "name_key": "exe.0053caec",
+      "baekdong_su": {"fleet_mask": 7, "initial_fleet_mask": 0},
       "world_image_id": 110594,
       "position": [
         1280,
@@ -3532,6 +3616,7 @@
     {
       "id": 84,
       "name_key": "exe.0053cae4",
+      "baekdong_su": {"fleet_mask": 7, "initial_fleet_mask": 0},
       "world_image_id": 110594,
       "position": [
         1210,
@@ -3574,6 +3659,7 @@
     {
       "id": 85,
       "name_key": "exe.0053cad8",
+      "baekdong_su": {"fleet_mask": 7, "initial_fleet_mask": 0},
       "world_image_id": 110594,
       "position": [
         1194,
@@ -4162,6 +4248,7 @@
     {
       "id": 99,
       "name_key": "exe.0053ca54",
+      "baekdong_su": {"fleet_mask": 7, "initial_fleet_mask": 7},
       "world_image_id": 110596,
       "position": [
         1294,
@@ -4330,6 +4417,7 @@
     {
       "id": 103,
       "name_key": "exe.0053ca30",
+      "baekdong_su": {"fleet_mask": 7, "initial_fleet_mask": 7},
       "world_image_id": 110596,
       "position": [
         1529,
@@ -4708,6 +4796,7 @@
     {
       "id": 112,
       "name_key": "exe.0053c9d8",
+      "baekdong_su": {"fleet_mask": 7, "initial_fleet_mask": 7},
       "world_image_id": 110595,
       "position": [
         1452,
@@ -4750,6 +4839,7 @@
     {
       "id": 113,
       "name_key": "exe.0053c9d0",
+      "baekdong_su": {"fleet_mask": 7, "initial_fleet_mask": 7},
       "world_image_id": 110594,
       "position": [
         1496,
@@ -4792,6 +4882,7 @@
     {
       "id": 114,
       "name_key": "exe.0053c9c8",
+      "baekdong_su": {"fleet_mask": 7, "initial_fleet_mask": 0},
       "world_image_id": 110594,
       "position": [
         1516,
@@ -4834,6 +4925,7 @@
     {
       "id": 115,
       "name_key": "exe.0053c9c0",
+      "baekdong_su": {"fleet_mask": 7, "initial_fleet_mask": 0},
       "world_image_id": 110594,
       "position": [
         1489,
@@ -4876,6 +4968,7 @@
     {
       "id": 116,
       "name_key": "exe.0053c9b4",
+      "baekdong_su": {"fleet_mask": 7, "initial_fleet_mask": 7},
       "world_image_id": 110594,
       "position": [
         1516,
@@ -4918,6 +5011,7 @@
     {
       "id": 117,
       "name_key": "exe.0053c9ac",
+      "baekdong_su": {"fleet_mask": 7, "initial_fleet_mask": 0},
       "world_image_id": 110594,
       "position": [
         1475,
@@ -4960,6 +5054,7 @@
     {
       "id": 118,
       "name_key": "exe.0053c9a0",
+      "baekdong_su": {"fleet_mask": 7, "initial_fleet_mask": 7},
       "world_image_id": 110594,
       "position": [
         1498,
@@ -5002,6 +5097,7 @@
     {
       "id": 119,
       "name_key": "exe.0053c994",
+      "baekdong_su": {"fleet_mask": 7, "initial_fleet_mask": 0},
       "world_image_id": 110594,
       "position": [
         1503,
@@ -5044,6 +5140,7 @@
     {
       "id": 120,
       "name_key": "exe.0053c988",
+      "baekdong_su": {"fleet_mask": 7, "initial_fleet_mask": 0},
       "world_image_id": 110594,
       "position": [
         1493,
@@ -5086,6 +5183,7 @@
     {
       "id": 121,
       "name_key": "exe.0053c97c",
+      "baekdong_su": {"fleet_mask": 7, "initial_fleet_mask": 0},
       "world_image_id": 110594,
       "position": [
         1497,
@@ -5128,6 +5226,7 @@
     {
       "id": 122,
       "name_key": "exe.0053c974",
+      "baekdong_su": {"fleet_mask": 7, "initial_fleet_mask": 0},
       "world_image_id": 110594,
       "position": [
         1521,
@@ -5170,6 +5269,7 @@
     {
       "id": 123,
       "name_key": "exe.0053c96c",
+      "baekdong_su": {"fleet_mask": 7, "initial_fleet_mask": 0},
       "world_image_id": 110594,
       "position": [
         1523,
@@ -5212,6 +5312,7 @@
     {
       "id": 124,
       "name_key": "exe.0053c964",
+      "baekdong_su": {"fleet_mask": 7, "initial_fleet_mask": 7},
       "world_image_id": 110594,
       "position": [
         1563,
@@ -5254,6 +5355,7 @@
     {
       "id": 125,
       "name_key": "exe.0053c958",
+      "baekdong_su": {"fleet_mask": 7, "initial_fleet_mask": 0},
       "world_image_id": 110594,
       "position": [
         1656,
@@ -5296,6 +5398,7 @@
     {
       "id": 126,
       "name_key": "exe.0053c950",
+      "baekdong_su": {"fleet_mask": 7, "initial_fleet_mask": 7},
       "world_image_id": 110594,
       "position": [
         1586,
@@ -5338,6 +5441,7 @@
     {
       "id": 127,
       "name_key": "exe.0053c944",
+      "baekdong_su": {"fleet_mask": 7, "initial_fleet_mask": 0},
       "world_image_id": 110595,
       "position": [
         1561,
@@ -5380,6 +5484,7 @@
     {
       "id": 128,
       "name_key": "exe.0053c938",
+      "baekdong_su": {"fleet_mask": 7, "initial_fleet_mask": 0},
       "world_image_id": 110594,
       "position": [
         1639,
@@ -5422,6 +5527,7 @@
     {
       "id": 129,
       "name_key": "exe.0053c930",
+      "baekdong_su": {"fleet_mask": 7, "initial_fleet_mask": 0},
       "world_image_id": 110594,
       "position": [
         1614,
@@ -5464,6 +5570,7 @@
     {
       "id": 130,
       "name_key": "exe.0053c924",
+      "baekdong_su": {"fleet_mask": 7, "initial_fleet_mask": 0},
       "world_image_id": 110595,
       "position": [
         1607,
@@ -5506,6 +5613,7 @@
     {
       "id": 131,
       "name_key": "exe.0053c918",
+      "baekdong_su": {"fleet_mask": 7, "initial_fleet_mask": 0},
       "world_image_id": 110594,
       "position": [
         1551,
@@ -6304,6 +6412,7 @@
     {
       "id": 150,
       "name_key": "exe.0053c860",
+      "baekdong_su": {"initial_status_flags": 8, "fleet_mask": 7, "initial_fleet_mask": 7},
       "world_image_id": 110594,
       "position": [
         1762,
@@ -7186,6 +7295,7 @@
     {
       "id": 171,
       "name_key": "exe.0053c7a8",
+      "baekdong_su": {"fleet_mask": 7, "initial_fleet_mask": 7},
       "world_image_id": 110598,
       "position": [
         2133,
@@ -7984,6 +8094,21 @@
     {
       "id": 190,
       "name_key": "exe.0053c70c",
+      "baekdong_su": {
+        "initial_status_flags": 73,
+        "image_city": 226,
+        "flags": 10229,
+        "fleet_mask": 14,
+        "initial_fleet_mask": 14,
+        "market_items": [33, 34, 35, 64, 76, 220, -1, -1],
+        "additional_facilities": [
+          {"facility": 6, "name_key": "facility.baekdong_su.shipyard", "hit_box": [122, 245, 96, 80], "initial_values": [0, 0]},
+          {"facility": 7, "name_key": "facility.baekdong_su.insadong", "hit_box": [204, 122, 96, 80], "initial_values": [0, 0]},
+          {"facility": 9, "name_key": "facility.baekdong_su.songbang", "hit_box": [94, 106, 80, 44], "initial_values": [1048831, 0]},
+          {"facility": 11, "name_key": "facility.baekdong_su.home", "hit_box": [132, 66, 96, 80], "initial_values": [0, 0]},
+          {"facility": 13, "name_key": "facility.baekdong_su.wongaksa", "hit_box": [214, 86, 96, 80], "initial_values": [0, 0]}
+        ]
+      },
       "world_image_id": 110598,
       "position": [
         2127,
@@ -8026,6 +8151,7 @@
     {
       "id": 191,
       "name_key": "exe.0053c700",
+      "baekdong_su": {"fleet_mask": 7, "initial_fleet_mask": 7},
       "world_image_id": 110598,
       "position": [
         2149,
@@ -8068,6 +8194,7 @@
     {
       "id": 192,
       "name_key": "exe.0053c6f8",
+      "baekdong_su": {"market_items": [76, -1, 3, 5, -1, -1, -1, -1]},
       "world_image_id": 110598,
       "position": [
         2189,
@@ -8656,6 +8783,7 @@
     {
       "id": 206,
       "name_key": "exe.0053c668",
+      "baekdong_su": {"fleet_mask": 7, "initial_fleet_mask": 7},
       "world_image_id": 110599,
       "position": [
         632,
@@ -8824,6 +8952,7 @@
     {
       "id": 210,
       "name_key": "exe.0053c640",
+      "baekdong_su": {"fleet_mask": 7, "initial_fleet_mask": 7},
       "world_image_id": 110599,
       "position": [
         699,
@@ -9118,6 +9247,7 @@
     {
       "id": 217,
       "name_key": "exe.0053c5ec",
+      "baekdong_su": {"fleet_mask": 7, "initial_fleet_mask": 7},
       "world_image_id": 110599,
       "position": [
         843,

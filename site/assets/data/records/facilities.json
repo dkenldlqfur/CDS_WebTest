@@ -27115,6 +27115,9 @@
     {
       "id": 1291,
       "name_key": "exe.00564548",
+      "baekdong_su": {
+        "hit_box": [12, 72, 96, 80]
+      },
       "name_key_04": "exe.00567be0",
       "city": 190,
       "facility": 2,
@@ -27137,6 +27140,9 @@
       "id": 1292,
       "name_key": "exe.00567bf0",
       "name_key_04": "exe.00567bf0",
+      "baekdong_su": {
+        "display_name_key": "facility.baekdong_su.myeongwol_gwan"
+      },
       "city": 190,
       "facility": 4,
       "movie_id": -1,
@@ -27199,6 +27205,9 @@
     {
       "id": 1295,
       "name_key": "exe.00564534",
+      "baekdong_su": {
+        "hit_box": [141, 202, 96, 80]
+      },
       "name_key_04": "exe.00567c20",
       "city": 190,
       "facility": 10,
@@ -27221,6 +27230,10 @@
       "id": 1296,
       "name_key": "exe.00567c80",
       "name_key_04": "exe.00567c80",
+      "baekdong_su": {
+        "display_name_key": "facility.baekdong_su.prince_residence",
+        "hit_box": [48, 122, 100, 68]
+      },
       "city": 190,
       "facility": 12,
       "movie_id": -1,

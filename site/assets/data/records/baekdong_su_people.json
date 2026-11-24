@@ -1,0 +1,50 @@
+{
+  "schema_version": 2,
+  "people": [
+    {"id": 4000, "source_id": 113, "name": "이화", "family_name": "설", "surname_first": true, "portrait": 12000, "sex": 1, "age_at_1480": 18, "nationality": 70, "initial_zodiac": 6, "blood_type": 0, "occupation": 0, "initial_fame": 1300, "initial_infamy": 100, "recruitment_state": 2, "initial_city": 190, "initial_facility": 5, "travel_scope": 0, "recruit_cost_factor": 134, "health": 70, "alcohol_tolerance": 1, "attributes": [54, 64, 53, 48, 45, 67], "skills": [0, 0, 2, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0], "languages": [0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 3]},
+    {"id": 4009, "source_id": 116, "name": "미령", "family_name": "채", "surname_first": true, "portrait": 12001, "sex": 1, "age_at_1480": 22, "nationality": 69, "initial_zodiac": 11, "blood_type": 0, "occupation": 13, "initial_fame": 420, "initial_infamy": 520, "recruitment_state": 2, "initial_city": 177, "initial_facility": 5, "travel_scope": 0, "recruit_cost_factor": 117, "health": 76, "alcohol_tolerance": 0, "attributes": [55, 63, 48, 35, 63, 57], "skills": [0, 0, 0, 0, 0, 0, 1, 0, 2, 0, 0, 1, 1], "languages": [0, 0, 0, 0, 0, 3, 3, 3, 0, 0, 0, 0, 1, 0]}
+  ],
+  "taverns": [],
+  "patrons": [
+    {"name": "혈", "family_name": "이", "previous_name": "성종", "portrait": 12002, "sex": 0, "nationality": 70, "occupation": 14, "appearance_year_offset": 0, "zodiac": 4, "blood_type": 1, "power": 91, "city": 190, "initial_facility": 2, "funds_10000": 90, "contract_factor": 65, "preference_flags": 255, "language_mask": 8192, "id": 4000, "source_id": 0},
+    {"name": "융", "family_name": "이", "previous_name": "연산군", "portrait": 12003, "sex": 0, "nationality": 70, "occupation": 14, "appearance_year_offset": 14, "zodiac": 3, "blood_type": 0, "power": 95, "city": 190, "initial_facility": 2, "funds_10000": 95, "contract_factor": 75, "preference_flags": 255, "language_mask": 8192, "id": 4001, "source_id": 1},
+    {"name": "현", "family_name": "이", "previous_name": "제안대군", "portrait": 12004, "sex": 0, "nationality": 70, "occupation": 9, "appearance_year_offset": 0, "zodiac": 2, "blood_type": 2, "power": 10, "city": 190, "initial_facility": 12, "funds_10000": 50, "contract_factor": 70, "preference_flags": 255, "language_mask": 8192, "id": 4003, "source_id": 3}
+  ],
+  "previous_ids": {
+    "people": {
+      "4001": 222,
+      "4002": 223,
+      "4013": 262,
+      "4014": 268,
+      "4015": 270
+    },
+    "taverns": {
+      "4002": 110,
+      "4003": 111,
+      "4004": 112,
+      "4005": 113,
+      "4006": 114,
+      "4007": 115,
+      "4008": 116,
+      "4009": 117,
+      "4010": 118,
+      "4011": 125
+    },
+    "patrons": {
+      "4007": 14,
+      "4008": 16,
+      "4010": 23,
+      "4011": 24,
+      "4012": 27,
+      "4013": 32,
+      "4014": 39,
+      "4016": 47,
+      "4017": 48,
+      "4018": 54,
+      "4019": 68,
+      "4020": 70,
+      "4021": 73,
+      "4022": 78
+    }
+  }
+}

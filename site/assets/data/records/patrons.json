@@ -269,7 +269,10 @@
       "funds_10000": 93,
       "contract_factor": 80,
       "preference_flags": 157,
-      "language_mask": 3
+      "language_mask": 3,
+      "baekdong_su": {
+        "appearance_year_offset": 12
+      }
     },
     {
       "id": 15,
@@ -305,7 +308,13 @@
       "funds_10000": 15,
       "contract_factor": 50,
       "preference_flags": 75,
-      "language_mask": 7
+      "language_mask": 7,
+      "baekdong_su": {
+        "nationality": 0,
+        "power": 52,
+        "city": 99,
+        "preference_flags": 232
+      }
     },
     {
       "id": 17,
@@ -431,7 +440,10 @@
       "funds_10000": 42,
       "contract_factor": 65,
       "preference_flags": 42,
-      "language_mask": 3
+      "language_mask": 3,
+      "baekdong_su": {
+        "portrait": 15
+      }
     },
     {
       "id": 24,
@@ -449,7 +461,10 @@
       "funds_10000": 23,
       "contract_factor": 55,
       "preference_flags": 81,
-      "language_mask": 3
+      "language_mask": 3,
+      "baekdong_su": {
+        "power": 80
+      }
     },
     {
       "id": 25,
@@ -503,7 +518,12 @@
       "funds_10000": 24,
       "contract_factor": 75,
       "preference_flags": 168,
-      "language_mask": 7
+      "language_mask": 7,
+      "baekdong_su": {
+        "appearance_year_offset": 0,
+        "city": 217,
+        "preference_flags": 201
+      }
     },
     {
       "id": 28,
@@ -593,7 +613,16 @@
       "funds_10000": 32,
       "contract_factor": 70,
       "preference_flags": 42,
-      "language_mask": 7
+      "language_mask": 7,
+      "baekdong_su": {
+        "nationality": 0,
+        "occupation": 21,
+        "appearance_year_offset": 0,
+        "power": 52,
+        "city": 103,
+        "initial_facility": 12,
+        "preference_flags": 120
+      }
     },
     {
       "id": 33,
@@ -719,7 +748,15 @@
       "funds_10000": 18,
       "contract_factor": 60,
       "preference_flags": 12,
-      "language_mask": 3
+      "language_mask": 3,
+      "baekdong_su": {
+        "occupation": 21,
+        "appearance_year_offset": 19,
+        "power": 55,
+        "city": 206,
+        "initial_facility": 2,
+        "preference_flags": 87
+      }
     },
     {
       "id": 40,
@@ -863,7 +900,10 @@
       "funds_10000": 20,
       "contract_factor": 65,
       "preference_flags": 40,
-      "language_mask": 4
+      "language_mask": 4,
+      "baekdong_su": {
+        "occupation": 18
+      }
     },
     {
       "id": 48,
@@ -881,7 +921,10 @@
       "funds_10000": 45,
       "contract_factor": 55,
       "preference_flags": 80,
-      "language_mask": 4
+      "language_mask": 4,
+      "baekdong_su": {
+        "appearance_year_offset": 18
+      }
     },
     {
       "id": 49,
@@ -989,7 +1032,10 @@
       "funds_10000": 20,
       "contract_factor": 30,
       "preference_flags": 66,
-      "language_mask": 4
+      "language_mask": 4,
+      "baekdong_su": {
+        "appearance_year_offset": 20
+      }
     },
     {
       "id": 55,
@@ -1241,7 +1287,10 @@
       "funds_10000": 74,
       "contract_factor": 70,
       "preference_flags": 17,
-      "language_mask": 8
+      "language_mask": 8,
+      "baekdong_su": {
+        "preference_flags": 46
+      }
     },
     {
       "id": 69,
@@ -1277,7 +1326,10 @@
       "funds_10000": 20,
       "contract_factor": 66,
       "preference_flags": 234,
-      "language_mask": 15
+      "language_mask": 15,
+      "baekdong_su": {
+        "appearance_year_offset": 19
+      }
     },
     {
       "id": 71,
@@ -1331,7 +1383,13 @@
       "funds_10000": 64,
       "contract_factor": 82,
       "preference_flags": 31,
-      "language_mask": 4
+      "language_mask": 4,
+      "baekdong_su": {
+        "portrait": 133,
+        "sex": 1,
+        "appearance_year_offset": 153,
+        "language_mask": 7
+      }
     },
     {
       "id": 74,
@@ -1421,7 +1479,12 @@
       "funds_10000": 30,
       "contract_factor": 50,
       "preference_flags": 97,
-      "language_mask": 8
+      "language_mask": 8,
+      "baekdong_su": {
+        "portrait": 87,
+        "sex": 1,
+        "appearance_year_offset": 153
+      }
     },
     {
       "id": 79,

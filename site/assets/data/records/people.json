@@ -13584,7 +13584,27 @@
         0,
         0,
         0
-      ]
+      ],
+      "baekdong_su": {
+        "initial_zodiac": 3,
+        "initial_facility": -1,
+        "languages": [
+          3,
+          3,
+          0,
+          0,
+          0,
+          0,
+          0,
+          3,
+          0,
+          0,
+          0,
+          0,
+          0,
+          3
+        ]
+      }
     },
     {
       "id": 223,
@@ -13644,7 +13664,11 @@
         0,
         0,
         0
-      ]
+      ],
+      "baekdong_su": {
+        "initial_zodiac": 0,
+        "initial_facility": -1
+      }
     },
     {
       "id": 224,
@@ -15985,7 +16009,13 @@
         0,
         0,
         0
-      ]
+      ],
+      "baekdong_su": {
+        "nationality": 37,
+        "initial_zodiac": 2,
+        "initial_city": -1,
+        "initial_facility": -1
+      }
     },
     {
       "id": 263,
@@ -16345,7 +16375,21 @@
         0,
         0,
         0
-      ]
+      ],
+      "baekdong_su": {
+        "nationality": 37,
+        "initial_zodiac": 1,
+        "initial_city": -1,
+        "initial_facility": -1,
+        "attributes": [
+          61,
+          91,
+          92,
+          31,
+          51,
+          31
+        ]
+      }
     },
     {
       "id": 269,
@@ -16465,7 +16509,21 @@
         0,
         0,
         0
-      ]
+      ],
+      "baekdong_su": {
+        "nationality": 37,
+        "initial_zodiac": 5,
+        "initial_city": -1,
+        "initial_facility": -1,
+        "attributes": [
+          81,
+          96,
+          99,
+          51,
+          51,
+          61
+        ]
+      }
     },
     {
       "id": 271,
