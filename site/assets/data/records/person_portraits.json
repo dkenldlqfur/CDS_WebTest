@@ -4,27 +4,267 @@
     {
       "id": 12000,
       "sex": 1,
-      "resource": "res://assets/portraits/baekdong-su/seol-i-hwa.png"
+      "resource": "res://assets/portraits/baekdong-su/seol-i-hwa-v3-realistic-matched.png"
     },
     {
       "id": 12001,
       "sex": 1,
-      "resource": "res://assets/portraits/baekdong-su/chae-mi-ryeong-v4.png"
+      "resource": "res://assets/portraits/baekdong-su/chae-mi-ryeong-v2-realistic-matched.png"
     },
     {
       "id": 12002,
       "sex": 0,
-      "resource": "res://assets/portraits/baekdong-su/seongjong.png"
+      "resource": "res://assets/portraits/baekdong-su/seongjong-v2-realistic-matched.png"
     },
     {
       "id": 12003,
       "sex": 0,
-      "resource": "res://assets/portraits/baekdong-su/yeonsangun.png"
+      "resource": "res://assets/portraits/baekdong-su/yeonsangun-v2-realistic-matched.png"
     },
     {
       "id": 12004,
       "sex": 0,
-      "resource": "res://assets/portraits/baekdong-su/prince-jean.png"
+      "resource": "res://assets/portraits/baekdong-su/prince-jean-v3-realistic-matched.png"
+    },
+    {
+      "id": 12005,
+      "sex": 0,
+      "resource": "res://assets/portraits/interview/iberian-palace.png"
+    },
+    {
+      "id": 12006,
+      "sex": 0,
+      "resource": "res://assets/portraits/interview/iberian-residence.png"
+    },
+    {
+      "id": 12007,
+      "sex": 0,
+      "resource": "res://assets/portraits/interview/iberian-merchant.png"
+    },
+    {
+      "id": 12008,
+      "sex": 0,
+      "resource": "res://assets/portraits/interview/northern-european-palace.png"
+    },
+    {
+      "id": 12009,
+      "sex": 0,
+      "resource": "res://assets/portraits/interview/northern-european-palace-french.png"
+    },
+    {
+      "id": 12010,
+      "sex": 0,
+      "resource": "res://assets/portraits/interview/northern-european-merchant.png"
+    },
+    {
+      "id": 12011,
+      "sex": 0,
+      "resource": "res://assets/portraits/interview/mediterranean-palace.png"
+    },
+    {
+      "id": 12012,
+      "sex": 0,
+      "resource": "res://assets/portraits/interview/mediterranean-residence.png"
+    },
+    {
+      "id": 12013,
+      "sex": 0,
+      "resource": "res://assets/portraits/interview/mediterranean-merchant.png"
+    },
+    {
+      "id": 12014,
+      "sex": 0,
+      "resource": "res://assets/portraits/interview/african-palace-songhay-painted-v2-matched.png"
+    },
+    {
+      "id": 12015,
+      "sex": 0,
+      "resource": "res://assets/portraits/interview/african-mosque-painted-v2-matched.png"
+    },
+    {
+      "id": 12016,
+      "sex": 0,
+      "resource": "res://assets/portraits/interview/african-palace-kongo-painted-v2-matched.png"
+    },
+    {
+      "id": 12017,
+      "sex": 0,
+      "resource": "res://assets/portraits/interview/near-eastern-palace-painted-v2-matched.png"
+    },
+    {
+      "id": 12018,
+      "sex": 0,
+      "resource": "res://assets/portraits/interview/near-eastern-residence-painted-v2-matched.png"
+    },
+    {
+      "id": 12019,
+      "sex": 0,
+      "resource": "res://assets/portraits/interview/near-eastern-mosque-painted-v2-matched.png"
+    },
+    {
+      "id": 12020,
+      "sex": 0,
+      "resource": "res://assets/portraits/interview/indian-palace-painted-v2-matched.png"
+    },
+    {
+      "id": 12021,
+      "sex": 0,
+      "resource": "res://assets/portraits/interview/indian-palace-gujarat-painted-v2-matched.png"
+    },
+    {
+      "id": 12022,
+      "sex": 0,
+      "resource": "res://assets/portraits/interview/indian-temple-painted-v2-matched.png"
+    },
+    {
+      "id": 12023,
+      "sex": 0,
+      "resource": "res://assets/portraits/interview/ming-chinese-palace-painted-v2-matched.png"
+    },
+    {
+      "id": 12024,
+      "sex": 0,
+      "resource": "res://assets/portraits/interview/ming-chinese-residence-painted-v2-matched.png"
+    },
+    {
+      "id": 12025,
+      "sex": 0,
+      "resource": "res://assets/portraits/interview/ming-chinese-temple-painted-v2-matched.png"
+    },
+    {
+      "id": 12026,
+      "sex": 0,
+      "resource": "res://assets/portraits/interview/central-asian-palace-painted-v2-matched.png"
+    },
+    {
+      "id": 12027,
+      "sex": 0,
+      "resource": "res://assets/portraits/interview/central-asian-audience-hall-painted-v2-matched.png"
+    },
+    {
+      "id": 12028,
+      "sex": 0,
+      "resource": "res://assets/portraits/interview/central-asian-shrine-painted-v2-matched.png"
+    },
+    {
+      "id": 12029,
+      "sex": 0,
+      "resource": "res://assets/portraits/interview/southeast-asian-palace-ayutthaya-painted-v2-matched.png"
+    },
+    {
+      "id": 12030,
+      "sex": 0,
+      "resource": "res://assets/portraits/interview/southeast-asian-palace-malacca-painted-v2-matched.png"
+    },
+    {
+      "id": 12031,
+      "sex": 0,
+      "resource": "res://assets/portraits/interview/southeast-asian-temple-painted-v2-matched.png"
+    },
+    {
+      "id": 12032,
+      "sex": 0,
+      "resource": "res://assets/portraits/interview/muromachi-japanese-palace-painted-v2-matched.png"
+    },
+    {
+      "id": 12033,
+      "sex": 0,
+      "resource": "res://assets/portraits/interview/muromachi-japanese-temple-kyoto-painted-v2-matched.png"
+    },
+    {
+      "id": 12034,
+      "sex": 0,
+      "resource": "res://assets/portraits/interview/muromachi-japanese-temple-sakai-painted-v2-matched.png"
+    },
+    {
+      "id": 12035,
+      "sex": 0,
+      "resource": "res://assets/portraits/interview/american-palace-mexica.png"
+    },
+    {
+      "id": 12036,
+      "sex": 0,
+      "resource": "res://assets/portraits/interview/american-palace-inka-painted-v2-matched.png"
+    },
+    {
+      "id": 12037,
+      "sex": 0,
+      "resource": "res://assets/portraits/interview/american-government-painted-v2-matched.png"
+    },
+    {
+      "id": 12038,
+      "sex": 0,
+      "resource": "res://assets/portraits/interview/joseon-hanyang-palace-painted-v2-matched.png"
+    },
+    {
+      "id": 12039,
+      "sex": 0,
+      "resource": "res://assets/portraits/interview/joseon-hanyang-prince-residence-painted-v2-matched.png"
+    },
+    {
+      "id": 12040,
+      "sex": 0,
+      "resource": "res://assets/portraits/interview/joseon-hanyang-temple-painted-v2-matched.png"
+    },
+    {
+      "id": 12041,
+      "sex": 0,
+      "resource": "res://assets/portraits/inspectors/iberian.png"
+    },
+    {
+      "id": 12042,
+      "sex": 0,
+      "resource": "res://assets/portraits/inspectors/northern-european.png"
+    },
+    {
+      "id": 12043,
+      "sex": 0,
+      "resource": "res://assets/portraits/inspectors/mediterranean.png"
+    },
+    {
+      "id": 12044,
+      "sex": 0,
+      "resource": "res://assets/portraits/inspectors/african.png"
+    },
+    {
+      "id": 12045,
+      "sex": 0,
+      "resource": "res://assets/portraits/inspectors/near-eastern.png"
+    },
+    {
+      "id": 12046,
+      "sex": 0,
+      "resource": "res://assets/portraits/inspectors/indian.png"
+    },
+    {
+      "id": 12047,
+      "sex": 0,
+      "resource": "res://assets/portraits/inspectors/chinese.png"
+    },
+    {
+      "id": 12048,
+      "sex": 0,
+      "resource": "res://assets/portraits/inspectors/central-asian.png"
+    },
+    {
+      "id": 12049,
+      "sex": 0,
+      "resource": "res://assets/portraits/inspectors/southeast-asian.png"
+    },
+    {
+      "id": 12050,
+      "sex": 0,
+      "resource": "res://assets/portraits/inspectors/japanese.png"
+    },
+    {
+      "id": 12051,
+      "sex": 0,
+      "resource": "res://assets/portraits/inspectors/american.png"
+    },
+    {
+      "id": 12052,
+      "sex": 0,
+      "resource": "res://assets/portraits/inspectors/joseon.png"
     }
   ]
 }

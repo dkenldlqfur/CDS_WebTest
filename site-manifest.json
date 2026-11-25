@@ -357,6 +357,11 @@
       "sha256": "82e34b827adfbae451671cb29a6c7d6caf2b826776c11ddfe7c116fcd8baff1f"
     },
     {
+      "path": "assets/data/records/inspector_names.json",
+      "size": 2261,
+      "sha256": "3a836bb0b8059d6b8873c947441948be26495addc59545caf867c11e846648a4"
+    },
+    {
       "path": "assets/data/records/items.json",
       "size": 78517,
       "sha256": "53c438349629f6b729ef2787c77e403dd9ccc47bbfc114eaeaa789dfb18e37ea"
@@ -378,8 +383,8 @@
     },
     {
       "path": "assets/data/records/person_portraits.json",
-      "size": 674,
-      "sha256": "79d9a823ca9bea1c86b95a0ba243a066d8bf4a6617715cfe0726fd66f9ad1a15"
+      "size": 7517,
+      "sha256": "628c8bf7f18d99bb1601872efe06103255423a512e0bec0c7fb25074eacacf09"
     },
     {
       "path": "assets/data/records/regional_goods.json",
@@ -1458,8 +1463,8 @@
     },
     {
       "path": "assets-fighter.pck",
-      "size": 15897056,
-      "sha256": "a1a0b6a238230734feceeb071e556fb70a59db35fce39c2bb13cfe562418c3e8"
+      "size": 16495824,
+      "sha256": "283db49f28b791c0422f8ed23c91dfdce49c8dbed3c9827b70c958e27f6e18ca"
     },
     {
       "path": "assets-fishing.pck",
@@ -1478,8 +1483,8 @@
     },
     {
       "path": "assets-manifest.json",
-      "size": 72042,
-      "sha256": "e830c15bbb1f25f59be444922f7940a009f69179944a2f2d5949dae8411d766a"
+      "size": 72328,
+      "sha256": "34a6b575921aa399252f8a68107435c2c29f468a6897bcaa8d8af202204e2068"
     },
     {
       "path": "assets-misc.pck",
@@ -1508,8 +1513,8 @@
     },
     {
       "path": "assets-portraits.pck",
-      "size": 23592848,
-      "sha256": "f3c01fc69a92db49a22325c26489587fa9cdc56e88c94dfe66408642550542e4"
+      "size": 28031920,
+      "sha256": "466a76c4fe30a74c5da461bc26d1566d018d88e0ffc5f7e5e007d815ef2f0949"
     },
     {
       "path": "assets-world-city.pck",
@@ -1523,13 +1528,13 @@
     },
     {
       "path": "build-version.json",
-      "size": 8990,
-      "sha256": "49b41bd0ffb24ca88883c1f5bb0ac1b7d264619bf9cd568bcde998277ed0e4cd"
+      "size": 8889,
+      "sha256": "0a9d6cb16d946078760e00137989c097c51c29f29ceaafe9b02440c998c603f1"
     },
     {
       "path": "cds_native.web.wasm",
-      "size": 10610594,
-      "sha256": "826a09ec882a492baa3196532496d4da6395402f6bf2dc073ddd3a109132d4e8"
+      "size": 10772693,
+      "sha256": "1e3d3763e1dac69aaf70c29608c6227cd37d70520ac339745fc1ca41e9bc3277"
     },
     {
       "path": "discovery-video-worker.js",
@@ -1538,13 +1543,13 @@
     },
     {
       "path": "game-data.pck",
-      "size": 16750548,
-      "sha256": "7a7c1b65c0748a685f8554d660876078f34f62101ac76349fc3408660d4c5cc5"
+      "size": 16761524,
+      "sha256": "271871b1d14c8966e88c96aeccf4b1cc1c603795ed2b53578f3c504802dc9f28"
     },
     {
       "path": "gameplay.pck",
-      "size": 2059692,
-      "sha256": "c0ecad0f055ff1ac0a52bf785f7ecaa8dcc9082a52c129d6fde62089af7e9edf"
+      "size": 2080564,
+      "sha256": "545d4633097549a8fc0fe13fb3e201a8b37eea8d16cd33da4af7b3f5a58a58c9"
     },
     {
       "path": "index.apple-touch-icon.png",
@@ -1563,8 +1568,8 @@
     },
     {
       "path": "index.html",
-      "size": 99227,
-      "sha256": "3861fc0015698c643562ba333cb841b956fc44233b2f6571f8d15cd760d3800e"
+      "size": 102273,
+      "sha256": "8f05afcadc8de8201c547c8ba88700285c22e11afeaa7c9f217cfcd29da7a1ae"
     },
     {
       "path": "index.icon.png",
@@ -1578,8 +1583,8 @@
     },
     {
       "path": "index.pck",
-      "size": 25918224,
-      "sha256": "b598f70c0001b41103ed2d3cd9daaf38ad287207e4cb5a6b77112974555c2731"
+      "size": 25940732,
+      "sha256": "70e4351f89a161916b4d590e317011111762bc09c3785015f686419ebce40327"
     },
     {
       "path": "index.png",
@@ -1668,8 +1673,8 @@
     },
     {
       "path": "mobile/assets-fighter.pck",
-      "size": 3042976,
-      "sha256": "32972f7179d7944fa9b7d4ed85acfddbcc12d9b02ea211d02ab96b51d6b0d46e"
+      "size": 3311824,
+      "sha256": "6b5f9c858aa293b1a8eebac26f4c1be71dd79e4d4b305af1cc490d5a5729b0b3"
     },
     {
       "path": "mobile/assets-item_images.pck",
@@ -1683,8 +1688,8 @@
     },
     {
       "path": "mobile/assets-portraits.pck",
-      "size": 5461296,
-      "sha256": "b64ebcfef1f63504a6b6d9b15b65ad1a28322a36f1418414d307440d20541371"
+      "size": 6354352,
+      "sha256": "8c5cc82cc552c2b0d456425bcf8981bdcd1ef818b4c200f0812c713bd409246a"
     },
     {
       "path": "puzzles.pck",

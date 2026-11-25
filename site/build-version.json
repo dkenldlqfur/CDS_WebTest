@@ -1,28 +1,25 @@
 {
-  "version": "1.4.1",
+  "version": "1.4.5",
   "channel": "web-test",
-  "built_at": "2026-11-24T03:32:48.778645+00:00",
-  "pck_sha256": "b598f70c0001b41103ed2d3cd9daaf38ad287207e4cb5a6b77112974555c2731",
-  "wasm_sha256": "826a09ec882a492baa3196532496d4da6395402f6bf2dc073ddd3a109132d4e8",
-  "source_commit": "59af47abbe99cca6c70bbe6e6459d35870413109",
-  "source_worktree_modified": true,
+  "built_at": "2026-11-25T04:32:37.829554+00:00",
+  "pck_sha256": "70e4351f89a161916b4d590e317011111762bc09c3785015f686419ebce40327",
   "packs": [
     {
       "url": "index.pck",
-      "size": 25918224,
-      "sha256": "b598f70c0001b41103ed2d3cd9daaf38ad287207e4cb5a6b77112974555c2731",
+      "size": 25940732,
+      "sha256": "70e4351f89a161916b4d590e317011111762bc09c3785015f686419ebce40327",
       "deferred": false
     },
     {
       "url": "gameplay.pck",
-      "size": 2059692,
-      "sha256": "c0ecad0f055ff1ac0a52bf785f7ecaa8dcc9082a52c129d6fde62089af7e9edf",
+      "size": 2080564,
+      "sha256": "545d4633097549a8fc0fe13fb3e201a8b37eea8d16cd33da4af7b3f5a58a58c9",
       "deferred": false
     },
     {
       "url": "game-data.pck",
-      "size": 16750548,
-      "sha256": "7a7c1b65c0748a685f8554d660876078f34f62101ac76349fc3408660d4c5cc5",
+      "size": 16761524,
+      "sha256": "271871b1d14c8966e88c96aeccf4b1cc1c603795ed2b53578f3c504802dc9f28",
       "deferred": false
     },
     {
@@ -172,13 +169,13 @@
     },
     {
       "url": "assets-fighter.pck",
-      "size": 15897056,
-      "sha256": "a1a0b6a238230734feceeb071e556fb70a59db35fce39c2bb13cfe562418c3e8",
+      "size": 16495824,
+      "sha256": "283db49f28b791c0422f8ed23c91dfdce49c8dbed3c9827b70c958e27f6e18ca",
       "deferred": false,
       "mobile": {
         "url": "mobile/assets-fighter.pck",
-        "size": 3042976,
-        "sha256": "32972f7179d7944fa9b7d4ed85acfddbcc12d9b02ea211d02ab96b51d6b0d46e"
+        "size": 3311824,
+        "sha256": "6b5f9c858aa293b1a8eebac26f4c1be71dd79e4d4b305af1cc490d5a5729b0b3"
       }
     },
     {
@@ -241,13 +238,13 @@
     },
     {
       "url": "assets-portraits.pck",
-      "size": 23592848,
-      "sha256": "f3c01fc69a92db49a22325c26489587fa9cdc56e88c94dfe66408642550542e4",
+      "size": 28031920,
+      "sha256": "466a76c4fe30a74c5da461bc26d1566d018d88e0ffc5f7e5e007d815ef2f0949",
       "deferred": false,
       "mobile": {
         "url": "mobile/assets-portraits.pck",
-        "size": 5461296,
-        "sha256": "b64ebcfef1f63504a6b6d9b15b65ad1a28322a36f1418414d307440d20541371"
+        "size": 6354352,
+        "sha256": "8c5cc82cc552c2b0d456425bcf8981bdcd1ef818b4c200f0812c713bd409246a"
       }
     },
     {
@@ -268,5 +265,6 @@
       "sha256": "a04933ecd7d5aa6c3cdd02c0522707ccf9b7be59eda4c9dbbc0fae3279861e2b",
       "deferred": true
     }
-  ]
+  ],
+  "wasm_sha256": "1e3d3763e1dac69aaf70c29608c6227cd37d70520ac339745fc1ca41e9bc3277"
 }
