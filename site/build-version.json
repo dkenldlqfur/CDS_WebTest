@@ -1,19 +1,19 @@
 {
   "version": "1.4.5",
   "channel": "web-test",
-  "built_at": "2026-11-25T04:32:37.829554+00:00",
-  "pck_sha256": "70e4351f89a161916b4d590e317011111762bc09c3785015f686419ebce40327",
+  "built_at": "2026-11-25T05:10:12.401412+00:00",
+  "pck_sha256": "882af27eb4c67713c5b9174285b55aaa77b8004e1b2b79d218d27d3df59dd595",
   "packs": [
     {
       "url": "index.pck",
-      "size": 25940732,
-      "sha256": "70e4351f89a161916b4d590e317011111762bc09c3785015f686419ebce40327",
+      "size": 25940828,
+      "sha256": "882af27eb4c67713c5b9174285b55aaa77b8004e1b2b79d218d27d3df59dd595",
       "deferred": false
     },
     {
       "url": "gameplay.pck",
-      "size": 2080564,
-      "sha256": "545d4633097549a8fc0fe13fb3e201a8b37eea8d16cd33da4af7b3f5a58a58c9",
+      "size": 2080644,
+      "sha256": "4a09b106103c00148bfaa2490caa30a57e6096f2ccd2835018c7b39eafb21347",
       "deferred": false
     },
     {
@@ -26,6 +26,30 @@
       "url": "assets-achievements.pck",
       "size": 216760,
       "sha256": "d55654469871641a6c8983596f1b9e72620d2e36564ca4299bbd4e4066b98871",
+      "deferred": false
+    },
+    {
+      "url": "assets-bgm.001.pck",
+      "size": 28664324,
+      "sha256": "a074c844b6a570a31316da843b41c479caa6f1c0ff7f53448c472b016027cb85",
+      "deferred": false
+    },
+    {
+      "url": "assets-bgm.002.pck",
+      "size": 32297348,
+      "sha256": "afb846be47c415d3b1d1f38f41022477b48f4bdcdf8a4d2cbf4467d396811aec",
+      "deferred": false
+    },
+    {
+      "url": "assets-bgm.003.pck",
+      "size": 33460484,
+      "sha256": "27e76d1933e33ecc186a3200e81fe33ba23c0cb3f6b2d1db2201ca86e423a6ca",
+      "deferred": false
+    },
+    {
+      "url": "assets-bgm.004.pck",
+      "size": 19594324,
+      "sha256": "20ea9f5604bc7b935257886cb8a8613e7ea42b903aea00c58c6630a65d7ff185",
       "deferred": false
     },
     {
@@ -248,6 +272,12 @@
       }
     },
     {
+      "url": "assets-sfx.pck",
+      "size": 2922740,
+      "sha256": "2f2a51a1b8af160f55e2f5d4da01f206a8d37997cad38533e09fc650f27b0ae2",
+      "deferred": false
+    },
+    {
       "url": "assets-world-city.pck",
       "size": 14808,
       "sha256": "3df3fab81fb69502ed01e16b42269ab3ac85235896771e542ad5584c11e95cc4",
@@ -266,5 +296,5 @@
       "deferred": true
     }
   ],
-  "wasm_sha256": "1e3d3763e1dac69aaf70c29608c6227cd37d70520ac339745fc1ca41e9bc3277"
+  "wasm_sha256": "510f3e0c95b2aeb0e98656709c6ca45f07fd9d9329c5d30bb810e26bd580ff67"
 }
