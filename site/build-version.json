@@ -1,25 +1,26 @@
 {
   "version": "1.4.5",
   "channel": "web-test",
-  "built_at": "2026-11-25T05:30:37.822474+00:00",
-  "pck_sha256": "882af27eb4c67713c5b9174285b55aaa77b8004e1b2b79d218d27d3df59dd595",
+  "built_at": "2026-11-25T07:04:33.535792+00:00",
+  "pck_sha256": "9b09084ec6457813d3c0e7c16f6c55d5f02658b15f4df8a41bbf4d67ff474979",
+  "wasm_sha256": "f1797aebd5f0127642ae3e8eadc48fd4772b5a9b29ec4d8dbc169223fa767516",
   "packs": [
     {
       "url": "index.pck",
-      "size": 25940828,
-      "sha256": "882af27eb4c67713c5b9174285b55aaa77b8004e1b2b79d218d27d3df59dd595",
+      "size": 23529052,
+      "sha256": "9b09084ec6457813d3c0e7c16f6c55d5f02658b15f4df8a41bbf4d67ff474979",
       "deferred": false
     },
     {
       "url": "gameplay.pck",
-      "size": 2081428,
-      "sha256": "1e14cda18a2c96d6b845446b2fe71a83a523ac0feb19a3f0a565489b00095ac7",
+      "size": 2086628,
+      "sha256": "975576f06f76db6b8cdda43e4b91c8aadc371779b93085b3bbdc749580eaa2f7",
       "deferred": false
     },
     {
       "url": "game-data.pck",
-      "size": 16761524,
-      "sha256": "271871b1d14c8966e88c96aeccf4b1cc1c603795ed2b53578f3c504802dc9f28",
+      "size": 11118100,
+      "sha256": "810a6def253d19e3aad15fe3179b23d10e3ee1f83ba1b438c872a33270974c0a",
       "deferred": false
     },
     {
@@ -164,21 +165,15 @@
       }
     },
     {
-      "url": "assets-evanime.001.pck",
-      "size": 23085784,
-      "sha256": "404b59883b3dca9ebf7868a1df8b43ae1114546bbe7a981304010a06c7bc1900",
+      "url": "assets-evanime.pck",
+      "size": 25592024,
+      "sha256": "47098df177e4a64fcb3ee3a3b49cc5bc419cbbc7406dc6e296b8d0e06ca00adf",
       "deferred": false,
       "mobile": {
-        "url": "mobile/assets-evanime.001.pck",
-        "size": 7036952,
-        "sha256": "99399894b6b1a007af406765e9a0234c3af16025bb4450ce2e22e3a39d359212"
+        "url": "mobile/assets-evanime.pck",
+        "size": 9543192,
+        "sha256": "9d00696b3f10fc554c31f72b3d7be675a198b1b6209da9764ffe4ea97146fcfa"
       }
-    },
-    {
-      "url": "assets-evanime.002.pck",
-      "size": 15417444,
-      "sha256": "4aeeb3c1b02d6adbef15f28ce7a28f9812b2066f8fa221948dad464c9474167b",
-      "deferred": false
     },
     {
       "url": "assets-evstill.pck",
@@ -198,8 +193,8 @@
       "deferred": false,
       "mobile": {
         "url": "mobile/assets-fighter.pck",
-        "size": 3311824,
-        "sha256": "6b5f9c858aa293b1a8eebac26f4c1be71dd79e4d4b305af1cc490d5a5729b0b3"
+        "size": 2072944,
+        "sha256": "c730bc8a181fecbd577728e69a31d5a059c3ada3d78f8554bf34f0ac3d45fd1c"
       }
     },
     {
@@ -232,26 +227,20 @@
       "deferred": false
     },
     {
-      "url": "assets-mpcg.001.pck",
-      "size": 30146284,
-      "sha256": "0e01ae87802507bc10db80c81784f1485c9b1fcc39729e77239df5d11416cdaa",
+      "url": "assets-mpcg.pck",
+      "size": 31171376,
+      "sha256": "ce0fcca64bfa6a06f5f8a873c6a437058dc7a2ed7efa0e93a6f86ae79217347b",
       "deferred": false,
       "mobile": {
-        "url": "mobile/assets-mpcg.001.pck",
-        "size": 9152956,
-        "sha256": "2c23fa5daa75dfdee6d1188abf0cd4f4df1855ea51b4ebef7506678c6666a8c6"
+        "url": "mobile/assets-mpcg.pck",
+        "size": 5750592,
+        "sha256": "dfa5747632096cbeebabc799d481c449457271dce14ee85ce68a1a7bbba7512d"
       }
     },
     {
-      "url": "assets-mpcg.002.pck",
-      "size": 7460456,
-      "sha256": "45844f3adb673803ab19504dba7a0add276e538c17907d42c63ee5cbb280c5ee",
-      "deferred": false
-    },
-    {
       "url": "assets-mpeffect.pck",
-      "size": 1296832,
-      "sha256": "c7e20a03f4afe9d3252ea595bbc66cd5e0bdb95fe878c9018e934a0004b476fa",
+      "size": 759232,
+      "sha256": "d7fcd798a83e13bd7f7cca2cf45ec363b5096ee8d6c701ab2b76a513c654eeb5",
       "deferred": false
     },
     {
@@ -295,6 +284,5 @@
       "sha256": "a04933ecd7d5aa6c3cdd02c0522707ccf9b7be59eda4c9dbbc0fae3279861e2b",
       "deferred": true
     }
-  ],
-  "wasm_sha256": "510f3e0c95b2aeb0e98656709c6ca45f07fd9d9329c5d30bb810e26bd580ff67"
+  ]
 }

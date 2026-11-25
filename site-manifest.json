@@ -1077,14 +1077,9 @@
       "sha256": "81ea664790bef3fcbface79c8af6e32487471554bcda02523e6527c5638e3812"
     },
     {
-      "path": "assets-evanime.001.pck",
-      "size": 23085784,
-      "sha256": "404b59883b3dca9ebf7868a1df8b43ae1114546bbe7a981304010a06c7bc1900"
-    },
-    {
-      "path": "assets-evanime.002.pck",
-      "size": 15417444,
-      "sha256": "4aeeb3c1b02d6adbef15f28ce7a28f9812b2066f8fa221948dad464c9474167b"
+      "path": "assets-evanime.pck",
+      "size": 25592024,
+      "sha256": "47098df177e4a64fcb3ee3a3b49cc5bc419cbbc7406dc6e296b8d0e06ca00adf"
     },
     {
       "path": "assets-evstill.pck",
@@ -1113,8 +1108,8 @@
     },
     {
       "path": "assets-manifest.json",
-      "size": 53620,
-      "sha256": "44b04b7fb93cf55fde596b2dcb8c7ef1cc704906d60e9e3701c5e477edf05090"
+      "size": 53227,
+      "sha256": "697bf17517e4638818dce60f9aa3462ede2580c4df61c272e5a1f712fbbb736e"
     },
     {
       "path": "assets-misc.pck",
@@ -1122,19 +1117,14 @@
       "sha256": "f76f883bcfe8e384b09219bf812e4b6d8705df9c6f16d478fe36e1c03be7b995"
     },
     {
-      "path": "assets-mpcg.001.pck",
-      "size": 30146284,
-      "sha256": "0e01ae87802507bc10db80c81784f1485c9b1fcc39729e77239df5d11416cdaa"
-    },
-    {
-      "path": "assets-mpcg.002.pck",
-      "size": 7460456,
-      "sha256": "45844f3adb673803ab19504dba7a0add276e538c17907d42c63ee5cbb280c5ee"
+      "path": "assets-mpcg.pck",
+      "size": 31171376,
+      "sha256": "ce0fcca64bfa6a06f5f8a873c6a437058dc7a2ed7efa0e93a6f86ae79217347b"
     },
     {
       "path": "assets-mpeffect.pck",
-      "size": 1296832,
-      "sha256": "c7e20a03f4afe9d3252ea595bbc66cd5e0bdb95fe878c9018e934a0004b476fa"
+      "size": 759232,
+      "sha256": "d7fcd798a83e13bd7f7cca2cf45ec363b5096ee8d6c701ab2b76a513c654eeb5"
     },
     {
       "path": "assets-openbook.pck",
@@ -1163,13 +1153,13 @@
     },
     {
       "path": "build-version.json",
-      "size": 9814,
-      "sha256": "60d9e9fff4f3dc463496916d784fa8bb696cc7be5e8cd2e26a73094273045683"
+      "size": 9421,
+      "sha256": "6011c2d1e77e14c9f76e542954a3c27f4c49c4f7a2a4ea99f55a0dca6933bdb1"
     },
     {
       "path": "cds_native.web.wasm",
-      "size": 10768609,
-      "sha256": "510f3e0c95b2aeb0e98656709c6ca45f07fd9d9329c5d30bb810e26bd580ff67"
+      "size": 10772241,
+      "sha256": "f1797aebd5f0127642ae3e8eadc48fd4772b5a9b29ec4d8dbc169223fa767516"
     },
     {
       "path": "discovery-video-worker.js",
@@ -1178,13 +1168,13 @@
     },
     {
       "path": "game-data.pck",
-      "size": 16761524,
-      "sha256": "271871b1d14c8966e88c96aeccf4b1cc1c603795ed2b53578f3c504802dc9f28"
+      "size": 11118100,
+      "sha256": "810a6def253d19e3aad15fe3179b23d10e3ee1f83ba1b438c872a33270974c0a"
     },
     {
       "path": "gameplay.pck",
-      "size": 2081428,
-      "sha256": "1e14cda18a2c96d6b845446b2fe71a83a523ac0feb19a3f0a565489b00095ac7"
+      "size": 2086628,
+      "sha256": "975576f06f76db6b8cdda43e4b91c8aadc371779b93085b3bbdc749580eaa2f7"
     },
     {
       "path": "index.apple-touch-icon.png",
@@ -1203,8 +1193,8 @@
     },
     {
       "path": "index.html",
-      "size": 89636,
-      "sha256": "0598a1501ea0320239f703c1144af1289cefbc0568661f9b4348a32533c7ff19"
+      "size": 90007,
+      "sha256": "af817d90eb7d7a35cfe0fe52668136b64991ab4b031b7c759679445a0ca608a6"
     },
     {
       "path": "index.icon.png",
@@ -1218,8 +1208,8 @@
     },
     {
       "path": "index.pck",
-      "size": 25940828,
-      "sha256": "882af27eb4c67713c5b9174285b55aaa77b8004e1b2b79d218d27d3df59dd595"
+      "size": 23529052,
+      "sha256": "9b09084ec6457813d3c0e7c16f6c55d5f02658b15f4df8a41bbf4d67ff474979"
     },
     {
       "path": "index.png",
@@ -1297,9 +1287,9 @@
       "sha256": "450b8eba2022efcfac9bf6efe9bafcf9d6e921055efe303b6c324161646fe3e3"
     },
     {
-      "path": "mobile/assets-evanime.001.pck",
-      "size": 7036952,
-      "sha256": "99399894b6b1a007af406765e9a0234c3af16025bb4450ce2e22e3a39d359212"
+      "path": "mobile/assets-evanime.pck",
+      "size": 9543192,
+      "sha256": "9d00696b3f10fc554c31f72b3d7be675a198b1b6209da9764ffe4ea97146fcfa"
     },
     {
       "path": "mobile/assets-evstill.pck",
@@ -1308,8 +1298,8 @@
     },
     {
       "path": "mobile/assets-fighter.pck",
-      "size": 3311824,
-      "sha256": "6b5f9c858aa293b1a8eebac26f4c1be71dd79e4d4b305af1cc490d5a5729b0b3"
+      "size": 2072944,
+      "sha256": "c730bc8a181fecbd577728e69a31d5a059c3ada3d78f8554bf34f0ac3d45fd1c"
     },
     {
       "path": "mobile/assets-item_images.pck",
@@ -1317,9 +1307,9 @@
       "sha256": "e59cc44492f37d62384b2e6bc83523023b85634beec044857a1d9c4779fa0d22"
     },
     {
-      "path": "mobile/assets-mpcg.001.pck",
-      "size": 9152956,
-      "sha256": "2c23fa5daa75dfdee6d1188abf0cd4f4df1855ea51b4ebef7506678c6666a8c6"
+      "path": "mobile/assets-mpcg.pck",
+      "size": 5750592,
+      "sha256": "dfa5747632096cbeebabc799d481c449457271dce14ee85ce68a1a7bbba7512d"
     },
     {
       "path": "mobile/assets-portraits.pck",
