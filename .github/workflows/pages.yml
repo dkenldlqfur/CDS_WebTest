@@ -82,7 +82,7 @@ jobs:
               throw new Error('The Pages artifact does not belong to this commit');
             }
             const created = await github.request('POST /repos/{owner}/{repo}/pages/deployments', {
-              ...repo, artifact_id: artifactId, pages_build_version: context.sha,
+              ...repo, artifact_id: Number(artifactId), pages_build_version: context.sha,
               oidc_token: await core.getIDToken()
             });
             const deploymentId = created.data.id || created.data.status_url?.split('/').pop() || context.sha;
