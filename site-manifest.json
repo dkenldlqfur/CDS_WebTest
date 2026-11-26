@@ -1109,7 +1109,7 @@
     {
       "path": "assets-manifest.json",
       "size": 53227,
-      "sha256": "697bf17517e4638818dce60f9aa3462ede2580c4df61c272e5a1f712fbbb736e"
+      "sha256": "6e29343bcaf42b810d39832c262a4e9a7dbee823d38deba740d1696418d4457a"
     },
     {
       "path": "assets-misc.pck",
@@ -1153,13 +1153,13 @@
     },
     {
       "path": "build-version.json",
-      "size": 9421,
-      "sha256": "6011c2d1e77e14c9f76e542954a3c27f4c49c4f7a2a4ea99f55a0dca6933bdb1"
+      "size": 9521,
+      "sha256": "862e39fdd6e2223b19869051547112f1b54f0c1bd09eab26324f1a43835cf59f"
     },
     {
       "path": "cds_native.web.wasm",
-      "size": 10772241,
-      "sha256": "f1797aebd5f0127642ae3e8eadc48fd4772b5a9b29ec4d8dbc169223fa767516"
+      "size": 10773930,
+      "sha256": "bbbe8ce27a372c36006522e17b8dbf3555573ab2acd0ad8f7440c5a41f595e94"
     },
     {
       "path": "discovery-video-worker.js",
@@ -1169,12 +1169,12 @@
     {
       "path": "game-data.pck",
       "size": 11118100,
-      "sha256": "810a6def253d19e3aad15fe3179b23d10e3ee1f83ba1b438c872a33270974c0a"
+      "sha256": "94f2525fb9ed293b0c12aa1d7e13dc032bb09fc498d0e501598abf8ceb359977"
     },
     {
       "path": "gameplay.pck",
-      "size": 2086628,
-      "sha256": "975576f06f76db6b8cdda43e4b91c8aadc371779b93085b3bbdc749580eaa2f7"
+      "size": 2096444,
+      "sha256": "6bada9d29097053524f5dcfd2e3108be7fa0379aa77e924d1ede7bc8e5ff7582"
     },
     {
       "path": "index.apple-touch-icon.png",
@@ -1193,8 +1193,8 @@
     },
     {
       "path": "index.html",
-      "size": 90007,
-      "sha256": "af817d90eb7d7a35cfe0fe52668136b64991ab4b031b7c759679445a0ca608a6"
+      "size": 90869,
+      "sha256": "64d4893539a9211b1e0920cbd923d4e103aa5103d89f1fb58f011c5c2a6c0091"
     },
     {
       "path": "index.icon.png",
@@ -1208,8 +1208,8 @@
     },
     {
       "path": "index.pck",
-      "size": 23529052,
-      "sha256": "9b09084ec6457813d3c0e7c16f6c55d5f02658b15f4df8a41bbf4d67ff474979"
+      "size": 23529868,
+      "sha256": "47a3e0483cd015d84aa6ef0f4e6f0df9c83af896e4a056eef4f2aec9b3b9f7d2"
     },
     {
       "path": "index.png",
