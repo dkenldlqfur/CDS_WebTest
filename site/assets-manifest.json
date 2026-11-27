@@ -1368,20 +1368,20 @@
   "packs": [
     {
       "url": "index.pck",
-      "size": 23532844,
-      "sha256": "85fc1e7d3942791c9aa434e9887a9a11a7cfcd7747466ac3a3fd354ce2e2d23c",
+      "size": 23534716,
+      "sha256": "e143de6157c0c370e72b7f75541b9466c873e7590ca8592577edf78d93c19a6c",
       "deferred": false
     },
     {
       "url": "gameplay.pck",
-      "size": 2126108,
-      "sha256": "ca0209571a68b61848fbeafcb018ad031342c09431bb118c395223ef1e403f38",
+      "size": 2166132,
+      "sha256": "d8867e0920aa31fba201949f862abc667e1f63a877816eacc7d869d89db8c556",
       "deferred": false
     },
     {
       "url": "game-data.pck",
-      "size": 11118100,
-      "sha256": "94f2525fb9ed293b0c12aa1d7e13dc032bb09fc498d0e501598abf8ceb359977",
+      "size": 11118116,
+      "sha256": "dbf0f9fbfbd5efea272496b15781c3095bce5fbb7287dc08cfb195bbb35ab07e",
       "deferred": false
     },
     {

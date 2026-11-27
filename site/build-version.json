@@ -1,29 +1,33 @@
 {
-  "version": "1.4.9",
+  "version": "1.4.11",
   "channel": "web-test",
-  "built_at": "2026-11-26T09:09:31.536960+00:00",
+  "built_at": "2026-11-27T05:01:52.299625+00:00",
+  "prepared_at": "2026-11-27T05:02:02.910792+00:00",
   "source_branch": "world-preset",
-  "source_commit": "e937343bcc2aa7953d80b026e1260a6694323fff",
-  "source_worktree_sha256": "0dabf633d509e4607959815ddb08988a62d647db3e0f97bd7af5482d0e5628ad",
-  "pck_sha256": "85fc1e7d3942791c9aa434e9887a9a11a7cfcd7747466ac3a3fd354ce2e2d23c",
-  "wasm_sha256": "7dc795003e4e5d731f46be327b5a042c096f80d5334827850dc1a3a1c7db145f",
+  "source_commit": "7a15eb393eb835a6a92871dbe0cd24d0daf48fcd",
+  "source_worktree_dirty": true,
+  "source_worktree_sha256": "b4aa84dfa94a90a8f1aab61221f53d0d56f09f78ac205f2d7cf5aed142d7db21",
+  "source_file_count": 2060,
+  "pck_sha256": "e143de6157c0c370e72b7f75541b9466c873e7590ca8592577edf78d93c19a6c",
+  "wasm_sha256": "014bf949ac56809ccf9f153f4c9ef3f3ea9122774dac9e5e24e3acfe6c15e082",
+  "native_sha256": "014bf949ac56809ccf9f153f4c9ef3f3ea9122774dac9e5e24e3acfe6c15e082",
   "packs": [
     {
       "url": "index.pck",
-      "size": 23532844,
-      "sha256": "85fc1e7d3942791c9aa434e9887a9a11a7cfcd7747466ac3a3fd354ce2e2d23c",
+      "size": 23534716,
+      "sha256": "e143de6157c0c370e72b7f75541b9466c873e7590ca8592577edf78d93c19a6c",
       "deferred": false
     },
     {
       "url": "gameplay.pck",
-      "size": 2126108,
-      "sha256": "ca0209571a68b61848fbeafcb018ad031342c09431bb118c395223ef1e403f38",
+      "size": 2166132,
+      "sha256": "d8867e0920aa31fba201949f862abc667e1f63a877816eacc7d869d89db8c556",
       "deferred": false
     },
     {
       "url": "game-data.pck",
-      "size": 11118100,
-      "sha256": "94f2525fb9ed293b0c12aa1d7e13dc032bb09fc498d0e501598abf8ceb359977",
+      "size": 11118116,
+      "sha256": "dbf0f9fbfbd5efea272496b15781c3095bce5fbb7287dc08cfb195bbb35ab07e",
       "deferred": false
     },
     {
@@ -287,5 +291,11 @@
       "sha256": "a04933ecd7d5aa6c3cdd02c0522707ccf9b7be59eda4c9dbbc0fae3279861e2b",
       "deferred": true
     }
+  ],
+  "gameplay_executed": false,
+  "changes": [
+    "preset-content-membership-and-picker-fixes",
+    "environment-per-preset",
+    "story-events-independent-of-presets"
   ]
 }

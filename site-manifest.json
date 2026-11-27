@@ -1109,7 +1109,7 @@
     {
       "path": "assets-manifest.json",
       "size": 53227,
-      "sha256": "63aa0ff2f918baf18e2eaacefe525c0ae2ca23c266353eabaa9453a0092da3a7"
+      "sha256": "5579f0d02aa45e785ea557026bc96bce7a23f58a6efa8cf9261d75ead879d4fb"
     },
     {
       "path": "assets-misc.pck",
@@ -1153,13 +1153,13 @@
     },
     {
       "path": "build-version.json",
-      "size": 9618,
-      "sha256": "3c5afe73d5487e2dafd1b8c7668547a08e6e3f979c15a5ed68e0841ea6f53085"
+      "size": 10003,
+      "sha256": "3deb93bab8015c46b9c8acad8408fadf1b8a3de006c9ba7b32d84f899286c122"
     },
     {
       "path": "cds_native.web.wasm",
-      "size": 10820599,
-      "sha256": "7dc795003e4e5d731f46be327b5a042c096f80d5334827850dc1a3a1c7db145f"
+      "size": 10837402,
+      "sha256": "014bf949ac56809ccf9f153f4c9ef3f3ea9122774dac9e5e24e3acfe6c15e082"
     },
     {
       "path": "discovery-video-worker.js",
@@ -1168,13 +1168,13 @@
     },
     {
       "path": "game-data.pck",
-      "size": 11118100,
-      "sha256": "94f2525fb9ed293b0c12aa1d7e13dc032bb09fc498d0e501598abf8ceb359977"
+      "size": 11118116,
+      "sha256": "dbf0f9fbfbd5efea272496b15781c3095bce5fbb7287dc08cfb195bbb35ab07e"
     },
     {
       "path": "gameplay.pck",
-      "size": 2126108,
-      "sha256": "ca0209571a68b61848fbeafcb018ad031342c09431bb118c395223ef1e403f38"
+      "size": 2166132,
+      "sha256": "d8867e0920aa31fba201949f862abc667e1f63a877816eacc7d869d89db8c556"
     },
     {
       "path": "index.apple-touch-icon.png",
@@ -1193,8 +1193,8 @@
     },
     {
       "path": "index.html",
-      "size": 90869,
-      "sha256": "77bc11fa8593999cd18fd19115ed7d6a7c60ca51104b9586363806a06b482e8b"
+      "size": 91520,
+      "sha256": "9a4cb60981e42d49bf6879b2ef5078ef6dd569abfa98228d9b40e9139453dbe8"
     },
     {
       "path": "index.icon.png",
@@ -1208,8 +1208,8 @@
     },
     {
       "path": "index.pck",
-      "size": 23532844,
-      "sha256": "85fc1e7d3942791c9aa434e9887a9a11a7cfcd7747466ac3a3fd354ce2e2d23c"
+      "size": 23534716,
+      "sha256": "e143de6157c0c370e72b7f75541b9466c873e7590ca8592577edf78d93c19a6c"
     },
     {
       "path": "index.png",
